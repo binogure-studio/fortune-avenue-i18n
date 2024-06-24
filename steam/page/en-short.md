@@ -1,0 +1,1 @@
+Fortune Avenue is an exciting multiplayer board game. Buy properties, build hotels and build monopolies across continents. Or ruin your opponents! 🎲 🏨

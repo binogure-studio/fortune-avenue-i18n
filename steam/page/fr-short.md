@@ -1,0 +1,1 @@
+Fortune Avenue est un jeu de plateau multijoueur captivant. Achetez des propriétés, construisez des hôtels et faites des monopoles au travers des continents. Ou alors ruinez vos adversaires! 🎲 🏨
