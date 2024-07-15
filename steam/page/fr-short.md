@@ -1,1 +1,1 @@
-Fortune Avenue est un jeu de plateau multijoueur captivant. Achetez des propriétés, construisez des hôtels et faites des monopoles au travers des continents. Ou alors ruinez vos adversaires! 🎲 🏨
+Découvrez la magie de Fortune Avenue, un jeu de monopoly en 3D revisité. Voyagez via l'aéroport, éviter la fonte des glaces et lancez la Roue de la Fortune. Votez pour de nouvelles règles qui bouleversent le jeu et éliminez vos adversaires pour gagner des bonus. Un jeu rapide et amusant ! 🎲 🏨

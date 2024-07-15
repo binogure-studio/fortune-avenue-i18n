@@ -49,6 +49,32 @@ en:
   TOOLTIP_CARD_NO_RENT: |
     The bank collects the next rent on your behalf.
 
+  LABEL_LOCAL_PLAYER_LOST_TITLE: You've lost!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    You couldn't pay {killer_name}, you're {ps}BANKRUPT{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    You couldn't pay {ps}the bank{pe}, you're {ps}BANKRUPT{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    After an incredible chase, {ps}the helicopter{pe} finally caught you!
+
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name}'s lost!"
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} couldn't pay {killer_name}, {name} is {ps}BANKRUPT{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} couldn't pay {ps}the bank{pe}, {name} is {ps}BANKRUPT{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    After an incredible chase, {ps}the helicopter{pe} finally caught {name}!
+  
+  LABEL_PLAYER_WON_TITLE: "{name} won the game!"
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} has just made a {ws}{rs}MONOPOLY{re}{we}!
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} is the {ps}last player standing{pe}!
+
+  LABEL_TURN_BEFORE_ELIMINATION: "%s turn(s) before elimination"
+  LABEL_NO_SIGNAL: No signal
+  LABEL_TURN: Turn
+  LABEL_PROGRESS_NEXT_VOTE: Next vote
   LABEL_LEAVE_GAME_TITLE: |
     Leaving Fortune Avenue
   LABEL_LEAVE_GAME_DESCRIPTION: |
@@ -99,10 +125,13 @@ en:
 
   LABEL_LAPS: Lap(s)
   LABEL_PLAYER_WAITING: Wait
+  LABEL_PLAYER_MOVING_TOKEN: Move pawn
   LABEL_PLAYER_END_OF_TURN: End of turn
   LABEL_PLAYER_THROWING_DICE: Throw the dice
   LABEL_PLAYER_PLAYING_CASE: Play the square
-  LABEL_PLAYER_PLAYING_CARD: Plays a card
+  LABEL_PLAYER_PLAYING_CARD: Play a card
+  LABEL_PLAYER_SELL_PROPERTY: Sell properties
+  LABEL_PLAYER_ROLL_WHEEL: Roll wheel
   LABEL_PLAYER_BANKRUPT: Bankruptcy
   LABEL_PLAYER_MONOPOLY: Monopoly
 
@@ -126,6 +155,19 @@ en:
   LABEL_1_HOSTEL: Grand hotel
 
   LABEL_TOO_EXPENSIVE: You don't have enough money to buy that.
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: A luxury cruise!
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    You've reached the North Pole! There's no ice left on the horizon!
+    A [b]luxury cruise[/b] soon picks you up and takes you aboard.
+
+    You take the opportunity to have a good time.
+    Of course, this is not free and will cost [b]$%s[/b].
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    Vacation is so much fun.
+    The [b]luxury cruise[/b] approaches a port and lets you get on with your life.
+
+    You pay [b]$%s[/b], and disembark immediately.
+    If you have a [b]Escape from the Ice Floe[/b] card, now's the time to play it.
   LABEL_PLAYER_ICEPACKED: You're stuck on an ice pack
   LABEL_ICEPACKING_ANNOUNCE: |
     On your journey, you'll wander around, surrounded by ice, just ice.
@@ -136,7 +178,7 @@ en:
   LABEL_ICEPACKED_ANNOUNCE: |
     [b]You're trapped in an ice floe[/b], that's really bad luck.
 
-    To escape you can try [b]to make a double[/b]. Or you can choose to pay [b]$%s[/b], and you'll get out on the next turn.
+    To escape you can try [b]to make a double[/b]. Or you can choose to pay [b]$%s[/b], and you get out right now.
     If you have an [b]Escape from the ice pack[/b] card, now is the time to play it.
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     You've been here too long, you can't wait any longer.

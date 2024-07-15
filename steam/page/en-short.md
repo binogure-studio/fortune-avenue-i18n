@@ -1,1 +1,1 @@
-Fortune Avenue is an exciting multiplayer board game. Buy properties, build hotels and build monopolies across continents. Or ruin your opponents! 🎲 🏨
+Experience the excitement of Fortune Avenue, a 3D monopoly game reimagined. Travel via airport, avoid melting ice floes, and spin the Wheel of Fortune. Vote on new game-changing rules and eliminate opponents for bonuses. Fast-paced, and endlessly fun! 🎲 🏨

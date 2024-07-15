@@ -49,6 +49,32 @@ fr:
   TOOLTIP_CARD_NO_RENT: |
     La banque touche le prochain loyer a votre place.
 
+  LABEL_LOCAL_PLAYER_LOST_TITLE: Vous avez perdu!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    Vous n'avez pas pu payer {killer_name}, vous êtes en {ps}BANQUEROUTE{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    Vous n'avez pas pu payer {ps}la banque{pe}, vous êtes en {ps}BANQUEROUTE{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Après une course poursuite incroyable, {ps}l'hélicoptère{pe} a eu raison de vous!
+
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} a perdu!"
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} n'a pas pu payer {killer_name}, {name} est en {ps}BANQUEROUTE{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} n'a pas pu payer {ps}la banque{pe}, {name} est en {ps}BANQUEROUTE{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Après une course poursuite incroyable, {ps}l'hélicoptère{pe} a eu raison de {name}!
+  
+  LABEL_PLAYER_WON_TITLE: "{name} vient de gagner la partie!"
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} a fait un {ps}MONOPOLY{pe}!
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} est le {ps}dernier joueur encore debout{pe}!
+
+  LABEL_TURN_BEFORE_ELIMINATION: "%s tour(s) avant élimination"
+  LABEL_NO_SIGNAL: Aucun signal
+  LABEL_TURN: Tour
+  LABEL_PROGRESS_NEXT_VOTE: Prochain vote
   LABEL_LEAVE_GAME_TITLE: |
     Quitter Fortune Avenue
   LABEL_LEAVE_GAME_DESCRIPTION: |
@@ -99,10 +125,13 @@ fr:
 
   LABEL_LAPS: Lap(s)
   LABEL_PLAYER_WAITING: Attend
+  LABEL_PLAYER_MOVING_TOKEN: Se déplace
   LABEL_PLAYER_END_OF_TURN: Fin du tour
   LABEL_PLAYER_THROWING_DICE: Lance les dés
   LABEL_PLAYER_PLAYING_CASE: Joue la case
   LABEL_PLAYER_PLAYING_CARD: Joue une carte
+  LABEL_PLAYER_SELL_PROPERTY: Vend ses propriétés
+  LABEL_PLAYER_ROLL_WHEEL: Lance la roue
   LABEL_PLAYER_BANKRUPT: Banqueroute
   LABEL_PLAYER_MONOPOLY: Monopoly
 
@@ -126,6 +155,19 @@ fr:
   LABEL_1_HOSTEL: Grand hôtel
 
   LABEL_TOO_EXPENSIVE: Vous n'avez pas assez d'argent pour acheter ça.
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: Une croisière de luxe!
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    Vous voilà au pôle nord! Il n'y a plus aucune glace à l'horizon!
+    Rapidement une [b]croisière de luxe[/b] vous récupère et vous fait embarquer en son bord.
+
+    Vous en profitez pour prendre du bon temps.
+    Évidemment cela n'est pas gratuit et va coûter [b]$%s[/b].
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    Qu'est qu'on est bien en vacances.
+    La [b]croisière de luxe[/b] s;approche d'un port et vous permet de reprendre le cours de votre vie.
+
+    Vous devez payer [b]$%s[/b], et vous débarquez immédiatement.
+    Si vous avez une carte [b]Échappez-vous de la banquise[/b], c'est le moment de la jouer.
   LABEL_PLAYER_ICEPACKED: Vous êtes bloqués sur la banquise
   LABEL_ICEPACKING_ANNOUNCE: |
     Lors de votre voyage vous vous égarez. Autour de vous, il y a de la glace, uniquement de la glace.
@@ -137,7 +179,7 @@ fr:
     [b]Vous êtes prisonnier de la banquise[/b], c'est vraiment pas de chance.
 
     Pour vous échapper vous pouvez tenter de [b]faire un double[/b].
-    Ou alors vous pouvez choisir de payer [b]$%s[/b], et vous sortirez au prochain tour.
+    Ou alors vous pouvez choisir de payer [b]$%s[/b], et vous sortez immédiatement.
     Si vous avez une carte [b]Échappez-vous de la banquise[/b], c'est le moment de la jouer.
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     Cela fait trop longtemps que vous êtes là, vous n'en pouvez plus d'attendre.
