@@ -16,7 +16,12 @@ fr:
   BUTTON_REFRESH: Rafraichir
   BUTTON_INVITE: Inviter
   BUTTON_MAIN_MENU: Menu principal
-  BUTTON_READY: Prêt
+  BUTTON_KEEP_WATCHING: Continuer de regarder
+
+  BUTTON_READY: Prêt !
+  BUTTON_START_PLAYING: Jouer !
+  BUTTON_LOOK_FOR_PLAYER: Chercher des adversaires
+
   BUTTON_OK : Ok
   BUTTON_BUY: Acheter
   BUTTON_REFUSE_TICKET: Refuser
@@ -33,7 +38,136 @@ fr:
   BUTTON_CANCEL: Annuler
   BUTTON_LEAVE_GAME_CONFIRM: Oui, je veux partir
   BUTTON_LEAVE_GAME_CANCEL: Non, je veux rester
+  BUTTON_WISHLIST: Ajouter à la liste de souhaits
+  BUTTON_FEEDBACK: Donner votre avis
 
+  # Game creation
+  LABEL_KIKIMETER_MOST_ICEPACK: Le pingouin de service
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: >
+    Le joueur qui a passé le plus de temps sur la banquise
+  LABEL_KIKIMETER_MOST_DOUBLE: Le pro des dés pipés
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: >
+    Le joueur qui a fait le plus de doubles au dés
+  LABEL_KIKIMETER_MOST_LAP: Le hamster de la roue
+  TOOLTIP_KIKIMETER_MOST_LAP: >
+    Le joueur qui a fait le plus de tour du plateau
+  LABEL_KIKIMETER_MOST_AIRPLANE: Le roi du ciel
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: >
+    Le joueur qui a pris le plus souvent l'avion
+  LABEL_KIKIMETER_MOST_RENT: Flambeur compulsif
+  TOOLTIP_KIKIMETER_MOST_RENT: >
+    Le joueur qui a dépensé le plus d'argent
+  LABEL_KIKIMETER_MOST_KILLER: L'Exterminateur d'amis
+  TOOLTIP_KIKIMETER_MOST_KILLER: >
+    Le joueur qui a éliminé le plus de joueur
+  LABEL_OPTION_RENDERER: Pilote de rendu
+  LABEL_REAL_ESTATE_ASSET_VALUE: Valeur immobilière
+  LABEL_OPTION_DISABLE_SURROUNDING: Désactiver l'environnement
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Loyers de vos propriétés +%s par tour
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    Après %s tours, l'hélicoptère élimine uniquement le plus pauvre des joueurs s'il a moins de %s.
+    Le compteur se réinitialise uniquement après une élimination
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    Comment jouer ?
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Votez pour des règles ✦
+    Lancez les dés ✦
+    Construisez des hôtels ✦
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    Comment gagner ?
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Ruinez vos adversaires ✔
+    Achetez toutes les merveilles ✔
+    Possédez tout un côté du plateau ✔
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    Une fois le temps écoulé, si le salon n'est pas plein,
+    des ordinateurs viendront prendre les emplacements vides
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    Une fois le temps écoulé, si le salon n'est pas plein,
+    alors ne lance pas la partie et on déverrouille le lobby
+  LABEL_OPTION_BRIGHTNESS: Luminosité
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Rotation du centre du plateau
+  LOCAL_OPTION_ANTI_ALIASING: Anti-aliasing
+  LABEL_DISABLED: Désactivé
+  LOCAL_OPTION_SHADOW: Ombres
+  LABEL_SIMPLE_SHADOW: Simples
+  LABEL_BALANCED_SHADOW: Équilibrées
+  LABEL_DETAILED_SHADOW: Détaillées
+  LABEL_OPTION_AUDIO: Paramètres audio
+  LABEL_OPTION_VIDEO: Paramètres graphiques
+  LABEL_OPTION_GAMEPLAY: Paramètres de jeu
+  LABEL_OPTION_MISC: Paramètres divers
+  LABEL_MINUTES: minutes
+  LABEL_OPTION_AUTOFILL_LOBBY: Remplir avec des joueurs ordinateurs
+  LABEL_OPTION_LOBBY_WAIT_TIME: Délai d'attente pour le lobby
+  LABEL_WANTED_TITLE: Recherché
+  LABEL_WANTED_DESCRIPTION: Mort of vif
+  LABEL_DICE_DOUBLE: Double
+  NO_LOBBY: Pas de lobby
+  CREATING_LOBBY: Création du lobby en cours
+  LOBBY_CREATED: Lobby créé
+  JOINNING_LOBBY: En train de rejoindre un lobby
+  LOBBY_JOINED: Lobby rejoint
+  LOCKING_LOBBY: Verrouillage du lobby
+  LOBBY_LOCKED: Lobby verrouillé
+  LOBBY_WAITING_FOR_PLAYER: En attente de joueur(s)
+  LOBBY_LOOKING_FOR_LOBBY: En recherche de lobby
+  LOBBY_MERGING: Lobby en cours de fusion
+  LOBBY_READY: Lobby prêt
+  LOBBY_READY_WAITING_ROOM: En attente de la création du serveur
+  LOBBY_READY_CREATING_ROOM: Serveur en cours de création
+  LOBBY_READY_ROOM_CREATED: Serveur créé
+  LOBBY_READY_JOINING_ROOM: En train de rejoindre le serveur
+  LOBBY_READY_ROOM_JOINED: Serveur rejoint
+  ROOM_WAITING_FOR_CONFIGURATION: En attente de la configuration du serveur
+  ROOM_READY: Serveur prêt
+  IN_GAME: En jeu
+  GAME_COMPLETE: Partie terminée
+  GAME_RECONNECTING: Reconnexion à la partie
+  GAME_RECONNECTED: Reconnecté à la partie
+
+  LABEL_ALMOST_MONOPOLE_SIDE: >
+    [center][b]%s[/b] a presque un monopole linéaire[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: >
+    [center][b]%s[/b] a presque un monopole des merveilles[/center]
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    Il faut au moins 2 joueurs pour lancer une partie
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
+    La recherche d'aversaire en ligne est désactivée si un joueur ordinateur est présent.
+  LABEL_LOBBY_FILLING_TIMED_OUT: |
+    [b]Le temps est écoulé ![/b]
+
+    Nous n’avons pas trouvé de joueurs pour rejoindre votre partie.
+    Envisagez de jouer avec des joueurs contrôlés par l’ordinateur pour commencer immédiatement
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    La recherche de joueurs peut parfois prendre un certain temps.
+    Si vous souhaitez commencer votre partie immédiatement,
+    pensez à ajouter des joueurs contrôlés par l’ordinateur pour remplir la salle.
+
+    C’est une excellente façon de commencer tout de suite.
+  TOOLTIP_BUY_BACK_WONDER: |
+    Il n'est pas possible de racheter une merveille
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Il n'est pas possible de racheter un hôtel 5 étoiles
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Pas suffisamment d'argent pour pouvoir racheter
+  TOOL_NEED_STEAM_OVERLAY: |
+    Le Steam overlay doit être activé pour pouvoir
+    utiliser cette fonctionnalité
+  TOOLTIP_INVALID_LOBBY: |
+    Il est impossible de lancer une partie avec un seul joueur.
+    Et s'il a des joueurs ordinateurs (non-humain) dans la partie,
+    alors pour pouvoir lancer la partie tous les emplacements
+    ouverts doivent déjà être occupés par des joueurs humains.
+  TOOLTIP_HUMAN_SLOT: Emplacement ouvert (joueur humain)
+  TOOLTIP_COMPUTER_SLOT: Emplacement fermé (joueur ordinateur)
+  TOOLTIP_CLOSED_SLOT: Emplacement fermé (pas de joueur)
+
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    Il faut avoir fait un tour complet pour pouvoir construire un hôtel 4 ou 5 étoiles
   TOOLTIP_CARD_FREE_RENT: |
     Votre prochain loyer est offert
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -48,7 +182,40 @@ fr:
     Plus vous aurez de propriété, plus vous paierez cher
   TOOLTIP_CARD_NO_RENT: |
     La banque touche le prochain loyer a votre place.
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Vous avez été banni par Steam VAC.
+    Vous ne pouvez pas jouer avec des inconnus.
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    Désolé, un problème de synchronisation réseau est survenu.
 
+    [b]Fortune Avenue essaie de synchroniser la partie.[/b]
+    Cela ne devrait prendre que quelques dizaines de secondes.
+    Pendant ce temps vous pouvez vérifier que vous êtes bien connecté à internet.
+
+  LABEL_DEMO_EMBARGO: >
+    Merci de respecter l'embargo sur le jeu. Les vidéos et streams sont interdits jusqu'à la fin des playtests.
+    Votre coopération est appréciée !
+
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Cliquez sur les petits boutons pour sélectionner le type d'adversaire que vous souhaitez affronter.
+    Choisissez entre joueur, ordinateur ou fermer l'emplacement.
+  LABEL_TUTORIEL_DICE: >
+    Cliquez et maintenez le clic en bougeant la souris pour agiter les dés.
+    Relâcher le clic pour les jeter
+  LABEL_TUTORIEL_RULESET: >
+    Votez pour une règle. Une fois que tout le monde aura voté, la règle avec le plus de vote sera appliquée.
+    S'il y a égalité, le jeu prendra une règle au hasard
+  LABEL_TUTORIEL_WHEEL: >
+    Cliquez et maintenez le clic en bougeant la souris pour faire bouger la roue.
+    Relâcher le clic pour la lancer
+
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Nombre de tour sans loyer
+  LABEL_REMOTE_PLAYER: Joueur distant
+  LABEL_HUMAN_PLAYER: Joueur humain
+  LABEL_COMPUTER_PLAYER: Joueur ordinateur
+  LABEL_OPENGL_RENDERER: "Rendu: OpenGL (EXPERIMENTAL)"
+  LABEL_DEMO_VERSION: Fortune Avenue BETA
+  LABEL_LEADERBOARD: Classement
   LABEL_LOCAL_PLAYER_LOST_TITLE: Vous avez perdu!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
     Vous n'avez pas pu payer {killer_name}, vous êtes en {ps}BANQUEROUTE{pe}!
@@ -75,6 +242,8 @@ fr:
   LABEL_NO_SIGNAL: Aucun signal
   LABEL_TURN: Tour
   LABEL_PROGRESS_NEXT_VOTE: Prochain vote
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Retourner au menu principal
   LABEL_LEAVE_GAME_TITLE: |
     Quitter Fortune Avenue
   LABEL_LEAVE_GAME_DESCRIPTION: |
@@ -123,7 +292,7 @@ fr:
   LABEL_BUY_BUILD: Acheter un bâtiment
   LABEL_BUY_NOTHING: Ne rien acheter
 
-  LABEL_LAPS: Lap(s)
+  LABEL_LAPS: Tour(s) de plateau
   LABEL_PLAYER_WAITING: Attend
   LABEL_PLAYER_MOVING_TOKEN: Se déplace
   LABEL_PLAYER_END_OF_TURN: Fin du tour
@@ -134,6 +303,10 @@ fr:
   LABEL_PLAYER_ROLL_WHEEL: Lance la roue
   LABEL_PLAYER_BANKRUPT: Banqueroute
   LABEL_PLAYER_MONOPOLY: Monopoly
+  LABEL_PLAYER_LOST: Perdu
+
+  LABEL_CASE_NO_RENT: Pas de loyer
+  LABEL_CASE_PROTECTED: Protégé
 
   LABEL_LOBBY_NAME: Nom du salon
   LABEL_NUMBER_OF_PLAYERS: Nombre de joueurs
@@ -163,7 +336,7 @@ fr:
     Vous en profitez pour prendre du bon temps.
     Évidemment cela n'est pas gratuit et va coûter [b]$%s[/b].
   LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
-    Qu'est qu'on est bien en vacances.
+    Qu'est-ce qu'on est bien en vacances.
     La [b]croisière de luxe[/b] s;approche d'un port et vous permet de reprendre le cours de votre vie.
 
     Vous devez payer [b]$%s[/b], et vous débarquez immédiatement.
@@ -189,7 +362,7 @@ fr:
   LABEL_PLAYER_TYPE: Type
   LABEL_TEAM_NUMBER: Équipe
   LABEL_PLAYER_NAME: Nom du joueur
-  LABEL_AIRPORT_DESCRIPTION: |
+  LABEL_AIRPORT_DESCRIPTION: >
     Vous pouvez choisir de prendre l'avion pour vous rendre
     sur la case libre de votre choix.
   LABEL_CASE_ICEPACK: Banquise
@@ -275,7 +448,7 @@ fr:
     Vous ne payez pas le prochain loyer.
   LABEL_CARD_RANDOM_12_TITLE: Les locataires mécontents
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
-    Un de vos locataires vous fait faux-bonds, le prochain loyer ne sera pas perçu.
+    Un de vos locataires vous fait faux-bonds, la banque percevra le prochain loyer a votre place.
 
   LABEL_CARD_ANARCHY_0_TITLE: Architecture
   LABEL_CARD_ANARCHY_0_DESCRIPTION: |
@@ -296,7 +469,7 @@ fr:
   LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
   LABEL_CARD_ANARCHY_3_DESCRIPTION: |
     Une émission de télé-réalité s'est installée dans une de vos villes.
-    Ils entament de grands chantiers pour vous construire une maison.
+    Ils entament de grands chantiers pour vous améliorer un hôtel.
 
     Veuillez sélectionner une ville.
   LABEL_CARD_ANARCHY_4_TITLE: Jouer comporte des risques
@@ -413,8 +586,15 @@ fr:
   LABEL_OPTION_MUSIC: Musique
   LABEL_OPTION_FX: Effets audio
   LABEL_OPTION_RESOLUTION: Résolution
-  LABEL_OPTION_WINDOW: Fenêtre
+  LABEL_OPTION_WINDOW: Fenêtré
   LABEL_OPTION_LANGUAGE: Langage
+  LABEL_OPTION_CAMERA_INVERTED: Caméra inversée
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Caméra semi-automatique
+  LABEL_OPTION_CAMERA: Caméra
+  LABEL_OPTION_CAMERA_FIXED: Ne pas suivre les joueurs
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Suivre les joueurs (rotation)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Suivre les joueurs (translation)
+  LABEL_OPTION_TUTORIEL: Tutoriel
 
   LABEL_WINDOW_WINDOWED: Fenêtré
   LABEL_WINDOW_FULLSCREEN: Plein écran
@@ -468,7 +648,7 @@ fr:
   LABEL_RULESET_FREE_MONEY_TITLE: Pandémie mondiale
   LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
     Le gouvernement met en place une aide humanitaire sans distinction.
-    Tous les joueurs touchent 200 000$
+    Tous les joueurs touchent 100 000$
   LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: C'est la fête!
   LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: >
     Un nouveau festival prend place dans une ville au hasard.
@@ -503,3 +683,28 @@ fr:
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: Ça change tout
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: >
     Dorénavant il est possible de racheter les hôtels 5 étoiles des autres joueurs.
+
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: >
+    Organise la coupe du monde
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: >
+    Annule la coupe du monde
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: >
+    Organise un festival
+  LABEL_CASE_ACTION_FREE_PROPERTY: >
+    Libère une propriété
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: >
+    Annule le loyer
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: >
+    Protège la propriété
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: >
+    Améliore l'hôtel
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: >
+    Détériore l'hôtel
+  LABEL_CASE_ACTION_STEAL_PROPERTY: >
+    Change de propriétaire
+  LABEL_CASE_ACTION_SELL_PROPERTY: >
+    Vend la propriété
+  LABEL_CASE_ACTION_BUILD_PROPERTY: >
+    Construit sur la propriété
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: >
+    Active le loyer

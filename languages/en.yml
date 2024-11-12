@@ -16,7 +16,12 @@ en:
   BUTTON_REFRESH: Refresh
   BUTTON_INVITE: Invite
   BUTTON_MAIN_MENU: Main menu
-  BUTTON_READY: Ready
+  BUTTON_KEEP_WATCHING: Keep watching
+
+  BUTTON_READY: Ready !
+  BUTTON_START_PLAYING: Play !
+  BUTTON_LOOK_FOR_PLAYER: Search for Opponents
+
   BUTTON_OK : Ok
   BUTTON_BUY: Buy
   BUTTON_REFUSE_TICKET: Refuse
@@ -33,7 +38,135 @@ en:
   BUTTON_CANCEL: Cancel
   BUTTON_LEAVE_GAME_CONFIRM: Yes, I want to leave
   BUTTON_LEAVE_GAME_CANCEL: No, I want to stay
+  BUTTON_WISHLIST: Add to wishlist
+  BUTTON_FEEDBACK: Feedback
 
+  # Game creation
+  LABEL_KIKIMETER_MOST_ICEPACK: Penguin on Duty
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: >
+    The player who spent the most time on the ice pack
+  LABEL_KIKIMETER_MOST_DOUBLE: Dice Maestro
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: >
+    The player who rolled the most doubles
+  LABEL_KIKIMETER_MOST_LAP: Wheel Hamster
+  TOOLTIP_KIKIMETER_MOST_LAP: >
+    The player who completed the most laps
+  LABEL_KIKIMETER_MOST_AIRPLANE: Sky King
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: >
+    The player who took the most flights
+  LABEL_KIKIMETER_MOST_RENT: Big Spender
+  TOOLTIP_KIKIMETER_MOST_RENT: >
+    The player who spent the most money
+  LABEL_KIKIMETER_MOST_KILLER: Friend Exterminator
+  TOOLTIP_KIKIMETER_MOST_KILLER: >
+    The player who eliminated the most opponents
+  LABEL_OPTION_RENDERER: Renderer
+  LABEL_REAL_ESTATE_ASSET_VALUE: Property value
+  LABEL_OPTION_DISABLE_SURROUNDING: Disable surroundings
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Your properties' rent +%s per lap
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    After %s rounds, the helicopter eliminates only the poorest player under %s.
+    The counter resets only after an elimination.
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    How to play ?
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Vote for rules ✦
+    Roll the dice ✦
+    Build hotels ✦
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    How to win ?
+    ‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Ruin your opponents ✔
+    Buy all the wonders ✔
+    Own an entire side of the board ✔
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    When time is up, if the lobby is not full,
+    then empty slots are filled by computers.
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    When the time is up, if the lobby isn't full,
+    don't start the game and unlock the lobby.
+  LABEL_OPTION_BRIGHTNESS: Brightness
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Board middle rotation
+  LOCAL_OPTION_ANTI_ALIASING: Anti-aliasing
+  LABEL_DISABLED: Disabled
+  LOCAL_OPTION_SHADOW: Shadows
+  LABEL_SIMPLE_SHADOW: Simple
+  LABEL_BALANCED_SHADOW: Balanced
+  LABEL_DETAILED_SHADOW: Detailed
+  LABEL_OPTION_AUDIO: Audio settings
+  LABEL_OPTION_VIDEO: Graphic settings
+  LABEL_OPTION_GAMEPLAY: Gameplay settings
+  LABEL_OPTION_MISC: Miscellaneous settings
+  LABEL_MINUTES: minutes
+  LABEL_OPTION_AUTOFILL_LOBBY: Autofill lobby with computer
+  LABEL_OPTION_LOBBY_WAIT_TIME: Lobby timeout
+  LABEL_WANTED_TITLE: Wanted
+  LABEL_WANTED_DESCRIPTION: Dead or alive
+  LABEL_DICE_DOUBLE: Double
+  NO_LOBBY: No lobby
+  CREATING_LOBBY: Creating lobby
+  LOBBY_CREATED: Lobby created
+  JOINNING_LOBBY: Joining lobby
+  LOBBY_JOINED: Lobby joined
+  LOCKING_LOBBY: Locking lobby
+  LOBBY_LOCKED: Lobby locked
+  LOBBY_WAITING_FOR_PLAYER: Waiting for player(s)
+  LOBBY_LOOKING_FOR_LOBBY: Looking for lobby
+  LOBBY_MERGING: Merging lobby
+  LOBBY_READY: Lobby ready
+  LOBBY_READY_WAITING_ROOM: Waiting for server creation
+  LOBBY_READY_CREATING_ROOM: Creating server
+  LOBBY_READY_ROOM_CREATED: Server created
+  LOBBY_READY_JOINING_ROOM: Joining server
+  LOBBY_READY_ROOM_JOINED: Server joined
+  ROOM_WAITING_FOR_CONFIGURATION: Waiting for serveur configuration
+  ROOM_READY: Server ready
+  IN_GAME: In game
+  GAME_COMPLETE: Game complete
+  GAME_RECONNECTING: Reconnecting to the game
+  GAME_RECONNECTED: Reconnected to the game
+
+  LABEL_ALMOST_MONOPOLE_SIDE: >
+    [center][b]%s[/b] has almost a linear monopoly[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: >
+    [center][b]%s[/b] has almost a monopoly of wonders[/center]
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    At least 2 players are required to start a game.
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
+    Online opponent search is disabled if a computer player is present.
+  LABEL_LOBBY_FILLING_TIMED_OUT: |
+    [b]Time is up![/b]
+
+    We couldn’t find any players to join your game.
+    Consider playing with computer-controlled players to start the game right away
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    Searching for players can sometimes take a little while.
+    If you want to start your game right away, consider adding
+    computer-controlled players to fill the lobby.
+
+    It’s a great way to jump into the action immediately.
+  TOOLTIP_BUY_BACK_WONDER: |
+    Cannot buy back a wonder
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Cannot buy back a 5 stars hotel
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Not enough money to buy back
+  TOOL_NEED_STEAM_OVERLAY: |
+    Steam overlay is required to use this feature
+  TOOLTIP_INVALID_LOBBY: |
+    It is impossible to start a game with only one player.
+    Also, if a computer (non-human) player is in the game,
+    then to start the game each available slot must already be
+    occupied by a human player.
+  TOOLTIP_HUMAN_SLOT: Available slot (human player)
+  TOOLTIP_COMPUTER_SLOT: Closed slot (computer player)
+  TOOLTIP_CLOSED_SLOT: Closed slot (no player)
+
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    It takes a full lap to build a 4 or 5 star hotel
   TOOLTIP_CARD_FREE_RENT: |
     Your next rent is free
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -48,7 +181,40 @@ en:
     The more properties you have, the more you will pay
   TOOLTIP_CARD_NO_RENT: |
     The bank collects the next rent on your behalf.
+  TOOLTIP_STEAM_VAC_BANNED: |
+    You've been Steam VAC banned.
+    You cannot play with random players.
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    We apologize for the inconvenience, a network synchronization problem has occurred.
 
+    [b]Fortune Avenue is attempting to re-sync now.[/b]
+    It should only take a moment or two.
+    Meanwhile, please check that you are connected to the Internet.
+
+  LABEL_DEMO_EMBARGO: >
+    We kindly ask you to comply with the embargo on the game. No videos or streams are allowed until the end of playtesting.
+    We appreciate your cooperation!
+
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Use the buttons to select the type of opponent you'd like to face.
+    Chose between human, computer or closed slot.
+  LABEL_TUTORIEL_DICE: >
+    Press and hold while moving the mouse to shake the dice.
+    Release to throw them.
+  LABEL_TUTORIEL_RULESET: >
+    Vote for a rule. Once everyone has voted, the rule with the most votes is applied.
+    If there is a tie, one rule is chosen at random.
+  LABEL_TUTORIEL_WHEEL: >
+    Press and hold to move the wheel.
+    Release to launch it.
+
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Number of lap without rent
+  LABEL_REMOTE_PLAYER: Remote player
+  LABEL_HUMAN_PLAYER: Human player
+  LABEL_COMPUTER_PLAYER: Computer player
+  LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EXPERIMENTAL)"
+  LABEL_DEMO_VERSION: Fortune Avenue BETA
+  LABEL_LEADERBOARD: Leaderboard
   LABEL_LOCAL_PLAYER_LOST_TITLE: You've lost!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
     You couldn't pay {killer_name}, you're {ps}BANKRUPT{pe}!
@@ -75,6 +241,8 @@ en:
   LABEL_NO_SIGNAL: No signal
   LABEL_TURN: Turn
   LABEL_PROGRESS_NEXT_VOTE: Next vote
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Back to main menu
   LABEL_LEAVE_GAME_TITLE: |
     Leaving Fortune Avenue
   LABEL_LEAVE_GAME_DESCRIPTION: |
@@ -134,6 +302,10 @@ en:
   LABEL_PLAYER_ROLL_WHEEL: Roll wheel
   LABEL_PLAYER_BANKRUPT: Bankruptcy
   LABEL_PLAYER_MONOPOLY: Monopoly
+  LABEL_PLAYER_LOST: Lost
+
+  LABEL_CASE_NO_RENT: No rent
+  LABEL_CASE_PROTECTED: Protected
 
   LABEL_LOBBY_NAME: Lobby's name
   LABEL_NUMBER_OF_PLAYERS: Player's count
@@ -188,7 +360,7 @@ en:
   LABEL_PLAYER_TYPE: Type
   LABEL_TEAM_NUMBER: Team
   LABEL_PLAYER_NAME: Player's name
-  LABEL_AIRPORT_DESCRIPTION: |
+  LABEL_AIRPORT_DESCRIPTION: >
     You have the option of flying to the vacant
     location of your choice.
   LABEL_CASE_ICEPACK: Icepack
@@ -210,7 +382,7 @@ en:
   LABEL_CASE_MADRID: Madrid
   LABEL_CASE_MEXICO: Mexico
   LABEL_CASE_MONTREAL: Montréal
-  LABEL_CASE_MOSCOU: Moscou
+  LABEL_CASE_MOSCOU: Moscow
   LABEL_CASE_NEWYORK: New-York
   LABEL_CASE_PARIS: Paris
   LABEL_CASE_PEKIN: Pékin
@@ -274,7 +446,7 @@ en:
     You don't have to pay the next rent.
   LABEL_CARD_RANDOM_12_TITLE: Unhappy Tenants
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
-    One of your tenants bails on you, the next rent will not be received.
+    One of your tenants bails on you, and the bank collects the next rent instead.
 
   LABEL_CARD_ANARCHY_0_TITLE: National Police
   LABEL_CARD_ANARCHY_0_DESCRIPTION: |
@@ -295,7 +467,7 @@ en:
   LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
   LABEL_CARD_ANARCHY_3_DESCRIPTION: |
     A reality TV show has settled in one of your cities.
-    They start major construction projects to build a house for you.
+    They start major construction projects to upgrade a hotel for you.
 
     Please select a city.
   LABEL_CARD_ANARCHY_4_TITLE: Playing Comes with Risks
@@ -342,7 +514,6 @@ en:
     The owner loses the wonder instantly.
 
     Please select a wonder
-
   LABEL_SELECT_CITY_TO_SELL_TITLE: Select a property to sell
   LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Money needed
   LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Money remaining
@@ -413,10 +584,17 @@ en:
   LABEL_OPTION_MUSIC: Music
   LABEL_OPTION_FX: FX
   LABEL_OPTION_RESOLUTION: Resolution
-  LABEL_OPTION_WINDOW: Window
+  LABEL_OPTION_WINDOW: Windowed
   LABEL_OPTION_LANGUAGE: Language
+  LABEL_OPTION_CAMERA_INVERTED: Camera inverted
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Camera semi-auto
+  LABEL_OPTION_CAMERA: Camera
+  LABEL_OPTION_CAMERA_FIXED: Don't follow player
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Follow player (rotation)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Follow player (translation)
+  LABEL_OPTION_TUTORIEL: Tutorial
 
-  LABEL_WINDOW_WINDOWED: Window
+  LABEL_WINDOW_WINDOWED: Windowed
   LABEL_WINDOW_FULLSCREEN: Fullscreen
 
   LABEL_CLICK_TO_VOTE: Press to vote
@@ -466,7 +644,7 @@ en:
   LABEL_RULESET_FREE_MONEY_TITLE: Global pandemic
   LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
     Government provides humanitarian aid without distinction.
-    All players receive $200,000
+    All players receive $100,000
   LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Party time!
   LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: >
     A new festival takes place in one random city.
@@ -501,3 +679,28 @@ en:
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: It changes everything
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: >
     It is now possible to buy out other players' 5-star hotels.
+
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: >
+    Organize the worldcup
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: >
+    Cancel the  worldcup
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: >
+    Organize a festival
+  LABEL_CASE_ACTION_FREE_PROPERTY: >
+    Property freed
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: >
+    Property's rent disabled
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: >
+    Property protected
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: >
+    Hotel upgraded
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: >
+    Hotel downgraded
+  LABEL_CASE_ACTION_STEAL_PROPERTY: >
+    Property's owner changed
+  LABEL_CASE_ACTION_SELL_PROPERTY: >
+    Property sold
+  LABEL_CASE_ACTION_BUILD_PROPERTY: >
+    Property built
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: >
+    Property's rent enabled

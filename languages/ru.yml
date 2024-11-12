@@ -1,0 +1,704 @@
+ru:
+  BUTTON_ORIGINAL: Оригинальные правила
+  BUTTON_CLASSIC: Классические правила
+  BUTTON_QUIT: Выйти
+  BUTTON_OPTIONS: Настройки
+  BUTTON_LANGUAGE: Язык
+  BUTTON_CREATE_GAME: Создать лобби
+  BUTTON_JOIN_GAME: Присоединиться к лобби
+  BUTTON_JOIN: Присоединиться
+  BUTTON_SPLIT_SCREEN_TYPE: Разделенный экран
+  BUTTON_LAN_TYPE: Локальная игра
+  BUTTON_ONLINE_TYPE: Онлайн игра
+  BUTTON_CLOSE: Закрыть
+  BUTTON_PAY: Оплатить
+  BUTTON_PLAY_CARD: Сыграть карту
+  BUTTON_REFRESH: Обновить
+  BUTTON_INVITE: Пригласить
+  BUTTON_MAIN_MENU: Главное меню
+  BUTTON_KEEP_WATCHING: Продолжайте смотреть
+
+  BUTTON_READY: Готово!
+  BUTTON_START_PLAYING: Играть!
+  BUTTON_LOOK_FOR_PLAYER: Поиск противников
+
+  BUTTON_OK: Ок
+  BUTTON_BUY: Купить
+  BUTTON_REFUSE_TICKET: Отказаться
+  BUTTON_PAY_TICKET: Купить билет
+  BUTTON_RESET_WORLDCUP: Отменить чемпионат мира
+  BUTTON_SET_WORLD_CUP: Организовать чемпионат мира
+  BUTTON_USE_CARD: Использовать карту
+  BUTTON_THROW_DICES: Бросить кости
+  BUTTON_BUY_BACK: Выкупить
+  BUTTON_AUTOMATIC_SELL: Автоматическая продажа
+  BUTTON_SELL: Продать
+  BUTTON_BANKRUPT: Банкротство
+  BUTTON_APPLY: Применить
+  BUTTON_CANCEL: Отменить
+  BUTTON_LEAVE_GAME_CONFIRM: Да, я хочу выйти
+  BUTTON_LEAVE_GAME_CANCEL: Нет, я хочу остаться
+  BUTTON_WISHLIST: Добавить в список желаемого
+  BUTTON_FEEDBACK: Обратная связь
+
+  # Game creation
+  LABEL_KIKIMETER_MOST_ICEPACK: Дежурный пингвин
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: >
+    Игрок, проведший больше всего времени на льду
+  LABEL_KIKIMETER_MOST_DOUBLE: Мастер кубиков
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: >
+    Игрок, который чаще всего выбрасывал дубль
+  LABEL_KIKIMETER_MOST_LAP: Колёсный хомяк
+  TOOLTIP_KIKIMETER_MOST_LAP: >
+    Игрок, сделавший больше всего кругов по игровому полю
+  LABEL_KIKIMETER_MOST_AIRPLANE: Король неба
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: >
+    Игрок, чаще всего летавший на самолёте
+  LABEL_KIKIMETER_MOST_RENT: Большой транжира
+  TOOLTIP_KIKIMETER_MOST_RENT: >
+    Игрок, потративший больше всего денег
+  LABEL_KIKIMETER_MOST_KILLER: Уничтожитель друзей
+  TOOLTIP_KIKIMETER_MOST_KILLER: >
+    Игрок, который выбил больше всего противников
+  LABEL_OPTION_RENDERER: Рендерер
+  LABEL_REAL_ESTATE_ASSET_VALUE: Стоимость недвижимости
+  LABEL_OPTION_DISABLE_SURROUNDING: Отключить окружение
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Аренда вашей недвижимости +%s за круг
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    После %s раундов вертолет уничтожает только самого бедного игрока, у которого меньше %s.
+    Счетчик сбрасывается только после устранения.
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    Как играть?
+    ‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Проголосуйте за правила ✦
+    Бросайте кости ✦
+    Стройте отели ✦
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    Как выиграть?
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Уничтожьте своих соперников ✔
+    Купить все чудеса ✔
+    Владейте всей стороной доски ✔
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    По истечении времени, если лобби не заполнено,
+    то пустые слоты заполняются компьютерами.
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    По истечении времени, если лобби не заполнено,
+    не начинайте игру и разблокируйте лобби.
+  LABEL_OPTION_BRIGHTNESS: Яркость
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Вращение в середине сетки
+  LOCAL_OPTION_ANTI_ALIASING: Сглаживание
+  LABEL_DISABLED: Выключить
+  LOCAL_OPTION_SHADOW: Тени
+  LABEL_SIMPLE_SHADOW: Простой
+  LABEL_BALANCED_SHADOW: Сбалансированный
+  LABEL_DETAILED_SHADOW: Детализация
+  LABEL_OPTION_AUDIO: Настройки звука
+  LABEL_OPTION_VIDEO: Графические настройки
+  LABEL_OPTION_GAMEPLAY: Настройки игрового процесса
+  LABEL_OPTION_MISC: Разные настройки
+  LABEL_MINUTES: минуты
+  LABEL_OPTION_AUTOFILL_LOBBY: Автозаполнение вестибюля с помощью компьютера
+  LABEL_OPTION_LOBBY_WAIT_TIME: Тайм-аут вестибюля
+  LABEL_WANTED_TITLE: Разыскивается
+  LABEL_WANTED_DESCRIPTION: Живым или мёртвым
+  LABEL_DICE_DOUBLE: Двойной
+  NO_LOBBY: Нет лобби
+  CREATING_LOBBY: Создание лобби
+  LOBBY_CREATED: Лобби создано
+  JOINNING_LOBBY: Присоединение к лобби
+  LOBBY_JOINED: Лобби присоединено
+  LOCKING_LOBBY: Блокировка лобби
+  LOBBY_LOCKED: Лобби заблокировано
+  LOBBY_WAITING_FOR_PLAYER: Ожидание игроков
+  LOBBY_LOOKING_FOR_LOBBY: Поиск лобби
+  LOBBY_MERGING: Объединение лобби
+  LOBBY_READY: Лобби готово
+  LOBBY_READY_WAITING_ROOM: Ожидание создания сервера
+  LOBBY_READY_CREATING_ROOM: Создание сервера
+  LOBBY_READY_ROOM_CREATED: Сервер создан
+  LOBBY_READY_JOINING_ROOM: Присоединение к серверу
+  LOBBY_READY_ROOM_JOINED: Сервер присоединен
+  ROOM_WAITING_FOR_CONFIGURATION: Ожидание конфигурации сервера
+  ROOM_READY: Сервер готов
+  IN_GAME: В игре
+  GAME_COMPLETE: Игра завершена
+  GAME_RECONNECTING: Переподключение к игре
+  GAME_RECONNECTED: Переподключено к игре
+
+  LABEL_ALMOST_MONOPOLE_SIDE: >
+    [center][b]%s[/b] имеет почти линейную монополию[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: >
+    [center][b]%s[/b] имеет почти монополию на чудеса[/center].
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    Для начала игры требуется как минимум 2 игрока.
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
+    Поиск онлайн-противников отключен, если присутствует компьютерный игрок.
+  LABEL_LOBBY_FILLING_TIMED_OUT: |
+    [b]Время вышло![/b]
+    Мы не смогли найти игроков для вашей игры.
+    Попробуйте играть с компьютером, чтобы начать игру немедленно.
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    Поиск игроков может занять некоторое время.
+    Если вы хотите начать игру сразу, добавьте
+    управляемых компьютером игроков, чтобы заполнить лобби.
+
+    Это отличный способ сразу окунуться в игру.
+  TOOLTIP_BUY_BACK_WONDER: |
+    Невозможно выкупить чудо
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Невозможно выкупить 5-звездочный отель
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Недостаточно денег для выкупа
+  TOOL_NEED_STEAM_OVERLAY: |
+    Требуется Steam Overlay для использования этой функции
+  TOOLTIP_INVALID_LOBBY: |
+    Невозможно начать игру с одним игроком.
+    Если в игре есть компьютерные игроки,
+    для начала игры все слоты должны быть заняты
+    игроками-людьми.
+  TOOLTIP_HUMAN_SLOT: Доступный слот (игрок)
+  TOOLTIP_COMPUTER_SLOT: Закрытый слот (компьютер)
+  TOOLTIP_CLOSED_SLOT: Закрытый слот (без игрока)
+
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    Нужно завершить круг, чтобы построить 4- или 5-звездочный отель
+  TOOLTIP_CARD_FREE_RENT: |
+    Следующая аренда бесплатна
+  TOOLTIP_CARD_DOUBLE_RENT: |
+    Следующая аренда удваивается
+  TOOLTIP_CARD_ICEPACK: |
+    Карта и GPS для выхода со льда без оплаты
+  TOOLTIP_CARD_TAX_FORFAIT_MODE: |
+    Фиксированная ставка налога.
+    Вы всегда платите одинаковую сумму
+  TOOLTIP_CARD_TAX_PROPORTIONAL_MODE: |
+    Пропорциональный режим налогообложения.
+    Чем больше собственности, тем выше налог
+  TOOLTIP_CARD_NO_RENT: |
+    Банк собирает следующую аренду за вас.
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Вы забанены в Steam VAC.
+    Вы не можете играть с случайными игроками.
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    Извините, произошла проблема синхронизации сети.
+
+    [b]Fortune Avenue пытается восстановить синхронизацию.[/b]
+    Это займет всего несколько секунд.
+    Проверьте подключение к интернету.
+
+  LABEL_DEMO_EMBARGO: >
+    Пожалуйста, соблюдайте эмбарго на игру. Видео и стримы запрещены до окончания тестирования.
+    Спасибо за понимание!
+
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Используйте кнопки, чтобы выбрать тип противника.
+    Выберите между человеком, компьютером или закрытым слотом.
+  LABEL_TUTORIEL_DICE: >
+    Удерживайте и двигайте мышью, чтобы трясти кубики.
+    Отпустите, чтобы бросить их.
+  LABEL_TUTORIEL_RULESET: >
+    Голосуйте за правило. Когда все проголосуют, будет применено правило с наибольшим количеством голосов.
+    В случае ничьей правило выберется случайно.
+  LABEL_TUTORIEL_WHEEL: >
+    Нажмите и удерживайте для вращения колеса.
+    Отпустите для его запуска.
+
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Количество кругов без аренды
+  LABEL_REMOTE_PLAYER: Удаленный игрок
+  LABEL_HUMAN_PLAYER: Человек-игрок
+  LABEL_COMPUTER_PLAYER: Компьютер-игрок
+  LABEL_OPENGL_RENDERER: "Рендеринг: OpenGL (ЭКСПЕРИМЕНТАЛЬНО)"
+  LABEL_DEMO_VERSION: Fortune Avenue БЕТА
+  LABEL_LEADERBOARD: Таблица лидеров
+  LABEL_LOCAL_PLAYER_LOST_TITLE: Вы проиграли!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    Вы не смогли заплатить {killer_name}, вы {ps}БАНКРОТ{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    Вы не смогли заплатить {ps}банку{pe}, вы {ps}БАНКРОТ{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    После невероятной погони {ps}вертолет{pe} вас поймал!
+
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} проиграл!"
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} не смог заплатить {killer_name}, {name} {ps}БАНКРОТ{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} не смог заплатить {ps}банку{pe}, {name} {ps}БАНКРОТ{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    После невероятной погони {ps}вертолет{pe} поймал {name}!
+
+  LABEL_PLAYER_WON_TITLE: "{name} выиграл игру!"
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} создал {ws}{rs}МОНОПОЛИЮ{re}{we}!
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} - {ps}последний оставшийся игрок{pe}!
+
+  LABEL_TURN_BEFORE_ELIMINATION: "%s ход(а/ов) до выбывания"
+  LABEL_NO_SIGNAL: Нет сигнала
+  LABEL_TURN: Ход
+  LABEL_PROGRESS_NEXT_VOTE: Следующее голосование
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Возврат в главное меню
+  LABEL_LEAVE_GAME_TITLE: |
+    Выход из Fortune Avenue
+  LABEL_LEAVE_GAME_DESCRIPTION: |
+    Выход сейчас приведет к потере прогресса и отключению от мультиплеера. Ваши товарищи могут пострадать из-за вашего ухода.
+
+    [center][b]Вы уверены, что хотите выйти?[/b][/center]
+  LABEL_PLAYER_DISCONNECTED: Игрок отключен
+  LABEL_PAY_RENT: Аренда
+  LABEL_PRESS_ANY_BUTTON: Нажмите, чтобы продолжить
+  LABEL_DOUBLE_RENT_MONOPOLY: |
+    Аренда удваивается, если у вас есть монополия.
+  LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
+    Вы не можете сыграть эту карту, так как нет доступных ячеек.
+  LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
+    Вы не можете сыграть эту карту, так как нет доступной собственности.
+  LABEL_NO_HOTEL_AVAILABLE_DESCRIPTION: |
+    Вы не можете сыграть эту карту, так как нет доступных отелей.
+  LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
+    Вы не можете сыграть эту карту, так как нет доступных чудес.
+  LABEL_NO_EFFECT_TO_PLAYER: |
+    Вы не можете сыграть эту карту, так как она не окажет эффекта ни на одного игрока.
+  LABEL_ERROR_DIALOG_TITLE: Ошибка
+  LABEL_ERROR_DIALOG_DESCRIPTION: |
+    Невозможно создать или присоединиться к игре.
+  LABEL_STEAM_WAITING: Ожидание подключения к Steam...
+  LABEL_STEAM_READY: Нажмите любую клавишу
+  LABEL_IP_ADDRESS: IP-адрес
+  LABEL_PROPERTY_RENT: Аренда
+
+  LABEL_WORLDCUP_TITLE: Чемпионат мира
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: |
+    Поздравляем! Теперь вы можете выбрать место проведения Чемпионата мира!
+    Если Чемпионат мира должен был проходить в другом месте, он будет автоматически перенесен на ваше место.
+    Чемпионат мира можно разместить только на вашей собственности.
+    Если у вас нет собственности, вы должны отменить Чемпионат мира.
+  LABEL_NEW_RENT: "Новая аренда: $%s"
+  LABEL_BUY_BACK_VALUE: Можно выкупить за $%s
+  LABEL_BUY_FOR: Купить за $%s
+  LABEL_PAY: Оплатить $%s
+  LABEL_1_WONDER: Одно чудо
+  LABEL_2_WONDER: Два чуда
+  LABEL_3_WONDER: Три чуда
+  LABEL_4_WONDER: Четыре чуда
+  LABEL_BUY_COSTS: Стоимость покупки
+  LABEL_BUY_WONDER: Купить чудо
+  LABEL_BUY_BUILD: Купить здание
+  LABEL_BUY_NOTHING: Ничего не покупать
+
+  LABEL_LAPS: Круг(и)
+  LABEL_PLAYER_WAITING: Ожидание
+  LABEL_PLAYER_MOVING_TOKEN: Переместить фишку
+  LABEL_PLAYER_END_OF_TURN: Конец хода
+  LABEL_PLAYER_THROWING_DICE: Бросить кубики
+  LABEL_PLAYER_PLAYING_CASE: Играть в клетку
+  LABEL_PLAYER_PLAYING_CARD: Играть карту
+  LABEL_PLAYER_SELL_PROPERTY: Продать недвижимость
+  LABEL_PLAYER_ROLL_WHEEL: Крутить колесо
+  LABEL_PLAYER_BANKRUPT: Банкротство
+  LABEL_PLAYER_MONOPOLY: Монополия
+  LABEL_PLAYER_LOST: Проиграл
+
+  LABEL_CASE_NO_RENT: Нет аренды
+  LABEL_CASE_PROTECTED: Защищен
+
+  LABEL_LOBBY_NAME: Название лобби
+  LABEL_NUMBER_OF_PLAYERS: Количество игроков
+  LABEL_NO_LOBBY: Лобби не доступно
+  LABEL_STEAM_QUERYING: Запрос Steam
+  LABEL_STEAM_BUSY: Steam занят, попробуйте позже
+
+  LABEL_TAXES_FORFAIT_TITLE: Фиксированные налоги
+  LABEL_TAXES_FORFAIT_DESCRIPTION: |
+    Вы должны заплатить фиксированный налог.
+  LABEL_TAXES_PROPORTIONAL_TITLE: Пропорциональные налоги
+
+  LABEL_LAND_FREE: Доступно
+  LABEL_LAND_ONLY: Караван
+  LABEL_1_HOUSE: Отель 1 звезда
+  LABEL_2_HOUSE: Отель 2 звезды
+  LABEL_3_HOUSE: Отель 3 звезды
+  LABEL_4_HOUSE: Отель 4 звезды
+  LABEL_1_HOSTEL: Гранд отель
+
+  LABEL_TOO_EXPENSIVE: У вас недостаточно денег для покупки этого.
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: Роскошный круиз!
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    Вы достигли Северного полюса! Льдов больше не видно!
+    Роскошный круиз быстро забирает вас на борт.
+
+    Вы наслаждаетесь временем, но это стоит [b]$%s[/b].
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    Отличный отдых!
+    Роскошный круиз приближается к порту, и вы можете продолжить свою жизнь.
+
+    Вы платите [b]$%s[/b] и сразу высаживаетесь.
+    Если у вас есть карта [b]Спасение с ледяного поля[/b], пора её использовать.
+  LABEL_PLAYER_ICEPACKED: Вы застряли на ледяном поле
+  LABEL_ICEPACKING_ANNOUNCE: |
+    Вы блуждаете среди льдов, вокруг только лёд.
+    [b]Вы потерялись на льду![/b]
+
+    Зарплату вы не получите.
+    Если не заплатите [b]$%s[/b], останетесь здесь.
+  LABEL_ICEPACKED_ANNOUNCE: |
+    [b]Вы застряли на льду[/b], это невезение.
+
+    Чтобы выбраться, попробуйте выбросить [b]дубль[/b] или заплатите [b]$%s[/b].
+    Если у вас есть карта [b]Спасение с ледяного поля[/b], используйте её.
+  LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
+    Вы слишком долго здесь, больше ждать нельзя.
+    Вы решаете заплатить [b]$%s[/b], чтобы выбраться.
+  LABEL_REMAINING_TURN: Осталось ходов
+
+  LABEL_PLAYER_TYPE: Тип
+  LABEL_TEAM_NUMBER: Команда
+  LABEL_PLAYER_NAME: Имя игрока
+  LABEL_AIRPORT_DESCRIPTION: >
+    Вы можете лететь в свободное место по вашему выбору.
+  LABEL_CASE_ICEPACK: Ледяное поле
+  LABEL_CASE_AIRPORT: Аэропорт
+  LABEL_CASE_ALGER: Алжир
+  LABEL_CASE_BEGIN: Начало
+  LABEL_CASE_BERLIN: Берлин
+  LABEL_CASE_BOMBAY: Бомбей
+  LABEL_CASE_BUENOSAIRES: Буэнос-Айрес
+  LABEL_CASE_CASABLANCA: Касабланка
+  LABEL_CASE_DAKAR: Дакар
+  LABEL_CASE_FESTIVAL: Фестиваль
+  LABEL_CASE_HONGKONG: Гонконг
+  LABEL_CASE_JAKARTA: Джакарта
+  LABEL_CASE_KINSHASA: Киншаса
+  LABEL_CASE_LECAIRE: Каир
+  LABEL_CASE_LONDRES: Лондон
+  LABEL_CASE_LOSANGELES: Лос-Анджелес
+  LABEL_CASE_MADRID: Мадрид
+  LABEL_CASE_MEXICO: Мехико
+  LABEL_CASE_MONTREAL: Монреаль
+  LABEL_CASE_MOSCOU: Москва
+  LABEL_CASE_NEWYORK: Нью-Йорк
+  LABEL_CASE_PARIS: Париж
+  LABEL_CASE_PEKIN: Пекин
+  LABEL_CASE_PRISON: Тюрьма
+  LABEL_CASE_ROME: Рим
+  LABEL_CASE_SAOPOLO: Сан-Паулу
+  LABEL_CASE_SEOUL: Сеул
+  LABEL_CASE_TAXES: Налоги
+  LABEL_CASE_TOKYO: Токио
+  LABEL_CASE_WHEEL: Колесо
+  LABEL_CASE_WONDER: Чудо
+  LABEL_CASE_WORLDCUP: Чемпионат мира
+
+  LABEL_WONDER_CHRIST_THE_REDEEMER: Христос-Искупитель
+  LABEL_WONDER_TAJ_MAHAL: Тадж-Махал
+  LABEL_WONDER_PYRAMIDS: Пирамиды
+  LABEL_WONDER_COLISEE: Колизей
+
+  LABEL_CARD_RANDOM_0_TITLE: Банк
+  LABEL_CARD_RANDOM_0_DESCRIPTION: |
+      Ошибка в вашу пользу, банк выплачивает вам дивиденды в размере $%s.
+  LABEL_CARD_RANDOM_1_TITLE: Туристическое агентство
+  LABEL_CARD_RANDOM_1_DESCRIPTION: |
+      Отправляйтесь в %s.
+  LABEL_CARD_RANDOM_2_TITLE: Туристическое агентство
+  LABEL_CARD_RANDOM_2_DESCRIPTION: |
+      Пожалуйста, отойдите назад на %s клеток.
+  LABEL_CARD_RANDOM_3_TITLE: Ледяная поляна
+  LABEL_CARD_RANDOM_3_DESCRIPTION: |
+      Вы снова заблудились. Вокруг вас только лед, сколько хватает глаз.
+      Без сомнения, вы на ледяной поляне.
+  LABEL_CARD_RANDOM_4_TITLE: Отпуск
+  LABEL_CARD_RANDOM_4_DESCRIPTION: |
+      Вы отлично проводите время, приглашая всех своих друзей, но следующий платеж аренды будет удвоен.
+  LABEL_CARD_RANDOM_5_TITLE: Хорошее время!
+  LABEL_CARD_RANDOM_5_DESCRIPTION: |
+      Вы получаете GPS и спутниковый телефон. С их помощью вы сможете найти свой путь везде, даже на ледяной поляне.
+
+      Используйте эту карту, чтобы выбраться с ледяной поляны.
+  LABEL_CARD_RANDOM_6_TITLE: Игра несет риски
+  LABEL_CARD_RANDOM_6_DESCRIPTION: |
+      Вы играете на фондовом рынке, и вам не везет.
+      Вы немедленно теряете четверть своих ликвидных активов.
+  LABEL_CARD_RANDOM_7_TITLE: Государственные финансы
+  LABEL_CARD_RANDOM_7_DESCRIPTION: |
+      Вы переходите на режим пропорционального налогообложения.
+      Когда вы попадете на поле Налоги и Пошлины, вы будете платить налог, пропорциональный вашему финансовому состоянию.
+  LABEL_CARD_RANDOM_8_TITLE: Государственные финансы
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
+      Вы переходите на режим фиксированного налогообложения.
+      Когда вы попадете на поле Налоги и Пошлины, вы будете платить фиксированную сумму в размере $%s.
+  LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_RANDOM_9_DESCRIPTION: |
+      Известные стримеры организуют некоммерческую кампанию от вашего имени, и вы получаете $%s.
+  LABEL_CARD_RANDOM_10_TITLE: Всемирный Комитет Развлечений
+  LABEL_CARD_RANDOM_10_DESCRIPTION: |
+      Вам удается отменить следующий чемпионат мира, он возвращается к своему базовому случаю.
+  LABEL_CARD_RANDOM_11_TITLE: Добрый Самаритянин
+  LABEL_CARD_RANDOM_11_DESCRIPTION: |
+      Добрый самаритянин решил подарить вам отпуск.
+      Вам не нужно платить следующий аренду.
+  LABEL_CARD_RANDOM_12_TITLE: Несчастные арендаторы
+  LABEL_CARD_RANDOM_12_DESCRIPTION: |
+      Один из ваших арендаторов отказывается от вас, и банк забирает следующую арендную плату вместо него.
+
+  LABEL_CARD_ANARCHY_0_TITLE: Национальная полиция
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: |
+      Захватчики под вашим контролем, вы можете использовать их, чтобы снизить рейтинг отеля.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_1_TITLE: Нотариальная контора
+  LABEL_CARD_ANARCHY_1_DESCRIPTION: |
+      Нотариус вас любит. Он предлагает вам освободить город на ваш выбор.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_2_TITLE: Судебный пристав
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: |
+      Ловкий как вы есть, вам удается оставаться незамеченным где бы вы ни были.
+      Это позволяет вам украсть город у игрока.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+      Реалити-шоу поселилось в одном из ваших городов.
+      Они начинают крупные строительные проекты по модернизации отеля для вас.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_4_TITLE: Игра несет риски
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: |
+      Вы заставляете одного из ваших товарищей играть на фондовом рынке, чтобы он потерял четверть своих ликвидных денег.
+
+      Пожалуйста, выберите игрока.
+  LABEL_CARD_ANARCHY_5_TITLE: Государственные финансы
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: |
+      Вы заставляете одного из ваших товарищей перейти на режим пропорционального налогообложения.
+      Когда он попадет на поле Налоги и Пошлины, он будет платить налог, пропорциональный его финансовым активам.
+
+      Пожалуйста, выберите игрока.
+  LABEL_CARD_ANARCHY_6_TITLE: Безопасность территорий
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: |
+      Префект вашего региона вас любит, и он предоставляет полный полицейский полк для защиты одного из ваших городов от потенциальных катастроф.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_7_TITLE: Государственные финансы
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: |
+      Вы заставляете одного из ваших товарищей перейти на режим фиксированного налогообложения.
+      Когда он попадет на поле Налоги и Пошлины, он должен будет заплатить фиксированную сумму в размере $%s.
+
+      Пожалуйста, выберите игрока.
+  LABEL_CARD_ANARCHY_8_TITLE: Профсоюзы
+  LABEL_CARD_ANARCHY_8_DESCRIPTION: |
+      Страйк мусорщиков, аренда в этом круге не взимается.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_9_TITLE: Музыкальный фестиваль
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+      Спонтанный и самоорганизованный фестиваль захватывает один из ваших городов.
+
+      Пожалуйста, выберите одно из ваших имуществ.
+  LABEL_CARD_ANARCHY_10_TITLE: Конкурс случайностей
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+      Группа людей принимает вас за пророка, и вы можете указать им город для оккупации.
+      Город не будет генерировать аренду в течение %s ходов.
+
+      Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_11_TITLE: Решение о несправедливости
+  LABEL_CARD_ANARCHY_11_DESCRIPTION: |
+      Вы можете сыграть эту карту, чтобы вернуть Чудо в игру.
+      Владельцу чудо сразу теряется.
+
+      Пожалуйста, выберите чудо.
+
+  LABEL_SELECT_CITY_TO_SELL_TITLE: Выберите имущество для продажи
+  LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Необходимые деньги
+  LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Оставшиеся деньги
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
+    У вас недостаточно денег для оплаты, вам нужно продать одно или несколько имуществ.
+
+  # Steam related message
+  LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Билет действителен
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Неверный билет
+  LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Дубликат запроса
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Неверная версия
+  LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Несоответствие игры
+  LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Истек срок действия билета
+
+  LABEL_AUTH_SESSION_RESPONSE_OK: Сессия в порядке.
+  LABEL_AUTH_SESSION_RESPONSE_USER_NOT_CONNECTED_TO_STEAM: Не подключен к Steam.
+  LABEL_AUTH_SESSION_RESPONSE_NO_LICENSE_OR_EXPIRED: У вас нет игры.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: Забанен VAC.
+  LABEL_AUTH_SESSION_RESPONSE_LOGGED_IN_ELSEWHERE: Вы подключены в другом месте.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: Время проверки VAC истекло.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: Сессия отменена пользователем.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: Сессия уже использована.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: Недействительная сессия.
+  LABEL_AUTH_SESSION_RESPONSE_PUBLISHER_ISSUED_BAN: Аккаунт забанен.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_NETWORK_IDENTITY_FAILURE: Проблема с сетью
+
+  LABEL_PLAYER_MOVE_TO_CASE_TITLE: Перемещение
+  LABEL_PLAYER_MOVE_TO_CASE_DESCRIPTION: |
+    Пожалуйста, выберите клетку, на которую вы хотите переместиться.
+
+  LABEL_PLAYER_DOWNGRADE_HOTEL_TITLE: Понижение уровня отеля
+  LABEL_PLAYER_DOWNGRADE_HOTEL_DESCRIPTION: |
+    Пожалуйста, выберите отель, который вы хотите понизить.
+
+  LABEL_PLAYER_UPGRADE_HOTEL_TITLE: Повышение уровня отеля
+  LABEL_PLAYER_UPGRADE_HOTEL_DESCRIPTION: |
+    Пожалуйста, выберите отель, который вы хотите улучшить.
+
+  LABEL_PLAYER_FREE_WONDER_TITLE: Освободить чудо
+  LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
+    Пожалуйста, выберите чудо, которое вы хотите вернуть на рынок.
+
+  LABEL_PLAYER_FREE_PROPERTY_TITLE: Освободить имущество
+  LABEL_PLAYER_FREE_PROPERTY_DESCRIPTION: |
+    Пожалуйста, выберите имущество, которое вы хотите вернуть на рынок.
+
+  LABEL_PLAYER_DISABLE_CASE_TITLE: Отключить клетку
+  LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
+    Пожалуйста, выберите клетку для отключения.
+
+  LABEL_PLAYER_STEAL_PROPERTY_TITLE: Кража имущества
+  LABEL_PLAYER_STEAL_PROPERTY_DESCRIPTION: |
+    Пожалуйста, выберите имущество, которое вы хотите украсть.
+
+  LABEL_PLAYER_SET_WORLD_CUP_TITLE: Чемпионат мира
+  LABEL_PLAYER_SET_WORLD_CUP_DESCRIPTION: |
+    Пожалуйста, выберите место для следующего чемпионата мира.
+
+  LABEL_PLAYER_SET_FESTIVAL_TITLE: Фестиваль
+  LABEL_PLAYER_SET_FESTIVAL_DESCRIPTION: |
+    Пожалуйста, выберите место для проведения фестиваля.
+
+  LABEL_PLAYER_PROTECT_CASE_TITLE: Защита
+  LABEL_PLAYER_PROTECT_CASE_DESCRIPTION: |
+    Пожалуйста, выберите имущество для защиты.
+
+  LABEL_OPTION_TITLE: Опции
+  LABEL_OPTION_MUSIC: Музыка
+  LABEL_OPTION_FX: Эффекты
+  LABEL_OPTION_RESOLUTION: Разрешение
+  LABEL_OPTION_WINDOW: Окно
+  LABEL_OPTION_LANGUAGE: Язык
+  LABEL_OPTION_CAMERA_INVERTED: Инвертировать камеру
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Полуавтоматическая камера
+  LABEL_OPTION_CAMERA: Камера
+  LABEL_OPTION_CAMERA_FIXED: Не следовать за игроком
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Следовать за игроком (вращение)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Следовать за игроком (перемещение)
+  LABEL_OPTION_TUTORIEL: Туториал
+
+  LABEL_WINDOW_WINDOWED: В оконном режиме
+  LABEL_WINDOW_FULLSCREEN: На весь экран
+
+  LABEL_CLICK_TO_VOTE: Нажмите для голосования
+
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Социальная несправедливость
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: >
+    Жизнь становится дороже, и чтобы поддерживать неприличные жизненные стандарты владельцев, аренда всех отелей удваивается.
+  LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Богемная жизнь
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: >
+    Жизнь в автодомах стала трендом, и аренда автодомов теперь стоит столько же, сколько аренда в 5-звездочном отеле.
+  LABEL_RULESET_FESTIVAL_DOUBLED_TITLE: Время праздника
+  LABEL_RULESET_FESTIVAL_DOUBLED_DESCRIPTION: >
+    Фестивали становятся крупнее, поэтому бонусы за фестивали удваиваются.
+  LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Незабываемо!
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: >
+    Мы нашли дешевых рабов для строительства стадионов чемпионата мира.
+    Стадионы будут еще больше, так как бонусы чемпионата мира удваиваются.
+  LABEL_RULESET_WONDERS_FREED_TITLE: Недолго
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: >
+    Активисты смогли сорвать планы лоббистов, и принят указ,
+    возвращающий все чудеса на игровое поле.
+  LABEL_RULESET_ICEPACK_MELT_TITLE: 50 лет бездействия
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: >
+    Ледник растаял, и инвесторы увидели огромный потенциал.
+    Роскошный круиз заменяет ледник, и это будет стоить целое состояние.
+  LABEL_RULESET_TAXES_DOUBLED_TITLE: Принято единогласно
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: >
+    Принят новый закон, так как зарплаты правительству были недостаточны.
+    Для финансирования этих мер все налоги теперь удваиваются.
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Сделайте ставки
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: >
+    Бесплатный GPS для всех! Вы можете делать сколько угодно дублей!
+  LABEL_RULESET_HELICOPTER_CHASING_TITLE: Закон богатейшего
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: >
+    Введена новая система уголовного правосудия, предназначенная для снижения преступности!
+    Теперь вертолет всегда будет преследовать самого бедного игрока.
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Закон градостроительства
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: >
+    Государство вкладывает много в туризм, все отели получают дополнительную звезду (максимум 5 звезд).
+  LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Упс!
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: >
+    Увеличение преступности снижает стандарт ваших отелей.
+    Все отели теряют одну звезду (минимум - автодом).
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: Вот это да!
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: >
+    Полиция восстала, все защищенные клетки снова в игре.
+  LABEL_RULESET_FREE_MONEY_TITLE: Глобальная пандемия
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
+    Государство предоставляет гуманитарную помощь без различия.
+    Все игроки получают $100,000.
+  LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Время праздника!
+  LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: >
+    Новый фестиваль проводится в случайном городе.
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Неудержимо
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: >
+    Вертолет может преследовать несколько игроков одновременно.
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Недешево
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: >
+    Аренда всех чудес умножена на 10.
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Быстрое строительство
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: >
+    Благодаря исключению, 5-звездочные отели можно строить уже на первом круге.
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: О нет!
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: >
+    Вспыхнула забастовка, все 5-звездочные отели снова в игре.
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_TITLE: Труд должен быть хорошо оплачиваемым!
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: >
+    Зарплаты игроков удваиваются.
+  LABEL_RULESET_HOTEL_WORTHLESS_TITLE: Новый стандарт
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: >
+    Впервые приняты новые стандарты отелей.
+    Все отели и автодома теряют свою ценность.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_TITLE: Движение вперед
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_DESCRIPTION: >
+    В следующем ходе, вместо того чтобы бросать кости, вы передвигаетесь на одну клетку вперед.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Движение назад
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: >
+    В следующем ходе, вместо того чтобы бросать кости, вы передвигаетесь на одну клетку назад.
+  LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Всё меняется
+  LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: >
+    Теперь возможно выкупать чудеса других игроков.
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: Всё меняется
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: >
+    Теперь возможно выкупать 5-звездочные отели других игроков.
+
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: >
+    Организовать Кубок мира
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: >
+    Отменить Кубок мира
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: >
+    Организовать фестиваль
+  LABEL_CASE_ACTION_FREE_PROPERTY: >
+    Недвижимость освобождена
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: >
+    Аренда недвижимости отключена
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: >
+    Недвижимость защищена
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: >
+    Отель улучшен
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: >
+    Гостиница понижена
+  LABEL_CASE_ACTION_STEAL_PROPERTY: >
+    Смена владельца недвижимости
+  LABEL_CASE_ACTION_SELL_PROPERTY: >
+    Недвижимость продана
+  LABEL_CASE_ACTION_BUILD_PROPERTY: >
+    Недвижимость построена
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: >
+    Аренда недвижимости включена
