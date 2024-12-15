@@ -1,0 +1,804 @@
+pt-br:
+  BUTTON_APPLY: Aplicar
+  BUTTON_AUTOMATIC_SELL: Venda automática
+  BUTTON_BANKRUPT: Falência
+  BUTTON_BUY: Comprar
+  BUTTON_BUY_BACK: Recomprar
+  BUTTON_CANCEL: Cancelar
+  BUTTON_CLASSIC: Regras clássicas
+  BUTTON_CLOSE: Fechar
+  BUTTON_CREATE_GAME: Criar sala
+  BUTTON_FEEDBACK: Dar feedback
+  BUTTON_INVITE: Convidar
+  BUTTON_JOIN: Entrar
+  BUTTON_JOIN_GAME: Entrar em uma sala
+  BUTTON_KEEP_WATCHING: Continuar assistindo
+  BUTTON_LANGUAGE: Idioma
+  BUTTON_LAN_TYPE: Jogo local
+  BUTTON_LEAVE_GAME_CANCEL: Não, quero ficar
+  BUTTON_LEAVE_GAME_CONFIRM: Sim, quero sair
+  BUTTON_LOOK_FOR_PLAYER: Procurar oponentes
+  BUTTON_MAIN_MENU: Menu principal
+  BUTTON_OK: Ok
+  BUTTON_ONLINE_TYPE: Jogo online
+  BUTTON_OPTIONS: Opções
+  BUTTON_ORIGINAL: Regras originais
+  BUTTON_PAY: Pagar
+  BUTTON_PAY_TICKET: Comprar passagem
+  BUTTON_PLAY_CARD: Jogar carta
+  BUTTON_QUIT: Sair
+  BUTTON_READY: Pronto!
+  BUTTON_REFRESH: Atualizar
+  BUTTON_REFUSE_TICKET: Recusar
+  BUTTON_RESET_WORLDCUP: Cancelar a Copa do Mundo
+  BUTTON_SELL: Vender
+  BUTTON_SET_WORLD_CUP: Organizar a Copa do Mundo
+  BUTTON_SPLIT_SCREEN_TYPE: Tela dividida
+  BUTTON_START_PLAYING: Jogar!
+  BUTTON_THROW_DICES: Lançar os dados
+  BUTTON_USE_CARD: Usar carta
+  BUTTON_WISHLIST: Adicionar à lista de desejos
+  CREATING_LOBBY: Criando sala
+  GAME_COMPLETE: Jogo completo
+  GAME_RECONNECTED: Reconectado ao jogo
+  GAME_RECONNECTING: Reconectando ao jogo
+  IN_GAME: Em jogo
+  JOINNING_LOBBY: Entrando na sala
+  LABEL_1_HOSTEL: Hotel 5 estrelas
+  LABEL_1_HOUSE: Hotel 1 estrela
+  LABEL_1_WONDER: Uma maravilha
+  LABEL_2_HOUSE: Hotel 2 estrelas
+  LABEL_2_WONDER: Duas maravilhas
+  LABEL_3_HOUSE: Hotel 3 estrelas
+  LABEL_3_WONDER: Três maravilhas
+  LABEL_4_HOUSE: Hotel 4 estrelas
+  LABEL_4_WONDER: Quatro maravilhas
+  LABEL_AIRPORT_DESCRIPTION: |
+    Você tem a opção de voar para a localização vaga de sua escolha. 
+  LABEL_ALMOST_MONOPOLE_SIDE: |
+    [center][b]%s[/b] está próximo de um monopólio linear[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: |
+    [center][b]%s[/b] está próximo de um monopólio das maravilhas[/center]
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: Sessão cancelada pelo usuário.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: Sessão inválida.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: Sessão já utilizada.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_NETWORK_IDENTITY_FAILURE: Problema de rede
+  LABEL_AUTH_SESSION_RESPONSE_LOGGED_IN_ELSEWHERE: Você está conectado em outro lugar.
+  LABEL_AUTH_SESSION_RESPONSE_NO_LICENSE_OR_EXPIRED: Você não possui o jogo.
+  LABEL_AUTH_SESSION_RESPONSE_OK: Sessão OK.
+  LABEL_AUTH_SESSION_RESPONSE_PUBLISHER_ISSUED_BAN: Conta banida.
+  LABEL_AUTH_SESSION_RESPONSE_USER_NOT_CONNECTED_TO_STEAM: Não conectado ao Steam.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: Banido pelo VAC.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: Verificação VAC expirou.
+  LABEL_BALANCED_SHADOW: Balanceadas
+  LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Pedido duplicado
+  LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Ticket expirado
+  LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Jogo incompatível
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Ticket inválido
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Versão inválida
+  LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Ticket válido
+  LABEL_BUY_BACK_VALUE: Pode ser recomprado por $%s
+  LABEL_BUY_BUILD: Comprar uma construção
+  LABEL_BUY_COSTS: Custos de compra
+  LABEL_BUY_FOR: Comprar por $%s
+  LABEL_BUY_NOTHING: Não comprar nada
+  LABEL_BUY_WONDER: Comprar uma maravilha
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: >
+    Invasores estão sob seu controle, você pode
+    usá-los para diminuir a classificação de um hotel.
+
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_0_TITLE: Polícia Nacional
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: >
+    Um grupo de pessoas te considera um profeta e
+    você pode indicar uma cidade para eles ocuparem.
+
+    A cidade não gerará aluguel por %s rodadas.
+
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_10_TITLE: Coincidência do destino
+  LABEL_CARD_ANARCHY_11_DESCRIPTION: |
+    Você pode jogar esta carta para trazer uma Maravilha de volta ao jogo.
+    O proprietário perde a maravilha instantaneamente.
+
+    Por favor, selecione uma maravilha. 
+  LABEL_CARD_ANARCHY_11_TITLE: Decisão injusta
+  LABEL_CARD_ANARCHY_1_DESCRIPTION: |
+    O tabelião gosta de você. Ele sugere liberar uma cidade de sua escolha.
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_1_TITLE: Cartório
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: |
+    Esperto como você é, consegue passar despercebido onde quer que vá.
+    Isso permite que você roube uma cidade de um jogador.
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_2_TITLE: Oficial de Justiça
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+    Um reality show se instalou em uma de suas cidades.
+    Eles começam grandes obras para melhorar um hotel para você.
+
+    Por favor, selecione uma cidade. 
+  LABEL_CARD_ANARCHY_3_TITLE: MOVE O ÔNIBUS
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: >
+    Você força um de seus colegas a jogar na bolsa
+    para que ele perca um quarto de seu dinheiro em espécie.
+
+
+    Por favor, selecione um jogador.
+  LABEL_CARD_ANARCHY_4_TITLE: Jogar tem seus riscos
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: >
+    Você força um de seus colegas a mudar para o
+    modo de tributação proporcional.
+
+    Quando ele cair na casa de Impostos & Taxas, pagará um imposto proporcional a seus ativos financeiros.
+
+
+    Por favor, selecione um jogador.
+  LABEL_CARD_ANARCHY_5_TITLE: Finanças públicas
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: >
+    O prefeito de sua região gosta de você e
+    disponibiliza um regimento policial completo para proteger uma de suas
+    cidades de possíveis desastres.
+
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_6_TITLE: Segurança territorial
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: >
+    Você força um de seus colegas a mudar para o
+    modo de tributação fixa.
+
+    Quando ele cair na casa de Impostos & Taxas, deverá pagar uma quantia fixa de $%s.
+
+
+    Por favor, selecione um jogador.
+  LABEL_CARD_ANARCHY_7_TITLE: Finanças públicas
+  LABEL_CARD_ANARCHY_8_DESCRIPTION: |
+    Há uma greve dos lixeiros, sem aluguel nesta rodada.
+
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_8_TITLE: Sindicatos
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+    Um festival espontâneo auto-organizado invade uma cidade.
+
+    Por favor, selecione uma de suas propriedades.
+  LABEL_CARD_ANARCHY_9_TITLE: Festival de música
+  LABEL_CARD_RANDOM_0_DESCRIPTION: |
+    Erro a seu favor, o banco paga dividendos de $%s.
+  LABEL_CARD_RANDOM_0_TITLE: Banco
+  LABEL_CARD_RANDOM_10_DESCRIPTION: >
+    Você consegue cancelar a próxima Copa do Mundo, ela volta para sua casa base.
+  LABEL_CARD_RANDOM_10_TITLE: Comitê Mundial da Diversão
+  LABEL_CARD_RANDOM_11_DESCRIPTION: |
+    Um bom samaritano decidiu te dar férias.
+    Você não precisa pagar o próximo aluguel.
+  LABEL_CARD_RANDOM_11_TITLE: Bom Samaritano
+  LABEL_CARD_RANDOM_12_DESCRIPTION: >
+    Um de seus inquilinos dá o calote, e o banco
+    cobra o próximo aluguel em seu lugar. 
+  LABEL_CARD_RANDOM_12_TITLE: Inquilinos Infelizes
+  LABEL_CARD_RANDOM_1_DESCRIPTION: |
+    Vá para %s.
+  LABEL_CARD_RANDOM_1_TITLE: Agência de viagens
+  LABEL_CARD_RANDOM_2_DESCRIPTION: |
+    Por favor, volte %s casas.
+  LABEL_CARD_RANDOM_2_TITLE: Agência de viagens
+  LABEL_CARD_RANDOM_3_DESCRIPTION: |
+    Você se perdeu novamente. Tudo ao seu redor é gelo até onde a vista alcança.
+    Não há dúvida, você está na banquisa.
+  LABEL_CARD_RANDOM_3_TITLE: A Banquisa
+  LABEL_CARD_RANDOM_4_DESCRIPTION: >
+    Você está curtindo muito, convidando todos os
+    amigos, mas o próximo aluguel será dobrado.
+  LABEL_CARD_RANDOM_4_TITLE: Férias
+  LABEL_CARD_RANDOM_5_DESCRIPTION: >
+    Você recebeu um GPS e um telefone via satélite.
+    Com isso, você pode encontrar seu caminho em qualquer lugar, até na
+    banquisa.
+
+
+    Use esta carta para escapar da banquisa.
+  LABEL_CARD_RANDOM_5_TITLE: Que sorte!
+  LABEL_CARD_RANDOM_6_DESCRIPTION: |
+    Você está jogando na bolsa de valores, e não está dando certo para você.
+    Você perde imediatamente um quarto do seu dinheiro em espécie.
+  LABEL_CARD_RANDOM_6_TITLE: Jogar tem seus riscos
+  LABEL_CARD_RANDOM_7_DESCRIPTION: >
+    Você muda para o modo de tributação
+    proporcional.
+
+    Quando você cair na casa de Impostos & Taxas, pagará um imposto proporcional ao seu patrimônio financeiro.
+  LABEL_CARD_RANDOM_7_TITLE: Finanças públicas
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
+    Você muda para o modo de tributação fixa.
+    Quando você cair na casa de Impostos & Taxas, pagará um valor fixo de $%s.
+  LABEL_CARD_RANDOM_8_TITLE: Finanças públicas
+  LABEL_CARD_RANDOM_9_DESCRIPTION: >
+    Streamers famosos organizam uma campanha sem
+    fins lucrativos em seu nome, você recebe $%s.
+  LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CASE_ACTION_BUILD_PROPERTY: |
+    Propriedade construída
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
+    Cancelar a Copa do Mundo
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: |
+    Aluguel da propriedade desativado
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: |
+    Hotel rebaixado
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: |
+    Aluguel da propriedade ativado 
+  LABEL_CASE_ACTION_FREE_PROPERTY: |
+    Propriedade liberada
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: |
+    Organizar um festival
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: |
+    Organizar a Copa do Mundo
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: |
+    Propriedade protegida
+  LABEL_CASE_ACTION_SELL_PROPERTY: |
+    Propriedade vendida
+  LABEL_CASE_ACTION_STEAL_PROPERTY: |
+    Proprietário da propriedade mudou
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: |
+    Hotel melhorado
+  LABEL_CASE_AIRPORT: Aeroporto
+  LABEL_CASE_ALGER: Argel
+  LABEL_CASE_BEGIN: Início
+  LABEL_CASE_BERLIN: Berlim
+  LABEL_CASE_BOMBAY: Bombaim
+  LABEL_CASE_BUENOSAIRES: Buenos Aires
+  LABEL_CASE_CASABLANCA: Casablanca
+  LABEL_CASE_DAKAR: Dakar
+  LABEL_CASE_FESTIVAL: Festival
+  LABEL_CASE_HONGKONG: Hong Kong
+  LABEL_CASE_ICEPACK: Banquisa
+  LABEL_CASE_JAKARTA: Jacarta
+  LABEL_CASE_KINSHASA: Kinshasa
+  LABEL_CASE_LECAIRE: Cairo
+  LABEL_CASE_LONDRES: Londres
+  LABEL_CASE_LOSANGELES: Los Angeles
+  LABEL_CASE_MADRID: Madri
+  LABEL_CASE_MEXICO: Cidade do México
+  LABEL_CASE_MONTREAL: Montreal
+  LABEL_CASE_MOSCOU: Moscou
+  LABEL_CASE_NEWYORK: Nova York
+  LABEL_CASE_NO_RENT: Sem aluguel
+  LABEL_CASE_PARIS: Paris
+  LABEL_CASE_PEKIN: Pequim
+  LABEL_CASE_PRISON: Prisão
+  LABEL_CASE_PROTECTED: Protegido
+  LABEL_CASE_ROME: Roma
+  LABEL_CASE_SAOPOLO: São Paulo
+  LABEL_CASE_SEOUL: Seul
+  LABEL_CASE_TAXES: Impostos
+  LABEL_CASE_TOKYO: Tóquio
+  LABEL_CASE_WHEEL: Roleta
+  LABEL_CASE_WONDER: Maravilha
+  LABEL_CASE_WORLDCUP: Copa do Mundo
+  LABEL_CLICK_TO_VOTE: Clique para votar
+  LABEL_COMPUTER_PLAYER: Jogador computador
+  LABEL_DEMO_EMBARGO: >
+    Pedimos que você respeite o embargo do jogo. Vídeos e
+    streams não são permitidos até o fim dos testes. Agradecemos sua cooperação!
+  LABEL_DEMO_VERSION: Fortune Avenue DEMO
+  LABEL_DETAILED_SHADOW: Detalhadas
+  LABEL_DICE_DOUBLE: Duplo
+  LABEL_DISABLED: Desativado
+  LABEL_DOUBLE_RENT_MONOPOLY: |
+    Os aluguéis são dobrados se você tiver um monopólio
+  LABEL_ERROR_DIALOG_DESCRIPTION: |
+    Impossível criar ou entrar em um jogo.
+  LABEL_ERROR_DIALOG_TITLE: Erro
+  LABEL_HUMAN_PLAYER: Jogador humano
+  LABEL_ICEPACKED_ANNOUNCE: >
+    [b]Você está preso na banquisa[/b], que azar.
+
+
+    Para escapar, você pode tentar [b]fazer um número duplo[/b]. Ou pode escolher pagar [b]$%s[/b] e sair agora mesmo.
+
+    Se você tem um cartão [b]Fuga da Banquisa[/b], agora é hora de usá-lo.
+  LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
+    Você está aqui há muito tempo, não pode mais esperar.
+    Você decide pagar [b]$%s[/b] para sair deste inferno gelado.
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: >
+    As férias são tão divertidas.
+
+    O [b]cruzeiro de luxo[/b] se aproxima de um porto e te deixa seguir sua vida.
+
+
+    Você paga [b]$%s[/b] e desembarca imediatamente.
+
+    Se você tem um cartão [b]Fuga da Banquisa[/b], agora é hora de usá-lo.
+  LABEL_ICEPACKING_ANNOUNCE: >
+    Em sua jornada, você vai vagar, cercado por gelo,
+    apenas gelo.
+
+    [b]Você está perdido na banquisa![/b]
+
+
+    Uma coisa é certa, você não vai receber seu salário.
+
+    A menos que peça ajuda e pague uma conta de [b]$%s[/b], caso contrário, receio que ficará preso aqui.
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    Você chegou ao Polo Norte! Não há mais gelo no horizonte!
+    Um [b]cruzeiro de luxo[/b] logo te resgata e te leva a bordo.
+
+    Você aproveita para se divertir.
+    Claro, isso não é de graça e vai custar [b]$%s[/b].
+  LABEL_IP_ADDRESS: Endereço IP
+  LABEL_KIKIMETER_MOST_AIRPLANE: Rei do céu
+  LABEL_KIKIMETER_MOST_DOUBLE: Mestre dos dados
+  LABEL_KIKIMETER_MOST_ICEPACK: Pinguim de plantão
+  LABEL_KIKIMETER_MOST_KILLER: Exterminador de amigos
+  LABEL_KIKIMETER_MOST_LAP: Rato de corrida
+  LABEL_KIKIMETER_MOST_RENT: Gastador compulsivo
+  LABEL_LAND_FREE: Disponível
+  LABEL_LAND_ONLY: Uma caravana
+  LABEL_LAPS: Volta(s)
+  LABEL_LEADERBOARD: Placar
+  LABEL_LEAVE_GAME_DESCRIPTION: >
+    Sair agora resultará na perda do seu progresso
+    atual e desconectará você da experiência multiplayer em andamento. Seus
+    colegas jogadores podem ser afetados por sua saída.
+
+
+    [center][b]Tem certeza que quer sair?[/b][/center]
+  LABEL_LEAVE_GAME_TITLE: |
+    Saindo do Fortune Avenue
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Vote nas regras ✦
+    Lance os dados ✦
+    Construa hotéis ✦
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    Como jogar?
+    ‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Arruine seus oponentes ✔
+    Compre todas as maravilhas ✔
+    Seja dono de um lado inteiro do tabuleiro ✔
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    Como ganhar?
+    ‾‾‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    Quando o tempo acabar, se a sala não estiver cheia,
+    as vagas vazias serão preenchidas por computadores
+  LABEL_LOBBY_FILLING_TIMED_OUT: >
+    [b]O tempo acabou![/b]
+
+
+    Não conseguimos encontrar jogadores para sua partida.
+
+    Considere jogar com jogadores controlados pelo computador para começar imediatamente
+  LABEL_LOBBY_NAME: Nome da sala
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    Quando o tempo acabar, se a sala não estiver cheia,
+    não inicie o jogo e desbloqueie a sala
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    Você não conseguiu pagar {ps}o banco{pe}, você está em {ps}FALÊNCIA{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Após uma perseguição incrível, {ps}o helicóptero{pe} finalmente te pegou!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    Você não conseguiu pagar {killer_name}, você está em {ps}FALÊNCIA{pe}!
+  LABEL_LOCAL_PLAYER_LOST_TITLE: Você perdeu!
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Voltar ao menu principal
+  LABEL_MINUTES: minutos
+  LABEL_NEW_RENT: "Novo aluguel: $%s"
+  LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
+    Você não pode jogar esta carta pois não há espaços disponíveis.
+  LABEL_NO_EFFECT_TO_PLAYER: |
+    Você não pode jogar esta carta pois ela não afetará nenhum jogador. 
+  LABEL_NO_HOTEL_AVAILABLE_DESCRIPTION: |
+    Você não pode jogar esta carta pois não há hotéis disponíveis.
+  LABEL_NO_LOBBY: Nenhuma sala disponível
+  LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
+    Você não pode jogar esta carta pois não há propriedades disponíveis.
+  LABEL_NO_SIGNAL: Sem sinal
+  LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
+    Você não pode jogar esta carta pois não há maravilhas disponíveis.
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Número de voltas sem aluguel
+  LABEL_NUMBER_OF_PLAYERS: Número de jogadores
+  LABEL_OPENGL_RENDERER: "Renderizador: OpenGL (EXPERIMENTAL)"
+  LABEL_OPTION_AUDIO: Configurações de áudio
+  LABEL_OPTION_AUTOFILL_LOBBY: Preencher com jogadores computador
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Rotação do centro do tabuleiro
+  LABEL_OPTION_BRIGHTNESS: Brilho
+  LABEL_OPTION_CAMERA: Câmera
+  LABEL_OPTION_CAMERA_FIXED: Não seguir jogadores
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Seguir jogadores (rotação)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Seguir jogadores (movimento)
+  LABEL_OPTION_CAMERA_INVERTED: Câmera invertida
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Câmera semi-automática
+  LABEL_OPTION_DISABLE_SURROUNDING: Desativar arredores
+  LABEL_OPTION_FX: Efeitos sonoros
+  LABEL_OPTION_GAMEPLAY: Configurações de jogabilidade
+  LABEL_OPTION_LANGUAGE: Idioma
+  LABEL_OPTION_LOBBY_WAIT_TIME: Tempo limite da sala
+  LABEL_OPTION_MISC: Configurações diversas
+  LABEL_OPTION_MUSIC: Música
+  LABEL_OPTION_RENDERER: Renderizador
+  LABEL_OPTION_RESOLUTION: Resolução
+  LABEL_OPTION_TITLE: Opções
+  LABEL_OPTION_TUTORIEL: Tutorial
+  LABEL_OPTION_VIDEO: Configurações gráficas
+  LABEL_OPTION_WINDOW: Modo janela
+  LABEL_PAY: Pagar $%s
+  LABEL_PAY_RENT: Aluguel
+  LABEL_PLAYER_BANKRUPT: Falência
+  LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
+    Por favor, selecione a casa que você quer desativar.
+  LABEL_PLAYER_DISABLE_CASE_TITLE: Desativar a casa
+  LABEL_PLAYER_DISCONNECTED: Jogador desconectado
+  LABEL_PLAYER_DOWNGRADE_HOTEL_DESCRIPTION: |
+    Por favor, selecione o hotel que você quer rebaixar.
+  LABEL_PLAYER_DOWNGRADE_HOTEL_TITLE: Rebaixar um hotel
+  LABEL_PLAYER_END_OF_TURN: Fim do turno
+  LABEL_PLAYER_FREE_PROPERTY_DESCRIPTION: |
+    Por favor, selecione a propriedade que você quer devolver ao mercado.
+  LABEL_PLAYER_FREE_PROPERTY_TITLE: Liberar uma propriedade
+  LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
+    Por favor, selecione a maravilha que você quer devolver ao mercado.
+  LABEL_PLAYER_FREE_WONDER_TITLE: Liberar uma maravilha
+  LABEL_PLAYER_ICEPACKED: Você está preso no gelo
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: Um cruzeiro de luxo!
+  LABEL_PLAYER_LOST: Perdeu
+  LABEL_PLAYER_MONOPOLY: Monopólio
+  LABEL_PLAYER_MOVE_TO_CASE_DESCRIPTION: |
+    Por favor, selecione a casa para onde você quer ir.
+  LABEL_PLAYER_MOVE_TO_CASE_TITLE: Mover-se
+  LABEL_PLAYER_MOVING_TOKEN: Movendo peça
+  LABEL_PLAYER_NAME: Nome do jogador
+  LABEL_PLAYER_PLAYING_CARD: Jogando carta
+  LABEL_PLAYER_PLAYING_CASE: Jogando casa
+  LABEL_PLAYER_PROTECT_CASE_DESCRIPTION: |
+    Por favor, selecione a propriedade que você quer proteger.
+  LABEL_PLAYER_PROTECT_CASE_TITLE: Proteção
+  LABEL_PLAYER_ROLL_WHEEL: Girando a roleta
+  LABEL_PLAYER_SELL_PROPERTY: Vendendo propriedades
+  LABEL_PLAYER_SET_FESTIVAL_DESCRIPTION: |
+    Por favor, selecione o local para organizar um festival.
+  LABEL_PLAYER_SET_FESTIVAL_TITLE: Festival
+  LABEL_PLAYER_SET_WORLD_CUP_DESCRIPTION: |
+    Por favor, selecione o local da próxima Copa do Mundo.
+  LABEL_PLAYER_SET_WORLD_CUP_TITLE: Copa do Mundo
+  LABEL_PLAYER_STEAL_PROPERTY_DESCRIPTION: |
+    Por favor, selecione a propriedade que você quer roubar.
+  LABEL_PLAYER_STEAL_PROPERTY_TITLE: Roubo de propriedade
+  LABEL_PLAYER_THROWING_DICE: Lançando dados
+  LABEL_PLAYER_TYPE: Tipo
+  LABEL_PLAYER_UPGRADE_HOTEL_DESCRIPTION: |
+    Por favor, selecione o hotel que você quer melhorar.
+  LABEL_PLAYER_UPGRADE_HOTEL_TITLE: Melhorar um hotel
+  LABEL_PLAYER_WAITING: Aguardando
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} é o {ps}último jogador de pé{pe}!
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} acabou de fazer um {ws}{rs}MONOPÓLIO{re}{we}!
+  LABEL_PLAYER_WON_TITLE: "{name} venceu o jogo!"
+  LABEL_PRESS_ANY_BUTTON: Pressione para continuar
+  LABEL_PROGRESS_NEXT_VOTE: Próxima votação
+  LABEL_PROPERTY_RENT: Aluguel
+  LABEL_REAL_ESTATE_ASSET_VALUE: Valor do imóvel
+  LABEL_REMAINING_TURN: Turnos restantes
+  LABEL_REMOTE_PLAYER: Jogador remoto
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} não conseguiu pagar {ps}o banco{pe}, {name} está em {ps}FALÊNCIA{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: >
+    Após uma perseguição incrível, {ps}o helicóptero{pe} finalmente pegou {name}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} não conseguiu pagar {killer_name}, {name} está em {ps}FALÊNCIA{pe}!
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} perdeu!"
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
+    GPS grátis para todos! Você pode fazer quantos números duplos quiser!
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Faça suas apostas
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: >
+    Graças a uma isenção especial,
+    hotéis 5 estrelas podem ser construídos já na primeira volta.
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Rapidinho
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
+    Agora é possível comprar os hotéis 5 estrelas de outros jogadores.
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: Isso muda tudo
+  LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
+    Agora é possível comprar as maravilhas de outros jogadores.
+  LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Isso muda tudo
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: >
+    Morar em caravanas virou moda,
+    consequentemente os aluguéis das caravanas custam tanto quanto um hotel 5
+    estrelas
+  LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Vida cigana
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: >
+    O custo de vida aumentou, e para
+    manter o estilo de vida indecente dos proprietários, todos os aluguéis de
+    hotéis foram dobrados.
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Injustiça social
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
+    Os salários dos jogadores são dobrados.
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_TITLE: Todo trabalho merece boa recompensa!
+  LABEL_RULESET_FESTIVAL_DOUBLED_DESCRIPTION: |
+    Os festivais cresceram, então os bônus dos festivais foram dobrados
+  LABEL_RULESET_FESTIVAL_DOUBLED_TITLE: Hora da festa
+  LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
+    Um novo festival acontece em uma cidade aleatória.
+  LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Hora da festa!
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: >
+    Uma revolta trabalhista
+    acontece, todos os hotéis 5 estrelas voltam ao mercado.
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: Ah não!
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
+    O governo fornece ajuda humanitária sem
+    distinção. Todos os jogadores recebem $100.000
+  LABEL_RULESET_FREE_MONEY_TITLE: Pandemia global
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
+    O helicóptero pode perseguir vários jogadores ao mesmo tempo
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Imparável
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: >
+    Um novo sistema de justiça
+    criminal foi introduzido para reduzir o crime! A partir de agora, o
+    helicóptero sempre perseguirá o jogador mais pobre.
+  LABEL_RULESET_HELICOPTER_CHASING_TITLE: Lei do mais rico
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: >
+    A criminalidade aumenta, o que reduz
+    o padrão dos seus hotéis. Todos os hotéis perdem uma estrela (mínimo uma
+    caravana).
+  LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Ops!
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: >
+    O governo investe muito em
+    turismo, todos os hotéis ganham uma estrela (máximo 5 estrelas)
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Lei de urbanismo
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: >
+    Os padrões de construção estão
+    mudando, na revenda, os hotéis não valem mais nada. Apenas os terrenos
+    mantêm seu valor.
+  LABEL_RULESET_HOTEL_WORTHLESS_TITLE: Novo padrão
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: >
+    O gelo derreteu, e os investidores viram
+    um potencial enorme. Um cruzeiro de luxo substitui a banquisa, e vai custar
+    os olhos da cara.
+  LABEL_RULESET_ICEPACK_MELT_TITLE: 50 anos de inação
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
+    Na próxima rodada, em vez de lançar os dados, você volta uma casa.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Retrocedendo
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_DESCRIPTION: |
+    Na próxima rodada, em vez de lançar os dados, você avança uma casa.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_TITLE: Avançando
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
+    A polícia se rebela, todas as propriedades protegidas voltam ao jogo 
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: Puxa vida!
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: >
+    Uma nova lei acabou de ser aprovada, o
+    salário do governo estava insuficiente. Para financiar essas novas medidas,
+    todos os impostos agora são dobrados.
+  LABEL_RULESET_TAXES_DOUBLED_TITLE: Aprovado por unanimidade
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: >
+    Ativistas conseguiram frustrar os
+    planos dos lobistas, e um decreto foi aprovado, trazendo todas as maravilhas
+    de volta ao jogo.
+  LABEL_RULESET_WONDERS_FREED_TITLE: Não vai durar
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
+    Os aluguéis de todas as maravilhas são multiplicados por 10. 
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Nada barato
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: >
+    Encontramos mão de obra barata para
+    construir os estádios da Copa. Os estádios serão ainda maiores, resultando
+    em bônus dobrados da Copa.
+  LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Inesquecível!
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: >
+    Você não tem dinheiro suficiente
+    para pagar, precisa vender uma ou mais propriedades.
+  LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Dinheiro necessário
+  LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Dinheiro restante
+  LABEL_SELECT_CITY_TO_SELL_TITLE: Selecione uma propriedade para vender
+  LABEL_SIMPLE_SHADOW: Simples
+  LABEL_STEAM_BUSY: Steam ocupado, tente novamente mais tarde
+  LABEL_STEAM_QUERYING: Consultando Steam
+  LABEL_STEAM_READY: Pressione qualquer tecla
+  LABEL_STEAM_WAITING: Conectando ao Steam...
+  LABEL_TAXES_FORFAIT_DESCRIPTION: |
+    Você precisa pagar a [b]Taxa Fixa[/b].
+    Esta [b]taxa aumenta em +{raw_costs}[/b] a cada pagamento.
+  LABEL_TAXES_FORFAIT_TITLE: Impostos Fixos
+  LABEL_TAXES_PROPORTIONAL_TITLE: Impostos Proporcionais
+  LABEL_TEAM_NUMBER: Equipe
+  LABEL_TOO_EXPENSIVE: Você não tem dinheiro suficiente para comprar isso.
+  LABEL_TURN: Turno
+  LABEL_TURN_BEFORE_ELIMINATION: "%s turno(s) antes da eliminação"
+  LABEL_TUTORIEL_DICE: >
+    Clique e segure enquanto move o mouse para agitar os dados.
+    Solte para lançá-los.
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Clique nos botões para selecionar o tipo de oponente
+    que você quer enfrentar. Escolha entre jogador, computador ou fechar a vaga.
+  LABEL_TUTORIEL_RULESET: >
+    Vote em uma regra. Depois que todos votarem, a regra com
+    mais votos será aplicada. Em caso de empate, uma regra será escolhida
+    aleatoriamente.
+  LABEL_TUTORIEL_WHEEL: >
+    Clique e segure enquanto move o mouse para girar a roleta.
+    Solte para lançá-la.
+  LABEL_WANTED_DESCRIPTION: Vivo ou morto
+  LABEL_WANTED_TITLE: Procurado
+  LABEL_WINDOW_FULLSCREEN: Tela cheia
+  LABEL_WINDOW_WINDOWED: Janela
+  LABEL_WONDER_CHRIST_THE_REDEEMER: Cristo Redentor
+  LABEL_WONDER_COLISEE: Coliseu
+  LABEL_WONDER_PYRAMIDS: Pirâmides
+  LABEL_WONDER_TAJ_MAHAL: Taj Mahal
+  LABEL_WONDER_LIGHTHOUSE: Grande Farol
+  LABEL_WONDER_FORBIDDEN_CITY: Cidade Proibida
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Building
+  LABEL_WONDER_BRANDBURG_GATE: Portão de Brandem-burgo
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: >
+    Parabéns por ganhar o direito de escolher
+    onde será a Copa do Mundo!
+
+    Se a Copa do Mundo estiver acontecendo em outro lugar, ela será automaticamente movida para o local de sua escolha.
+
+    Você só pode colocar a Copa do Mundo em uma propriedade que você possui.
+
+    Se você não possui nenhuma propriedade, deve cancelar a Copa do Mundo.
+  LABEL_WORLDCUP_TITLE: Copa do Mundo
+  LOBBY_CREATED: Sala criada
+  LOBBY_JOINED: Entrou na sala
+  LOBBY_LOCKED: Sala bloqueada
+  LOBBY_LOOKING_FOR_LOBBY: Procurando sala
+  LOBBY_MERGING: Fundindo salas
+  LOBBY_READY: Sala pronta
+  LOBBY_READY_CREATING_ROOM: Criando servidor
+  LOBBY_READY_JOINING_ROOM: Entrando no servidor
+  LOBBY_READY_ROOM_CREATED: Servidor criado
+  LOBBY_READY_ROOM_JOINED: Entrou no servidor
+  LOBBY_READY_WAITING_ROOM: Aguardando criação do servidor
+  LOBBY_WAITING_FOR_PLAYER: Aguardando jogador(es)
+  LOCAL_OPTION_ANTI_ALIASING: Anti-aliasing
+  LOCAL_OPTION_SHADOW: Sombras
+  LOCKING_LOBBY: Bloqueando sala
+  NO_LOBBY: Sem sala
+  ROOM_READY: Servidor pronto
+  ROOM_WAITING_FOR_CONFIGURATION: Aguardando configuração do servidor
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Não é possível recomprar um hotel 5 estrelas
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Dinheiro insuficiente para recomprar
+  TOOLTIP_BUY_BACK_WONDER: |
+    Não é possível recomprar uma maravilha
+  TOOLTIP_CARD_DOUBLE_RENT: |
+    Seu próximo aluguel é dobrado
+  TOOLTIP_CARD_FREE_RENT: |
+    Seu próximo aluguel é grátis
+  TOOLTIP_CARD_ICEPACK: |
+    Um cartão e um GPS para sair do gelo sem pagar
+  TOOLTIP_CARD_NO_RENT: |
+    O banco cobra o próximo aluguel em seu lugar
+  TOOLTIP_CARD_TAX_FORFAIT_MODE: |
+    Modo de imposto fixo.
+    Você sempre paga o mesmo valor
+  TOOLTIP_CARD_TAX_PROPORTIONAL_MODE: |
+    Modo de imposto proporcional.
+    Quanto mais propriedades você tiver, mais pagará
+  TOOLTIP_CLOSED_SLOT: Slot fechado (sem jogador)
+  TOOLTIP_COMPUTER_SLOT: Slot fechado (jogador computador)
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: >
+    É preciso completar uma volta completa para
+    construir um hotel 4 ou 5 estrelas
+  TOOLTIP_HELICOPTER_DESCRIPTION: >
+    Após %s turnos, o helicóptero elimina apenas o
+    jogador mais pobre com menos de %s.
+
+    O contador só reinicia após uma eliminação
+  TOOLTIP_HUMAN_SLOT: Slot disponível (jogador humano)
+  TOOLTIP_INVALID_LOBBY: |
+    É impossível iniciar um jogo com apenas um jogador.
+    Além disso, se houver um jogador computador (não humano) no jogo,
+    então para iniciar o jogo cada slot disponível já deve estar
+    ocupado por um jogador humano.
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: >
+    A busca por oponentes online está
+    desativada se um jogador computador estiver presente.
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    São necessários pelo menos 2 jogadores para iniciar um jogo
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
+    O jogador que mais viajou de avião
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: |
+    O jogador que conseguiu mais números duplos
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: |
+    O jogador que passou mais tempo no gelo
+  TOOLTIP_KIKIMETER_MOST_KILLER: |
+    O jogador que eliminou mais oponentes
+  TOOLTIP_KIKIMETER_MOST_LAP: |
+    O jogador que completou mais voltas no tabuleiro
+  TOOLTIP_KIKIMETER_MOST_RENT: |
+    O jogador que gastou mais dinheiro
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    Desculpe, ocorreu um problema de sincronização de rede.
+
+    [b]Fortune Avenue está tentando sincronizar agora.[/b]
+    Isso deve levar apenas alguns momentos.
+    Enquanto isso, verifique se você está conectado à Internet.
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Aluguéis das suas propriedades +%s por volta
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    A busca por jogadores às vezes pode demorar um pouco.
+    Se você quiser começar seu jogo imediatamente, considere adicionar
+    jogadores controlados por computador para preencher a sala.
+
+    É uma ótima maneira de começar a jogar imediatamente. 
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Você foi banido pelo Steam VAC.
+    Você não pode jogar com jogadores aleatórios. 
+  TOOL_NEED_STEAM_OVERLAY: |
+    A sobreposição do Steam é necessária para usar este recurso
+
+  LABEL_LOADING_1: "Esperando Godot... como sempre"
+  LABEL_LOADING_2: "Viciando os dados a seu favor (brincadeira)"
+  LABEL_LOADING_3: "Ensinando helicópteros a perseguir jogadores pobres"
+  LABEL_LOADING_4: "Derretendo icebergs... aquecimento global não incluído"
+  LABEL_LOADING_5: "Calculando as chances de tirar números iguais"
+  LABEL_LOADING_6: "Inflacionando preços de hotéis a níveis absurdos"
+  LABEL_LOADING_7: "Organizando festivais improvisados"
+  LABEL_LOADING_8: "Subornando o comitê da Copa do Mundo"
+  LABEL_LOADING_9: "Contando o dinheiro do Monopoly (duas vezes, pra ter certeza)"
+  LABEL_LOADING_10: "Treinando pinguins para missões de resgate"
+  LABEL_LOADING_11: "Agendando cruzeiros de luxo para jogadores ilhados"
+  LABEL_LOADING_12: "Instalando anti-gravidade no avião"
+  LABEL_LOADING_13: "Ensinando física à Roda da Fortuna"
+  LABEL_LOADING_14: "Polindo o Cristo Redentor"
+  LABEL_LOADING_15: "Garantindo que o Taj Mahal esteja taj-mahal-vilhoso"
+  LABEL_LOADING_16: "Tirando o pó das Pirâmides"
+  LABEL_LOADING_17: "Renovando o Coliseu (de novo)"
+  LABEL_LOADING_18: "Contratando bancários virtuais"
+  LABEL_LOADING_19: "Preparando sua ruína financeira"
+  LABEL_LOADING_20: "Carregando pesadelos capitalistas"
+  LABEL_LOADING_21: "Gerando desculpas aleatórias para falência"
+  LABEL_LOADING_22: "Ensinando a IA a ser impiedosa"
+  LABEL_LOADING_23: "Calculando estratégias ótimas de exploração de aluguel"
+  LABEL_LOADING_24: "Preparando cartas de 'Sorte' (nada é realmente sorte)"
+  LABEL_LOADING_25: "Instalando ejetores nos hotéis de luxo"
+  LABEL_LOADING_26: "Redistribuindo riqueza (brincadeira, isso é Monopoly)"
+  LABEL_LOADING_27: "Certificando que dinheiro não cresce em árvores"
+  LABEL_LOADING_28: "Preparando seu caminho para a falência"
+  LABEL_LOADING_29: "Carregando propriedades que você não pode pagar"
+  LABEL_LOADING_30: "Ensinando trailers a se transformarem em hotéis 5 estrelas"
+  LABEL_LOADING_31: "Preparando desastres financeiros"
+  LABEL_LOADING_32: "Carregando bolha imobiliária virtual"
+  LABEL_LOADING_33: "Garantindo que o banco sempre ganhe"
+  LABEL_LOADING_34: "Calculando juros compostos (não a seu favor)"
+  LABEL_LOADING_35: "Programando a IA para tomar decisões financeiras duvidosas"
+  LABEL_LOADING_36: "Preparando apertos de mão com banqueiros suspeitos"
+  LABEL_LOADING_37: "Carregando estratégias agressivas de aquisição"
+  LABEL_LOADING_38: "Ensinando dados a rolar dramaticamente"
+  LABEL_LOADING_39: "Garantindo que hotéis estejam desalinhados em exatamente um pixel"
+  LABEL_LOADING_40: "Preparando maneiras interessantes de perder dinheiro"
+  LABEL_LOADING_41: "Carregando teorias econômicas que não funcionam na vida real"
+  LABEL_LOADING_42: "Gerando mensagens de carregamento espirituosas"
+  LABEL_LOADING_43: "Verificando se o RNG é realmente aleatório (será?)"
+  LABEL_LOADING_44: "Preparando escrituras virtuais"
+  LABEL_LOADING_45: "Carregando simulador de capitalismo v2.0"
+  LABEL_LOADING_46: "Ensinando coreografia de perseguição aos helicópteros"
+  LABEL_LOADING_47: "Preparando sua jornada para a ruína"
+  LABEL_LOADING_48: "Garantindo que o cruzeiro seja suficientemente luxuoso"
+  LABEL_LOADING_49: "Calculando estratégias ótimas de destruição de amizades"
+  LABEL_LOADING_50: "Carregando... porque podemos"
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Desistir do Fortune Avenue
+  LABEL_GIVE_UP_GAME_DESCRIPTION: >
+    Desistir agora resultará na perda do seu progresso atual e desconexão da experiência multiplayer em andamento. Sua saída pode afetar outros jogadores.
+
+
+    [center][b]Tem certeza que quer desistir?[/b][/center]
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
+    Você decidiu {ps}DESISTIR{pe} do jogo!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
+    {name} acabou de {ps}DESISTIR{pe} do jogo!
+  BUTTON_GIVE_UP: Desistir
+  LABEL_CARD_RANDOM_13_TITLE: Uma bela herança
+  LABEL_CARD_RANDOM_13_DESCRIPTION: >
+    Parabéns, seu tio-avô acabou de lhe deixar um de seus hotéis.
+  LABEL_CARD_RANDOM_14_TITLE: Criminalidade aumentando
+  LABEL_CARD_RANDOM_14_DESCRIPTION: >
+    A criminalidade está aumentando em uma de suas cidades, o prefeito enviou um regimento policial para protegê-la.
+  LABEL_CARD_RANDOM_15_TITLE: Auditoria fiscal
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    Você está passando por uma auditoria fiscal surpresa.
+    Avance até os impostos.

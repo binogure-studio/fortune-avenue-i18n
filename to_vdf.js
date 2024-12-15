@@ -3,12 +3,11 @@ const fs = require('fs')
 const path = require('path')
 
 const langMatch = {
-  de: 'german',
+  cs: 'czech',
   en: 'english',
   es: 'spanish',
-  ja: 'japanese',
-  ko: 'korean',
-  pt: 'portuguese',
+  pl: 'polish',
+  'pt-br': 'brazilian',
   fr: 'french',
   ru: 'russian',
   tr: 'turkish',

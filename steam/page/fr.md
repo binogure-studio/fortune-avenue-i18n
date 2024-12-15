@@ -32,6 +32,4 @@ Fortune Avenue offre plusieurs modes de jeu. Vous pouvez jouer tout seul contre 
 
 Fortune Avenue est le fruit de plusieurs années de travail d'un seul être vivant, enfin un seul être humain. Sauf pour la bande son qui a été composé par un groupe de musique Montréalais exceptionnel!
 
-Je suis heureux de recevoir des commentaires constructifs de toutes sortes, alors n'hésitez pas à me contacter ! Je ferais de mon mieux pour répondre rapidement aux messages et résoudre les problèmes qui se présenteront. :) 
-
-https://store.steampowered.com/app/1810050/Fortune_Avenue/
+Je suis heureux de recevoir des commentaires constructifs de toutes sortes, alors n'hésitez pas à me contacter ! Je ferais de mon mieux pour répondre rapidement aux messages et résoudre les problèmes qui se présenteront. :)

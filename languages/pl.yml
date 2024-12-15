@@ -1,0 +1,795 @@
+pl:
+  BUTTON_APPLY: Zastosuj
+  BUTTON_AUTOMATIC_SELL: Automatyczna sprzedaż
+  BUTTON_BANKRUPT: Bankructwo
+  BUTTON_BUY: Kup
+  BUTTON_BUY_BACK: Odkup
+  BUTTON_CANCEL: Anuluj
+  BUTTON_CLASSIC: Klasyczne zasady
+  BUTTON_CLOSE: Zamknij
+  BUTTON_CREATE_GAME: Utwórz lobby
+  BUTTON_FEEDBACK: Opinia
+  BUTTON_INVITE: Zaproś
+  BUTTON_JOIN: Dołącz
+  BUTTON_JOIN_GAME: Dołącz do lobby
+  BUTTON_KEEP_WATCHING: Kontynuuj oglądanie
+  BUTTON_LANGUAGE: Język
+  BUTTON_LAN_TYPE: Gra lokalna
+  BUTTON_LEAVE_GAME_CANCEL: Nie, chcę zostać
+  BUTTON_LEAVE_GAME_CONFIRM: Tak, chcę wyjść
+  BUTTON_LOOK_FOR_PLAYER: Szukaj przeciwników
+  BUTTON_MAIN_MENU: Menu główne
+  BUTTON_OK: OK
+  BUTTON_ONLINE_TYPE: Gra online
+  BUTTON_OPTIONS: Opcje
+  BUTTON_ORIGINAL: Oryginalne zasady
+  BUTTON_PAY: Zapłać
+  BUTTON_PAY_TICKET: Kup bilet
+  BUTTON_PLAY_CARD: Zagraj kartę
+  BUTTON_QUIT: Wyjście
+  BUTTON_READY: Gotowy!
+  BUTTON_REFRESH: Odśwież
+  BUTTON_REFUSE_TICKET: Odmów
+  BUTTON_RESET_WORLDCUP: Anuluj mistrzostwa świata
+  BUTTON_SELL: Sprzedaj
+  BUTTON_SET_WORLD_CUP: Zorganizuj mistrzostwa świata
+  BUTTON_SPLIT_SCREEN_TYPE: Podzielony ekran
+  BUTTON_START_PLAYING: Graj!
+  BUTTON_THROW_DICES: Rzuć kostkami
+  BUTTON_USE_CARD: Użyj karty
+  BUTTON_WISHLIST: Dodaj do listy życzeń
+  CREATING_LOBBY: Tworzenie lobby
+  GAME_COMPLETE: Gra zakończona
+  GAME_RECONNECTED: Połączono ponownie z grą
+  GAME_RECONNECTING: Ponowne łączenie z grą
+  IN_GAME: W grze
+  JOINNING_LOBBY: Dołączanie do lobby
+  LABEL_1_HOSTEL: Wielki hotel
+  LABEL_1_HOUSE: Hotel 1-gwiazdkowy
+  LABEL_1_WONDER: Jeden cud
+  LABEL_2_HOUSE: Hotel 2-gwiazdkowy
+  LABEL_2_WONDER: Dwa cuda
+  LABEL_3_HOUSE: Hotel 3-gwiazdkowy
+  LABEL_3_WONDER: Trzy cuda
+  LABEL_4_HOUSE: Hotel 4-gwiazdkowy
+  LABEL_4_WONDER: Cztery cuda
+  LABEL_AIRPORT_DESCRIPTION: |
+    Masz możliwość polecieć na wybrane wolne pole.
+  LABEL_ALMOST_MONOPOLE_SIDE: |
+    [center][b]%s[/b] ma prawie monopol liniowy[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: |
+    [center][b]%s[/b] ma prawie monopol na cuda[/center]
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: Sesja anulowana przez użytkownika.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: Nieprawidłowa sesja.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: Sesja już wykorzystana.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_NETWORK_IDENTITY_FAILURE: Problem z siecią
+  LABEL_AUTH_SESSION_RESPONSE_LOGGED_IN_ELSEWHERE: Zalogowano gdzie indziej.
+  LABEL_AUTH_SESSION_RESPONSE_NO_LICENSE_OR_EXPIRED: Nie posiadasz gry.
+  LABEL_AUTH_SESSION_RESPONSE_OK: Sesja OK.
+  LABEL_AUTH_SESSION_RESPONSE_PUBLISHER_ISSUED_BAN: Konto zbanowane.
+  LABEL_AUTH_SESSION_RESPONSE_USER_NOT_CONNECTED_TO_STEAM: Nie połączono ze Steam.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: Zbanowany przez VAC.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: Przekroczono czas sprawdzania VAC.
+  LABEL_BALANCED_SHADOW: Zbalansowane
+  LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Zduplikowane żądanie
+  LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Bilet wygasł
+  LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Niezgodność gry
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Nieprawidłowy bilet
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Nieprawidłowa wersja
+  LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Prawidłowy bilet
+  LABEL_BUY_BACK_VALUE: Może być odkupione za $%s
+  LABEL_BUY_BUILD: Kup budynek
+  LABEL_BUY_COSTS: Koszty zakupu
+  LABEL_BUY_FOR: Kup za $%s
+  LABEL_BUY_NOTHING: Nie kupuj nic
+  LABEL_BUY_WONDER: Kup cud
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: >
+    Squattersi są pod twoją kontrolą, możesz ich
+    wykorzystać do obniżenia standardu hotelu.
+
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_0_TITLE: Policja Państwowa
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+    Grupa ludzi bierze cię za proroka i możesz wskazać im miasto do zajęcia.
+    Miasto nie będzie generować czynszu przez %s tur.
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_10_TITLE: Zbieg Okoliczności
+  LABEL_CARD_ANARCHY_11_DESCRIPTION: |
+    Możesz zagrać tę kartę, aby przywrócić Cud do gry.
+    Właściciel natychmiast traci cud.
+
+    Proszę wybrać cud.
+  LABEL_CARD_ANARCHY_11_TITLE: Niesprawiedliwy Wyrok
+  LABEL_CARD_ANARCHY_1_DESCRIPTION: |
+    Notariusz cię lubi. Proponuje uwolnić wybrane przez ciebie miasto.
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_1_TITLE: Kancelaria Notarialna
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: >
+    Sprytny jak jesteś, udaje ci się pozostać
+    niezauważonym gdziekolwiek się udasz.
+
+    Pozwala ci to ukraść miasto jednemu z graczy.
+
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_2_TITLE: Komornik
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+    Program reality show zawitał do jednego z twoich miast.
+    Rozpoczynają duże projekty budowlane, aby ulepszyć twój hotel.
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_3_TITLE: RUSZ AUTOBUSEM
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: >
+    Zmuszasz jednego ze swoich towarzyszy do gry
+    na giełdzie, aby stracił jedną czwartą swojej gotówki.
+
+
+    Proszę wybrać gracza.
+  LABEL_CARD_ANARCHY_4_TITLE: Hazard niesie ryzyko
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: >
+    Zmuszasz jednego ze swoich towarzyszy do
+    przejścia na tryb opodatkowania proporcjonalnego.
+
+    Gdy wyląduje na polu Podatki & Opłaty, zapłaci podatek proporcjonalny do swojego majątku.
+
+
+    Proszę wybrać gracza.
+  LABEL_CARD_ANARCHY_5_TITLE: Finanse Publiczne
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: >
+    Prefekt twojego regionu cię lubi i udostępnia
+    cały regiment policji, aby chronić jedno z twoich miast przed potencjalnymi
+    katastrofami.
+
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_6_TITLE: Bezpieczeństwo Terytorialne
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: >
+    Zmuszasz jednego ze swoich towarzyszy do
+    przejścia na tryb opodatkowania ryczałtowego.
+
+    Gdy wyląduje na polu Podatki & Opłaty, będzie musiał zapłacić stałą kwotę $%s.
+
+
+    Proszę wybrać gracza.
+  LABEL_CARD_ANARCHY_7_TITLE: Finanse Publiczne
+  LABEL_CARD_ANARCHY_8_DESCRIPTION: |
+    Jest strajk śmieciarzy, żadnego czynszu w tej turze.
+
+    Proszę wybrać miasto.
+  LABEL_CARD_ANARCHY_8_TITLE: Związki Zawodowe
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+    Spontaniczny, samoorganizujący się festiwal pojawia się w jednym z miast.
+
+    Proszę wybrać jedną z twoich nieruchomości.
+  LABEL_CARD_ANARCHY_9_TITLE: Festiwal Muzyczny
+  LABEL_CARD_RANDOM_0_DESCRIPTION: |
+    Błąd na twoją korzyść, bank wypłaca ci dywidendę w wysokości $%s.
+  LABEL_CARD_RANDOM_0_TITLE: Bank
+  LABEL_CARD_RANDOM_10_DESCRIPTION: |
+    Udaje ci się anulować następne Mistrzostwa Świata, wracają na pole bazowe.
+  LABEL_CARD_RANDOM_10_TITLE: Światowy Komitet Zabawy
+  LABEL_CARD_RANDOM_11_DESCRIPTION: |
+    Dobry samarytanin postanowił zafundować ci wakacje.
+    Nie płacisz następnego czynszu.
+  LABEL_CARD_RANDOM_11_TITLE: Dobry Samarytanin
+  LABEL_CARD_RANDOM_12_DESCRIPTION: >
+    Jeden z twoich najemców cię zawiódł, bank
+    pobierze następny czynsz w twoim imieniu.
+  LABEL_CARD_RANDOM_12_TITLE: Niezadowoleni Najemcy
+  LABEL_CARD_RANDOM_1_DESCRIPTION: |
+    Udaj się do %s.
+  LABEL_CARD_RANDOM_1_TITLE: Biuro Podróży
+  LABEL_CARD_RANDOM_2_DESCRIPTION: |
+    Proszę cofnij się o %s pól.
+  LABEL_CARD_RANDOM_2_TITLE: Biuro Podróży
+  LABEL_CARD_RANDOM_3_DESCRIPTION: |
+    Znowu się zgubiłeś. Wokół ciebie lód jak okiem sięgnąć.
+    Bez wątpienia jesteś na krze.
+  LABEL_CARD_RANDOM_3_TITLE: Kra
+  LABEL_CARD_RANDOM_4_DESCRIPTION: >
+    Bawisz się świetnie, zapraszasz wszystkich
+    przyjaciół, następny czynsz będzie podwojony.
+  LABEL_CARD_RANDOM_4_TITLE: Wakacje
+  LABEL_CARD_RANDOM_5_DESCRIPTION: >
+    Otrzymujesz GPS i telefon satelitarny. Z nimi
+    możesz znaleźć drogę wszędzie, nawet na krze.
+
+
+    Użyj tej karty, aby uciec z kry.
+  LABEL_CARD_RANDOM_5_TITLE: W samą porę!
+  LABEL_CARD_RANDOM_6_DESCRIPTION: |
+    Grasz na giełdzie i nie idzie ci najlepiej.
+    Natychmiast tracisz jedną czwartą swojej gotówki.
+  LABEL_CARD_RANDOM_6_TITLE: Hazard niesie ryzyko
+  LABEL_CARD_RANDOM_7_DESCRIPTION: >
+    Przechodzisz na tryb opodatkowania
+    proporcjonalnego.
+
+    Gdy wylądujesz na polu Podatki & Opłaty, zapłacisz podatek proporcjonalny do twojego majątku.
+  LABEL_CARD_RANDOM_7_TITLE: Finanse Publiczne
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
+    Przechodzisz na tryb opodatkowania ryczałtowego.
+    Gdy wylądujesz na polu Podatki & Opłaty, zapłacisz stałą kwotę $%s.
+  LABEL_CARD_RANDOM_8_TITLE: Finanse Publiczne
+  LABEL_CARD_RANDOM_9_DESCRIPTION: >
+    Znani streamerzy organizują kampanię non-profit
+    w twoim imieniu, otrzymujesz $%s.
+  LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CASE_ACTION_BUILD_PROPERTY: |
+    Wybudowano na nieruchomości
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
+    Anuluj mistrzostwa świata
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: |
+    Wyłączono czynsz nieruchomości
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: |
+    Obniżono standard hotelu
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: |
+    Włączono czynsz nieruchomości
+  LABEL_CASE_ACTION_FREE_PROPERTY: |
+    Uwolniono nieruchomość
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: |
+    Organizuj festiwal
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: |
+    Organizuj mistrzostwa świata
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: |
+    Chroniona nieruchomość
+  LABEL_CASE_ACTION_SELL_PROPERTY: |
+    Sprzedano nieruchomość
+  LABEL_CASE_ACTION_STEAL_PROPERTY: |
+    Zmieniono właściciela nieruchomości
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: |
+    Ulepszono hotel
+  LABEL_CASE_AIRPORT: Lotnisko
+  LABEL_CASE_ALGER: Algier
+  LABEL_CASE_BEGIN: Start
+  LABEL_CASE_BERLIN: Berlin
+  LABEL_CASE_BOMBAY: Bombaj
+  LABEL_CASE_BUENOSAIRES: Buenos Aires
+  LABEL_CASE_CASABLANCA: Casablanca
+  LABEL_CASE_DAKAR: Dakar
+  LABEL_CASE_FESTIVAL: Festiwal
+  LABEL_CASE_HONGKONG: Hong Kong
+  LABEL_CASE_ICEPACK: Kra
+  LABEL_CASE_JAKARTA: Dżakarta
+  LABEL_CASE_KINSHASA: Kinszasa
+  LABEL_CASE_LECAIRE: Kair
+  LABEL_CASE_LONDRES: Londyn
+  LABEL_CASE_LOSANGELES: Los Angeles
+  LABEL_CASE_MADRID: Madryt
+  LABEL_CASE_MEXICO: Meksyk
+  LABEL_CASE_MONTREAL: Montreal
+  LABEL_CASE_MOSCOU: Moskwa
+  LABEL_CASE_NEWYORK: Nowy Jork
+  LABEL_CASE_NO_RENT: Brak czynszu
+  LABEL_CASE_PARIS: Paryż
+  LABEL_CASE_PEKIN: Pekin
+  LABEL_CASE_PRISON: Więzienie
+  LABEL_CASE_PROTECTED: Chronione
+  LABEL_CASE_ROME: Rzym
+  LABEL_CASE_SAOPOLO: São Paulo
+  LABEL_CASE_SEOUL: Seul
+  LABEL_CASE_TAXES: Podatki
+  LABEL_CASE_TOKYO: Tokio
+  LABEL_CASE_WHEEL: Koło
+  LABEL_CASE_WONDER: Cud
+  LABEL_CASE_WORLDCUP: Mistrzostwa Świata
+  LABEL_CLICK_TO_VOTE: Kliknij, aby zagłosować
+  LABEL_COMPUTER_PLAYER: Gracz komputerowy
+  LABEL_DEMO_EMBARGO: >
+    Prosimy o przestrzeganie embarga na grę. Nagrywanie i
+    streamowanie jest zabronione do końca playtestów. Dziękujemy za współpracę!
+  LABEL_DEMO_VERSION: Fortune Avenue DEMO
+  LABEL_DETAILED_SHADOW: Szczegółowe
+  LABEL_DICE_DOUBLE: Dublet
+  LABEL_DISABLED: Wyłączony
+  LABEL_DOUBLE_RENT_MONOPOLY: |
+    Czynsze są podwojone, jeśli masz monopol.
+  LABEL_ERROR_DIALOG_DESCRIPTION: |
+    Nie można utworzyć lub dołączyć do gry.
+  LABEL_ERROR_DIALOG_TITLE: Błąd
+  LABEL_HUMAN_PLAYER: Gracz ludzki
+  LABEL_ICEPACKED_ANNOUNCE: >
+    [b]Jesteś uwięziony na krze[/b], to naprawdę pech.
+
+
+    Aby uciec, możesz spróbować [b]wyrzucić dublet[/b]. Lub możesz zdecydować się zapłacić [b]$%s[/b] i wyjść natychmiast.
+
+    Jeśli masz kartę [b]Ucieczka z Kry[/b], teraz jest czas, aby ją zagrać.
+  LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
+    Za długo tu byłeś, nie możesz dłużej czekać.
+    Decydujesz się zapłacić [b]$%s[/b], aby wydostać się z tego lodowego piekła.
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    Wakacje są takie przyjemne.
+    [b]Luksusowy statek[/b] zbliża się do portu i pozwala ci wrócić do życia.
+
+    Płacisz [b]$%s[/b] i natychmiast schodzisz na ląd.
+    Jeśli masz kartę [b]Ucieczka z Kry[/b], teraz jest czas, aby ją zagrać.
+  LABEL_ICEPACKING_ANNOUNCE: >
+    Podczas podróży zbłądziłeś. Wokół ciebie jest tylko
+    lód, sam lód.
+
+    [b]Zgubiłeś się na krze![/b]
+
+
+    Jedno jest pewne, nie dostaniesz swojej wypłaty.
+
+    Chyba że wezwiesz pomoc i zapłacisz rachunek w wysokości [b]$%s[/b], w przeciwnym razie obawiam się, że utkniesz tutaj.
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    Dotarłeś na biegun północny! Nie ma już lodu na horyzoncie!
+    [b]Luksusowy statek[/b] wkrótce cię zabierze na pokład.
+
+    Korzystasz z okazji, aby dobrze się bawić.
+    Oczywiście to nie jest za darmo i będzie kosztować [b]$%s[/b].
+  LABEL_IP_ADDRESS: Adres IP
+  LABEL_KIKIMETER_MOST_AIRPLANE: Król przestworzy
+  LABEL_KIKIMETER_MOST_DOUBLE: Mistrz kostek
+  LABEL_KIKIMETER_MOST_ICEPACK: Pingwin na służbie
+  LABEL_KIKIMETER_MOST_KILLER: Likwidator przyjaciół
+  LABEL_KIKIMETER_MOST_LAP: Chomik koła
+  LABEL_KIKIMETER_MOST_RENT: Wielki wydawca
+  LABEL_LAND_FREE: Dostępne
+  LABEL_LAND_ONLY: Przyczepa kempingowa
+  LABEL_LAPS: Okrążenie(a)
+  LABEL_LEADERBOARD: Tablica wyników
+  LABEL_LEAVE_GAME_DESCRIPTION: >
+    Opuszczenie gry teraz spowoduje utratę obecnego
+    postępu i rozłączenie z trwającą rozgrywką wieloosobową. Twoje odejście może
+    wpłynąć na innych graczy.
+
+
+    [center][b]Czy na pewno chcesz wyjść?[/b][/center]
+  LABEL_LEAVE_GAME_TITLE: |
+    Opuszczanie Fortune Avenue
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Głosuj na zasady ✦
+    Rzucaj kostkami ✦
+    Buduj hotele ✦
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    Jak grać?
+    ‾‾‾‾‾‾‾‾
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Zrujnuj przeciwników ✔
+    Kup wszystkie cuda ✔
+    Posiadaj całą stronę planszy ✔
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    Jak wygrać?
+    ‾‾‾‾‾‾‾‾‾‾
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    Gdy czas się skończy, jeśli lobby nie jest pełne,
+    puste miejsca zostaną wypełnione komputerami
+  LABEL_LOBBY_FILLING_TIMED_OUT: |
+    [b]Czas minął![/b]
+
+    Nie znaleźliśmy graczy do twojej gry.
+    Rozważ grę z komputerowymi przeciwnikami, aby rozpocząć natychmiast
+  LABEL_LOBBY_NAME: Nazwa lobby
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    Gdy czas się skończy, jeśli lobby nie jest pełne,
+    nie rozpoczynaj gry i odblokuj lobby
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    Nie mogłeś zapłacić {ps}bankowi{pe}, jesteś {ps}BANKRUTEM{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Po niesamowitym pościgu {ps}helikopter{pe} w końcu cię złapał!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    Nie mogłeś zapłacić {killer_name}, jesteś {ps}BANKRUTEM{pe}!
+  LABEL_LOCAL_PLAYER_LOST_TITLE: Przegrałeś!
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Powrót do menu głównego
+  LABEL_MINUTES: minuty
+  LABEL_NEW_RENT: "Nowy czynsz: $%s"
+  LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
+    Nie możesz zagrać tej karty, ponieważ nie ma dostępnych pól.
+  LABEL_NO_EFFECT_TO_PLAYER: |
+    Nie możesz zagrać tej karty, ponieważ nie wpłynie ona na żadnego gracza.
+  LABEL_NO_HOTEL_AVAILABLE_DESCRIPTION: |
+    Nie możesz zagrać tej karty, ponieważ nie ma dostępnych hoteli.
+  LABEL_NO_LOBBY: Brak dostępnego lobby
+  LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
+    Nie możesz zagrać tej karty, ponieważ nie ma dostępnych nieruchomości.
+  LABEL_NO_SIGNAL: Brak sygnału
+  LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
+    Nie możesz zagrać tej karty, ponieważ nie ma dostępnych cudów.
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Liczba okrążeń bez czynszu
+  LABEL_NUMBER_OF_PLAYERS: Liczba graczy
+  LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EKSPERYMENTALNY)"
+  LABEL_OPTION_AUDIO: Ustawienia dźwięku
+  LABEL_OPTION_AUTOFILL_LOBBY: Wypełnij komputerami
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Rotacja środka planszy
+  LABEL_OPTION_BRIGHTNESS: Jasność
+  LABEL_OPTION_CAMERA: Kamera
+  LABEL_OPTION_CAMERA_FIXED: Nie śledź gracza
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Śledź gracza (obrót)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Śledź gracza (przesunięcie)
+  LABEL_OPTION_CAMERA_INVERTED: Odwrócona kamera
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Półautomatyczna kamera
+  LABEL_OPTION_DISABLE_SURROUNDING: Wyłącz otoczenie
+  LABEL_OPTION_FX: Efekty
+  LABEL_OPTION_GAMEPLAY: Ustawienia rozgrywki
+  LABEL_OPTION_LANGUAGE: Język
+  LABEL_OPTION_LOBBY_WAIT_TIME: Limit czasu lobby
+  LABEL_OPTION_MISC: Różne ustawienia
+  LABEL_OPTION_MUSIC: Muzyka
+  LABEL_OPTION_RENDERER: Renderer
+  LABEL_OPTION_RESOLUTION: Rozdzielczość
+  LABEL_OPTION_TITLE: Opcje
+  LABEL_OPTION_TUTORIEL: Samouczek
+  LABEL_OPTION_VIDEO: Ustawienia graficzne
+  LABEL_OPTION_WINDOW: Tryb okna
+  LABEL_PAY: Zapłać $%s
+  LABEL_PAY_RENT: Czynsz
+  LABEL_PLAYER_BANKRUPT: Bankructwo
+  LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
+    Proszę wybrać pole do wyłączenia.
+  LABEL_PLAYER_DISABLE_CASE_TITLE: Wyłącz pole
+  LABEL_PLAYER_DISCONNECTED: Gracz rozłączony
+  LABEL_PLAYER_DOWNGRADE_HOTEL_DESCRIPTION: |
+    Proszę wybrać hotel, którego standard chcesz obniżyć.
+  LABEL_PLAYER_DOWNGRADE_HOTEL_TITLE: Obniż standard hotelu
+  LABEL_PLAYER_END_OF_TURN: Koniec tury
+  LABEL_PLAYER_FREE_PROPERTY_DESCRIPTION: |
+    Proszę wybrać nieruchomość, którą chcesz przywrócić na rynek.
+  LABEL_PLAYER_FREE_PROPERTY_TITLE: Uwolnij nieruchomość
+  LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
+    Proszę wybrać cud, który chcesz przywrócić na rynek.
+  LABEL_PLAYER_FREE_WONDER_TITLE: Uwolnij cud
+  LABEL_PLAYER_ICEPACKED: Utknąłeś na krze
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: Luksusowy rejs!
+  LABEL_PLAYER_LOST: Przegrał
+  LABEL_PLAYER_MONOPOLY: Monopol
+  LABEL_PLAYER_MOVE_TO_CASE_DESCRIPTION: |
+    Proszę wybrać pole, na które chcesz się przesunąć.
+  LABEL_PLAYER_MOVE_TO_CASE_TITLE: Ruch
+  LABEL_PLAYER_MOVING_TOKEN: Ruch pionkiem
+  LABEL_PLAYER_NAME: Nazwa gracza
+  LABEL_PLAYER_PLAYING_CARD: Zagrywanie karty
+  LABEL_PLAYER_PLAYING_CASE: Zagrywanie pola
+  LABEL_PLAYER_PROTECT_CASE_DESCRIPTION: |
+    Proszę wybrać nieruchomość do ochrony.
+  LABEL_PLAYER_PROTECT_CASE_TITLE: Ochrona
+  LABEL_PLAYER_ROLL_WHEEL: Kręć kołem
+  LABEL_PLAYER_SELL_PROPERTY: Sprzedaż własności
+  LABEL_PLAYER_SET_FESTIVAL_DESCRIPTION: |
+    Proszę wybrać miejsce do organizacji festiwalu.
+  LABEL_PLAYER_SET_FESTIVAL_TITLE: Festiwal
+  LABEL_PLAYER_SET_WORLD_CUP_DESCRIPTION: |
+    Proszę wybrać lokalizację dla następnych Mistrzostw Świata.
+  LABEL_PLAYER_SET_WORLD_CUP_TITLE: Mistrzostwa Świata
+  LABEL_PLAYER_STEAL_PROPERTY_DESCRIPTION: |
+    Proszę wybrać nieruchomość, którą chcesz ukraść.
+  LABEL_PLAYER_STEAL_PROPERTY_TITLE: Kradzież nieruchomości
+  LABEL_PLAYER_THROWING_DICE: Rzut kostkami
+  LABEL_PLAYER_TYPE: Typ
+  LABEL_PLAYER_UPGRADE_HOTEL_DESCRIPTION: |
+    Proszę wybrać hotel, który chcesz ulepszyć.
+  LABEL_PLAYER_UPGRADE_HOTEL_TITLE: Ulepsz hotel
+  LABEL_PLAYER_WAITING: Czeka
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} jest {ps}ostatnim stojącym graczem{pe}!
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} właśnie zdobył {ws}{rs}MONOPOL{re}{we}!
+  LABEL_PLAYER_WON_TITLE: "{name} wygrał grę!"
+  LABEL_PRESS_ANY_BUTTON: Naciśnij, aby kontynuować
+  LABEL_PROGRESS_NEXT_VOTE: Następne głosowanie
+  LABEL_PROPERTY_RENT: Czynsz
+  LABEL_REAL_ESTATE_ASSET_VALUE: Wartość nieruchomości
+  LABEL_REMAINING_TURN: Pozostałe tury
+  LABEL_REMOTE_PLAYER: Gracz zdalny
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} nie mógł zapłacić {ps}bankowi{pe}, {name} jest {ps}BANKRUTEM{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Po niesamowitym pościgu {ps}helikopter{pe} w końcu złapał {name}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} nie mógł zapłacić {killer_name}, {name} jest {ps}BANKRUTEM{pe}!
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} przegrał!"
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
+    Darmowe GPS-y dla wszystkich! Możesz wyrzucić tyle dubletów, ile chcesz!
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Rozpocząć grę
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: >
+    Dzięki specjalnemu pozwoleniu,
+    hotele 5-gwiazdkowe można budować już w pierwszym okrążeniu.
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Szybko idzie
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
+    Teraz możliwe jest odkupienie hoteli 5-gwiazdkowych od innych graczy.
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: To wszystko zmienia
+  LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
+    Teraz możliwe jest odkupienie cudów od innych graczy.
+  LABEL_RULESET_BUY_BACK_WONDERS_TITLE: To wszystko zmienia
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: >
+    Życie w przyczepie stało się modne,
+    w rezultacie czynsz za przyczepę kosztuje tyle samo co czynsz w hotelu
+    5-gwiazdkowym
+  LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Życie bohemy
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: >
+    Życie jest droższe, a aby utrzymać
+    niestosowny styl życia właścicieli, wszystkie hotele podwoiły swój czynsz.
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Niesprawiedliwość społeczna
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
+    Pensje graczy są podwojone.
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_TITLE: Dobra praca zasługuje na dobrą płacę!
+  LABEL_RULESET_FESTIVAL_DOUBLED_DESCRIPTION: |
+    Festiwale się rozrastają, więc bonusy festiwalowe są podwojone
+  LABEL_RULESET_FESTIVAL_DOUBLED_TITLE: Czas na imprezę
+  LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
+    Nowy festiwal odbywa się w losowym mieście.
+  LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Czas na imprezę!
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
+    Wybucha strajk robotniczy, wszystkie hotele 5-gwiazdkowe wracają do gry.
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: O nie!
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
+    Rząd zapewnia pomoc humanitarną bez
+    rozróżnienia. Wszyscy gracze otrzymują 100,000$
+  LABEL_RULESET_FREE_MONEY_TITLE: Światowa pandemia
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
+    Helikopter może ścigać kilku graczy jednocześnie
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Nie do zatrzymania
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: >
+    Wprowadzono nowy system wymiaru
+    sprawiedliwości mający na celu zmniejszenie przestępczości! Od teraz
+    helikopter zawsze będzie ścigał najbiedniejszego gracza.
+  LABEL_RULESET_HELICOPTER_CHASING_TITLE: Prawo najbogatszego
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: >
+    Wzrasta przestępczość, co obniża
+    standard twoich hoteli. Wszystkie hotele tracą jedną gwiazdkę (minimum
+    przyczepa).
+  LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Ups!
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: >
+    Rząd inwestuje dużo w turystykę,
+    wszystkie hotele zyskują dodatkową gwiazdkę (maksymalnie 5 gwiazdek)
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Prawo urbanistyczne
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: >
+    Zmieniają się standardy budowlane,
+    przy odsprzedaży hotele nie są już nic warte. Tylko grunty zachowują swoją
+    wartość.
+  LABEL_RULESET_HOTEL_WORTHLESS_TITLE: Nowy standard
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: >
+    Kra stopniała, a inwestorzy dostrzegli w
+    tym ogromny potencjał. Luksusowy rejs zastępuje krę i będzie kosztować
+    majątek.
+  LABEL_RULESET_ICEPACK_MELT_TITLE: 50 lat bezczynności
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
+    W następnej turze, zamiast rzucać kostkami, cofasz się o jedno pole.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Do tyłu
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_DESCRIPTION: >
+    W następnej turze, zamiast
+    rzucać kostkami, przesuwasz się o jedno pole do przodu.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_TITLE: Do przodu
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
+    Policja się buntuje, wszystkie chronione pola wracają do gry
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: O rety!
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: >
+    Właśnie przeszła nowa ustawa, pensje
+    rządowe były niewystarczające. Aby sfinansować te nowe środki, wszystkie
+    podatki są teraz podwojone.
+  LABEL_RULESET_TAXES_DOUBLED_TITLE: Przegłosowane jednogłośnie
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: >
+    Aktywiści zdołali pokrzyżować plany
+    lobbystów, wydano edykt przywracający wszystkie cuda do gry.
+  LABEL_RULESET_WONDERS_FREED_TITLE: Nie na długo
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
+    Czynsze za wszystkie cuda są pomnożone przez 10.
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Nie jest tanio
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: >
+    Znaleźliśmy tanią siłę roboczą do
+    budowy stadionów Mistrzostw Świata. Stadiony będą jeszcze większe, w
+    rezultacie bonusy Mistrzostw Świata są podwojone.
+  LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Niezapomniane!
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: >
+    Nie masz wystarczająco pieniędzy na
+    zapłatę, musisz sprzedać jedną lub więcej nieruchomości.
+  LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Potrzebna kwota
+  LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Pozostała kwota
+  LABEL_SELECT_CITY_TO_SELL_TITLE: Wybierz nieruchomość do sprzedaży
+  LABEL_SIMPLE_SHADOW: Proste
+  LABEL_STEAM_BUSY: Steam jest zajęty, spróbuj ponownie później
+  LABEL_STEAM_QUERYING: Odpytywanie Steam
+  LABEL_STEAM_READY: Naciśnij dowolny klawisz
+  LABEL_STEAM_WAITING: Łączenie ze Steam...
+  LABEL_TAXES_FORFAIT_DESCRIPTION: |
+    Musisz opłacić [b]Opłatę Ryczałtową[/b].
+    Ta [b]opłata wzrasta o +{raw_costs}[/b] przy każdej płatności.
+  LABEL_TAXES_FORFAIT_TITLE: Podatki Ryczałtowe
+  LABEL_TAXES_PROPORTIONAL_TITLE: Podatki Proporcjonalne
+  LABEL_TEAM_NUMBER: Drużyna
+  LABEL_TOO_EXPENSIVE: Nie masz wystarczająco pieniędzy, aby to kupić.
+  LABEL_TURN: Tura
+  LABEL_TURN_BEFORE_ELIMINATION: "%s tur(y) przed eliminacją"
+  LABEL_TUTORIEL_DICE: >
+    Naciśnij i przytrzymaj, poruszając myszą, aby potrząsnąć
+    kostkami. Puść, aby je rzucić.
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Użyj przycisków, aby wybrać typ przeciwnika, z którym
+    chcesz się zmierzyć. Wybierz między człowiekiem, komputerem lub zamkniętym
+    miejscem.
+  LABEL_TUTORIEL_RULESET: >
+    Zagłosuj na zasadę. Gdy wszyscy zagłosują, zasada z
+    największą liczbą głosów zostanie zastosowana. W przypadku remisu jedna
+    zasada zostanie wybrana losowo.
+  LABEL_TUTORIEL_WHEEL: >
+    Naciśnij i przytrzymaj, poruszając myszą, aby poruszyć
+    kołem. Puść, aby je zakręcić.
+  LABEL_WANTED_DESCRIPTION: Żywy lub martwy
+  LABEL_WANTED_TITLE: Poszukiwany
+  LABEL_WINDOW_FULLSCREEN: Pełny ekran
+  LABEL_WINDOW_WINDOWED: W oknie
+  LABEL_WONDER_CHRIST_THE_REDEEMER: Chrystus Odkupiciel
+  LABEL_WONDER_COLISEE: Koloseum
+  LABEL_WONDER_PYRAMIDS: Piramidy
+  LABEL_WONDER_TAJ_MAHAL: Tadź Mahal
+  LABEL_WONDER_LIGHTHOUSE: Wielka Latarnia
+  LABEL_WONDER_FORBIDDEN_CITY: Zakazane Miasto
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Building
+  LABEL_WONDER_BRANDBURG_GATE: Brama Branden-burska
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: >
+    Gratulacje, wygrałeś prawo do wyboru
+    lokalizacji Mistrzostw Świata!
+
+    Jeśli Mistrzostwa Świata miałyby się odbyć w innym miejscu, zostaną automatycznie przeniesione do wybranej przez ciebie lokalizacji.
+
+    Możesz umieścić Mistrzostwa Świata tylko na swojej własności.
+
+    Bez własności musisz anulować Mistrzostwa Świata.
+  LABEL_WORLDCUP_TITLE: Mistrzostwa Świata
+  LOBBY_CREATED: Utworzono lobby
+  LOBBY_JOINED: Dołączono do lobby
+  LOBBY_LOCKED: Lobby zablokowane
+  LOBBY_LOOKING_FOR_LOBBY: Szukanie lobby
+  LOBBY_MERGING: Łączenie lobby
+  LOBBY_READY: Lobby gotowe
+  LOBBY_READY_CREATING_ROOM: Tworzenie serwera
+  LOBBY_READY_JOINING_ROOM: Dołączanie do serwera
+  LOBBY_READY_ROOM_CREATED: Utworzono serwer
+  LOBBY_READY_ROOM_JOINED: Dołączono do serwera
+  LOBBY_READY_WAITING_ROOM: Oczekiwanie na utworzenie serwera
+  LOBBY_WAITING_FOR_PLAYER: Oczekiwanie na graczy
+  LOCAL_OPTION_ANTI_ALIASING: Antyaliasing
+  LOCAL_OPTION_SHADOW: Cienie
+  LOCKING_LOBBY: Blokowanie lobby
+  NO_LOBBY: Brak lobby
+  ROOM_READY: Serwer gotowy
+  ROOM_WAITING_FOR_CONFIGURATION: Oczekiwanie na konfigurację serwera
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Nie można odkupić hotelu 5-gwiazdkowego
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Za mało pieniędzy na odkupienie
+  TOOLTIP_BUY_BACK_WONDER: |
+    Nie można odkupić cudu
+  TOOLTIP_CARD_DOUBLE_RENT: |
+    Twój następny czynsz jest podwojony
+  TOOLTIP_CARD_FREE_RENT: |
+    Twój następny czynsz jest darmowy
+  TOOLTIP_CARD_ICEPACK: |
+    Karta i GPS do opuszczenia kry bez płacenia
+  TOOLTIP_CARD_NO_RENT: |
+    Bank pobiera następny czynsz w twoim imieniu
+  TOOLTIP_CARD_TAX_FORFAIT_MODE: |
+    Tryb podatku ryczałtowego.
+    Zawsze płacisz tę samą kwotę
+  TOOLTIP_CARD_TAX_PROPORTIONAL_MODE: |
+    Tryb podatku proporcjonalnego.
+    Im więcej własności posiadasz, tym więcej płacisz
+  TOOLTIP_CLOSED_SLOT: Zamknięte miejsce (brak gracza)
+  TOOLTIP_COMPUTER_SLOT: Zamknięte miejsce (gracz komputerowy)
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    Musisz wykonać pełne okrążenie, aby zbudować hotel 4 lub 5 gwiazdkowy
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    Po %s rundach helikopter eliminuje tylko najbiedniejszego gracza poniżej %s.
+    Licznik resetuje się tylko po eliminacji
+  TOOLTIP_HUMAN_SLOT: Dostępne miejsce (gracz ludzki)
+  TOOLTIP_INVALID_LOBBY: |
+    Nie można rozpocząć gry z jednym graczem.
+    Jeśli w grze jest gracz komputerowy,
+    wszystkie dostępne miejsca muszą być zajęte
+    przez graczy ludzkich, aby rozpocząć grę.
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: >
+    Wyszukiwanie przeciwników online jest
+    wyłączone gdy obecny jest gracz komputerowy.
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    Do rozpoczęcia gry potrzeba co najmniej 2 graczy
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
+    Gracz, który odbył najwięcej lotów
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: |
+    Gracz, który wyrzucił najwięcej dubletów
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: |
+    Gracz, który spędził najwięcej czasu na krze lodowej
+  TOOLTIP_KIKIMETER_MOST_KILLER: |
+    Gracz, który wyeliminował najwięcej przeciwników
+  TOOLTIP_KIKIMETER_MOST_LAP: |
+    Gracz, który wykonał najwięcej okrążeń
+  TOOLTIP_KIKIMETER_MOST_RENT: |
+    Gracz, który wydał najwięcej pieniędzy
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    Przepraszamy, wystąpił problem z synchronizacją sieciową.
+
+    [b]Fortune Avenue próbuje teraz ponownie zsynchronizować.[/b]
+    Powinno to zająć tylko chwilę.
+    W międzyczasie sprawdź, czy jesteś połączony z Internetem.
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Czynsz za twoje nieruchomości +%s za okrążenie
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    Wyszukiwanie graczy może czasem trochę potrwać.
+    Jeśli chcesz rozpocząć grę natychmiast, rozważ
+    dodanie komputerowych graczy do wypełnienia lobby.
+
+    To świetny sposób na natychmiastowe rozpoczęcie.
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Zostałeś zbanowany przez Steam VAC.
+    Nie możesz grać z losowymi graczami.
+  TOOL_NEED_STEAM_OVERLAY: |
+    Nakładka Steam jest wymagana do użycia tej funkcji
+
+  LABEL_LOADING_1: "Czekając na Godota... jak zwykle"
+  LABEL_LOADING_2: "Ustawianie kości (żartujemy)"
+  LABEL_LOADING_3: "Uczenie helikopterów ścigania biednych graczy"
+  LABEL_LOADING_4: "Topienie lodowca... bez globalnego ocieplenia"
+  LABEL_LOADING_5: "Obliczanie szans na wyrzucenie dubletów"
+  LABEL_LOADING_6: "Windowanie cen hoteli do absurdalnych poziomów"
+  LABEL_LOADING_7: "Organizowanie spontanicznych festiwali"
+  LABEL_LOADING_8: "Przekupywanie komitetu Mistrzostw Świata"
+  LABEL_LOADING_9: "Liczenie pieniędzy (podwójnie, dla pewności)"
+  LABEL_LOADING_10: "Trenowanie pingwinów do misji ratunkowych"
+  LABEL_LOADING_11: "Planowanie luksusowych rejsów dla rozbitków"
+  LABEL_LOADING_12: "Instalowanie antygrawitacji w samolocie"
+  LABEL_LOADING_13: "Uczenie Koła Fortuny zasad fizyki"
+  LABEL_LOADING_14: "Polerowanie Chrystusa Odkupiciela"
+  LABEL_LOADING_15: "Sprawdzanie czy Tadż Mahal jest wystarczająco mahal-owity"
+  LABEL_LOADING_16: "Odkurzanie Piramid"
+  LABEL_LOADING_17: "Renowacja Koloseum (znowu)"
+  LABEL_LOADING_18: "Zatrudnianie wirtualnych bankierów"
+  LABEL_LOADING_19: "Przygotowywanie twojej finansowej zagłady"
+  LABEL_LOADING_20: "Ładowanie kapitalistycznych koszmarów"
+  LABEL_LOADING_21: "Generowanie wymówek na bankructwo"
+  LABEL_LOADING_22: "Uczenie AI bezwzględności"
+  LABEL_LOADING_23: "Obliczanie optymalnych strategii pobierania czynszu"
+  LABEL_LOADING_24: "Przygotowywanie kart 'Szansa' (nic nie jest przypadkowe)"
+  LABEL_LOADING_25: "Instalowanie foteli wyrzucanych w luksusowych hotelach"
+  LABEL_LOADING_26: "Redystrybucja bogactwa (żartujemy, to Monopoly)"
+  LABEL_LOADING_27: "Upewnianie się, że pieniądze nie rosną na drzewach"
+  LABEL_LOADING_28: "Przygotowywanie ścieżki do bankructwa"
+  LABEL_LOADING_29: "Ładowanie nieruchomości, których nie możesz sobie pozwolić"
+  LABEL_LOADING_30: "Uczenie przyczep kempingowych transformacji w hotele 5-gwiazdkowe"
+  LABEL_LOADING_31: "Przygotowywanie finansowych katastrof"
+  LABEL_LOADING_32: "Ładowanie wirtualnej bańki mieszkaniowej"
+  LABEL_LOADING_33: "Upewnianie się, że bank zawsze wygrywa"
+  LABEL_LOADING_34: "Obliczanie odsetek składanych (nie na twoją korzyść)"
+  LABEL_LOADING_35: "Programowanie AI do podejmowania wątpliwych decyzji finansowych"
+  LABEL_LOADING_36: "Przygotowywanie uścisków dłoni z podejrzanymi bankierami"
+  LABEL_LOADING_37: "Ładowanie agresywnych strategii przejmowania nieruchomości"
+  LABEL_LOADING_38: "Uczenie kości dramatycznego toczenia się"
+  LABEL_LOADING_39: "Upewnianie się, że hotele są przesunięte o dokładnie jeden piksel"
+  LABEL_LOADING_40: "Przygotowywanie ciekawych sposobów na stracenie pieniędzy"
+  LABEL_LOADING_41: "Ładowanie teorii ekonomicznych, które nie działają w życiu"
+  LABEL_LOADING_42: "Generowanie dowcipnych komunikatów ładowania"
+  LABEL_LOADING_43: "Sprawdzanie czy RNG jest naprawdę losowy (a może nie?)"
+  LABEL_LOADING_44: "Przygotowywanie wirtualnych aktów własności"
+  LABEL_LOADING_45: "Ładowanie symulatora kapitalizmu v2.0"
+  LABEL_LOADING_46: "Uczenie helikopterów właściwej choreografii pościgu"
+  LABEL_LOADING_47: "Przygotowywanie twojej podróży ku ruinie"
+  LABEL_LOADING_48: "Upewnianie się, że rejs jest wystarczająco luksusowy"
+  LABEL_LOADING_49: "Obliczanie optymalnych strategii niszczenia przyjaźni"
+  LABEL_LOADING_50: "Ładowanie... bo możemy"
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Poddanie gry Fortune Avenue
+  LABEL_GIVE_UP_GAME_DESCRIPTION: >
+    Poddanie się teraz spowoduje utratę postępów i rozłączenie z trwającą rozgrywką wieloosobową.
+    Twoje odejście może wpłynąć na innych graczy.
+
+
+    [center][b]Czy na pewno chcesz się poddać?[/b][/center]
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
+    Zdecydowałeś się {ps}PODDAĆ{pe} grę!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
+    {name} właśnie {ps}PODDAŁ{pe} grę!
+  BUTTON_GIVE_UP: Poddać się
+  LABEL_CARD_RANDOM_13_TITLE: Piękne dziedzictwo
+  LABEL_CARD_RANDOM_13_DESCRIPTION: >
+    Gratulacje, twój pradziadek właśnie zapisał ci jeden ze swoich hoteli.
+  LABEL_CARD_RANDOM_14_TITLE: Wzrost przestępczości
+  LABEL_CARD_RANDOM_14_DESCRIPTION: >
+    Przestępczość wzrasta w jednym z twoich miast, prefekt wysyła regiment policji do jego ochrony.
+  LABEL_CARD_RANDOM_15_TITLE: Kontrola podatkowa
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    Przechodzisz niezapowiedzianą kontrolę podatkową.
+    Przejdź do podatków.

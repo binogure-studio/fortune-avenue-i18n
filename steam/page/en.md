@@ -28,10 +28,9 @@ In the end, a comprehensive summary showcases the winner and awards medals to pl
 
 Fortune Avenue offers a variety of game modes. You can play solo against machines. If, however, your friends are online and keen to take you on, you can invite them to join in the fun, and maybe break a few friendships too. And if you're feeling competitive, the online mode lets you play against players from all over the world!
 
+
 [img]{STEAM_APP_IMAGE}/extras/devteam-en-616x128.png[/img]
 
 Fortune Avenue is the outcome of several years' work by a single living being, well, a single human being. Except for the soundtrack, which was composed by an exceptional Montreal music group!
 
-We are happy about constructive feedback of all kinds, so feel free to contact us! We will do our best to respond to messages quickly and fix any problems that may arise. :) 
-
-https://store.steampowered.com/app/1810050/Fortune_Avenue/
+We are happy about constructive feedback of all kinds, so feel free to contact us! We will do our best to respond to messages quickly and fix any problems that may arise. :)
