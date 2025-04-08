@@ -1,4 +1,25 @@
 pl:
+  BUTTON_PLAY_AGAIN: Zagraj jeszcze raz
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_CAR_NAME: Van Diesel
+  LABEL_BOAT_NAME: Splashy
+  LABEL_PAWN_NAME: Tacticus
+  LABEL_TOPHAT_NAME: Dandy
+  LABEL_SUITCASE_NAME: Baggy
+  LABEL_BEAR_NAME: Patapouf
+  LABEL_PIG_NAME: Rosette
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_SHOE_NAME: Patachon
+  LABEL_DOG_NAME: Barky
+  LABEL_PINGOUIN_NAME: Gunter
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    %s-krotność czynszu
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    Podwójny czynsz
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    Podwójny czynsz
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Nie można wykupić ani nałożyć kar
   BUTTON_APPLY: Zastosuj
   BUTTON_AUTOMATIC_SELL: Automatyczna sprzedaż
   BUTTON_BANKRUPT: Bankructwo
@@ -44,6 +65,11 @@ pl:
   GAME_RECONNECTING: Ponowne łączenie z grą
   IN_GAME: W grze
   JOINNING_LOBBY: Dołączanie do lobby
+  LABEL_NOT_AVAILABLE_DEMO: Niedostępne w wersji demo
+  LABEL_GAME_START_OFFLINE: Graj offline
+  LABEL_GAME_START_SINGLEPLAYER: Gra jednoosobowa
+  LABEL_GAME_START_ONLINE: Graj online
+  LABEL_GAME_START_MULTIPLAYER: Gra wieloosobowa
   LABEL_1_HOSTEL: Wielki hotel
   LABEL_1_HOUSE: Hotel 1-gwiazdkowy
   LABEL_1_WONDER: Jeden cud
@@ -218,6 +244,53 @@ pl:
     Znani streamerzy organizują kampanię non-profit
     w twoim imieniu, otrzymujesz $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Koniec Festiwalu
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
+    Wybierz pole z festiwalem, aby go anulować.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: Budowa
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
+    Wybierz miasto, w którym chcesz wybudować hotel.
+  LABEL_CARD_ANARCHY_12_TITLE: Kataster
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
+    Gratulacje! Gmina oferuje ci darmowy hotel 3-gwiazdkowy.
+    
+    Wybierz miasto
+  LABEL_CARD_ANARCHY_13_TITLE: Prywatny Odrzutowiec
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
+    Masz dostęp do prywatnego odrzutowca. Natychmiast odbądź lot.
+    
+  LABEL_CARD_ANARCHY_14_TITLE: Przekupiony Sędzia
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
+    Twoje podejrzane kontakty przynoszą efekty. Wybrany przez ciebie gracz zostaje wysłany na krę lodową.
+    
+    Wybierz gracza
+  LABEL_CARD_ANARCHY_15_TITLE: Koniec Świętowania
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
+    Ratusz odwołuje festiwal po skargach mieszkańców.
+    
+    Wybierz miasto
+  LABEL_CARD_ANARCHY_16_TITLE: Mistrzostwa Świata
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
+    Zdobywasz prawo do wyboru miasta, które będzie gospodarzem kolejnych Mistrzostw Świata.
+    
+    Wybierz miasto
+  LABEL_CARD_ANARCHY_17_TITLE: Porwanie
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
+    Możesz przesunąć przeciwnika o jedno pole do przodu. Wybieraj mądrze!
+    
+    Wybierz gracza
+  LABEL_CARD_RANDOM_16_TITLE: Katastrofa
+  LABEL_CARD_RANDOM_16_DESCRIPTION: >
+    Pech! Tracisz losowo jeden ze swoich hoteli z powodu incydentu.
+  LABEL_CARD_RANDOM_17_TITLE: Mile Lotnicze
+  LABEL_CARD_RANDOM_17_DESCRIPTION: >
+    Twoja karta lojalnościowa zapewnia ci darmowy bilet lotniczy. Użyj go, kiedy chcesz.
+  LABEL_CARD_RANDOM_18_TITLE: Mały Krok
+  LABEL_CARD_RANDOM_18_DESCRIPTION: >
+    Przesuń się natychmiast o jedno pole do przodu. Czasami małe postępy mają znaczenie.
+  LABEL_CARD_RANDOM_19_TITLE: Klasa Biznes
+  LABEL_CARD_RANDOM_19_DESCRIPTION: >
+    Podróżujesz klasą biznesową. Cena twojego następnego biletu lotniczego jest podwojona.
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Wybudowano na nieruchomości
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -394,7 +467,18 @@ pl:
     Nie możesz zagrać tej karty, ponieważ nie ma dostępnych cudów.
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Liczba okrążeń bez czynszu
   LABEL_NUMBER_OF_PLAYERS: Liczba graczy
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normalny
+  LABEL_OPTION_GAME_SPEED_FAST: Szybki
+  LABEL_OPTION_GAME_SPEED_FASTER: Bardzo szybki
   LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EKSPERYMENTALNY)"
+  LABEL_OPTION_GAMEPAD_VIBRATION: Wibracje pada
+  LABEL_OPTION_GAME_SPEED: Szybkość gry
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    Przytrzymaj [img width=64]%s[/img] i poruszaj [img width=64]%s[/img] aby potrząsnąć kostkami.
+    Puść aby rzucić.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    Przytrzymaj [img width=64]%s[/img] i poruszaj [img width=64]%s[/img] aby zakręcić kołem.
+    Puść aby uruchomić.
   LABEL_OPTION_AUDIO: Ustawienia dźwięku
   LABEL_OPTION_AUTOFILL_LOBBY: Wypełnij komputerami
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotacja środka planszy
@@ -471,6 +555,14 @@ pl:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} właśnie zdobył {ws}{rs}MONOPOL{re}{we}!
   LABEL_PLAYER_WON_TITLE: "{name} wygrał grę!"
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} to {ps}ostatnia pozostała drużyna{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} właśnie zdobyli {ws}{rs}MONOPOL{re}{we}!
+  LABEL_TEAM_WON_TITLE: "{team} wygrali grę!"
+  LABEL_NO_TEAM: Bez drużyny
+  LABEL_TEAM: Drużyna
+  LABEL_RANDOM: Losowo
   LABEL_PRESS_ANY_BUTTON: Naciśnij, aby kontynuować
   LABEL_PROGRESS_NEXT_VOTE: Następne głosowanie
   LABEL_PROPERTY_RENT: Czynsz
@@ -484,6 +576,30 @@ pl:
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name} nie mógł zapłacić {killer_name}, {name} jest {ps}BANKRUTEM{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} przegrał!"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Katastrofa Klimatyczna
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    Aktywiści ekologiczni przejęli kontrolę nad lotniskami,
+    koszty biletów są pomnożone dziesięciokrotnie.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Bezwzględny Kapitalizm
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Monopole stały się niezwykle potężne,
+    wszystkie czynsze z monopoli są pomnożone podwojony.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotelowa Bonanza
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    Ekscentryczny miliarder czuje się dziś wyjątkowo hojny,
+    przyznając każdemu graczowi jeden darmowy hotel 3-gwiazdkowy.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Podwójna Nagroda za Eliminację
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    Stawki się podwoiły, nagrody za wyeliminowanie
+    innych graczy są teraz warte dwukrotnie więcej.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Tryb Battle Royale
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    Zasady zwycięstwa się zmieniły, nie możesz już wygrać przez monopol,
+    tylko będąc ostatnim graczem na planszy.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Koszmar Inflacyjny
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Chaos gospodarczy uderzył w rynek,
+    wzrost czynszu za okrążenie jest teraz podwójny.
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     Darmowe GPS-y dla wszystkich! Możesz wyrzucić tyle dubletów, ile chcesz!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Rozpocząć grę

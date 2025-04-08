@@ -4,6 +4,7 @@ const path = require('path')
 
 const langMatch = {
   cs: 'czech',
+  de: 'german',
   en: 'english',
   es: 'spanish',
   pl: 'polish',

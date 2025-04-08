@@ -1,4 +1,25 @@
 cs:
+  BUTTON_PLAY_AGAIN: Hrát znova
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_CAR_NAME: Van Diesel
+  LABEL_BOAT_NAME: Splashy
+  LABEL_PAWN_NAME: Tacticus
+  LABEL_TOPHAT_NAME: Dandy
+  LABEL_SUITCASE_NAME: Baggy
+  LABEL_BEAR_NAME: Patapouf
+  LABEL_PIG_NAME: Rosette
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_SHOE_NAME: Patachon
+  LABEL_DOG_NAME: Barky
+  LABEL_PINGOUIN_NAME: Gunter
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    %skrát vyšší nájem
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    Dvojnásobný nájem
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    Dvojnásobný nájem
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Nelze odkoupit ani uplatnit postihy
   BUTTON_APPLY: Použít
   BUTTON_AUTOMATIC_SELL: Automatický prodej
   BUTTON_BANKRUPT: Bankrot
@@ -44,6 +65,11 @@ cs:
   GAME_RECONNECTING: Znovupřipojování ke hře
   IN_GAME: Ve hře
   JOINNING_LOBBY: Připojování do lobby
+  LABEL_NOT_AVAILABLE_DEMO: Není dostupné v demu
+  LABEL_GAME_START_OFFLINE: Hrát offline
+  LABEL_GAME_START_SINGLEPLAYER: Hra pro jednoho
+  LABEL_GAME_START_ONLINE: Hrát online
+  LABEL_GAME_START_MULTIPLAYER: Hra pro více hráčů
   LABEL_1_HOSTEL: Velký hotel
   LABEL_1_HOUSE: Hotel 1 hvězdička
   LABEL_1_WONDER: Jeden div
@@ -213,6 +239,53 @@ cs:
   LABEL_CARD_RANDOM_9_DESCRIPTION: >
     Známí streameři organizují neziskovou kampaň vaším jménem a vy dostáváte $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Konec Festivalu
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
+    Vyberte pole s festivalem pro jeho zrušení.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: Výstavba
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
+    Vyberte město pro výstavbu hotelu.
+  LABEL_CARD_ANARCHY_12_TITLE: Katastr
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
+    Gratulujeme! Městský úřad vám nabízí zdarma tříhvězdičkový hotel.
+    
+    Vyberte město
+  LABEL_CARD_ANARCHY_13_TITLE: Soukromý Tryskáč
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
+    Máte přístup k soukromému tryskáči. Okamžitě odleťte.
+    
+  LABEL_CARD_ANARCHY_14_TITLE: Zkorumpovaný Soudce
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
+    Vaše pochybné kontakty se vyplácejí. Hráč podle vašeho výběru je poslán na ledovou kru.
+    
+    Vyberte hráče
+  LABEL_CARD_ANARCHY_15_TITLE: Konec Slavností
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
+    Radnice ruší festival po stížnostech obyvatel.
+    
+    Vyberte město
+  LABEL_CARD_ANARCHY_16_TITLE: Mistrovství Světa
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
+    Získáváte právo vybrat město, které bude hostit příští Mistrovství světa.
+    
+    Vyberte město
+  LABEL_CARD_ANARCHY_17_TITLE: Únos
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
+    Můžete posunout protivníka o jedno pole vpřed. Vybírejte moudře!
+    
+    Vyberte hráče
+  LABEL_CARD_RANDOM_16_TITLE: Katastrofa
+  LABEL_CARD_RANDOM_16_DESCRIPTION: >
+    Smůla! Náhodně ztrácíte jeden ze svých hotelů kvůli incidentu.
+  LABEL_CARD_RANDOM_17_TITLE: Letecké Míle
+  LABEL_CARD_RANDOM_17_DESCRIPTION: >
+    Vaše věrnostní karta vám přináší letenku zdarma. Použijte ji, kdykoliv budete chtít.
+  LABEL_CARD_RANDOM_18_TITLE: Malý Krok
+  LABEL_CARD_RANDOM_18_DESCRIPTION: >
+    Okamžitě postoupte o jedno pole. Někdy i malý pokrok znamená rozdíl.
+  LABEL_CARD_RANDOM_19_TITLE: Business Třída
+  LABEL_CARD_RANDOM_19_DESCRIPTION: >
+    Cestujete v business třídě. Cena vaší příští letenky je zdvojnásobena.
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Stavba na nemovitosti
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -396,6 +469,17 @@ cs:
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Počet kol bez nájmu
   LABEL_NUMBER_OF_PLAYERS: Počet hráčů
   LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EXPERIMENTÁLNÍ)"
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normální
+  LABEL_OPTION_GAME_SPEED_FAST: Rychlý
+  LABEL_OPTION_GAME_SPEED_FASTER: Velmi rychlý
+  LABEL_OPTION_GAMEPAD_VIBRATION: Vibración del mando
+  LABEL_OPTION_GAME_SPEED: Rychlost hry
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    Mantén pulsado [img width=64]%s[/img] mientras mueves [img width=64]%s[/img] para agitar los dados.
+    Suelta para lanzarlos.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    Mantén pulsado [img width=64]%s[/img] mientras mueves [img width=64]%s[/img] para girar la ruleta.
+    Suelta para lanzarla.
   LABEL_OPTION_AUDIO: Nastavení zvuku
   LABEL_OPTION_AUTOFILL_LOBBY: Automaticky doplnit počítačové hráče
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotace středu desky
@@ -472,6 +556,14 @@ cs:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} právě získal {ws}{rs}MONOPOL{re}{we}!
   LABEL_PLAYER_WON_TITLE: "{name} vyhrál hru!"
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} jsou {ps}poslední přeživší tým{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} právě vytvořili {ws}{rs}MONOPOL{re}{we}!
+  LABEL_TEAM_WON_TITLE: "{team} vyhráli hru!"
+  LABEL_NO_TEAM: Bez týmu
+  LABEL_TEAM: Tým
+  LABEL_RANDOM: Náhodné
   LABEL_PRESS_ANY_BUTTON: Stiskněte pro pokračování
   LABEL_PROGRESS_NEXT_VOTE: Další hlasování
   LABEL_PROPERTY_RENT: Nájem
@@ -485,6 +577,30 @@ cs:
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name} nemohl zaplatit {killer_name}, {name} je v {ps}BANKROTU{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} prohrál!"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Klimatická Katastrofa
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    Ekologičtí aktivisté převzali kontrolu nad letišti,
+    ceny letenek jsou desetinásobné.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Nemilosrdný Kapitalismus
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Monopoly se staly mimořádně mocnými,
+    všechny nájmy z monopolů jsou nyní dvojnásobné.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotelová Bonanza
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    Excentrický miliardář se dnes cítí neobvykle štědrý,
+    každému hráči daruje jeden tříhvězdičkový hotel zdarma.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Dvojnásobná Odměna
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    Sázky se zdvojnásobily, odměny za vyřazení
+    ostatních hráčů nyní mají dvojnásobnou hodnotu.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Režim Battle Royale
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    Pravidla vítězství se změnila, již nemůžete vyhrát monopolem,
+    pouze tím, že budete posledním hráčem ve hře.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Inflační Noční Můra
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Ekonomický chaos zasáhl trh,
+    zvýšení nájemného za kolo je nyní dvojnásobné.
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     GPS zdarma pro všechny! Můžete hodit tolik dvojic, kolik chcete!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Vsaďte si

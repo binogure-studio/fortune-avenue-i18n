@@ -1,4 +1,25 @@
 en:
+  BUTTON_PLAY_AGAIN: Play again
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_CAR_NAME: Van Diesel
+  LABEL_BOAT_NAME: Splashy
+  LABEL_PAWN_NAME: Tacticus
+  LABEL_TOPHAT_NAME: Dandy
+  LABEL_SUITCASE_NAME: Baggy
+  LABEL_BEAR_NAME: Patapouf
+  LABEL_PIG_NAME: Rosette
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_SHOE_NAME: Patachon
+  LABEL_DOG_NAME: Barky
+  LABEL_PINGOUIN_NAME: Gunter
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    %s times the rent
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    Double the rent
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    Double the rent
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Cannot be bought out or subject to malus
   BUTTON_APPLY: Apply
   BUTTON_AUTOMATIC_SELL: Automatic sale
   BUTTON_BANKRUPT: Bankrupt
@@ -44,6 +65,11 @@ en:
   GAME_RECONNECTING: Reconnecting to the game
   IN_GAME: In game
   JOINNING_LOBBY: Joining lobby
+  LABEL_NOT_AVAILABLE_DEMO: Not available in the demo
+  LABEL_GAME_START_OFFLINE: Play offline
+  LABEL_GAME_START_SINGLEPLAYER: Single player
+  LABEL_GAME_START_ONLINE: Play online
+  LABEL_GAME_START_MULTIPLAYER: Multiplayer
   LABEL_1_HOSTEL: Grand hotel
   LABEL_1_HOUSE: Hotel 1 star
   LABEL_1_WONDER: One wonder
@@ -87,7 +113,6 @@ en:
     Squatters are under your control, you can use
     them to lower the rating of a hotel.
 
-
     Please select a city.
   LABEL_CARD_ANARCHY_0_TITLE: National Police
   LABEL_CARD_ANARCHY_10_DESCRIPTION: >
@@ -95,7 +120,6 @@ en:
     prophet, and you can indicate a city for them to occupy.
 
     The city will not generate rent for %s turns.
-
 
     Please select a city.
   LABEL_CARD_ANARCHY_10_TITLE: Coincidence Contest
@@ -218,6 +242,53 @@ en:
     Well-known streamers organize a non-profit
     campaign in your name, and you receive $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: End of Festival
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
+    Please select a square with a festival to cancel it.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: Construction
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
+    Please select a city to build a hotel on.
+  LABEL_CARD_ANARCHY_12_TITLE: Land Registry
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
+    Congratulations! The municipality offers you a free 3-star hotel.
+    
+    Please select a city
+  LABEL_CARD_ANARCHY_13_TITLE: Private Jet
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
+    You have access to a private jet. Take a flight immediately.
+    
+  LABEL_CARD_ANARCHY_14_TITLE: Corrupt Judge
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
+    Your shady connections are paying off. A player of your choice is sent to the ice floe.
+    
+    Please select a player
+  LABEL_CARD_ANARCHY_15_TITLE: End of Festivities
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
+    The city hall cancels a festival following complaints from residents.
+    
+    Please select a city
+  LABEL_CARD_ANARCHY_16_TITLE: World Cup
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
+    You earn the right to choose which city will host the next World Cup.
+    
+    Please select a city
+  LABEL_CARD_ANARCHY_17_TITLE: Abduction
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
+    You can move an opponent forward by one square. Choose wisely!
+    
+    Please select a player
+  LABEL_CARD_RANDOM_16_TITLE: Catastrophe
+  LABEL_CARD_RANDOM_16_DESCRIPTION: >
+    Bad luck! You randomly lose one of your hotels due to an incident.
+  LABEL_CARD_RANDOM_17_TITLE: Planemiles
+  LABEL_CARD_RANDOM_17_DESCRIPTION: >
+    Your loyalty card earns you a free plane ticket. Use it whenever you want.
+  LABEL_CARD_RANDOM_18_TITLE: Small Step
+  LABEL_CARD_RANDOM_18_DESCRIPTION: >
+    Move forward one square immediately. Sometimes, small progress makes a difference.
+  LABEL_CARD_RANDOM_19_TITLE: Business Class
+  LABEL_CARD_RANDOM_19_DESCRIPTION: >
+    You're traveling business class. The price of your next plane ticket is doubled.
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Property built
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -415,6 +486,17 @@ en:
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Number of lap without rent
   LABEL_NUMBER_OF_PLAYERS: Player's count
   LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EXPERIMENTAL)"
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
+  LABEL_OPTION_GAME_SPEED_FAST: Fast
+  LABEL_OPTION_GAME_SPEED_FASTER: Faster
+  LABEL_OPTION_GAMEPAD_VIBRATION: Joystick vibration
+  LABEL_OPTION_GAME_SPEED: Game speed
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    [img width=64]%s[/img] and hold while moving [img width=64]%s[/img] to shake the dice.
+    Release to throw them.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    [img width=64]%s[/img] and hold while moving [img width=64]%s[/img] to throw the wheel.
+    Release to launch it.
   LABEL_OPTION_AUDIO: Audio settings
   LABEL_OPTION_AUTOFILL_LOBBY: Autofill lobby with computer
   LABEL_OPTION_BOARD_CENTER_ROTATE: Board middle rotation
@@ -491,6 +573,14 @@ en:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} has just made a {ws}{rs}MONOPOLY{re}{we}!
   LABEL_PLAYER_WON_TITLE: "{name} won the game!"
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} are the {ps}last team standing{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} have just made a {ws}{rs}MONOPOLY{re}{we}!
+  LABEL_TEAM_WON_TITLE: "{team} won the game!"
+  LABEL_NO_TEAM: No team
+  LABEL_TEAM: Team
+  LABEL_RANDOM: Random
   LABEL_PRESS_ANY_BUTTON: Press to continue
   LABEL_PROGRESS_NEXT_VOTE: Next vote
   LABEL_PROPERTY_RENT: Rent
@@ -504,6 +594,29 @@ en:
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name} couldn't pay {killer_name}, {name} is {ps}BANKRUPT{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name}'s lost!"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Climate Catastrophe
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    Environmental activists have taken over the airports,
+    ticket costs are multiplied by 10.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Ruthless Capitalism
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Monopolies have become extraordinarily powerful,
+    resulting in all monopoly rents being multiplied by 2.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotel Lottery Bonanza
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    An eccentric billionaire is feeling unusually generous today,
+    granting every player one free 3-star hotel.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Double Knockout Bonus
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    The stakes have doubled as bounty rewards for eliminating
+    other players are now worth twice as much.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Mode
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    The rules of victory have changed as you can no longer win by monopoly,
+    only by being the last player standing.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Inflation Nightmare
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Economic chaos has struck the market as the rent increase per lap is now doubled.
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     Free GPS for everyone! You can make as many doubles as you like!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Place your bets

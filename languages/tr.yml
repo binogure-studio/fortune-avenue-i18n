@@ -1,4 +1,25 @@
 tr:
+  BUTTON_PLAY_AGAIN: Tekrar Oyna
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_CAR_NAME: Van Diesel
+  LABEL_BOAT_NAME: Splashy
+  LABEL_PAWN_NAME: Tacticus
+  LABEL_TOPHAT_NAME: Dandy
+  LABEL_SUITCASE_NAME: Baggy
+  LABEL_BEAR_NAME: Patapouf
+  LABEL_PIG_NAME: Rosette
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_SHOE_NAME: Patachon
+  LABEL_DOG_NAME: Barky
+  LABEL_PINGOUIN_NAME: Gunter
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    Kira %s katına çıkar
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    İki kat kira
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    İki kat kira
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Satın alınamaz veya ceza uygulanamaz
   BUTTON_APPLY: Uygula
   BUTTON_AUTOMATIC_SELL: Otomatik sat
   BUTTON_BANKRUPT: İflas
@@ -44,6 +65,11 @@ tr:
   GAME_RECONNECTING: Oyuna yeniden bağlanılıyor
   IN_GAME: Oyunda
   JOINNING_LOBBY: Lobiye katılınıyor
+  LABEL_NOT_AVAILABLE_DEMO: Demo sürümünde mevcut değil
+  LABEL_GAME_START_OFFLINE: Çevrimdışı oyna
+  LABEL_GAME_START_SINGLEPLAYER: Tek oyunculu
+  LABEL_GAME_START_ONLINE: Çevrimiçi oyna
+  LABEL_GAME_START_MULTIPLAYER: Çok oyunculu
   LABEL_1_HOSTEL: Büyük otel
   LABEL_1_HOUSE: 1 yıldızlı otel
   LABEL_1_WONDER: Bir harika
@@ -227,6 +253,53 @@ tr:
     Ünlü yayıncılar sizin adınıza kar amacı
     gütmeyen bir kampanya düzenliyor, $%s kazanıyorsunuz.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Festival Sonu
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
+    İptal etmek için festival olan bir kare seçin.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: İnşaat
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
+    Otel inşa etmek için bir şehir seçin.
+  LABEL_CARD_ANARCHY_12_TITLE: Tapu Sicili
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
+    Tebrikler! Belediye size ücretsiz 3 yıldızlı bir otel sunuyor.
+    
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_13_TITLE: Özel Jet
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
+    Özel bir jete erişiminiz var. Hemen uçağa binin.
+    
+  LABEL_CARD_ANARCHY_14_TITLE: Rüşvetçi Hakim
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
+    Şüpheli bağlantılarınız işe yarıyor. Seçtiğiniz bir oyuncu buz kütlesine gönderilir.
+    
+    Lütfen bir oyuncu seçin
+  LABEL_CARD_ANARCHY_15_TITLE: Kutlamaların Sonu
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
+    Belediye sakinlerden gelen şikayetler üzerine bir festivali iptal ediyor.
+    
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_16_TITLE: Dünya Kupası
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
+    Bir sonraki Dünya Kupası'nın hangi şehirde düzenleneceğini seçme hakkını kazandınız.
+    
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_17_TITLE: Kaçırma
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
+    Bir rakibi bir kare ileri hareket ettirebilirsiniz. Akıllıca seçin!
+    
+    Lütfen bir oyuncu seçin
+  LABEL_CARD_RANDOM_16_TITLE: Felaket
+  LABEL_CARD_RANDOM_16_DESCRIPTION: >
+    Şanssızlık! Bir olay nedeniyle otellerinizden birini rastgele kaybedersiniz.
+  LABEL_CARD_RANDOM_17_TITLE: Uçuş Milleri
+  LABEL_CARD_RANDOM_17_DESCRIPTION: >
+    Sadakat kartınız size ücretsiz bir uçak bileti kazandırıyor. İstediğiniz zaman kullanın.
+  LABEL_CARD_RANDOM_18_TITLE: Küçük Adım
+  LABEL_CARD_RANDOM_18_DESCRIPTION: >
+    Hemen bir kare ileri gidin. Bazen küçük ilerlemeler fark yaratır.
+  LABEL_CARD_RANDOM_19_TITLE: Business Sınıfı
+  LABEL_CARD_RANDOM_19_DESCRIPTION: >
+    Business sınıfında seyahat ediyorsunuz. Bir sonraki uçak biletinizin fiyatı iki katına çıkar.
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Mülkte inşaat yapıldı
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -407,7 +480,18 @@ tr:
     Müsait harika olmadığı için bu kartı oynayamazsınız.
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Kirasız tur sayısı
   LABEL_NUMBER_OF_PLAYERS: Oyuncu sayısı
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
+  LABEL_OPTION_GAME_SPEED_FAST: Hızlı
+  LABEL_OPTION_GAME_SPEED_FASTER: Çok hızlı
   LABEL_OPENGL_RENDERER: "İşleyici: OpenGL (DENEYSEL)"
+  LABEL_OPTION_GAMEPAD_VIBRATION: Gamepad titreşimi
+  LABEL_OPTION_GAME_SPEED: Oyun hızı
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    Zarları sallamak için [img width=64]%s[/img] tuşunu basılı tutarken [img width=64]%s[/img] hareket ettirin.
+    Fırlatmak için bırakın.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    Çarkı döndürmek için [img width=64]%s[/img] tuşunu basılı tutarken [img width=64]%s[/img] hareket ettirin.
+    Fırlatmak için bırakın.
   LABEL_OPTION_AUDIO: Ses ayarları
   LABEL_OPTION_AUTOFILL_LOBBY: Bilgisayarla doldur
   LABEL_OPTION_BOARD_CENTER_ROTATE: Tahta merkezi dönüşü
@@ -484,6 +568,14 @@ tr:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} bir {ws}{rs}TEKEL{re}{we} oluşturdu!
   LABEL_PLAYER_WON_TITLE: "{name} oyunu kazandı!"
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} {ps}ayakta kalan son takım{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} bir {ws}{rs}MONOPOLY{re}{we} yaptı!
+  LABEL_TEAM_WON_TITLE: "{team} oyunu kazandı!"
+  LABEL_NO_TEAM: Takım yok
+  LABEL_TEAM: Takım
+  LABEL_RANDOM: Rastgele
   LABEL_PRESS_ANY_BUTTON: Devam etmek için basın
   LABEL_PROGRESS_NEXT_VOTE: Sonraki oylama
   LABEL_PROPERTY_RENT: Kira
@@ -497,6 +589,30 @@ tr:
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name}, {killer_name}'a ödeme yapamadı, {name} {ps}İFLAS ETTİ{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} kaybetti!"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: İklim Felaketi
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    Çevre aktivistleri havaalanlarının kontrolünü ele geçirdi,
+    bilet maliyetleri 10 kat arttı.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Acımasız Kapitalizm
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Tekeller olağanüstü güçlü hale geldi,
+    tüm tekel kiraları 2 kat arttı.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Otel Bonanzası
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    Eksantrik bir milyarder bugün olağanüstü cömert hissediyor,
+    her oyuncuya ücretsiz 3 yıldızlı bir otel veriyor.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: İkili Eleme Bonusu
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    Bahisler ikiye katlandı çünkü diğer oyuncuları eleme
+    ödülleri artık iki kat daha değerli.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Modu
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    Zafer kuralları değişti, artık tekel ile kazanamazsınız,
+    sadece ayakta kalan son oyuncu olarak kazanabilirsiniz.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Enflasyon Kabusu
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Ekonomik kaos piyasayı vurdu,
+    tur başına kira artışı artık iki katına çıktı.
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     Herkese ücretsiz GPS! İstediğiniz kadar çift zar atabilirsiniz!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Bahisler Açık
