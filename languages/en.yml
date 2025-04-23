@@ -1,25 +1,4 @@
 en:
-  BUTTON_PLAY_AGAIN: Play again
-  LABEL_SCOOTER_NAME: Vroomie
-  LABEL_CAR_NAME: Van Diesel
-  LABEL_BOAT_NAME: Splashy
-  LABEL_PAWN_NAME: Tacticus
-  LABEL_TOPHAT_NAME: Dandy
-  LABEL_SUITCASE_NAME: Baggy
-  LABEL_BEAR_NAME: Patapouf
-  LABEL_PIG_NAME: Rosette
-  LABEL_GOOSE_NAME: Flappy
-  LABEL_SHOE_NAME: Patachon
-  LABEL_DOG_NAME: Barky
-  LABEL_PINGOUIN_NAME: Gunter
-  TOOLTIP_WORLDCUP_DESCRIPTION: |
-    %s times the rent
-  TOOLTIP_FESTIVAL_DESCRIPTION: |
-    Double the rent
-  TOOLTIP_MONOPOLE_DESCRIPTION: |
-    Double the rent
-  TOOLTIP_PROTECTED_DESCRIPTION: |
-    Cannot be bought out or subject to malus
   BUTTON_APPLY: Apply
   BUTTON_AUTOMATIC_SELL: Automatic sale
   BUTTON_BANKRUPT: Bankrupt
@@ -30,6 +9,7 @@ en:
   BUTTON_CLOSE: Close
   BUTTON_CREATE_GAME: Create lobby
   BUTTON_FEEDBACK: Feedback
+  BUTTON_GIVE_UP: Give up
   BUTTON_INVITE: Invite
   BUTTON_JOIN: Join
   BUTTON_JOIN_GAME: Join a lobby
@@ -46,6 +26,7 @@ en:
   BUTTON_ORIGINAL: Original rules
   BUTTON_PAY: Pay
   BUTTON_PAY_TICKET: Buy a ticket
+  BUTTON_PLAY_AGAIN: Play again
   BUTTON_PLAY_CARD: Play card
   BUTTON_QUIT: Quit
   BUTTON_READY: Ready !
@@ -65,11 +46,6 @@ en:
   GAME_RECONNECTING: Reconnecting to the game
   IN_GAME: In game
   JOINNING_LOBBY: Joining lobby
-  LABEL_NOT_AVAILABLE_DEMO: Not available in the demo
-  LABEL_GAME_START_OFFLINE: Play offline
-  LABEL_GAME_START_SINGLEPLAYER: Single player
-  LABEL_GAME_START_ONLINE: Play online
-  LABEL_GAME_START_MULTIPLAYER: Multiplayer
   LABEL_1_HOSTEL: Grand hotel
   LABEL_1_HOUSE: Hotel 1 star
   LABEL_1_WONDER: One wonder
@@ -97,85 +73,103 @@ en:
   LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: VAC banned.
   LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: VAC check timed out.
   LABEL_BALANCED_SHADOW: Balanced
+  LABEL_BEAR_NAME: Patapouf
   LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Duplicate request
   LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Ticket expired
   LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Game mismatch
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Invalid ticket
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Invalid version
   LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Ticket valid
+  LABEL_BOAT_NAME: Splashy
   LABEL_BUY_BACK_VALUE: Can be redeemed for $%s
   LABEL_BUY_BUILD: Buy a building
   LABEL_BUY_COSTS: Purchase costs
   LABEL_BUY_FOR: Buy for $%s
   LABEL_BUY_NOTHING: Don't buy anything
   LABEL_BUY_WONDER: Buy a wonder
-  LABEL_CARD_ANARCHY_0_DESCRIPTION: >
-    Squatters are under your control, you can use
-    them to lower the rating of a hotel.
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: |
+    Squatters are under your control, you can use them to lower the rating of a hotel.
 
     Please select a city.
   LABEL_CARD_ANARCHY_0_TITLE: National Police
-  LABEL_CARD_ANARCHY_10_DESCRIPTION: >
-    A group of individuals takes you for a
-    prophet, and you can indicate a city for them to occupy.
-
-    The city will not generate rent for %s turns.
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+    A group of individuals takes you for a prophet, and you can indicate a city for them to occupy. The city will not generate rent for %s turns.
 
     Please select a city.
   LABEL_CARD_ANARCHY_10_TITLE: Coincidence Contest
   LABEL_CARD_ANARCHY_11_DESCRIPTION: |
-    You can play this card to bring a Wonder back into play.
-    The owner loses the wonder instantly.
+    You can play this card to bring a Wonder back into play. The owner loses the wonder instantly.
 
     Please select a wonder
   LABEL_CARD_ANARCHY_11_TITLE: Decision of Injustice
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: |
+    Congratulations! The municipality offers you a free 3-star hotel.
+
+    Please select a city
+  LABEL_CARD_ANARCHY_12_TITLE: Land Registry
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: |
+    You have access to a private jet. Take a flight immediately.
+  LABEL_CARD_ANARCHY_13_TITLE: Private Jet
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: |
+    Your shady connections are paying off. A player of your choice is sent to the ice floe.
+
+    Please select a player
+  LABEL_CARD_ANARCHY_14_TITLE: Corrupt Judge
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: |
+    The city hall cancels a festival following complaints from residents.
+
+    Please select a city
+  LABEL_CARD_ANARCHY_15_TITLE: End of Festivities
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: |
+    You earn the right to choose which city will host the next World Cup.
+
+    Please select a city
+  LABEL_CARD_ANARCHY_16_TITLE: World Cup
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: |
+    You can move an opponent forward by one square. Choose wisely!
+
+    Please select a player
+  LABEL_CARD_ANARCHY_17_TITLE: Abduction
+  LABEL_CARD_ANARCHY_18_DESCRIPTION: |
+    You trigger a new rule vote immediately. Time to shake things up!
+  LABEL_CARD_ANARCHY_18_TITLE: Democracy in Action
+  LABEL_CARD_ANARCHY_19_DESCRIPTION: |
+    A player of your choice must skip their next turn.
+
+    Please select a player.
+  LABEL_CARD_ANARCHY_19_TITLE: Forced Holiday
   LABEL_CARD_ANARCHY_1_DESCRIPTION: |
     The notary likes you. He suggests you free up a city of your choice.
 
     Please select a city
   LABEL_CARD_ANARCHY_1_TITLE: Notary Office
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
-    Cunning as you are, you manage to go unnoticed wherever you go.
-    This allows you to steal a city from a player.
+    Cunning as you are, you manage to go unnoticed wherever you go. This allows you to steal a city from a player.
 
     Please select a city.
   LABEL_CARD_ANARCHY_2_TITLE: Bailiff
   LABEL_CARD_ANARCHY_3_DESCRIPTION: |
-    A reality TV show has settled in one of your cities.
-    They start major construction projects to upgrade a hotel for you.
+    A reality TV show has settled in one of your cities. They start major construction projects to upgrade a hotel for you.
 
     Please select a city.
   LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
-  LABEL_CARD_ANARCHY_4_DESCRIPTION: >
-    You force one of your comrades to play the
-    stock market so that they lose a quarter of their liquid money.
-
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: |
+    You force one of your comrades to play the stock market so that they lose a quarter of their liquid money.
 
     Please select a player
   LABEL_CARD_ANARCHY_4_TITLE: Playing Comes with Risks
-  LABEL_CARD_ANARCHY_5_DESCRIPTION: >
-    You force one of your comrades to switch to
-    proportional taxation mode.
-
-    When they land on the Taxes & Duties space, they will pay a tax proportional to their financial assets.
-
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: |
+    You force one of your comrades to switch to proportional taxation mode. When they land on the Taxes & Duties space, they will pay a tax proportional to their financial assets.
 
     Please select a player
   LABEL_CARD_ANARCHY_5_TITLE: Public Finances
-  LABEL_CARD_ANARCHY_6_DESCRIPTION: >
-    The prefect of your region likes you, and he
-    provides a complete police regiment to protect one of your cities from
-    potential disasters.
-
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: |
+    The prefect of your region likes you, and he provides a complete police regiment to protect one of your cities from potential disasters.
 
     Please select a city.
   LABEL_CARD_ANARCHY_6_TITLE: Territory Security
-  LABEL_CARD_ANARCHY_7_DESCRIPTION: >
-    You force one of your comrades to switch to
-    fixed taxation mode.
-
-    When they land on the Taxes & Duties space, they will have to pay a fixed flat amount of $%s.
-
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: |
+    You force one of your comrades to switch to fixed taxation mode. When they land on the Taxes & Duties space, they will have to pay a fixed flat amount of $%s.
 
     Please select a player
   LABEL_CARD_ANARCHY_7_TITLE: Public Finances
@@ -196,99 +190,80 @@ en:
     You manage to cancel the next World Cup, it goes back to its base case.
   LABEL_CARD_RANDOM_10_TITLE: World Fun Committee
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    A good samaritan has decided to give you a vacation.
-    You don't have to pay the next rent.
+    A good samaritan has decided to give you a vacation. You don't have to pay the next rent.
   LABEL_CARD_RANDOM_11_TITLE: Good Samaritan
-  LABEL_CARD_RANDOM_12_DESCRIPTION: >
-    One of your tenants bails on you, and the bank
-    collects the next rent instead.
+  LABEL_CARD_RANDOM_12_DESCRIPTION: |
+    One of your tenants bails on you, and the bank collects the next rent instead.
   LABEL_CARD_RANDOM_12_TITLE: Unhappy Tenants
+  LABEL_CARD_RANDOM_13_DESCRIPTION: |
+    Congratulations, your great uncle has just bequeathed you one of his hotels.
+  LABEL_CARD_RANDOM_13_TITLE: Legacy
+  LABEL_CARD_RANDOM_14_DESCRIPTION: |
+    Crime is increasing in one of your cities, the prefect dispatches a police regiment to protect it.
+  LABEL_CARD_RANDOM_14_TITLE: Rising Crime
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    You are undergoing a surprise tax audit.
+
+    Move to taxes.
+  LABEL_CARD_RANDOM_15_TITLE: Tax Audit
+  LABEL_CARD_RANDOM_16_DESCRIPTION: |
+    Bad luck! You randomly lose one of your hotels due to an incident.
+  LABEL_CARD_RANDOM_16_TITLE: Catastrophe
+  LABEL_CARD_RANDOM_17_DESCRIPTION: |
+    Your loyalty card earns you a free plane ticket.
+
+    Use it whenever you want.
+  LABEL_CARD_RANDOM_17_TITLE: Planemiles
+  LABEL_CARD_RANDOM_18_DESCRIPTION: |
+    Move forward one square immediately. Sometimes, small progress makes a difference.
+  LABEL_CARD_RANDOM_18_TITLE: Small Step
+  LABEL_CARD_RANDOM_19_DESCRIPTION: |
+    You're traveling business class. The price of your next plane ticket is doubled.
+  LABEL_CARD_RANDOM_19_TITLE: Business Class
   LABEL_CARD_RANDOM_1_DESCRIPTION: |
     Go to %s.
   LABEL_CARD_RANDOM_1_TITLE: Travel Agency
+  LABEL_CARD_RANDOM_20_DESCRIPTION: |
+    Lady Luck smiles upon you! You get to take another turn immediately.
+  LABEL_CARD_RANDOM_20_TITLE: Second Wind
+  LABEL_CARD_RANDOM_21_DESCRIPTION: |
+    The tax office has lost your file. The next time you land on Taxes, you'll only have to pay $30,000.
+  LABEL_CARD_RANDOM_21_TITLE: Tax Filing Error
   LABEL_CARD_RANDOM_2_DESCRIPTION: |
     Please move back %s squares.
   LABEL_CARD_RANDOM_2_TITLE: Travel Agency
   LABEL_CARD_RANDOM_3_DESCRIPTION: |
     You've lost your way again. All around you is ice as far as the eye can see.
+    
     There's no doubt, you are on the ice floe.
   LABEL_CARD_RANDOM_3_TITLE: The Ice Floe
-  LABEL_CARD_RANDOM_4_DESCRIPTION: >
-    You're having a great time, inviting all your
-    friends, but the next rent payment will be doubled.
+  LABEL_CARD_RANDOM_4_DESCRIPTION: |
+    You're having a great time, inviting all your friends, but the next rent payment will be doubled.
   LABEL_CARD_RANDOM_4_TITLE: Vacation
-  LABEL_CARD_RANDOM_5_DESCRIPTION: >
-    You receive a GPS and a satellite phone. With
-    these, you can find your way anywhere, even on the ice floe.
-
+  LABEL_CARD_RANDOM_5_DESCRIPTION: |
+    You receive a GPS and a satellite phone. With these, you can find your way anywhere, even on the ice floe.
 
     Use this card to escape from the ice floe
   LABEL_CARD_RANDOM_5_TITLE: Good Timing!
   LABEL_CARD_RANDOM_6_DESCRIPTION: |
     You're playing the stock market, and it's not going well for you.
+
     You immediately lose a quarter of your liquid assets.
   LABEL_CARD_RANDOM_6_TITLE: Playing Comes with Risks
-  LABEL_CARD_RANDOM_7_DESCRIPTION: >
+  LABEL_CARD_RANDOM_7_DESCRIPTION: |
     You switch to proportional taxation mode.
 
     When you land on the Taxes & Duties space, you'll pay a tax proportional to your financial assets.
   LABEL_CARD_RANDOM_7_TITLE: Public Finances
-  LABEL_CARD_RANDOM_8_DESCRIPTION: >
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
     You switch to fixed taxation mode.
 
     When you land on the Taxes & Duties space, you'll pay a fixed flat amount of $%s.
   LABEL_CARD_RANDOM_8_TITLE: Public Finances
-  LABEL_CARD_RANDOM_9_DESCRIPTION: >
-    Well-known streamers organize a non-profit
-    campaign in your name, and you receive $%s.
+  LABEL_CARD_RANDOM_9_DESCRIPTION: |
+    Well-known streamers organize a non-profit campaign in your name, and you receive $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
-  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: End of Festival
-  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
-    Please select a square with a festival to cancel it.
-  LABEL_PLAYER_BUILD_HOTEL_TITLE: Construction
-  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
-    Please select a city to build a hotel on.
-  LABEL_CARD_ANARCHY_12_TITLE: Land Registry
-  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
-    Congratulations! The municipality offers you a free 3-star hotel.
-    
-    Please select a city
-  LABEL_CARD_ANARCHY_13_TITLE: Private Jet
-  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
-    You have access to a private jet. Take a flight immediately.
-    
-  LABEL_CARD_ANARCHY_14_TITLE: Corrupt Judge
-  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
-    Your shady connections are paying off. A player of your choice is sent to the ice floe.
-    
-    Please select a player
-  LABEL_CARD_ANARCHY_15_TITLE: End of Festivities
-  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
-    The city hall cancels a festival following complaints from residents.
-    
-    Please select a city
-  LABEL_CARD_ANARCHY_16_TITLE: World Cup
-  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
-    You earn the right to choose which city will host the next World Cup.
-    
-    Please select a city
-  LABEL_CARD_ANARCHY_17_TITLE: Abduction
-  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
-    You can move an opponent forward by one square. Choose wisely!
-    
-    Please select a player
-  LABEL_CARD_RANDOM_16_TITLE: Catastrophe
-  LABEL_CARD_RANDOM_16_DESCRIPTION: >
-    Bad luck! You randomly lose one of your hotels due to an incident.
-  LABEL_CARD_RANDOM_17_TITLE: Planemiles
-  LABEL_CARD_RANDOM_17_DESCRIPTION: >
-    Your loyalty card earns you a free plane ticket. Use it whenever you want.
-  LABEL_CARD_RANDOM_18_TITLE: Small Step
-  LABEL_CARD_RANDOM_18_DESCRIPTION: >
-    Move forward one square immediately. Sometimes, small progress makes a difference.
-  LABEL_CARD_RANDOM_19_TITLE: Business Class
-  LABEL_CARD_RANDOM_19_DESCRIPTION: >
-    You're traveling business class. The price of your next plane ticket is doubled.
+  LABEL_CAR_NAME: Van Diesel
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Property built
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -314,7 +289,7 @@ en:
   LABEL_CASE_ACTION_UPGRADE_HOTEL: |
     Hotel upgraded
   LABEL_CASE_AIRPORT: Airport
-  LABEL_CASE_ALGER: Alger
+  LABEL_CASE_ALGER: Algiers
   LABEL_CASE_BEGIN: Begin
   LABEL_CASE_BERLIN: Berlin
   LABEL_CASE_BOMBAY: Bombay
@@ -326,21 +301,21 @@ en:
   LABEL_CASE_ICEPACK: Icepack
   LABEL_CASE_JAKARTA: Jakarta
   LABEL_CASE_KINSHASA: Kinshasa
-  LABEL_CASE_LECAIRE: Le Caire
+  LABEL_CASE_LECAIRE: Cairo
   LABEL_CASE_LONDRES: London
   LABEL_CASE_LOSANGELES: Los Angeles
   LABEL_CASE_MADRID: Madrid
   LABEL_CASE_MEXICO: Mexico
-  LABEL_CASE_MONTREAL: Montréal
+  LABEL_CASE_MONTREAL: Montreal
   LABEL_CASE_MOSCOU: Moscow
   LABEL_CASE_NEWYORK: New-York
   LABEL_CASE_NO_RENT: No rent
   LABEL_CASE_PARIS: Paris
-  LABEL_CASE_PEKIN: Pékin
+  LABEL_CASE_PEKIN: Beijing
   LABEL_CASE_PRISON: Prison
   LABEL_CASE_PROTECTED: Protected
   LABEL_CASE_ROME: Rome
-  LABEL_CASE_SAOPOLO: Sao Paulo
+  LABEL_CASE_SAOPOLO: São Paulo
   LABEL_CASE_SEOUL: Seoul
   LABEL_CASE_TAXES: Taxes
   LABEL_CASE_TOKYO: Tokyo
@@ -350,23 +325,31 @@ en:
   LABEL_CLICK_TO_VOTE: Press to vote
   LABEL_COMPUTER_PLAYER: Computer player
   LABEL_DEMO_EMBARGO: >
-    We kindly ask you to comply with the embargo on the game. No
-    videos or streams are allowed until the end of playtesting. We appreciate
-    your cooperation!
+    We kindly ask you to comply with the embargo on the game. No videos or streams are allowed until the end of playtesting. We appreciate your cooperation!
   LABEL_DEMO_VERSION: Fortune Avenue DEMO
   LABEL_DETAILED_SHADOW: Detailed
   LABEL_DICE_DOUBLE: Double
   LABEL_DISABLED: Disabled
+  LABEL_DOG_NAME: Barky
   LABEL_DOUBLE_RENT_MONOPOLY: |
     Rents are doubled if you have a monopoly.
   LABEL_ERROR_DIALOG_DESCRIPTION: |
     Cannot create or join a game.
   LABEL_ERROR_DIALOG_TITLE: Error
-  LABEL_HUMAN_PLAYER: Human player
-  LABEL_ICEPACKED_ANNOUNCE: >
-    [b]You're trapped in an ice floe[/b], that's really
-    bad luck.
+  LABEL_GAME_START_MULTIPLAYER: Multiplayer
+  LABEL_GAME_START_OFFLINE: Play offline
+  LABEL_GAME_START_ONLINE: Play online
+  LABEL_GAME_START_SINGLEPLAYER: Single player
+  LABEL_GIVE_UP_GAME_DESCRIPTION: |
+    Giving up now will forfeit your current progress and disconnect you from the ongoing multiplayer experience. Your fellow players may be affected by your departure.
 
+    [center][b]Are you sure you want to give up?[/b][/center]
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Giving up Fortune Avenue
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_HUMAN_PLAYER: Human player
+  LABEL_ICEPACKED_ANNOUNCE: |
+    [b]You're trapped in an ice floe[/b], that's really bad luck.
 
     To escape you can try [b]to make a double[/b]. Or you can choose to pay [b]$%s[/b], and you get out right now.
 
@@ -374,30 +357,26 @@ en:
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     You've been here too long, you can't wait any longer.
     You decide to pay [b]$%s[/b] to get out of this icy hell.
-  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: >
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
     Vacation is so much fun.
 
     The [b]luxury cruise[/b] approaches a port and lets you get on with your life.
-
-
     You pay [b]$%s[/b], and disembark immediately.
 
     If you have a [b]Escape from the Ice Floe[/b] card, now's the time to play it.
-  LABEL_ICEPACKING_ANNOUNCE: >
-    On your journey, you'll wander around, surrounded by
-    ice, just ice.
+  LABEL_ICEPACKING_ANNOUNCE: |
+    On your journey, you'll wander around, surrounded by ice, just ice.
 
     [b]You're lost on the ice floe![/b]
-
-
     One thing's for sure, you're not going to get your salary.
 
     Unless you call for help, and pay a bill of [b]$%s[/b], otherwise I'm afraid you're stuck here.
   LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
     You've reached the North Pole! There's no ice left on the horizon!
-    A [b]luxury cruise[/b] soon picks you up and takes you aboard.
 
+    A [b]luxury cruise[/b] soon picks you up and takes you aboard.
     You take the opportunity to have a good time.
+
     Of course, this is not free and will cost [b]$%s[/b].
   LABEL_IP_ADDRESS: IP Address
   LABEL_KIKIMETER_MOST_AIRPLANE: Sky King
@@ -410,47 +389,81 @@ en:
   LABEL_LAND_ONLY: A caravan
   LABEL_LAPS: Lap(s)
   LABEL_LEADERBOARD: Leaderboard
-  LABEL_LEAVE_GAME_DESCRIPTION: >
-    Leaving now will forfeit your current progress and
-    disconnect you from the ongoing multiplayer experience. Your fellow players
-    may be affected by your departure.
-
+  LABEL_LEAVE_GAME_DESCRIPTION: |
+    Leaving now will forfeit your current progress and disconnect you from the ongoing multiplayer experience. Your fellow players may be affected by your departure.
 
     [center][b]Are you sure you want to leave?[/b][/center]
   LABEL_LEAVE_GAME_TITLE: |
     Leaving Fortune Avenue
-  LABEL_GIVE_UP_GAME_DESCRIPTION:
-    Giving up now will forfeit your current progress and
-    disconnect you from the ongoing multiplayer experience. Your fellow players
-    may be affected by your departure.
-
-
-    [center][b]Are you sure you want to give up?[/b][/center]
-  LABEL_GIVE_UP_GAME_TITLE: |
-    Giving up Fortune Avenue
+  LABEL_LOADING_1: Waiting for Godot... as usual
+  LABEL_LOADING_10: Training penguins for ice floe rescue missions
+  LABEL_LOADING_11: Scheduling luxury cruises for stranded players
+  LABEL_LOADING_12: Installing anti-gravity features in the airplane
+  LABEL_LOADING_13: Teaching the Wheel of Fortune proper physics
+  LABEL_LOADING_14: Polishing the Christ the Redeemer statue
+  LABEL_LOADING_15: Making sure the Taj Mahal is taj-mahal-velous
+  LABEL_LOADING_16: Dusting off the Pyramids
+  LABEL_LOADING_17: Renovating the Colosseum (again)
+  LABEL_LOADING_18: Hiring virtual bank tellers
+  LABEL_LOADING_19: Preparing your financial doom
+  LABEL_LOADING_2: Rigging dice in your favor (just kidding)
+  LABEL_LOADING_20: Loading capitalist nightmares
+  LABEL_LOADING_21: Generating random excuses for bankruptcy
+  LABEL_LOADING_22: Teaching AI players to be merciless
+  LABEL_LOADING_23: Calculating optimal rent exploitation strategies
+  LABEL_LOADING_24: Preparing 'Chance' cards (nothing is actually chance)
+  LABEL_LOADING_25: Installing ejector seats in luxury hotels
+  LABEL_LOADING_26: Redistributing wealth (just kidding, this is Monopoly)
+  LABEL_LOADING_27: Making sure money doesn't grow on trees
+  LABEL_LOADING_28: Preparing your path to virtual bankruptcy
+  LABEL_LOADING_29: Loading expensive properties you can't afford
+  LABEL_LOADING_3: Teaching helicopters to chase poor people
+  LABEL_LOADING_30: Teaching caravans to transform into 5-star hotels
+  LABEL_LOADING_31: Preparing financial disasters
+  LABEL_LOADING_32: Loading virtual real estate bubble
+  LABEL_LOADING_33: Making sure the bank always wins
+  LABEL_LOADING_34: Calculating compound interest (it's not in your favor)
+  LABEL_LOADING_35: Programming AI to make questionable financial decisions
+  LABEL_LOADING_36: Preparing handshakes with suspicious bankers
+  LABEL_LOADING_37: Loading aggressive property acquisition strategies
+  LABEL_LOADING_38: Teaching dice to roll dramatically
+  LABEL_LOADING_39: Making sure hotels are exactly one pixel misaligned
+  LABEL_LOADING_4: Melting ice floes... global warming not included
+  LABEL_LOADING_40: Preparing interesting ways to lose money
+  LABEL_LOADING_41: Loading economic theories that don't work in real life
+  LABEL_LOADING_42: Generating witty loading screen messages
+  LABEL_LOADING_43: Making sure RNG is properly random (or is it?)
+  LABEL_LOADING_44: Preparing virtual property deeds
+  LABEL_LOADING_45: Loading capitalist simulator v2.0
+  LABEL_LOADING_46: Teaching helicopters proper chase choreography
+  LABEL_LOADING_47: Preparing your journey to financial ruin
+  LABEL_LOADING_48: Making sure the luxury cruise is sufficiently luxurious
+  LABEL_LOADING_49: Calculating optimal friend-ruining strategies
+  LABEL_LOADING_5: Calculating the odds of rolling doubles
+  LABEL_LOADING_50: Loading... just because we can
+  LABEL_LOADING_6: Inflating hotel prices to unreasonable levels
+  LABEL_LOADING_7: Organizing impromptu festivals
+  LABEL_LOADING_8: Bribing the World Cup committee
+  LABEL_LOADING_9: Counting monopoly money (twice, just to be sure)
   LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
-    Vote for rules ✦
-    Roll the dice ✦
-    Build hotels ✦
+    Vote for rules •
+    Roll the dice •
+    Build hotels •
   LABEL_LOADING_HOW_TO_PLAY_TITLE: |
     How to play ?
-    ‾‾‾‾‾‾‾‾‾‾‾‾‾
   LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
     Ruin your opponents ✔
     Buy all the wonders ✔
     Own an entire side of the board ✔
   LABEL_LOADING_HOW_TO_WIN_TITLE: |
     How to win ?
-    ‾‾‾‾‾‾‾‾‾‾‾‾
   LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
     When time is up, if the lobby is not full,
     then empty slots are filled by computers.
   LABEL_LOBBY_FILLING_TIMED_OUT: >
     [b]Time is up![/b]
 
-
     We couldn’t find any players to join your game.
-
     Consider playing with computer-controlled players to start the game right away
   LABEL_LOBBY_NAME: Lobby's name
   LABEL_LOBBY_NO_AUTO_FILL: |
@@ -458,19 +471,18 @@ en:
     don't start the game and unlock the lobby.
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
     You couldn't pay {ps}the bank{pe}, you're {ps}BANKRUPT{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    You've decided to {ps}GIVE UP{pe} the game!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     After an incredible chase, {ps}the helicopter{pe} finally caught you!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
     You couldn't pay {killer_name}, you're {ps}BANKRUPT{pe}!
   LABEL_LOCAL_PLAYER_LOST_TITLE: You've lost!
-  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    You've decided to {ps}GIVE UP{pe} the game!
-  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    {name} has just {ps}GIVE UP{pe} the game!
   LABEL_MAIN_MENU_GAME_TITLE: |
     Back to main menu
   LABEL_MINUTES: minutes
   LABEL_NEW_RENT: "New rent: $%s"
+  LABEL_NOT_AVAILABLE_DEMO: Not available in the demo
   LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
     You cannot play this card as there is no available space.
   LABEL_NO_EFFECT_TO_PLAYER: |
@@ -481,22 +493,12 @@ en:
   LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
     You cannot play this card as no property is available.
   LABEL_NO_SIGNAL: No signal
+  LABEL_NO_TEAM: No team
   LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
     You cannot play this card as no wonder is available.
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Number of lap without rent
   LABEL_NUMBER_OF_PLAYERS: Player's count
   LABEL_OPENGL_RENDERER: "Renderer: OpenGL (EXPERIMENTAL)"
-  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
-  LABEL_OPTION_GAME_SPEED_FAST: Fast
-  LABEL_OPTION_GAME_SPEED_FASTER: Faster
-  LABEL_OPTION_GAMEPAD_VIBRATION: Joystick vibration
-  LABEL_OPTION_GAME_SPEED: Game speed
-  LABEL_TUTORIEL_DICE_GAMEPAD: >
-    [img width=64]%s[/img] and hold while moving [img width=64]%s[/img] to shake the dice.
-    Release to throw them.
-  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
-    [img width=64]%s[/img] and hold while moving [img width=64]%s[/img] to throw the wheel.
-    Release to launch it.
   LABEL_OPTION_AUDIO: Audio settings
   LABEL_OPTION_AUTOFILL_LOBBY: Autofill lobby with computer
   LABEL_OPTION_BOARD_CENTER_ROTATE: Board middle rotation
@@ -509,7 +511,12 @@ en:
   LABEL_OPTION_CAMERA_SEMI_AUTO: Camera semi-auto
   LABEL_OPTION_DISABLE_SURROUNDING: Disable surroundings
   LABEL_OPTION_FX: FX
+  LABEL_OPTION_GAMEPAD_VIBRATION: Joystick vibration
   LABEL_OPTION_GAMEPLAY: Gameplay settings
+  LABEL_OPTION_GAME_SPEED: Game speed
+  LABEL_OPTION_GAME_SPEED_FAST: Fast
+  LABEL_OPTION_GAME_SPEED_FASTER: Faster
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
   LABEL_OPTION_LANGUAGE: Language
   LABEL_OPTION_LOBBY_WAIT_TIME: Lobby timeout
   LABEL_OPTION_MISC: Miscellaneous settings
@@ -520,9 +527,18 @@ en:
   LABEL_OPTION_TUTORIEL: Tutorial
   LABEL_OPTION_VIDEO: Graphic settings
   LABEL_OPTION_WINDOW: Windowed
+  LABEL_PAWN_NAME: Tacticus
   LABEL_PAY: Pay $%s
   LABEL_PAY_RENT: Rent
+  LABEL_PIG_NAME: Rosette
+  LABEL_PINGOUIN_NAME: Gunter
   LABEL_PLAYER_BANKRUPT: Bankruptcy
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: |
+    Please select a city to build a hotel on.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: Construction
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
+    Please select a square with a festival to cancel it.
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: End of Festival
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Please select the square to disable.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Disable the square
@@ -573,54 +589,29 @@ en:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} has just made a {ws}{rs}MONOPOLY{re}{we}!
   LABEL_PLAYER_WON_TITLE: "{name} won the game!"
-  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
-    {team} are the {ps}last team standing{pe}!
-  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
-    {team} have just made a {ws}{rs}MONOPOLY{re}{we}!
-  LABEL_TEAM_WON_TITLE: "{team} won the game!"
-  LABEL_NO_TEAM: No team
-  LABEL_TEAM: Team
-  LABEL_RANDOM: Random
   LABEL_PRESS_ANY_BUTTON: Press to continue
   LABEL_PROGRESS_NEXT_VOTE: Next vote
   LABEL_PROPERTY_RENT: Rent
+  LABEL_RANDOM: Random
   LABEL_REAL_ESTATE_ASSET_VALUE: Property value
   LABEL_REMAINING_TURN: Remaining turn
   LABEL_REMOTE_PLAYER: Remote player
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
     {name} couldn't pay {ps}the bank{pe}, {name} is {ps}BANKRUPT{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    {name} has just {ps}GIVE UP{pe} the game!
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     After an incredible chase, {ps}the helicopter{pe} finally caught {name}!
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name} couldn't pay {killer_name}, {name} is {ps}BANKRUPT{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name}'s lost!"
-  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Climate Catastrophe
   LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
-    Environmental activists have taken over the airports,
-    ticket costs are multiplied by 10.
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Ruthless Capitalism
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
-    Monopolies have become extraordinarily powerful,
-    resulting in all monopoly rents being multiplied by 2.
-  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotel Lottery Bonanza
-  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
-    An eccentric billionaire is feeling unusually generous today,
-    granting every player one free 3-star hotel.
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Double Knockout Bonus
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
-    The stakes have doubled as bounty rewards for eliminating
-    other players are now worth twice as much.
-  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Mode
-  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
-    The rules of victory have changed as you can no longer win by monopoly,
-    only by being the last player standing.
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Inflation Nightmare
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
-    Economic chaos has struck the market as the rent increase per lap is now doubled.
+    Environmental activists have taken over the airports, ticket costs are multiplied by 10.
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Climate Catastrophe
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     Free GPS for everyone! You can make as many doubles as you like!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Place your bets
-  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: >
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: |
     Thanks to an exemption, 5-star hotels can be built as early as the first lap.
   LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Fast going
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
@@ -629,14 +620,14 @@ en:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     It is now possible to buy other players' wonders.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: It changes everything
-  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: >
-    RV living has become a trend,
-    meaning that caravan rents cost as much as rent in a 5-star hotel.
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
+    RV living has become a trend, meaning that caravan rents cost as much as rent in a 5-star hotel.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohemian life
-  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: >
-    Living is more expensive, and to
-    keep up the indecent lifestyles of landlords, every hotel has doubled its
-    rent.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    The stakes have doubled as bounty rewards for eliminating other players are now worth twice as much.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Double Knockout Bonus
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: |
+    Living is more expensive, and to keep up the indecent lifestyles of landlords, every hotel has doubled its rent.
   LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Unfair social treatment
   LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
     Players' salaries are doubled.
@@ -647,40 +638,48 @@ en:
   LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
     A new festival takes place in one random city.
   LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Party time!
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    An eccentric billionaire is feeling unusually generous today, granting every player one free 3-star hotel.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotel Lottery Bonanza
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
     Labour unrest breaks out, and all 5-star hotels are put back on the line.
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: Oh No!
-  LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
-    Government provides humanitarian aid
-    without distinction. All players receive $100,000
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
+    Government provides humanitarian aid without distinction. All players receive $100,000
   LABEL_RULESET_FREE_MONEY_TITLE: Global pandemic
+  LABEL_RULESET_FREE_MONOPOLIES_DESCRIPTION: |
+    Anti-trust laws take effect immediately. All monopolies are broken up and put back on the market.
+  LABEL_RULESET_FREE_MONOPOLIES_TITLE: Market Crash
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
     The helicopter can chase several players at the same time
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Unstoppable
-  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: >
-    A new criminal justice system
-    designed to reduce crime has been introduced! From now on, the helicopter is
-    always going to chase the poorest player.
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: |
+    A new criminal justice system designed to reduce crime has been introduced! From now on, the helicopter is always going to chase the poorest player.
   LABEL_RULESET_HELICOPTER_CHASING_TITLE: Richest man's law
-  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: >
-    Criminal activity increases, which
-    lowers the standard of your hotels. All hotels lose one star (minimum
-    caravan).
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_DESCRIPTION: |
+    The helicopter now hunts any player with more than $1 million. Time to redistribute wealth.
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_TITLE: Eat the Rich
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: |
+    Criminal activity increases, which lowers the standard of your hotels. All hotels lose one star (minimum caravan).
   LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Oops!
-  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: >
-    Government invests a lot in
-    tourism, all hotels get a bonus star (maximum 5 stars)
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: |
+    Government invests a lot in tourism, all hotels get a bonus star (maximum 5 stars)
   LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Urban planning law
-  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: >
-    Construction standards are changing,
-    and hotels are no longer worth anything on resale. Only land retains its
-    value.
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: |
+    Construction standards are changing, and hotels are no longer worth anything on resale. Only land retains its value.
   LABEL_RULESET_HOTEL_WORTHLESS_TITLE: A new standard
-  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: >
-    As the ice pack melted, investors saw
-    enormous potential. A luxury cruise replaces the ice pack, and it's going to
-    cost an arm and a leg.
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
+    As the ice pack melted, investors saw enormous potential. A luxury cruise replaces the ice pack, and it's going to cost an arm and a leg.
   LABEL_RULESET_ICEPACK_MELT_TITLE: 50 years of inaction
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Economic chaos has struck the market as the rent increase per lap is now doubled.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Inflation Nightmare
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    The rules of victory have changed as you can no longer win by monopoly, only by being the last player standing.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Mode
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Monopolies have become extraordinarily powerful, resulting in all monopoly rents being multiplied by 2.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Ruthless Capitalism
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
     Next turn, instead of rolling the dice, you move back one square.
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Moving backwards
@@ -690,69 +689,86 @@ en:
   LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
     The police rebel, all protected squares come back into play
   LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: Blimey!
-  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: >
-    A new bill has just been passed, as
-    government salaries were insufficient. To fund these new measures, all taxes
-    are now doubled.
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: |
+    A new bill has just been passed, as government salaries were insufficient. To fund these new measures, all taxes are now doubled.
   LABEL_RULESET_TAXES_DOUBLED_TITLE: Passed unanimously
-  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: >
-    Campaigners succeed in thwarting the
-    lobbyists' plans, and an edict is passed, bringing all the wonders of the
-    board back into play.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_DESCRIPTION: |
+    A bankruptcy space is added to the Wheel of Fortune. Land on it and you're instantly eliminated.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_TITLE: Wheel of Misfortune
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_DESCRIPTION: |
+    A victory space is added to the Wheel of Fortune. Land on it for an instant win.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_TITLE: Spin to Win
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: |
+    Campaigners succeed in thwarting the lobbyists' plans, and an edict is passed, bringing all the wonders of the board back into play.
   LABEL_RULESET_WONDERS_FREED_TITLE: Not for long
   LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
     Rents for all the wonders are multiplied by 10.
   LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Hardly cheap
-  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: >
-    We've found cheap slaves to build the
-    World Cup stadiums. The stadiums will be even bigger, as a result of the
-    World Cup bonuses being doubled.
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: |
+    We've found cheap slaves to build the World Cup stadiums. The stadiums will be even bigger, as a result of the World Cup bonuses being doubled.
   LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Unforgettable!
+  LABEL_SCOOTER_NAME: Vroomie
   LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
     You don't have enough money to pay, you have to sell one or more properties
   LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Money needed
   LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Money remaining
   LABEL_SELECT_CITY_TO_SELL_TITLE: Select a property to sell
+  LABEL_SHOE_NAME: Patachon
   LABEL_SIMPLE_SHADOW: Simple
   LABEL_STEAM_BUSY: Steam busy, please try again later
   LABEL_STEAM_QUERYING: Querying Steam
   LABEL_STEAM_READY: Press any key
   LABEL_STEAM_WAITING: Connecting to Steam...
+  LABEL_SUITCASE_NAME: Baggy
   LABEL_TAXES_FORFAIT_DESCRIPTION: |
     You need to cover the [b]Flat Rate Fee[/b].
     The [b]fee goes up by +{raw_costs}[/b] with each payment.
   LABEL_TAXES_FORFAIT_TITLE: Fixed Taxes
   LABEL_TAXES_PROPORTIONAL_TITLE: Proportional Taxes
+  LABEL_TEAM: Team
   LABEL_TEAM_NUMBER: Team
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} are the {ps}last team standing{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} have just made a {ws}{rs}MONOPOLY{re}{we}!
+  LABEL_TEAM_WON_TITLE: "{team} won the game!"
   LABEL_TOO_EXPENSIVE: You don't have enough money to buy that.
+  LABEL_TOPHAT_NAME: Dandy
   LABEL_TURN: Turn
   LABEL_TURN_BEFORE_ELIMINATION: "%s turn(s) before elimination"
   LABEL_TUTORIEL_DICE: >
     Press and hold while moving the mouse to shake the dice.
     Release to throw them.
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    [img width=64]%s[/img] and hold while moving [img
+    width=64]%s[/img] to shake the dice. Release to throw them.
   LABEL_TUTORIEL_MAIN_MENU: >
     Use the buttons to select the type of opponent you'd
     like to face. Chose between human, computer or closed slot.
   LABEL_TUTORIEL_RULESET: >
     Vote for a rule. Once everyone has voted, the rule with
     the most votes is applied. If there is a tie, one rule is chosen at random.
-  LABEL_TUTORIEL_WHEEL: |
-    Press and hold to move the wheel. Release to launch it.
+  LABEL_TUTORIEL_WHEEL: >
+    Press and hold to move the wheel.
+    Release to launch it.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    [img width=64]%s[/img] and hold
+    while moving [imgwidth=64]%s[/img] to throw the wheel.
+    Release to launch it.
   LABEL_WANTED_DESCRIPTION: Dead or alive
   LABEL_WANTED_TITLE: Wanted
   LABEL_WINDOW_FULLSCREEN: Fullscreen
   LABEL_WINDOW_WINDOWED: Windowed
+  LABEL_WONDER_BRANDBURG_GATE: Branden-burg Gate
   LABEL_WONDER_CHRIST_THE_REDEEMER: Christ the redeemer
   LABEL_WONDER_COLISEE: Colosseum
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Building
+  LABEL_WONDER_FORBIDDEN_CITY: Forbidden City
+  LABEL_WONDER_LIGHTHOUSE: Great Lighthouse
   LABEL_WONDER_PYRAMIDS: Pyramids
   LABEL_WONDER_TAJ_MAHAL: Taj Mahal
-  LABEL_WONDER_LIGHTHOUSE: Great Lighthouse
-  LABEL_WONDER_FORBIDDEN_CITY: Forbidden City
-  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Building  
-  LABEL_WONDER_BRANDBURG_GATE: Branden-burg Gate
-  LABEL_WORLDCUP_POSITION_DESCRIPTION: >
-    Congratulations on winning the right to
-    choose the location of the World Cup!
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: |
+    Congratulations on winning the right to choose the location of the World Cup!
 
     If the World Cup were to take place in another location, it would automatically be moved to the location of your choice.
 
@@ -777,7 +793,7 @@ en:
   LOCKING_LOBBY: Locking lobby
   NO_LOBBY: No lobby
   ROOM_READY: Server ready
-  ROOM_WAITING_FOR_CONFIGURATION: Waiting for serveur configuration
+  ROOM_WAITING_FOR_CONFIGURATION: Waiting for server configuration
   TOOLTIP_BUY_BACK_GRAND_HOTEL: |
     Cannot buy back a 5 stars hotel
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
@@ -800,6 +816,12 @@ en:
     The more properties you have, the more you will pay
   TOOLTIP_CLOSED_SLOT: Closed slot (no player)
   TOOLTIP_COMPUTER_SLOT: Closed slot (computer player)
+  TOOLTIP_DIFFICULTY_EASY: |
+    Easy AI difficulty
+  TOOLTIP_DIFFICULTY_HARD: |
+    Hard AI difficulty
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    Double the rent
   TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
     It takes a full lap to build a 4 or 5 star hotel
   TOOLTIP_HELICOPTER_DESCRIPTION: |
@@ -812,7 +834,8 @@ en:
     then to start the game each available slot must already be
     occupied by a human player.
   TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
-    Online opponent search is disabled if a computer player is present.
+    Online opponent search is disabled
+    if a computer player is present.
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     At least 2 players are required to start a game.
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
@@ -827,88 +850,39 @@ en:
     The player who completed the most laps
   TOOLTIP_KIKIMETER_MOST_RENT: |
     The player who spent the most money
-  TOOLTIP_NETWORK_OUT_OF_SYNC: >
-    We apologize for the inconvenience, a network
-    synchronization problem has occurred.
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    Double the rent
+  TOOLTIP_NETWORK_INITIALIZING: |
+    It seems that a player is having trouble joining the game.
 
+    [b]Fortune Avenue will start the game as soon as possible.[/b]
+
+    This may take several minutes, depending on the power of their computer.
+
+    Thank you for your patience.
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    We apologize for the inconvenience, a network synchronization problem has occurred.
 
     [b]Fortune Avenue is attempting to re-sync now.[/b]
 
     It should only take a moment or two.
 
     Meanwhile, please check that you are connected to the Internet.
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Cannot be bought out or subject to malus
   TOOLTIP_RENT_INCREASE_DESCRIPTION: |
     Your properties' rent +%s per lap
   TOOLTIP_SEARCH_FOR_OPPONENT: |
     Searching for players can sometimes take a little while.
-    If you want to start your game right away, consider adding
-    computer-controlled players to fill the lobby.
+
+    If you want to start your game right away,
+    consider adding computer-controlled players to fill the lobby.
 
     It’s a great way to jump into the action immediately.
   TOOLTIP_STEAM_VAC_BANNED: |
     You've been Steam VAC banned.
     You cannot play with random players.
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    %s times the rent
   TOOL_NEED_STEAM_OVERLAY: |
     Steam overlay is required to use this feature
-
-  LABEL_LOADING_1: "Waiting for Godot... as usual"
-  LABEL_LOADING_2: "Rigging dice in your favor (just kidding)"
-  LABEL_LOADING_3: "Teaching helicopters to chase poor people"
-  LABEL_LOADING_4: "Melting ice floes... global warming not included"
-  LABEL_LOADING_5: "Calculating the odds of rolling doubles"
-  LABEL_LOADING_6: "Inflating hotel prices to unreasonable levels"
-  LABEL_LOADING_7: "Organizing impromptu festivals"
-  LABEL_LOADING_8: "Bribing the World Cup committee"
-  LABEL_LOADING_9: "Counting monopoly money (twice, just to be sure)"
-  LABEL_LOADING_10: "Training penguins for ice floe rescue missions"
-  LABEL_LOADING_11: "Scheduling luxury cruises for stranded players"
-  LABEL_LOADING_12: "Installing anti-gravity features in the airplane"
-  LABEL_LOADING_13: "Teaching the Wheel of Fortune proper physics"
-  LABEL_LOADING_14: "Polishing the Christ the Redeemer statue"
-  LABEL_LOADING_15: "Making sure the Taj Mahal is taj-mahal-velous"
-  LABEL_LOADING_16: "Dusting off the Pyramids"
-  LABEL_LOADING_17: "Renovating the Colosseum (again)"
-  LABEL_LOADING_18: "Hiring virtual bank tellers"
-  LABEL_LOADING_19: "Preparing your financial doom"
-  LABEL_LOADING_20: "Loading capitalist nightmares"
-  LABEL_LOADING_21: "Generating random excuses for bankruptcy"
-  LABEL_LOADING_22: "Teaching AI players to be merciless"
-  LABEL_LOADING_23: "Calculating optimal rent exploitation strategies"
-  LABEL_LOADING_24: "Preparing 'Chance' cards (nothing is actually chance)"
-  LABEL_LOADING_25: "Installing ejector seats in luxury hotels"
-  LABEL_LOADING_26: "Redistributing wealth (just kidding, this is Monopoly)"
-  LABEL_LOADING_27: "Making sure money doesn't grow on trees"
-  LABEL_LOADING_28: "Preparing your path to virtual bankruptcy"
-  LABEL_LOADING_29: "Loading expensive properties you can't afford"
-  LABEL_LOADING_30: "Teaching caravans to transform into 5-star hotels"
-  LABEL_LOADING_31: "Preparing financial disasters"
-  LABEL_LOADING_32: "Loading virtual real estate bubble"
-  LABEL_LOADING_33: "Making sure the bank always wins"
-  LABEL_LOADING_34: "Calculating compound interest (it's not in your favor)"
-  LABEL_LOADING_35: "Programming AI to make questionable financial decisions"
-  LABEL_LOADING_36: "Preparing handshakes with suspicious bankers"
-  LABEL_LOADING_37: "Loading aggressive property acquisition strategies"
-  LABEL_LOADING_38: "Teaching dice to roll dramatically"
-  LABEL_LOADING_39: "Making sure hotels are exactly one pixel misaligned"
-  LABEL_LOADING_40: "Preparing interesting ways to lose money"
-  LABEL_LOADING_41: "Loading economic theories that don't work in real life"
-  LABEL_LOADING_42: "Generating witty loading screen messages"
-  LABEL_LOADING_43: "Making sure RNG is properly random (or is it?)"
-  LABEL_LOADING_44: "Preparing virtual property deeds"
-  LABEL_LOADING_45: "Loading capitalist simulator v2.0"
-  LABEL_LOADING_46: "Teaching helicopters proper chase choreography"
-  LABEL_LOADING_47: "Preparing your journey to financial ruin"
-  LABEL_LOADING_48: "Making sure the luxury cruise is sufficiently luxurious"
-  LABEL_LOADING_49: "Calculating optimal friend-ruining strategies"
-  LABEL_LOADING_50: "Loading... just because we can"
-  BUTTON_GIVE_UP: Give up
-  LABEL_CARD_RANDOM_13_TITLE: Legacy
-  LABEL_CARD_RANDOM_13_DESCRIPTION: >
-   Congratulations, your great uncle has just bequeathed you one of his hotels.
-  LABEL_CARD_RANDOM_14_TITLE: Rising Crime
-  LABEL_CARD_RANDOM_14_DESCRIPTION: >
-   Crime is increasing in one of your cities, the prefect dispatches a police regiment to protect it.
-  LABEL_CARD_RANDOM_15_TITLE: Tax Audit
-  LABEL_CARD_RANDOM_15_DESCRIPTION: |
-   You are undergoing a surprise tax audit.
-   Move to taxes.

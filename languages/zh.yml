@@ -1,25 +1,4 @@
 zh:
-  BUTTON_PLAY_AGAIN: 再玩一次
-  LABEL_SCOOTER_NAME: Vroomie
-  LABEL_CAR_NAME: Van Diesel
-  LABEL_BOAT_NAME: Splashy
-  LABEL_PAWN_NAME: Tacticus
-  LABEL_TOPHAT_NAME: Dandy
-  LABEL_SUITCASE_NAME: Baggy
-  LABEL_BEAR_NAME: Patapouf
-  LABEL_PIG_NAME: Rosette
-  LABEL_GOOSE_NAME: Flappy
-  LABEL_SHOE_NAME: Patachon
-  LABEL_DOG_NAME: Barky
-  LABEL_PINGOUIN_NAME: Gunter
-  TOOLTIP_WORLDCUP_DESCRIPTION: |
-    租金的%s倍
-  TOOLTIP_FESTIVAL_DESCRIPTION: |
-    双倍租金
-  TOOLTIP_MONOPOLE_DESCRIPTION: |
-    双倍租金
-  TOOLTIP_PROTECTED_DESCRIPTION: |
-    不能被收购或受到惩罚
   BUTTON_APPLY: 应用
   BUTTON_AUTOMATIC_SELL: 自动出售
   BUTTON_BANKRUPT: 破产
@@ -30,6 +9,7 @@ zh:
   BUTTON_CLOSE: 关闭
   BUTTON_CREATE_GAME: 创建大厅
   BUTTON_FEEDBACK: 反馈
+  BUTTON_GIVE_UP: 放弃
   BUTTON_INVITE: 邀请
   BUTTON_JOIN: 加入
   BUTTON_JOIN_GAME: 加入大厅
@@ -46,6 +26,7 @@ zh:
   BUTTON_ORIGINAL: 原始规则
   BUTTON_PAY: 支付
   BUTTON_PAY_TICKET: 购买票
+  BUTTON_PLAY_AGAIN: 再玩一次
   BUTTON_PLAY_CARD: 出牌
   BUTTON_QUIT: 退出
   BUTTON_READY: 准备好!
@@ -65,11 +46,6 @@ zh:
   GAME_RECONNECTING: 正在重新连接游戏
   IN_GAME: 游戏中
   JOINNING_LOBBY: 加入大厅中
-  LABEL_NOT_AVAILABLE_DEMO: 演示版中不可用
-  LABEL_GAME_START_OFFLINE: 离线游戏
-  LABEL_GAME_START_SINGLEPLAYER: 单人游戏
-  LABEL_GAME_START_ONLINE: 在线游戏
-  LABEL_GAME_START_MULTIPLAYER: 多人游戏
   LABEL_1_HOSTEL: 豪华酒店
   LABEL_1_HOUSE: 1 星酒店
   LABEL_1_WONDER: 一项奇迹
@@ -97,12 +73,14 @@ zh:
   LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: VAC禁令。
   LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: VAC检查超时。
   LABEL_BALANCED_SHADOW: 平衡
+  LABEL_BEAR_NAME: Patapouf
   LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: 请求重复
   LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: 票据过期
   LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: 游戏不匹配
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: 无效票据
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: 版本不匹配
   LABEL_BEGIN_AUTH_SESSION_RESULT_OK: 票据有效
+  LABEL_BOAT_NAME: Splashy
   LABEL_BUY_BACK_VALUE: 可赎回 $%s
   LABEL_BUY_BUILD: 购买建筑
   LABEL_BUY_COSTS: 购买成本
@@ -115,31 +93,63 @@ zh:
     请选择一个城市。
   LABEL_CARD_ANARCHY_0_TITLE: 国家警察
   LABEL_CARD_ANARCHY_10_DESCRIPTION: |
-    一群人将您视为先知，您可以指定一个城市供他们占领。
-    该城市将不会产生租金 %s 轮。
+    一群人将您视为先知，您可以指定一个城市供他们占领。 该城市将不会产生租金 %s 轮。
 
     请选择一个城市。
   LABEL_CARD_ANARCHY_10_TITLE: 巧合比赛
   LABEL_CARD_ANARCHY_11_DESCRIPTION: |
-    您可以使用这张卡牌将一个奇迹重新放回游戏中。
-    拥有者将立即失去该奇迹。
+    您可以使用这张卡牌将一个奇迹重新放回游戏中。 拥有者将立即失去该奇迹。
 
     请选择一个奇迹。
   LABEL_CARD_ANARCHY_11_TITLE: 不公决策
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: |
+    恭喜！市政府为您提供一个免费的三星级酒店。
+
+    请选择一个城市
+  LABEL_CARD_ANARCHY_12_TITLE: 土地登记
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: |
+    您可以使用私人飞机。立即起飞。
+  LABEL_CARD_ANARCHY_13_TITLE: 私人飞机
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: |
+    您的不良关系发挥了作用。您选择的一名玩家被送到冰原上。
+
+    请选择一名玩家
+  LABEL_CARD_ANARCHY_14_TITLE: 腐败法官
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: |
+    市政厅因居民投诉取消了一项节日活动。
+
+    请选择一个城市
+  LABEL_CARD_ANARCHY_15_TITLE: 庆典结束
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: |
+    您获得了选择下一届世界杯举办城市的权利。
+
+    请选择一个城市
+  LABEL_CARD_ANARCHY_16_TITLE: 世界杯
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: |
+    您可以让一名对手向前移动一格。明智选择！
+
+    请选择一名玩家
+  LABEL_CARD_ANARCHY_17_TITLE: 绑架
+  LABEL_CARD_ANARCHY_18_DESCRIPTION: |
+    您立即触发一次新的规则投票。 是时候改变现状了！
+  LABEL_CARD_ANARCHY_18_TITLE: 民主行动
+  LABEL_CARD_ANARCHY_19_DESCRIPTION: |
+    您选择的一位玩家必须跳过下一回合。
+
+    请选择一位玩家。
+  LABEL_CARD_ANARCHY_19_TITLE: 强制休假
   LABEL_CARD_ANARCHY_1_DESCRIPTION: |
     公证人喜欢您。他建议您释放一个您选择的城市。
 
     请选择一个城市。
   LABEL_CARD_ANARCHY_1_TITLE: 公证处
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
-    您的狡黠使您无论去哪里都不被发现。
-    这使您能够从其他玩家那里偷取一个城市。
+    您的狡黠使您无论去哪里都不被发现。 这使您能够从其他玩家那里偷取一个城市。
 
     请选择一个城市。
   LABEL_CARD_ANARCHY_2_TITLE: 法警
   LABEL_CARD_ANARCHY_3_DESCRIPTION: |
-    一档真人秀节目在您的一个城市安营扎寨。
-    他们启动大型建设项目，为您升级酒店。
+    一档真人秀节目在您的一个城市安营扎寨。 他们启动大型建设项目，为您升级酒店。
 
     请选择一个城市。
   LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
@@ -149,8 +159,7 @@ zh:
     请选择一个玩家。
   LABEL_CARD_ANARCHY_4_TITLE: 玩乐有风险
   LABEL_CARD_ANARCHY_5_DESCRIPTION: |
-    您强迫一个同伴切换到按比例征税模式。
-    当他落在税收与费用格子上时，他将按财务资产比例缴纳税款。
+    您强迫一个同伴切换到按比例征税模式。 当他落在税收与费用格子上时，他将按财务资产比例缴纳税款。
 
     请选择一个玩家。
   LABEL_CARD_ANARCHY_5_TITLE: 公共财政
@@ -160,8 +169,7 @@ zh:
     请选择一个城市。
   LABEL_CARD_ANARCHY_6_TITLE: 领土安全
   LABEL_CARD_ANARCHY_7_DESCRIPTION: |
-    您强迫一个同伴切换到固定征税模式。
-    当他落在税收与费用格子上时，他将支付固定金额 $%s。
+    您强迫一个同伴切换到固定征税模式。 当他落在税收与费用格子上时，他将支付固定金额 $%s。
 
     请选择一个玩家。
   LABEL_CARD_ANARCHY_7_TITLE: 公共财政
@@ -182,20 +190,51 @@ zh:
     您成功取消了下一届世界杯，比赛恢复到基础状态。
   LABEL_CARD_RANDOM_10_TITLE: 世界趣味委员会
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    一位好心人决定给您提供一次假期。
-    您无需支付下一个租金。
+    一位好心人决定给您提供一次假期。 您无需支付下一个租金。
   LABEL_CARD_RANDOM_11_TITLE: 好心人
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     你的一个租户弃你而去，而银行则代收下一笔租金。
   LABEL_CARD_RANDOM_12_TITLE: 不满的租户
+  LABEL_CARD_RANDOM_13_DESCRIPTION: |
+    恭喜，您的曾叔父刚刚将他的一家酒店遗赠给您。
+  LABEL_CARD_RANDOM_13_TITLE: 美好的遗产
+  LABEL_CARD_RANDOM_14_DESCRIPTION: |
+    您的一座城市犯罪率正在上升，长官派遣了一个警察团来保护它。
+  LABEL_CARD_RANDOM_14_TITLE: 犯罪率上升
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    您正在接受突击税务审计。
+
+    前进到税务方格。
+  LABEL_CARD_RANDOM_15_TITLE: 税务审计
+  LABEL_CARD_RANDOM_16_DESCRIPTION: |
+    不幸！由于一次事件，您随机失去了一家酒店。
+  LABEL_CARD_RANDOM_16_TITLE: 灾难
+  LABEL_CARD_RANDOM_17_DESCRIPTION: |
+    您的会员卡为您赢得了一张免费机票。
+
+    随时可用。
+  LABEL_CARD_RANDOM_17_TITLE: 飞行里程
+  LABEL_CARD_RANDOM_18_DESCRIPTION: |
+    立即向前移动一格。有时，小小的进步也能带来改变。
+  LABEL_CARD_RANDOM_18_TITLE: 小步前进
+  LABEL_CARD_RANDOM_19_DESCRIPTION: |
+    您乘坐商务舱旅行。您下一张机票的价格翻倍。
+  LABEL_CARD_RANDOM_19_TITLE: 商务舱
   LABEL_CARD_RANDOM_1_DESCRIPTION: |
     前往 %s。
   LABEL_CARD_RANDOM_1_TITLE: 旅行社
+  LABEL_CARD_RANDOM_20_DESCRIPTION: |
+    幸运女神对您微笑！您可以立即再进行一次回合。
+  LABEL_CARD_RANDOM_20_TITLE: 东山再起
+  LABEL_CARD_RANDOM_21_DESCRIPTION: |
+    税务局丢失了您的档案。下次您落在税务方格上时，您只需支付30,000$。
+  LABEL_CARD_RANDOM_21_TITLE: 税务申报错误
   LABEL_CARD_RANDOM_2_DESCRIPTION: |
     请向后移动 %s 格。
   LABEL_CARD_RANDOM_2_TITLE: 旅行社
   LABEL_CARD_RANDOM_3_DESCRIPTION: |
     您再次迷路了。四周都是冰面，视野所及皆为冰层。
+
     毫无疑问，您现在在冰原上。
   LABEL_CARD_RANDOM_3_TITLE: 冰原
   LABEL_CARD_RANDOM_4_DESCRIPTION: |
@@ -208,66 +247,23 @@ zh:
   LABEL_CARD_RANDOM_5_TITLE: 时运不错!
   LABEL_CARD_RANDOM_6_DESCRIPTION: |
     您在股市上投资，但运气不佳。
+
     您立即失去四分之一的流动资产。
   LABEL_CARD_RANDOM_6_TITLE: 玩乐有风险
   LABEL_CARD_RANDOM_7_DESCRIPTION: |
     您切换到按比例征税模式。
+
     当您落在税收与费用格子上时，您将按财务资产比例缴纳税款。
   LABEL_CARD_RANDOM_7_TITLE: 公共财政
   LABEL_CARD_RANDOM_8_DESCRIPTION: |
     您切换到固定征税模式。
+
     当您落在税收与费用格子上时，您将支付固定金额 $%s。
   LABEL_CARD_RANDOM_8_TITLE: 公共财政
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     知名主播们以您的名义组织了一次非营利活动，您获得了 $%s。
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
-  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: 节日结束
-  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
-    请选择一个有节日的方格来取消它。
-  LABEL_PLAYER_BUILD_HOTEL_TITLE: 建设
-  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
-    请选择一个城市来建造酒店。
-  LABEL_CARD_ANARCHY_12_TITLE: 土地登记
-  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
-    恭喜！市政府为您提供一个免费的三星级酒店。
-    
-    请选择一个城市
-  LABEL_CARD_ANARCHY_13_TITLE: 私人飞机
-  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
-    您可以使用私人飞机。立即起飞。
-    
-  LABEL_CARD_ANARCHY_14_TITLE: 腐败法官
-  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
-    您的不良关系发挥了作用。您选择的一名玩家被送到冰原上。
-    
-    请选择一名玩家
-  LABEL_CARD_ANARCHY_15_TITLE: 庆典结束
-  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
-    市政厅因居民投诉取消了一项节日活动。
-    
-    请选择一个城市
-  LABEL_CARD_ANARCHY_16_TITLE: 世界杯
-  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
-    您获得了选择下一届世界杯举办城市的权利。
-    
-    请选择一个城市
-  LABEL_CARD_ANARCHY_17_TITLE: 绑架
-  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
-    您可以让一名对手向前移动一格。明智选择！
-    
-    请选择一名玩家
-  LABEL_CARD_RANDOM_16_TITLE: 灾难
-  LABEL_CARD_RANDOM_16_DESCRIPTION: >
-    不幸！由于一次事件，您随机失去了一家酒店。
-  LABEL_CARD_RANDOM_17_TITLE: 飞行里程
-  LABEL_CARD_RANDOM_17_DESCRIPTION: >
-    您的会员卡为您赢得了一张免费机票。随时可用。
-  LABEL_CARD_RANDOM_18_TITLE: 小步前进
-  LABEL_CARD_RANDOM_18_DESCRIPTION: >
-    立即向前移动一格。有时，小小的进步也能带来改变。
-  LABEL_CARD_RANDOM_19_TITLE: 商务舱
-  LABEL_CARD_RANDOM_19_DESCRIPTION: >
-    您乘坐商务舱旅行。您下一张机票的价格翻倍。
+  LABEL_CAR_NAME: Van Diesel
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     已建物业
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -328,40 +324,57 @@ zh:
   LABEL_CASE_WORLDCUP: 世界杯
   LABEL_CLICK_TO_VOTE: 点击投票
   LABEL_COMPUTER_PLAYER: 电脑玩家
-  LABEL_DEMO_EMBARGO: |
+  LABEL_DEMO_EMBARGO: >
     请遵守游戏禁令。在测试结束之前，禁止发布视频或进行直播。 感谢您的理解！
   LABEL_DEMO_VERSION: Fortune Avenue DEMO
   LABEL_DETAILED_SHADOW: 详细
   LABEL_DICE_DOUBLE: 双倍
   LABEL_DISABLED: 关闭
+  LABEL_DOG_NAME: Barky
   LABEL_DOUBLE_RENT_MONOPOLY: |
     如果您拥有垄断，租金翻倍。
   LABEL_ERROR_DIALOG_DESCRIPTION: |
     无法创建或加入游戏。
   LABEL_ERROR_DIALOG_TITLE: 错误
+  LABEL_GAME_START_MULTIPLAYER: 多人游戏
+  LABEL_GAME_START_OFFLINE: 离线游戏
+  LABEL_GAME_START_ONLINE: 在线游戏
+  LABEL_GAME_START_SINGLEPLAYER: 单人游戏
+  LABEL_GIVE_UP_GAME_DESCRIPTION: |
+    现在放弃将失去当前进度并断开与正在进行的多人游戏的连接。您的离开可能会影响其他玩家。
+
+    [center][b]您确定要放弃吗？[/b][/center]
+  LABEL_GIVE_UP_GAME_TITLE: |
+    放弃大富翁大战
+  LABEL_GOOSE_NAME: Flappy
   LABEL_HUMAN_PLAYER: 人类玩家
   LABEL_ICEPACKED_ANNOUNCE: |
     [b]你被困在冰原上[/b]，真是不幸。
 
     要离开，尝试掷出 [b]双倍点数[/b] 或支付 [b]$%s[/b]。
+
     如果你有 [b]冰原救援[/b] 卡，使用它吧。
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     你在这里太久了，再也不能等待。
     你决定支付 [b]$%s[/b] 来离开。
   LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
     绝佳的休息！
-    豪华游轮正在靠港，你可以继续你的生活。
 
+    豪华游轮正在靠港，你可以继续你的生活。
     你支付了 [b]$%s[/b] 并立即下船。
+
     如果你有 [b]冰原救援[/b] 卡，现在是时候使用了。
   LABEL_ICEPACKING_ANNOUNCE: |
     你在冰雪中徘徊，周围全是冰。
-    [b]你在冰原上迷路了！[/b]
 
+    [b]你在冰原上迷路了！[/b]
     你不会拿到工资。
+
     如果不支付 [b]$%s[/b]，你将留在这里。
   LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
-    你到达了北极！冰雪的景象不再出现！
+    你到达了北极！
+
+    冰雪的景象不再出现！
     豪华游轮迅速将你接上船。
 
     你正在享受时光，但这花费了 [b]$%s[/b]。
@@ -382,31 +395,84 @@ zh:
     [center][b]您确定要退出吗？[/b][/center]
   LABEL_LEAVE_GAME_TITLE: |
     退出财富大道
+  LABEL_LOADING_1: 等待戈多...一如既往
+  LABEL_LOADING_10: 训练企鹅执行救援任务
+  LABEL_LOADING_11: 为被困玩家安排豪华游轮
+  LABEL_LOADING_12: 在飞机上安装反重力装置
+  LABEL_LOADING_13: 教导命运之轮遵守物理定律
+  LABEL_LOADING_14: 擦亮基督救世主像
+  LABEL_LOADING_15: 确保泰姬陵足够壮观
+  LABEL_LOADING_16: 为金字塔除尘
+  LABEL_LOADING_17: 修复斗兽场（又一次）
+  LABEL_LOADING_18: 招聘虚拟银行职员
+  LABEL_LOADING_19: 准备您的财务末日
+  LABEL_LOADING_2: 正在为您调整骰子（开玩笑的）
+  LABEL_LOADING_20: 加载资本主义噩梦
+  LABEL_LOADING_21: 生成破产借口
+  LABEL_LOADING_22: 训练AI变得更加无情
+  LABEL_LOADING_23: 计算最佳租金剥削策略
+  LABEL_LOADING_24: 准备'机会'卡片（其实并非偶然）
+  LABEL_LOADING_25: 在豪华酒店安装弹射座椅
+  LABEL_LOADING_26: 重新分配财富（开玩笑，这是大富翁）
+  LABEL_LOADING_27: 确保钱不会在树上长
+  LABEL_LOADING_28: 准备您通往破产之路
+  LABEL_LOADING_29: 加载您负担不起的昂贵地产
+  LABEL_LOADING_3: 训练直升机追捕穷玩家中
+  LABEL_LOADING_30: 教导房车变身五星级酒店
+  LABEL_LOADING_31: 准备金融灾难
+  LABEL_LOADING_32: 加载虚拟房地产泡沫
+  LABEL_LOADING_33: 确保银行永远是赢家
+  LABEL_LOADING_34: 计算复利（不利于您）
+  LABEL_LOADING_35: 编程AI做出可疑的财务决定
+  LABEL_LOADING_36: 准备与可疑银行家握手
+  LABEL_LOADING_37: 加载激进的地产收购策略
+  LABEL_LOADING_38: 教导骰子如何戏剧性地滚动
+  LABEL_LOADING_39: 确保酒店恰好错位一个像素
+  LABEL_LOADING_4: 正在融化冰川...不含全球变暖
+  LABEL_LOADING_40: 准备趣味性破产方式
+  LABEL_LOADING_41: 加载现实中不适用的经济理论
+  LABEL_LOADING_42: 生成机智的加载信息
+  LABEL_LOADING_43: 确保随机数真的是随机的（真的吗？）
+  LABEL_LOADING_44: 准备虚拟产权证明
+  LABEL_LOADING_45: 加载资本主义模拟器v2.0
+  LABEL_LOADING_46: 教导直升机正确的追逐舞步
+  LABEL_LOADING_47: 准备您的破产之旅
+  LABEL_LOADING_48: 确保游轮足够豪华
+  LABEL_LOADING_49: 计算最佳友谊破坏策略
+  LABEL_LOADING_5: 计算掷出双数的概率
+  LABEL_LOADING_50: 加载中...因为我们可以
+  LABEL_LOADING_6: 将酒店价格提升到离谱的程度
+  LABEL_LOADING_7: 组织即兴节日活动
+  LABEL_LOADING_8: 贿赂世界杯委员会中
+  LABEL_LOADING_9: 清点大富翁钞票（数两遍以防万一）
   LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
-    投票选择规则 ✦
-    掷骰子 ✦
-    建造酒店 ✦
+    投票选择规则 •
+    掷骰子 •
+    建造酒店 •
   LABEL_LOADING_HOW_TO_PLAY_TITLE: |
     如何玩？
-    ‾‾‾‾‾‾
   LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
     摧毁对手 ✔
     买下所有奇迹 ✔
     拥有整个棋盘的一侧 ✔
   LABEL_LOADING_HOW_TO_WIN_TITLE: |
     如何获胜？
-    ‾‾‾‾‾‾‾‾
   LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
-    时间到后，如果大厅未满，则由电脑填补空缺。
+    时间到后，如果大厅未满，
+    则由电脑填补空缺。
   LABEL_LOBBY_FILLING_TIMED_OUT: |
     [b]超时！[/b]
+
     我们无法为您的游戏找到玩家。
     尝试与电脑对战，立即开始游戏。
   LABEL_LOBBY_NAME: 大厅名称
   LABEL_LOBBY_NO_AUTO_FILL: |
-    时间结束后，如果大厅没有满员，则不要开始游戏并解锁大厅。
+    时间结束后，如果大厅没有满员，
+    则不要开始游戏并解锁大厅。
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
     您未能支付{ps}银行{pe}，您已{ps}破产{pe}！
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    您决定{ps}放弃{pe}游戏！
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     在惊心动魄的追逐后，{ps}直升机{pe}抓住了你！
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
@@ -416,6 +482,7 @@ zh:
     返回主菜单
   LABEL_MINUTES: 分钟
   LABEL_NEW_RENT: "新租金: $%s"
+  LABEL_NOT_AVAILABLE_DEMO: 演示版中不可用
   LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
     您无法使用此卡，因为没有可用的格子。
   LABEL_NO_EFFECT_TO_PLAYER: |
@@ -426,22 +493,12 @@ zh:
   LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
     您无法使用此卡，因为没有可用的财产。
   LABEL_NO_SIGNAL: 无信号
+  LABEL_NO_TEAM: 无队伍
   LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
     您无法使用此卡，因为没有可用的奇迹。
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: 无租金回合数
   LABEL_NUMBER_OF_PLAYERS: 玩家数量
   LABEL_OPENGL_RENDERER: "渲染: OpenGL (实验)"
-  LABEL_OPTION_GAME_SPEED_NORMAL: 正常
-  LABEL_OPTION_GAME_SPEED_FAST: 快速
-  LABEL_OPTION_GAME_SPEED_FASTER: 极快
-  LABEL_OPTION_GAMEPAD_VIBRATION: 手柄振动
-  LABEL_OPTION_GAME_SPEED: 游戏速度
-  LABEL_TUTORIEL_DICE_GAMEPAD: >
-    按住 [img width=64]%s[/img] 并移动 [img width=64]%s[/img] 摇动骰子。
-    松开即可投掷。
-  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
-    按住 [img width=64]%s[/img] 并移动 [img width=64]%s[/img] 转动轮盘。
-    松开即可启动。
   LABEL_OPTION_AUDIO: 音频设置
   LABEL_OPTION_AUTOFILL_LOBBY: 使用计算机自动填充大厅
   LABEL_OPTION_BOARD_CENTER_ROTATE: 中置旋转
@@ -454,7 +511,12 @@ zh:
   LABEL_OPTION_CAMERA_SEMI_AUTO: 半自动照相机
   LABEL_OPTION_DISABLE_SURROUNDING: 禁用周围环境
   LABEL_OPTION_FX: 特效
+  LABEL_OPTION_GAMEPAD_VIBRATION: 手柄振动
   LABEL_OPTION_GAMEPLAY: 游戏设置
+  LABEL_OPTION_GAME_SPEED: 游戏速度
+  LABEL_OPTION_GAME_SPEED_FAST: 快速
+  LABEL_OPTION_GAME_SPEED_FASTER: 极快
+  LABEL_OPTION_GAME_SPEED_NORMAL: 正常
   LABEL_OPTION_LANGUAGE: 语言
   LABEL_OPTION_LOBBY_WAIT_TIME: 大厅超时
   LABEL_OPTION_MISC: 其他设置
@@ -465,9 +527,18 @@ zh:
   LABEL_OPTION_TUTORIEL: 教程
   LABEL_OPTION_VIDEO: 图形设置
   LABEL_OPTION_WINDOW: 窗口
+  LABEL_PAWN_NAME: Tacticus
   LABEL_PAY: 支付 $%s
   LABEL_PAY_RENT: 支付租金
+  LABEL_PIG_NAME: Rosette
+  LABEL_PINGOUIN_NAME: Gunter
   LABEL_PLAYER_BANKRUPT: 破产
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: |
+    请选择一个城市来建造酒店。
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: 建设
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
+    请选择一个有节日的方格来取消它。
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: 节日结束
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     请选择要禁用的方格。
   LABEL_PLAYER_DISABLE_CASE_TITLE: 禁用方格
@@ -518,50 +589,25 @@ zh:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name}已建立{ws}{rs}垄断{re}{we}！
   LABEL_PLAYER_WON_TITLE: "{name}赢得了游戏！"
-  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
-    {team}是{ps}最后的幸存队伍{pe}！
-  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
-    {team}刚刚达成了{ws}{rs}垄断{re}{we}！
-  LABEL_TEAM_WON_TITLE: "{team}赢得了游戏！"
-  LABEL_NO_TEAM: 无队伍
-  LABEL_TEAM: 队伍
-  LABEL_RANDOM: 随机
   LABEL_PRESS_ANY_BUTTON: 按任意键继续
   LABEL_PROGRESS_NEXT_VOTE: 下一次投票
   LABEL_PROPERTY_RENT: 租金
+  LABEL_RANDOM: 随机
   LABEL_REAL_ESTATE_ASSET_VALUE: 房产价值
   LABEL_REMAINING_TURN: 剩余回合
   LABEL_REMOTE_PLAYER: 远程玩家
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
     {name}未能支付{ps}银行{pe}，{name}已{ps}破产{pe}！
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    {name}刚刚{ps}放弃{pe}了游戏！
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     在惊心动魄的追逐后，{ps}直升机{pe}抓住了{name}！
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name}未能支付{killer_name}，{name}已{ps}破产{pe}！
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name}输了！"
-  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: 气候灾难
   LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
-    环保活动人士已接管机场控制权，
-    机票费用增加了10倍。
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: 无情资本主义
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
-    垄断企业变得异常强大，
-    所有垄断租金增加了2倍。
-  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: 酒店大丰收
-  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
-    一位特立独行的亿万富翁今天感到异常慷慨，
-    每位玩家都获赠一家免费的三星级酒店。
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: 双倍淘汰奖励
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
-    赌注加倍，淘汰其他玩家的
-    奖励现在值两倍。
-  LABEL_RULESET_LAST_MAN_STANDING_TITLE: 大逃杀模式
-  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
-    胜利规则已经改变，你不能再通过垄断获胜，
-    只能通过成为最后存活的玩家获胜。
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: 通货膨胀噩梦
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
-    经济混乱冲击市场，每圈租金增长现在翻倍。
+    环保活动人士已接管机场控制权， 机票费用增加了10倍。
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: 气候灾难
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     为所有人提供免费的GPS！你可以投掷任意数量的双骰子！
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: 随意掷骰
@@ -577,6 +623,9 @@ zh:
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     生活在房车里成为一种潮流，现在房车的租金与5星级酒店的租金相同。
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: 波希米亚生活
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    赌注加倍，淘汰其他玩家的 奖励现在值两倍。
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: 双倍淘汰奖励
   LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: |
     生活成本增加，为了维持富人们的奢华生活水平，所有酒店的租金翻倍。
   LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: 社会不公
@@ -589,18 +638,27 @@ zh:
   LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
     随机城市举行新节日。
   LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: 节日时光!
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    一位特立独行的亿万富翁今天感到异常慷慨， 每位玩家都获赠一家免费的三星级酒店。
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: 酒店大丰收
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
     罢工爆发，所有5星级酒店重新回到游戏中。
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: 哎呀！
   LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
     政府提供无差别的人道援助。 所有玩家获得100,000美元。
   LABEL_RULESET_FREE_MONEY_TITLE: 全球疫情
+  LABEL_RULESET_FREE_MONOPOLIES_DESCRIPTION: |
+    反垄断法立即生效。 所有垄断都被瓦解并重返市场。
+  LABEL_RULESET_FREE_MONOPOLIES_TITLE: 市场崩溃
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
     直升机可以同时追踪多个玩家。
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: 无限制追逐
   LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: |
     新的刑事司法系统被引入，以降低犯罪率！ 现在直升机将始终追踪最贫穷的玩家。
   LABEL_RULESET_HELICOPTER_CHASING_TITLE: 财富法则
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_DESCRIPTION: |
+    直升机现在会追捕拥有超过100万$的玩家。 强制财富再分配。
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_TITLE: 猎富行动
   LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: |
     犯罪率上升，降低了您的酒店标准。 所有酒店减少一个星级（最低为房车）。
   LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: 哎呀！
@@ -613,6 +671,15 @@ zh:
   LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
     冰川融化，投资者看到了巨大的潜力。 豪华游轮取代了冰川，这将花费一大笔钱。
   LABEL_RULESET_ICEPACK_MELT_TITLE: 50年的闲置
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    经济混乱冲击市场，每圈租金增长现在翻倍。
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: 通货膨胀噩梦
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    胜利规则已经改变，你不能再通过垄断获胜，只能通过成为最后存活的玩家获胜。
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: 大逃杀模式
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    垄断企业变得异常强大，所有垄断租金增加了2倍。
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: 无情资本主义
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
     在下一轮中，您可以选择后退一步，而不是掷骰子。
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: 向后移动
@@ -625,6 +692,12 @@ zh:
   LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: |
     新法案被通过，因为政府薪水不足。 为了资助这些措施，所有税收翻倍。
   LABEL_RULESET_TAXES_DOUBLED_TITLE: 一致通过
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_DESCRIPTION: |
+    命运之轮增加了破产空间。 若转到此处，您将立即被淘汰。
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_TITLE: 厄运之轮
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_DESCRIPTION: |
+    命运之轮增加了胜利空间。 若转到此处，您将立即获胜。
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_TITLE: 旋转制胜
   LABEL_RULESET_WONDERS_FREED_DESCRIPTION: |
     活动家成功破坏了游说者的计划，颁布了将所有奇迹重新放回游戏的法令。
   LABEL_RULESET_WONDERS_FREED_TITLE: 短暂的
@@ -634,49 +707,73 @@ zh:
   LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: |
     我们找到了便宜的奴隶来建造世界杯体育场。 体育场将更大，世界杯奖金翻倍。
   LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: 难忘时刻!
+  LABEL_SCOOTER_NAME: Vroomie
   LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
     您的资金不足以支付费用，您需要出售一个或多个资产。
   LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: 所需金额
   LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: 剩余金额
   LABEL_SELECT_CITY_TO_SELL_TITLE: 选择待售资产
+  LABEL_SHOE_NAME: Patachon
   LABEL_SIMPLE_SHADOW: 简单
   LABEL_STEAM_BUSY: Steam 忙碌中，请稍后再试
   LABEL_STEAM_QUERYING: 正在查询 Steam
   LABEL_STEAM_READY: 按任意键继续
   LABEL_STEAM_WAITING: 等待连接到Steam...
+  LABEL_SUITCASE_NAME: Baggy
   LABEL_TAXES_FORFAIT_DESCRIPTION: |
     您必须支付[b]固定费用[/b]。
     每次支付时，该[b]费用将增加 +{raw_costs}[/b]。
   LABEL_TAXES_FORFAIT_TITLE: 固定税
   LABEL_TAXES_PROPORTIONAL_TITLE: 比例税
+  LABEL_TEAM: 队伍
   LABEL_TEAM_NUMBER: 队伍
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team}是{ps}最后的幸存队伍{pe}！
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team}刚刚达成了{ws}{rs}垄断{re}{we}！
+  LABEL_TEAM_WON_TITLE: "{team}赢得了游戏！"
   LABEL_TOO_EXPENSIVE: 您没有足够的钱购买此物品。
+  LABEL_TOPHAT_NAME: Dandy
   LABEL_TURN: 回合
   LABEL_TURN_BEFORE_ELIMINATION: "%s回合后淘汰"
-  LABEL_TUTORIEL_DICE: |
-    按住并移动鼠标摇动骰子。 松开投掷骰子。
-  LABEL_TUTORIEL_MAIN_MENU: |
-    使用按钮选择对手类型。 选择玩家、人类或关闭的位置。
-  LABEL_TUTORIEL_RULESET: |
-    投票选择规则。当所有人投票后，将应用得票最多的规则。 如果出现平局，将随机选择一条规则。
-  LABEL_TUTORIEL_WHEEL: |
-    按住并旋转轮盘。 松开启动轮盘。
+  LABEL_TUTORIEL_DICE: >
+    按住并移动鼠标摇动骰子。
+    松开投掷骰子。
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    按住 [img width=64]%s[/img] 并移动 [img width=64]%s[/img] 摇动骰子。
+    松开即可投掷。
+  LABEL_TUTORIEL_MAIN_MENU: >
+    使用按钮选择对手类型。
+    选择玩家、人类或关闭的位置。
+  LABEL_TUTORIEL_RULESET: >
+    投票选择规则。当所有人投票后，将应用得票最多的规则。
+    如果出现平局，将随机选择一条规则。
+  LABEL_TUTORIEL_WHEEL: >
+    按住并旋转轮盘。
+    松开启动轮盘。
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    按住 [img width=64]%s[/img]
+    并移动 [img width=64]%s[/img] 转动轮盘。
+    松开即可启动。
   LABEL_WANTED_DESCRIPTION: 死活
   LABEL_WANTED_TITLE: 通缉
   LABEL_WINDOW_FULLSCREEN: 全屏模式
   LABEL_WINDOW_WINDOWED: 窗口模式
+  LABEL_WONDER_BRANDBURG_GATE: 勃兰登堡门
   LABEL_WONDER_CHRIST_THE_REDEEMER: 基督救世主
   LABEL_WONDER_COLISEE: 罗马斗兽场
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: 帝国大厦
+  LABEL_WONDER_FORBIDDEN_CITY: 紫禁城
+  LABEL_WONDER_LIGHTHOUSE: 亚历山大灯塔
   LABEL_WONDER_PYRAMIDS: 金字塔
   LABEL_WONDER_TAJ_MAHAL: 泰姬陵
-  LABEL_WONDER_LIGHTHOUSE: 亚历山大灯塔
-  LABEL_WONDER_FORBIDDEN_CITY: 紫禁城
-  LABEL_WONDER_EMPIRE_STATE_BUILDING: 帝国大厦
-  LABEL_WONDER_BRANDBURG_GATE: 勃兰登堡门
   LABEL_WORLDCUP_POSITION_DESCRIPTION: |
     恭喜你赢得了选择世界杯地点的权利！
+    
     如果世界杯在其他地方举行，它将自动移到你选择的位置。
+    
     世界杯只能放置在你拥有的土地上。
+    
     如果你没有土地，必须取消世界杯。
   LABEL_WORLDCUP_TITLE: 世界杯
   LOBBY_CREATED: 大厅已创建
@@ -719,16 +816,26 @@ zh:
     拥有的财产越多，税率越高。
   TOOLTIP_CLOSED_SLOT: 关闭的位置（无玩家）
   TOOLTIP_COMPUTER_SLOT: 关闭的位置（电脑）
+  TOOLTIP_DIFFICULTY_EASY: |
+    简单 AI 难度
+  TOOLTIP_DIFFICULTY_HARD: |
+    困难 AI 难度
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    双倍租金
   TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
     必须先完成一圈才能建造四星或五星级酒店
   TOOLTIP_HELICOPTER_DESCRIPTION: |
-    %s 轮之后，直升机只淘汰 %s 以下最差的玩家。只有在淘汰后，计数器才会重置。
+    %s 轮之后，直升机只淘汰 %s 以下最差的玩家。
+    只有在淘汰后，计数器才会重置。
   TOOLTIP_HUMAN_SLOT: 可用位置（玩家）
   TOOLTIP_INVALID_LOBBY: |
     无法在只有一个玩家的情况下开始游戏。
-    如果有电脑玩家参与，所有玩家位置必须由人类玩家填补，才能开始游戏。
+    如果有电脑玩家参与，
+    所有玩家位置必须由人类玩家填补，
+    才能开始游戏。
   TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
-    如果有电脑玩家，在线对手搜索将被禁用。
+    如果有电脑玩家，
+    在线对手搜索将被禁用。
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     开始游戏至少需要 2 名玩家。
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
@@ -743,93 +850,39 @@ zh:
     在棋盘上绕行最多圈的玩家
   TOOLTIP_KIKIMETER_MOST_RENT: |
     花费最多金钱的玩家
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    双倍租金
+  TOOLTIP_NETWORK_INITIALIZING: |
+    似乎有一位玩家在加入游戏时遇到困难。
+
+    [b]Fortune Avenue 将尽快开始游戏。[/b]
+
+    这可能需要几分钟时间，具体取决于其电脑的性能。
+    
+    感谢您的耐心等待。
   TOOLTIP_NETWORK_OUT_OF_SYNC: |
     抱歉，发生了网络同步问题。
 
     [b]财富大道正在尝试重新同步。[/b]
-    这只需几秒钟，请检查您的网络连接。
+    
+    这只需几秒钟，
+
+    请检查您的网络连接。
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    不能被收购或受到惩罚
   TOOLTIP_RENT_INCREASE_DESCRIPTION: |
     您的房产租金每圈 +%s
   TOOLTIP_SEARCH_FOR_OPPONENT: |
     搜索对手可能需要一些时间。
-    如果您想立刻开始游戏，请添加电脑对手以填补空缺。
+    
+    如果您想立刻开始游戏，
+    请添加电脑对手以填补空缺。
 
     这是马上进入游戏的好方法。
   TOOLTIP_STEAM_VAC_BANNED: |
     您已被Steam VAC封禁。
     您不能与随机玩家一起游戏。
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    租金的%s倍
   TOOL_NEED_STEAM_OVERLAY: |
     此功能需要启用Steam覆盖层
-
-  LABEL_LOADING_1: "等待戈多...一如既往"
-  LABEL_LOADING_2: "正在为您调整骰子（开玩笑的）"
-  LABEL_LOADING_3: "训练直升机追捕穷玩家中"
-  LABEL_LOADING_4: "正在融化冰川...不含全球变暖"
-  LABEL_LOADING_5: "计算掷出双数的概率"
-  LABEL_LOADING_6: "将酒店价格提升到离谱的程度"
-  LABEL_LOADING_7: "组织即兴节日活动"
-  LABEL_LOADING_8: "贿赂世界杯委员会中"
-  LABEL_LOADING_9: "清点大富翁钞票（数两遍以防万一）"
-  LABEL_LOADING_10: "训练企鹅执行救援任务"
-  LABEL_LOADING_11: "为被困玩家安排豪华游轮"
-  LABEL_LOADING_12: "在飞机上安装反重力装置"
-  LABEL_LOADING_13: "教导命运之轮遵守物理定律"
-  LABEL_LOADING_14: "擦亮基督救世主像"
-  LABEL_LOADING_15: "确保泰姬陵足够壮观"
-  LABEL_LOADING_16: "为金字塔除尘"
-  LABEL_LOADING_17: "修复斗兽场（又一次）"
-  LABEL_LOADING_18: "招聘虚拟银行职员"
-  LABEL_LOADING_19: "准备您的财务末日"
-  LABEL_LOADING_20: "加载资本主义噩梦"
-  LABEL_LOADING_21: "生成破产借口"
-  LABEL_LOADING_22: "训练AI变得更加无情"
-  LABEL_LOADING_23: "计算最佳租金剥削策略"
-  LABEL_LOADING_24: "准备'机会'卡片（其实并非偶然）"
-  LABEL_LOADING_25: "在豪华酒店安装弹射座椅"
-  LABEL_LOADING_26: "重新分配财富（开玩笑，这是大富翁）"
-  LABEL_LOADING_27: "确保钱不会在树上长"
-  LABEL_LOADING_28: "准备您通往破产之路"
-  LABEL_LOADING_29: "加载您负担不起的昂贵地产"
-  LABEL_LOADING_30: "教导房车变身五星级酒店"
-  LABEL_LOADING_31: "准备金融灾难"
-  LABEL_LOADING_32: "加载虚拟房地产泡沫"
-  LABEL_LOADING_33: "确保银行永远是赢家"
-  LABEL_LOADING_34: "计算复利（不利于您）"
-  LABEL_LOADING_35: "编程AI做出可疑的财务决定"
-  LABEL_LOADING_36: "准备与可疑银行家握手"
-  LABEL_LOADING_37: "加载激进的地产收购策略"
-  LABEL_LOADING_38: "教导骰子如何戏剧性地滚动"
-  LABEL_LOADING_39: "确保酒店恰好错位一个像素"
-  LABEL_LOADING_40: "准备趣味性破产方式"
-  LABEL_LOADING_41: "加载现实中不适用的经济理论"
-  LABEL_LOADING_42: "生成机智的加载信息"
-  LABEL_LOADING_43: "确保随机数真的是随机的（真的吗？）"
-  LABEL_LOADING_44: "准备虚拟产权证明"
-  LABEL_LOADING_45: "加载资本主义模拟器v2.0"
-  LABEL_LOADING_46: "教导直升机正确的追逐舞步"
-  LABEL_LOADING_47: "准备您的破产之旅"
-  LABEL_LOADING_48: "确保游轮足够豪华"
-  LABEL_LOADING_49: "计算最佳友谊破坏策略"
-  LABEL_LOADING_50: "加载中...因为我们可以"
-  LABEL_GIVE_UP_GAME_TITLE: |
-    放弃大富翁大战
-  LABEL_GIVE_UP_GAME_DESCRIPTION: >
-    现在放弃将失去当前进度并断开与正在进行的多人游戏的连接。您的离开可能会影响其他玩家。
-
-
-    [center][b]您确定要放弃吗？[/b][/center]
-  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    您决定{ps}放弃{pe}游戏！
-  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    {name}刚刚{ps}放弃{pe}了游戏！
-  BUTTON_GIVE_UP: 放弃
-  LABEL_CARD_RANDOM_13_TITLE: 美好的遗产
-  LABEL_CARD_RANDOM_13_DESCRIPTION: >
-    恭喜，您的曾叔父刚刚将他的一家酒店遗赠给您。
-  LABEL_CARD_RANDOM_14_TITLE: 犯罪率上升
-  LABEL_CARD_RANDOM_14_DESCRIPTION: >
-    您的一座城市犯罪率正在上升，长官派遣了一个警察团来保护它。
-  LABEL_CARD_RANDOM_15_TITLE: 税务审计
-  LABEL_CARD_RANDOM_15_DESCRIPTION: |
-    您正在接受突击税务审计。
-    前进到税务方格。

@@ -1,25 +1,4 @@
 tr:
-  BUTTON_PLAY_AGAIN: Tekrar Oyna
-  LABEL_SCOOTER_NAME: Vroomie
-  LABEL_CAR_NAME: Van Diesel
-  LABEL_BOAT_NAME: Splashy
-  LABEL_PAWN_NAME: Tacticus
-  LABEL_TOPHAT_NAME: Dandy
-  LABEL_SUITCASE_NAME: Baggy
-  LABEL_BEAR_NAME: Patapouf
-  LABEL_PIG_NAME: Rosette
-  LABEL_GOOSE_NAME: Flappy
-  LABEL_SHOE_NAME: Patachon
-  LABEL_DOG_NAME: Barky
-  LABEL_PINGOUIN_NAME: Gunter
-  TOOLTIP_WORLDCUP_DESCRIPTION: |
-    Kira %s katına çıkar
-  TOOLTIP_FESTIVAL_DESCRIPTION: |
-    İki kat kira
-  TOOLTIP_MONOPOLE_DESCRIPTION: |
-    İki kat kira
-  TOOLTIP_PROTECTED_DESCRIPTION: |
-    Satın alınamaz veya ceza uygulanamaz
   BUTTON_APPLY: Uygula
   BUTTON_AUTOMATIC_SELL: Otomatik sat
   BUTTON_BANKRUPT: İflas
@@ -30,6 +9,7 @@ tr:
   BUTTON_CLOSE: Kapat
   BUTTON_CREATE_GAME: Lobi oluştur
   BUTTON_FEEDBACK: Geri bildirim
+  BUTTON_GIVE_UP: Terk etmek
   BUTTON_INVITE: Davet et
   BUTTON_JOIN: Katıl
   BUTTON_JOIN_GAME: Lobiye katıl
@@ -46,6 +26,7 @@ tr:
   BUTTON_ORIGINAL: Orijinal kurallar
   BUTTON_PAY: Öde
   BUTTON_PAY_TICKET: Bilet satın al
+  BUTTON_PLAY_AGAIN: Tekrar Oyna
   BUTTON_PLAY_CARD: Kart oyna
   BUTTON_QUIT: Çıkış
   BUTTON_READY: Hazır!
@@ -65,11 +46,6 @@ tr:
   GAME_RECONNECTING: Oyuna yeniden bağlanılıyor
   IN_GAME: Oyunda
   JOINNING_LOBBY: Lobiye katılınıyor
-  LABEL_NOT_AVAILABLE_DEMO: Demo sürümünde mevcut değil
-  LABEL_GAME_START_OFFLINE: Çevrimdışı oyna
-  LABEL_GAME_START_SINGLEPLAYER: Tek oyunculu
-  LABEL_GAME_START_ONLINE: Çevrimiçi oyna
-  LABEL_GAME_START_MULTIPLAYER: Çok oyunculu
   LABEL_1_HOSTEL: Büyük otel
   LABEL_1_HOUSE: 1 yıldızlı otel
   LABEL_1_WONDER: Bir harika
@@ -97,93 +73,103 @@ tr:
   LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: VAC yasaklı.
   LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: VAC kontrolü zaman aşımına uğradı.
   LABEL_BALANCED_SHADOW: Dengeli
+  LABEL_BEAR_NAME: Patapouf
   LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Yinelenen istek
   LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Süresi dolmuş bilet
   LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Oyun uyuşmazlığı
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Geçersiz bilet
   LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Geçersiz sürüm
   LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Geçerli bilet
+  LABEL_BOAT_NAME: Splashy
   LABEL_BUY_BACK_VALUE: $%s karşılığında geri alınabilir
   LABEL_BUY_BUILD: Bir bina satın al
   LABEL_BUY_COSTS: Satın alma maliyeti
   LABEL_BUY_FOR: $%s karşılığında satın al
   LABEL_BUY_NOTHING: Hiçbir şey alma
   LABEL_BUY_WONDER: Bir harika satın al
-  LABEL_CARD_ANARCHY_0_DESCRIPTION: >
-    İşgalciler kontrolünüz altında, onları bir
-    otelin derecesini düşürmek için kullanabilirsiniz.
-
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: |
+    İşgalciler kontrolünüz altında, onları bir otelin derecesini düşürmek için kullanabilirsiniz.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_0_TITLE: Polis
-  LABEL_CARD_ANARCHY_10_DESCRIPTION: >
-    Bir grup insan sizi peygamber sanıyor ve
-    işgal etmeleri için onlara bir şehir gösterebilirsiniz.
-
-    Şehir %s tur boyunca kira getirmeyecek.
-
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+    Bir grup insan sizi peygamber sanıyor ve işgal etmeleri için onlara bir şehir gösterebilirsiniz. Şehir %s tur boyunca kira getirmeyecek.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_10_TITLE: Tesadüf Yarışması
   LABEL_CARD_ANARCHY_11_DESCRIPTION: |
-    Bu kartı bir Harikayı oyuna geri getirmek için oynayabilirsiniz.
-    Sahibi harikayı anında kaybeder.
+    Bu kartı bir Harikayı oyuna geri getirmek için oynayabilirsiniz. Sahibi harikayı anında kaybeder.
 
     Lütfen bir harika seçin.
   LABEL_CARD_ANARCHY_11_TITLE: Adaletsiz Karar
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: |
+    Tebrikler! Belediye size ücretsiz 3 yıldızlı bir otel sunuyor.
+
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_12_TITLE: Tapu Sicili
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: |
+    Özel bir jete erişiminiz var. Hemen uçağa binin.
+  LABEL_CARD_ANARCHY_13_TITLE: Özel Jet
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: |
+    Şüpheli bağlantılarınız işe yarıyor. Seçtiğiniz bir oyuncu buz kütlesine gönderilir.
+
+    Lütfen bir oyuncu seçin
+  LABEL_CARD_ANARCHY_14_TITLE: Rüşvetçi Hakim
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: |
+    Belediye sakinlerden gelen şikayetler üzerine bir festivali iptal ediyor.
+
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_15_TITLE: Kutlamaların Sonu
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: |
+    Bir sonraki Dünya Kupası'nın hangi şehirde düzenleneceğini seçme hakkını kazandınız.
+
+    Lütfen bir şehir seçin
+  LABEL_CARD_ANARCHY_16_TITLE: Dünya Kupası
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: |
+    Bir rakibi bir kare ileri hareket ettirebilirsiniz. Akıllıca seçin!
+
+    Lütfen bir oyuncu seçin
+  LABEL_CARD_ANARCHY_17_TITLE: Kaçırma
+  LABEL_CARD_ANARCHY_18_DESCRIPTION: |
+    Hemen yeni bir kural oylaması başlatırsınız. Düzeni sarsma zamanı!
+  LABEL_CARD_ANARCHY_18_TITLE: Demokrasi Hareketi
+  LABEL_CARD_ANARCHY_19_DESCRIPTION: |
+    Seçtiğiniz bir oyuncu bir sonraki turunu atlamalıdır.
+
+    Lütfen bir oyuncu seçin.
+  LABEL_CARD_ANARCHY_19_TITLE: Zorunlu Tatil
   LABEL_CARD_ANARCHY_1_DESCRIPTION: |
     Noter sizi seviyor. Seçtiğiniz bir şehri boşaltmayı öneriyor.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_1_TITLE: Noter Ofisi
-  LABEL_CARD_ANARCHY_2_DESCRIPTION: >
-    Kurnazlığınız sayesinde, gittiğiniz her yerde
-    fark edilmeden dolaşabiliyorsunuz.
-
-    Bu size bir oyuncudan şehir çalma imkanı veriyor.
-
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: |
+    Kurnazlığınız sayesinde, gittiğiniz her yerde fark edilmeden dolaşabiliyorsunuz. Bu size bir oyuncudan şehir çalma imkanı veriyor.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_2_TITLE: İcra Memuru
-  LABEL_CARD_ANARCHY_3_DESCRIPTION: >
-    Bir reality show şehirlerinizden birine
-    yerleşti.
-
-    Sizin için bir oteli yükseltmek üzere büyük bir inşaat projesi başlatıyorlar.
-
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+    Bir reality show şehirlerinizden birine yerleşti. Sizin için bir oteli yükseltmek üzere büyük bir inşaat projesi başlatıyorlar.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_3_TITLE: OTOBÜSÜ HAREKET ETTİR
-  LABEL_CARD_ANARCHY_4_DESCRIPTION: >
-    Arkadaşlarınızdan birini borsada oynamaya
-    zorluyorsunuz, böylece nakit parasının dörtte birini kaybedecek.
-
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: |
+    Arkadaşlarınızdan birini borsada oynamaya zorluyorsunuz, böylece nakit parasının dörtte birini kaybedecek.
 
     Lütfen bir oyuncu seçin.
   LABEL_CARD_ANARCHY_4_TITLE: Kumar Risklidir
-  LABEL_CARD_ANARCHY_5_DESCRIPTION: >
-    Arkadaşlarınızdan birini orantılı
-    vergilendirme moduna geçmeye zorluyorsunuz.
-
-    Vergi & Harçlar karesine düştüğünde, mali varlıklarıyla orantılı bir vergi ödeyecek.
-
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: |
+    Arkadaşlarınızdan birini orantılı vergilendirme moduna geçmeye zorluyorsunuz. Vergi & Harçlar karesine düştüğünde, mali varlıklarıyla orantılı bir vergi ödeyecek.
 
     Lütfen bir oyuncu seçin.
   LABEL_CARD_ANARCHY_5_TITLE: Kamu Maliyesi
-  LABEL_CARD_ANARCHY_6_DESCRIPTION: >
-    Bölgenizin valisi sizi seviyor ve olası
-    felaketlerden korumak için şehirlerinizden birini korumak üzere tam bir
-    polis alayı görevlendiriyor.
-
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: |
+    Bölgenizin valisi sizi seviyor ve olası felaketlerden korumak için şehirlerinizden birini korumak üzere tam bir polis alayı görevlendiriyor.
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_6_TITLE: Bölge Güvenliği
-  LABEL_CARD_ANARCHY_7_DESCRIPTION: >
-    Arkadaşlarınızdan birini sabit vergilendirme
-    moduna geçmeye zorluyorsunuz.
-
-    Vergi & Harçlar karesine düştüğünde, $%s tutarında sabit bir miktar ödemek zorunda kalacak.
-
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: |
+    Arkadaşlarınızdan birini sabit vergilendirme moduna geçmeye zorluyorsunuz. Vergi & Harçlar karesine düştüğünde, $%s tutarında sabit bir miktar ödemek zorunda kalacak.
 
     Lütfen bir oyuncu seçin.
   LABEL_CARD_ANARCHY_7_TITLE: Kamu Maliyesi
@@ -192,114 +178,92 @@ tr:
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_8_TITLE: İşçi Sendikaları
-  LABEL_CARD_ANARCHY_9_DESCRIPTION: >
-    Kendiliğinden organize olan bir festival
-    şehirlerinizden birini istila ediyor.
-
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+    Kendiliğinden organize olan bir festival şehirlerinizden birini istila ediyor.
 
     Lütfen mülklerinizden birini seçin.
   LABEL_CARD_ANARCHY_9_TITLE: Müzik Festivali
   LABEL_CARD_RANDOM_0_DESCRIPTION: |
     Lehinize bir hata, banka size $%s temettü ödüyor.
   LABEL_CARD_RANDOM_0_TITLE: Banka
-  LABEL_CARD_RANDOM_10_DESCRIPTION: >
-    Bir sonraki Dünya Kupası'nı iptal ettirmeyi
-    başardınız, temel karesine geri dönüyor.
+  LABEL_CARD_RANDOM_10_DESCRIPTION: |
+    Bir sonraki Dünya Kupası'nı iptal ettirmeyi başardınız, temel karesine geri dönüyor.
   LABEL_CARD_RANDOM_10_TITLE: Dünya Eğlence Komitesi
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    İyi bir samaritan size tatil hediye etmeye karar verdi.
-    Bir sonraki kirayı ödemiyorsunuz.
+    İyi bir samaritan size tatil hediye etmeye karar verdi. Bir sonraki kirayı ödemiyorsunuz.
   LABEL_CARD_RANDOM_11_TITLE: İyi Samaritan
-  LABEL_CARD_RANDOM_12_DESCRIPTION: >
-    Kiracılarınızdan biri sizi ekiyor, bir sonraki
-    kirayı banka sizin adınıza tahsil edecek.
+  LABEL_CARD_RANDOM_12_DESCRIPTION: |
+    Kiracılarınızdan biri sizi ekiyor, bir sonraki kirayı banka sizin adınıza tahsil edecek.
   LABEL_CARD_RANDOM_12_TITLE: Mutsuz Kiracılar
+  LABEL_CARD_RANDOM_13_DESCRIPTION: |
+    Tebrikler, büyük amcanız size otellerinden birini miras bıraktı.
+  LABEL_CARD_RANDOM_13_TITLE: Güzel bir miras
+  LABEL_CARD_RANDOM_14_DESCRIPTION: |
+    Şehirlerinizden birinde suç oranı artıyor, vali koruma için bir polis alayı gönderiyor.
+  LABEL_CARD_RANDOM_14_TITLE: Suç oranı artıyor
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    Sürpriz bir vergi denetimine tabi tutuluyorsunuz.
+
+    Vergilere ilerleyin.
+  LABEL_CARD_RANDOM_15_TITLE: Vergi denetimi
+  LABEL_CARD_RANDOM_16_DESCRIPTION: |
+    Şanssızlık! Bir olay nedeniyle otellerinizden birini rastgele kaybedersiniz.
+  LABEL_CARD_RANDOM_16_TITLE: Felaket
+  LABEL_CARD_RANDOM_17_DESCRIPTION: |
+    Sadakat kartınız size ücretsiz bir uçak bileti kazandırıyor.
+
+    İstediğiniz zaman kullanın.
+  LABEL_CARD_RANDOM_17_TITLE: Uçuş Milleri
+  LABEL_CARD_RANDOM_18_DESCRIPTION: |
+    Hemen bir kare ileri gidin. Bazen küçük ilerlemeler fark yaratır.
+  LABEL_CARD_RANDOM_18_TITLE: Küçük Adım
+  LABEL_CARD_RANDOM_19_DESCRIPTION: |
+    Business sınıfında seyahat ediyorsunuz. Bir sonraki uçak biletinizin fiyatı iki katına çıkar.
+  LABEL_CARD_RANDOM_19_TITLE: Business Sınıfı
   LABEL_CARD_RANDOM_1_DESCRIPTION: |
     %s'e gidin.
   LABEL_CARD_RANDOM_1_TITLE: Seyahat Acentası
+  LABEL_CARD_RANDOM_20_DESCRIPTION: |
+    Şans size gülümsüyor! Hemen bir tur daha oynayabilirsiniz.
+  LABEL_CARD_RANDOM_20_TITLE: İkinci Nefes
+  LABEL_CARD_RANDOM_21_DESCRIPTION: |
+    Vergi dairesi dosyanızı kaybetti. Bir dahaki sefere Vergi karesine düştüğünüzde, sadece 30.000$ ödeyeceksiniz.
+  LABEL_CARD_RANDOM_21_TITLE: Vergi Dosyalama Hatası
   LABEL_CARD_RANDOM_2_DESCRIPTION: |
     Lütfen %s kare geri gidin.
   LABEL_CARD_RANDOM_2_TITLE: Seyahat Acentası
   LABEL_CARD_RANDOM_3_DESCRIPTION: |
     Yine kayboldunuz. Etrafınızda göz alabildiğine buz var.
+
     Hiç şüphe yok, buz kütlesindesiniz.
   LABEL_CARD_RANDOM_3_TITLE: Buz Kütlesi
-  LABEL_CARD_RANDOM_4_DESCRIPTION: >
-    Eğleniyorsunuz, tüm arkadaşlarınızı davet
-    ediyorsunuz, bir sonraki kira ödemesi iki katına çıkacak.
+  LABEL_CARD_RANDOM_4_DESCRIPTION: |
+    Eğleniyorsunuz, tüm arkadaşlarınızı davet ediyorsunuz, bir sonraki kira ödemesi iki katına çıkacak.
   LABEL_CARD_RANDOM_4_TITLE: Tatil
-  LABEL_CARD_RANDOM_5_DESCRIPTION: >
-    Bir GPS ve uydu telefonu aldınız. Bunlarla, buz
-    kütlesinde bile yolunuzu bulabilirsiniz.
-
+  LABEL_CARD_RANDOM_5_DESCRIPTION: |
+    Bir GPS ve uydu telefonu aldınız. Bunlarla, buz kütlesinde bile yolunuzu bulabilirsiniz.
 
     Bu kartı buz kütlesinden kaçmak için kullanın.
   LABEL_CARD_RANDOM_5_TITLE: İyi Zamanlama!
   LABEL_CARD_RANDOM_6_DESCRIPTION: |
     Borsada oynadınız ve pek iyi gitmiyor.
+
     Nakit paranızın dörtte birini anında kaybediyorsunuz.
   LABEL_CARD_RANDOM_6_TITLE: Kumar Risklidir
-  LABEL_CARD_RANDOM_7_DESCRIPTION: >
+  LABEL_CARD_RANDOM_7_DESCRIPTION: |
     Orantılı vergilendirme moduna geçiyorsunuz.
 
     Vergi & Harçlar karesine düştüğünüzde, mali varlıklarınızla orantılı bir vergi ödeyeceksiniz.
   LABEL_CARD_RANDOM_7_TITLE: Kamu Maliyesi
-  LABEL_CARD_RANDOM_8_DESCRIPTION: >
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
     Sabit vergilendirme moduna geçiyorsunuz.
 
     Vergi & Harçlar karesine düştüğünüzde, $%s tutarında sabit bir miktar ödeyeceksiniz.
   LABEL_CARD_RANDOM_8_TITLE: Kamu Maliyesi
-  LABEL_CARD_RANDOM_9_DESCRIPTION: >
-    Ünlü yayıncılar sizin adınıza kar amacı
-    gütmeyen bir kampanya düzenliyor, $%s kazanıyorsunuz.
+  LABEL_CARD_RANDOM_9_DESCRIPTION: |
+    Ünlü yayıncılar sizin adınıza kar amacı gütmeyen bir kampanya düzenliyor, $%s kazanıyorsunuz.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
-  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Festival Sonu
-  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: >
-    İptal etmek için festival olan bir kare seçin.
-  LABEL_PLAYER_BUILD_HOTEL_TITLE: İnşaat
-  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: >
-    Otel inşa etmek için bir şehir seçin.
-  LABEL_CARD_ANARCHY_12_TITLE: Tapu Sicili
-  LABEL_CARD_ANARCHY_12_DESCRIPTION: >
-    Tebrikler! Belediye size ücretsiz 3 yıldızlı bir otel sunuyor.
-    
-    Lütfen bir şehir seçin
-  LABEL_CARD_ANARCHY_13_TITLE: Özel Jet
-  LABEL_CARD_ANARCHY_13_DESCRIPTION: >
-    Özel bir jete erişiminiz var. Hemen uçağa binin.
-    
-  LABEL_CARD_ANARCHY_14_TITLE: Rüşvetçi Hakim
-  LABEL_CARD_ANARCHY_14_DESCRIPTION: >
-    Şüpheli bağlantılarınız işe yarıyor. Seçtiğiniz bir oyuncu buz kütlesine gönderilir.
-    
-    Lütfen bir oyuncu seçin
-  LABEL_CARD_ANARCHY_15_TITLE: Kutlamaların Sonu
-  LABEL_CARD_ANARCHY_15_DESCRIPTION: >
-    Belediye sakinlerden gelen şikayetler üzerine bir festivali iptal ediyor.
-    
-    Lütfen bir şehir seçin
-  LABEL_CARD_ANARCHY_16_TITLE: Dünya Kupası
-  LABEL_CARD_ANARCHY_16_DESCRIPTION: >
-    Bir sonraki Dünya Kupası'nın hangi şehirde düzenleneceğini seçme hakkını kazandınız.
-    
-    Lütfen bir şehir seçin
-  LABEL_CARD_ANARCHY_17_TITLE: Kaçırma
-  LABEL_CARD_ANARCHY_17_DESCRIPTION: >
-    Bir rakibi bir kare ileri hareket ettirebilirsiniz. Akıllıca seçin!
-    
-    Lütfen bir oyuncu seçin
-  LABEL_CARD_RANDOM_16_TITLE: Felaket
-  LABEL_CARD_RANDOM_16_DESCRIPTION: >
-    Şanssızlık! Bir olay nedeniyle otellerinizden birini rastgele kaybedersiniz.
-  LABEL_CARD_RANDOM_17_TITLE: Uçuş Milleri
-  LABEL_CARD_RANDOM_17_DESCRIPTION: >
-    Sadakat kartınız size ücretsiz bir uçak bileti kazandırıyor. İstediğiniz zaman kullanın.
-  LABEL_CARD_RANDOM_18_TITLE: Küçük Adım
-  LABEL_CARD_RANDOM_18_DESCRIPTION: >
-    Hemen bir kare ileri gidin. Bazen küçük ilerlemeler fark yaratır.
-  LABEL_CARD_RANDOM_19_TITLE: Business Sınıfı
-  LABEL_CARD_RANDOM_19_DESCRIPTION: >
-    Business sınıfında seyahat ediyorsunuz. Bir sonraki uçak biletinizin fiyatı iki katına çıkar.
+  LABEL_CAR_NAME: Van Diesel
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Mülkte inşaat yapıldı
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -361,22 +325,31 @@ tr:
   LABEL_CLICK_TO_VOTE: Oy vermek için tıklayın
   LABEL_COMPUTER_PLAYER: Bilgisayar oyuncu
   LABEL_DEMO_EMBARGO: >
-    Lütfen oyun üzerindeki ambargoya uyun. Playtestler bitene
-    kadar video ve yayın yapılması yasaktır. İşbirliğiniz için teşekkürler!
+    Lütfen oyun üzerindeki ambargoya uyun. Playtestler bitene kadar video ve yayın yapılması yasaktır. İşbirliğiniz için teşekkürler!
   LABEL_DEMO_VERSION: Fortune Avenue DEMO
   LABEL_DETAILED_SHADOW: Detaylı
   LABEL_DICE_DOUBLE: Çift
   LABEL_DISABLED: Devre dışı
+  LABEL_DOG_NAME: Barky
   LABEL_DOUBLE_RENT_MONOPOLY: |
     Tekel sahibiyseniz kiralar iki katına çıkar
   LABEL_ERROR_DIALOG_DESCRIPTION: |
     Oyun oluşturulamıyor veya katılınamıyor.
   LABEL_ERROR_DIALOG_TITLE: Hata
-  LABEL_HUMAN_PLAYER: İnsan oyuncu
-  LABEL_ICEPACKED_ANNOUNCE: >
-    [b]Buz kütlesine sıkıştınız[/b], bu gerçekten
-    şanssızlık.
+  LABEL_GAME_START_MULTIPLAYER: Çok oyunculu
+  LABEL_GAME_START_OFFLINE: Çevrimdışı oyna
+  LABEL_GAME_START_ONLINE: Çevrimiçi oyna
+  LABEL_GAME_START_SINGLEPLAYER: Tek oyunculu
+  LABEL_GIVE_UP_GAME_DESCRIPTION: |
+    Şimdi vazgeçmek mevcut ilerlemenizi kaybetmenize ve devam eden çok oyunculu deneyimden bağlantınızın kesilmesine neden olacak. Ayrılmanız diğer oyuncuları etkileyebilir.
 
+    [center][b]Vazgeçmek istediğinizden emin misiniz?[/b][/center]
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Fortune Avenue'dan Vazgeç
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_HUMAN_PLAYER: İnsan oyuncu
+  LABEL_ICEPACKED_ANNOUNCE: |
+    [b]Buz kütlesine sıkıştınız[/b], bu gerçekten şanssızlık.
 
     Kurtulmak için [b]çift zar[/b] atmayı deneyebilirsiniz. Ya da [b]$%s[/b] ödeyip hemen çıkabilirsiniz.
 
@@ -384,30 +357,26 @@ tr:
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     Burada çok uzun kaldınız, artık daha fazla bekleyemezsiniz.
     Bu buz cehenneminden çıkmak için [b]$%s[/b] ödemeye karar veriyorsunuz.
-  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: >
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
     Tatilde olmak ne güzel.
 
     [b]Lüks gemi[/b] bir limana yaklaşıyor ve hayatınıza devam etmenize izin veriyor.
-
-
     [b]$%s[/b] ödüyorsunuz ve hemen gemiden iniyorsunuz.
 
     Eğer bir [b]Buz Kütlesinden Kaçış[/b] kartınız varsa, şimdi kullanma zamanı.
-  LABEL_ICEPACKING_ANNOUNCE: >
-    Yolculuğunuz sırasında kayboluyorsunuz. Etrafınızda
-    sadece buz, sadece buz var.
+  LABEL_ICEPACKING_ANNOUNCE: |
+    Yolculuğunuz sırasında kayboluyorsunuz. Etrafınızda sadece buz, sadece buz var.
 
     [b]Buz kütlesinde kayboldunuz![/b]
-
-
     Kesin olan bir şey var, maaşınızı alamayacaksınız.
 
     Ya yardım çağırıp [b]$%s[/b] tutarında bir fatura ödersiniz, ya da korkarım buraya sıkışıp kalacaksınız.
   LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
     Kuzey Kutbu'na ulaştınız! Ufukta hiç buz kalmadı!
-    Bir [b]lüks gemi[/b] sizi yakında alacak ve güverteye çıkaracak.
 
+    Bir [b]lüks gemi[/b] sizi yakında alacak ve güverteye çıkaracak.
     İyi vakit geçirme fırsatını değerlendiriyorsunuz.
+
     Elbette bu bedava değil ve size [b]$%s[/b]'e mal olacak.
   LABEL_IP_ADDRESS: IP Adresi
   LABEL_KIKIMETER_MOST_AIRPLANE: Gökyüzü Kralı
@@ -420,29 +389,74 @@ tr:
   LABEL_LAND_ONLY: Bir karavan
   LABEL_LAPS: Tur(lar)
   LABEL_LEADERBOARD: Skor tablosu
-  LABEL_LEAVE_GAME_DESCRIPTION: >
-    Şimdi çıkmak mevcut ilerlemenizi kaybetmenize ve
-    devam eden çok oyunculu deneyimden bağlantınızın kesilmesine neden olacak.
-    Ayrılmanız diğer oyuncuları etkileyebilir.
-
+  LABEL_LEAVE_GAME_DESCRIPTION: |
+    Şimdi çıkmak mevcut ilerlemenizi kaybetmenize ve devam eden çok oyunculu deneyimden bağlantınızın kesilmesine neden olacak. Ayrılmanız diğer oyuncuları etkileyebilir.
 
     [center][b]Çıkmak istediğinizden emin misiniz?[/b][/center]
   LABEL_LEAVE_GAME_TITLE: |
     Fortune Avenue'den Çıkış
+  LABEL_LOADING_1: Godot'yu beklerken... her zamanki gibi
+  LABEL_LOADING_10: Penguenleri kurtarma görevleri için eğitiyoruz
+  LABEL_LOADING_11: Mahsur kalan oyuncular için lüks gemi turları planlıyoruz
+  LABEL_LOADING_12: Uçağa yer çekimi önleyici özellikler ekliyoruz
+  LABEL_LOADING_13: Talih Çarkına fiziği öğretiyoruz
+  LABEL_LOADING_14: Kurtarıcı İsa heykelini cilalıyoruz
+  LABEL_LOADING_15: Tac Mahal'in yeterince mahal-teşem olduğundan emin oluyoruz
+  LABEL_LOADING_16: Piramitlerin tozunu alıyoruz
+  LABEL_LOADING_17: Kolezyumu yeniliyoruz (yine)
+  LABEL_LOADING_18: Sanal bankacıları işe alıyoruz
+  LABEL_LOADING_19: Mali çöküşünüzü hazırlıyoruz
+  LABEL_LOADING_2: Zarları lehinize ayarlıyoruz (şaka yapıyoruz)
+  LABEL_LOADING_20: Kapitalist kabuslar yükleniyor
+  LABEL_LOADING_21: İflas için rastgele bahaneler üretiyoruz
+  LABEL_LOADING_22: Yapay zekaya acımasız olmayı öğretiyoruz
+  LABEL_LOADING_23: Optimal kira sömürü stratejilerini hesaplıyoruz
+  LABEL_LOADING_24: Şans kartlarını hazırlıyoruz (aslında hiçbiri şans değil)
+  LABEL_LOADING_25: Lüks otellere fırlatma koltuğu takıyoruz
+  LABEL_LOADING_26: Serveti yeniden dağıtıyoruz (şaka, bu Monopoly)
+  LABEL_LOADING_27: Paraların ağaçta yetişmediğinden emin oluyoruz
+  LABEL_LOADING_28: İflas yolculuğunuzu hazırlıyoruz
+  LABEL_LOADING_29: Alamayacağınız pahalı mülkler yükleniyor
+  LABEL_LOADING_3: Helikopterlere fakir oyuncuları kovalamayı öğretiyoruz
+  LABEL_LOADING_30: Karavanlara 5 yıldızlı otele dönüşmeyi öğretiyoruz
+  LABEL_LOADING_31: Finansal felaketler hazırlanıyor
+  LABEL_LOADING_32: Sanal emlak balonu yükleniyor
+  LABEL_LOADING_33: Bankanın her zaman kazandığından emin oluyoruz
+  LABEL_LOADING_34: Bileşik faiz hesaplıyoruz (sizin lehinize değil)
+  LABEL_LOADING_35: Yapay zekaya şüpheli finansal kararlar almayı öğretiyoruz
+  LABEL_LOADING_36: Şüpheli bankerlerle el sıkışmayı hazırlıyoruz
+  LABEL_LOADING_37: Agresif mülk edinme stratejileri yükleniyor
+  LABEL_LOADING_38: Zarlara dramatik yuvarlanmayı öğretiyoruz
+  LABEL_LOADING_39: Otellerin tam bir piksel kayık olduğundan emin oluyoruz
+  LABEL_LOADING_4: Buz kütleleri eritiliyor... küresel ısınma dahil değil
+  LABEL_LOADING_40: İlginç para kaybetme yolları hazırlıyoruz
+  LABEL_LOADING_41: Gerçek hayatta işe yaramayan ekonomi teorileri yükleniyor
+  LABEL_LOADING_42: Esprili yükleme mesajları üretiyoruz
+  LABEL_LOADING_43: Rastgele sayıların gerçekten rastgele olduğunu kontrol ediyoruz (öyle mi?)
+  LABEL_LOADING_44: Sanal tapu senetleri hazırlıyoruz
+  LABEL_LOADING_45: Kapitalizm simülatörü v2.0 yükleniyor
+  LABEL_LOADING_46: Helikopterlere düzgün kovalamaca koreografisi öğretiyoruz
+  LABEL_LOADING_47: İflasa giden yolculuğunuzu hazırlıyoruz
+  LABEL_LOADING_48: Gemi turunun yeterince lüks olduğundan emin oluyoruz
+  LABEL_LOADING_49: Optimal arkadaşlık bitirme stratejilerini hesaplıyoruz
+  LABEL_LOADING_5: Çift zar atma olasılığını hesaplıyoruz
+  LABEL_LOADING_50: Yükleniyor... çünkü yapabiliyoruz
+  LABEL_LOADING_6: Otel fiyatlarını mantıksız seviyelere çıkarıyoruz
+  LABEL_LOADING_7: Anlık festivaller düzenliyoruz
+  LABEL_LOADING_8: Dünya Kupası komitesine rüşvet veriyoruz
+  LABEL_LOADING_9: Monopoly paralarını sayıyoruz (emin olmak için iki kere)
   LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
-    Kurallar için oy ver ✦
-    Zar at ✦
-    Oteller inşa et ✦
+    Kurallar için oy ver •
+    Zar at •
+    Oteller inşa et •
   LABEL_LOADING_HOW_TO_PLAY_TITLE: |
     Nasıl oynanır?
-    ‾‾‾‾‾‾‾‾‾‾‾‾‾
   LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
     Rakiplerini iflas ettir ✔
     Tüm harikaları satın al ✔
     Tahtanın bir kenarına sahip ol ✔
   LABEL_LOADING_HOW_TO_WIN_TITLE: |
     Nasıl kazanılır?
-    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
   LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
     Süre dolduğunda, eğer lobi dolu değilse,
     boş slotlar bilgisayar oyuncularıyla doldurulur
@@ -457,6 +471,8 @@ tr:
     oyunu başlatma ve lobiyi kilidi aç
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
     {ps}Bankaya{pe} ödeme yapamadın, {ps}İFLAS ETTİN{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    Oyundan {ps}VAZGEÇMEYE{pe} karar verdiniz!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     İnanılmaz bir kovalamacadan sonra, {ps}helikopter{pe} seni yakaladı!
   LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
@@ -466,6 +482,7 @@ tr:
     Ana menüye dön
   LABEL_MINUTES: dakika
   LABEL_NEW_RENT: "Yeni kira: $%s"
+  LABEL_NOT_AVAILABLE_DEMO: Demo sürümünde mevcut değil
   LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
     Müsait kare olmadığı için bu kartı oynayamazsınız.
   LABEL_NO_EFFECT_TO_PLAYER: |
@@ -476,22 +493,12 @@ tr:
   LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
     Müsait mülk olmadığı için bu kartı oynayamazsınız.
   LABEL_NO_SIGNAL: Sinyal yok
+  LABEL_NO_TEAM: Takım yok
   LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
     Müsait harika olmadığı için bu kartı oynayamazsınız.
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Kirasız tur sayısı
   LABEL_NUMBER_OF_PLAYERS: Oyuncu sayısı
-  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
-  LABEL_OPTION_GAME_SPEED_FAST: Hızlı
-  LABEL_OPTION_GAME_SPEED_FASTER: Çok hızlı
   LABEL_OPENGL_RENDERER: "İşleyici: OpenGL (DENEYSEL)"
-  LABEL_OPTION_GAMEPAD_VIBRATION: Gamepad titreşimi
-  LABEL_OPTION_GAME_SPEED: Oyun hızı
-  LABEL_TUTORIEL_DICE_GAMEPAD: >
-    Zarları sallamak için [img width=64]%s[/img] tuşunu basılı tutarken [img width=64]%s[/img] hareket ettirin.
-    Fırlatmak için bırakın.
-  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
-    Çarkı döndürmek için [img width=64]%s[/img] tuşunu basılı tutarken [img width=64]%s[/img] hareket ettirin.
-    Fırlatmak için bırakın.
   LABEL_OPTION_AUDIO: Ses ayarları
   LABEL_OPTION_AUTOFILL_LOBBY: Bilgisayarla doldur
   LABEL_OPTION_BOARD_CENTER_ROTATE: Tahta merkezi dönüşü
@@ -504,7 +511,12 @@ tr:
   LABEL_OPTION_CAMERA_SEMI_AUTO: Yarı otomatik kamera
   LABEL_OPTION_DISABLE_SURROUNDING: Çevreyi devre dışı bırak
   LABEL_OPTION_FX: Efektler
+  LABEL_OPTION_GAMEPAD_VIBRATION: Gamepad titreşimi
   LABEL_OPTION_GAMEPLAY: Oynanış ayarları
+  LABEL_OPTION_GAME_SPEED: Oyun hızı
+  LABEL_OPTION_GAME_SPEED_FAST: Hızlı
+  LABEL_OPTION_GAME_SPEED_FASTER: Çok hızlı
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
   LABEL_OPTION_LANGUAGE: Dil
   LABEL_OPTION_LOBBY_WAIT_TIME: Lobi bekleme süresi
   LABEL_OPTION_MISC: Diğer ayarlar
@@ -515,9 +527,18 @@ tr:
   LABEL_OPTION_TUTORIEL: Öğretici
   LABEL_OPTION_VIDEO: Grafik ayarları
   LABEL_OPTION_WINDOW: Pencere
+  LABEL_PAWN_NAME: Tacticus
   LABEL_PAY: $%s öde
   LABEL_PAY_RENT: Kira
+  LABEL_PIG_NAME: Rosette
+  LABEL_PINGOUIN_NAME: Gunter
   LABEL_PLAYER_BANKRUPT: İflas
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: |
+    Otel inşa etmek için bir şehir seçin.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: İnşaat
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
+    İptal etmek için festival olan bir kare seçin.
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Festival Sonu
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Lütfen devre dışı bırakmak istediğiniz kareyi seçin.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Kareyi Devre Dışı Bırak
@@ -568,51 +589,25 @@ tr:
   LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
     {name} bir {ws}{rs}TEKEL{re}{we} oluşturdu!
   LABEL_PLAYER_WON_TITLE: "{name} oyunu kazandı!"
-  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
-    {team} {ps}ayakta kalan son takım{pe}!
-  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
-    {team} bir {ws}{rs}MONOPOLY{re}{we} yaptı!
-  LABEL_TEAM_WON_TITLE: "{team} oyunu kazandı!"
-  LABEL_NO_TEAM: Takım yok
-  LABEL_TEAM: Takım
-  LABEL_RANDOM: Rastgele
   LABEL_PRESS_ANY_BUTTON: Devam etmek için basın
   LABEL_PROGRESS_NEXT_VOTE: Sonraki oylama
   LABEL_PROPERTY_RENT: Kira
+  LABEL_RANDOM: Rastgele
   LABEL_REAL_ESTATE_ASSET_VALUE: Mülk değeri
   LABEL_REMAINING_TURN: Kalan tur
   LABEL_REMOTE_PLAYER: Uzak oyuncu
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
     {name}, {ps}bankaya{pe} ödeme yapamadı, {name} {ps}İFLAS ETTİ{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    {name} oyundan {ps}VAZGEÇTİ{pe}!
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
     İnanılmaz bir kovalamacadan sonra, {ps}helikopter{pe} {name}'i yakaladı!
   LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
     {name}, {killer_name}'a ödeme yapamadı, {name} {ps}İFLAS ETTİ{pe}!
   LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} kaybetti!"
-  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: İklim Felaketi
   LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
-    Çevre aktivistleri havaalanlarının kontrolünü ele geçirdi,
-    bilet maliyetleri 10 kat arttı.
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Acımasız Kapitalizm
-  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
-    Tekeller olağanüstü güçlü hale geldi,
-    tüm tekel kiraları 2 kat arttı.
-  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Otel Bonanzası
-  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
-    Eksantrik bir milyarder bugün olağanüstü cömert hissediyor,
-    her oyuncuya ücretsiz 3 yıldızlı bir otel veriyor.
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: İkili Eleme Bonusu
-  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
-    Bahisler ikiye katlandı çünkü diğer oyuncuları eleme
-    ödülleri artık iki kat daha değerli.
-  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Modu
-  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
-    Zafer kuralları değişti, artık tekel ile kazanamazsınız,
-    sadece ayakta kalan son oyuncu olarak kazanabilirsiniz.
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Enflasyon Kabusu
-  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
-    Ekonomik kaos piyasayı vurdu,
-    tur başına kira artışı artık iki katına çıktı.
+    Çevre aktivistleri havaalanlarının kontrolünü ele geçirdi, bilet maliyetleri 10 kat arttı.
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: İklim Felaketi
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
     Herkese ücretsiz GPS! İstediğiniz kadar çift zar atabilirsiniz!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Bahisler Açık
@@ -625,14 +620,14 @@ tr:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Artık diğer oyuncuların harikalarını satın almak mümkün.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Her şey değişiyor
-  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: >
-    Karavan yaşamı trend oldu, sonuç
-    olarak karavan kiraları 5 yıldızlı otel kirası kadar tutuyor
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
+    Karavan yaşamı trend oldu, sonuç olarak karavan kiraları 5 yıldızlı otel kirası kadar tutuyor
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohem Yaşam
-  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: >
-    Yaşam maliyeti artıyor ve mal
-    sahiplerinin edepsiz yaşam tarzlarını sürdürmek için tüm otellerin kiraları
-    iki katına çıkıyor.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    Bahisler ikiye katlandı çünkü diğer oyuncuları eleme ödülleri artık iki kat daha değerli.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: İkili Eleme Bonusu
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: |
+    Yaşam maliyeti artıyor ve mal sahiplerinin edepsiz yaşam tarzlarını sürdürmek için tüm otellerin kiraları iki katına çıkıyor.
   LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Sosyal Adaletsizlik
   LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
     Oyuncuların maaşları iki katına çıkıyor.
@@ -643,38 +638,48 @@ tr:
   LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
     Rastgele bir şehirde yeni bir festival düzenleniyor.
   LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Parti zamanı!
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    Eksantrik bir milyarder bugün olağanüstü cömert hissediyor, her oyuncuya ücretsiz 3 yıldızlı bir otel veriyor.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Otel Bonanzası
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
     İşçi ayaklanması çıktı, tüm 5 yıldızlı oteller oyuna geri dönüyor.
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: Ah hayır!
-  LABEL_RULESET_FREE_MONEY_DESCRIPTION: >
-    Hükümet ayrım gözetmeksizin insani yardım
-    sağlıyor. Tüm oyuncular 100,000$ alıyor
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
+    Hükümet ayrım gözetmeksizin insani yardım sağlıyor. Tüm oyuncular 100,000$ alıyor
   LABEL_RULESET_FREE_MONEY_TITLE: Küresel Salgın
+  LABEL_RULESET_FREE_MONOPOLIES_DESCRIPTION: |
+    Tekelleşme karşıtı yasalar hemen yürürlüğe girer. Tüm tekeller parçalanır ve pazara geri döner.
+  LABEL_RULESET_FREE_MONOPOLIES_TITLE: Piyasa Çöküşü
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
     Helikopter aynı anda birden fazla oyuncuyu kovalayabilir
   LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Durdurulamaz
-  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: >
-    Suçu azaltmayı amaçlayan yeni bir
-    ceza sistemi yürürlüğe girdi! Artık helikopter her zaman en fakir oyuncuyu
-    kovalayacak.
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: |
+    Suçu azaltmayı amaçlayan yeni bir ceza sistemi yürürlüğe girdi! Artık helikopter her zaman en fakir oyuncuyu kovalayacak.
   LABEL_RULESET_HELICOPTER_CHASING_TITLE: En Zenginin Yasası
-  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: >
-    Suç oranı artıyor, bu otellerinizin
-    standardını düşürüyor. Tüm oteller bir yıldız kaybediyor (minimum karavan)
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_DESCRIPTION: |
+    Helikopter artık 1 milyon $'dan fazla parası olan oyuncuları avlıyor. Zorunlu servet yeniden dağıtımı.
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_TITLE: Zengin Avı
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: |
+    Suç oranı artıyor, bu otellerinizin standardını düşürüyor. Tüm oteller bir yıldız kaybediyor (minimum karavan)
   LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Ups!
-  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: >
-    Hükümet turizme büyük yatırım
-    yapıyor, tüm oteller bir yıldız kazanıyor (maksimum 5 yıldız)
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: |
+    Hükümet turizme büyük yatırım yapıyor, tüm oteller bir yıldız kazanıyor (maksimum 5 yıldız)
   LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Şehir Planlama Yasası
-  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: >
-    İnşaat standartları değişiyor,
-    satışta oteller artık hiçbir şey etmiyor. Sadece araziler değerini koruyor.
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: |
+    İnşaat standartları değişiyor, satışta oteller artık hiçbir şey etmiyor. Sadece araziler değerini koruyor.
   LABEL_RULESET_HOTEL_WORTHLESS_TITLE: Yeni standart
-  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: >
-    Buz kütlesi eridi ve yatırımcılar burada
-    muazzam bir potansiyel gördü. Buz kütlesinin yerini lüks bir gemi yolculuğu
-    alıyor ve bir servete mal olacak.
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
+    Buz kütlesi eridi ve yatırımcılar burada muazzam bir potansiyel gördü. Buz kütlesinin yerini lüks bir gemi yolculuğu alıyor ve bir servete mal olacak.
   LABEL_RULESET_ICEPACK_MELT_TITLE: 50 Yıllık Eylemsizlik
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Ekonomik kaos piyasayı vurdu, tur başına kira artışı artık iki katına çıktı.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Enflasyon Kabusu
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    Zafer kuralları değişti, artık tekel ile kazanamazsınız, sadece ayakta kalan son oyuncu olarak kazanabilirsiniz.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale Modu
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Tekeller olağanüstü güçlü hale geldi, tüm tekel kiraları 2 kat arttı.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Acımasız Kapitalizm
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
     Bir sonraki turda, zar atmak yerine bir kare geri gideceksiniz.
   LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Geri
@@ -684,70 +689,86 @@ tr:
   LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
     Polis isyan ediyor, tüm korumalı kareler oyuna geri dönüyor
   LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: Eyvah!
-  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: >
-    Hükümet maaşları yetersiz olduğu için
-    yeni bir yasa çıktı. Bu değişiklikleri finanse etmek için tüm vergiler ikiye
-    katlandı.
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: |
+    Hükümet maaşları yetersiz olduğu için yeni bir yasa çıktı. Bu değişiklikleri finanse etmek için tüm vergiler ikiye katlandı.
   LABEL_RULESET_TAXES_DOUBLED_TITLE: Oybirliğiyle Kabul Edildi
-  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: >
-    Aktivistler lobicilerin planlarını
-    bozmayı başardı, bir kararname çıktı ve tahtadaki tüm harikalar oyuna geri
-    döndü.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_DESCRIPTION: |
+    Talih Çarkı'na iflas alanı eklendi. Buraya gelirseniz anında elenirsiniz.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_TITLE: Talihsizlik Çarkı
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_DESCRIPTION: |
+    Talih Çarkı'na zafer alanı eklendi. Buraya gelirseniz anında kazanırsınız.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_TITLE: Çevir ve Kazan
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: |
+    Aktivistler lobicilerin planlarını bozmayı başardı, bir kararname çıktı ve tahtadaki tüm harikalar oyuna geri döndü.
   LABEL_RULESET_WONDERS_FREED_TITLE: Uzun Sürmeyecek
   LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
     Tüm harikaların kiraları 10 katına çıkıyor.
   LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Hiç ucuz değil
-  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: >
-    Dünya Kupası statlarını inşa etmek
-    için ucuz işçi bulduk. Statlar daha da büyük olacak, sonuç olarak Dünya
-    Kupası bonusları iki katına çıkıyor.
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: |
+    Dünya Kupası statlarını inşa etmek için ucuz işçi bulduk. Statlar daha da büyük olacak, sonuç olarak Dünya Kupası bonusları iki katına çıkıyor.
   LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Unutulmaz!
-  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: >
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
     Ödemek için yeterli paranız yok, bir veya daha fazla mülk satmanız gerekiyor.
   LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Gereken para
   LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Kalan para
   LABEL_SELECT_CITY_TO_SELL_TITLE: Satılacak mülkü seçin
+  LABEL_SHOE_NAME: Patachon
   LABEL_SIMPLE_SHADOW: Basit
   LABEL_STEAM_BUSY: Steam meşgul, lütfen daha sonra tekrar deneyin
   LABEL_STEAM_QUERYING: Steam sorgulanıyor
   LABEL_STEAM_READY: Herhangi bir tuşa basın
   LABEL_STEAM_WAITING: Steam'e bağlanılıyor...
+  LABEL_SUITCASE_NAME: Baggy
   LABEL_TAXES_FORFAIT_DESCRIPTION: |
     [b]Sabit Ücreti[/b] ödemeniz gerekiyor.
     Bu [b]ücret her ödemede +{raw_costs}[/b] kadar artıyor.
   LABEL_TAXES_FORFAIT_TITLE: Sabit Vergiler
   LABEL_TAXES_PROPORTIONAL_TITLE: Orantılı Vergiler
+  LABEL_TEAM: Takım
   LABEL_TEAM_NUMBER: Takım
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} {ps}ayakta kalan son takım{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} bir {ws}{rs}MONOPOLY{re}{we} yaptı!
+  LABEL_TEAM_WON_TITLE: "{team} oyunu kazandı!"
   LABEL_TOO_EXPENSIVE: Bunu satın almak için yeterli paranız yok.
+  LABEL_TOPHAT_NAME: Dandy
   LABEL_TURN: Tur
   LABEL_TURN_BEFORE_ELIMINATION: Elemeye %s tur kaldı
   LABEL_TUTORIEL_DICE: >
     Zarları sallamak için fareyi hareket ettirirken tıklayıp
     basılı tutun. Bırakarak zarları atın.
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    Zarları sallamak için [img width=64]%s[/img] tuşunu basılı tutarken [img width=64]%s[/img] hareket ettirin.
+    Fırlatmak için bırakın.
   LABEL_TUTORIEL_MAIN_MENU: >
-    Karşılaşmak istediğiniz rakip türünü seçmek için
-    düğmeleri kullanın. İnsan, bilgisayar veya kapalı slot arasında seçim yapın.
+    Karşılaşmak istediğiniz rakip türünü seçmek için düğmeleri kullanın.
+    İnsan, bilgisayar veya kapalı slot arasında seçim yapın.
   LABEL_TUTORIEL_RULESET: >
-    Bir kural için oy verin. Herkes oy verdiğinde, en çok oy
-    alan kural uygulanır. Beraberlik durumunda, rastgele bir kural seçilir.
+    Bir kural için oy verin. Herkes oy verdiğinde, en çok oy alan kural uygulanır.
+    Beraberlik durumunda, rastgele bir kural seçilir.
   LABEL_TUTORIEL_WHEEL: >
     Çarkı döndürmek için fareyi hareket ettirirken tıklayıp
     basılı tutun. Bırakarak çarkı fırlatın.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    Çarkı döndürmek için [img width=64]%s[/img] tuşunu
+    basılı tutarken [img width=64]%s[/img] hareket ettirin.
+    Fırlatmak için bırakın.
   LABEL_WANTED_DESCRIPTION: Ölü ya da diri
   LABEL_WANTED_TITLE: Aranıyor
   LABEL_WINDOW_FULLSCREEN: Tam ekran
   LABEL_WINDOW_WINDOWED: Pencereli
+  LABEL_WONDER_BRANDBURG_GATE: Branden-burg Kapısı
   LABEL_WONDER_CHRIST_THE_REDEEMER: Kurtarıcı İsa
   LABEL_WONDER_COLISEE: Kolezyum
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Binası
+  LABEL_WONDER_FORBIDDEN_CITY: Yasak Şehir
+  LABEL_WONDER_LIGHTHOUSE: Büyük Fener
   LABEL_WONDER_PYRAMIDS: Piramitler
   LABEL_WONDER_TAJ_MAHAL: Tac Mahal
-  LABEL_WONDER_LIGHTHOUSE: Büyük Fener
-  LABEL_WONDER_FORBIDDEN_CITY: Yasak Şehir
-  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Binası
-  LABEL_WONDER_BRANDBURG_GATE: Branden-burg Kapısı
-  LABEL_WORLDCUP_POSITION_DESCRIPTION: >
-    Dünya Kupası'nın nerede düzenleneceğini
-    seçme hakkını kazandınız!
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: |
+    Dünya Kupası'nın nerede düzenleneceğini seçme hakkını kazandınız!
 
     Eğer Dünya Kupası başka bir yerde düzenleniyorsa, otomatik olarak seçtiğiniz yere taşınacak.
 
@@ -795,12 +816,16 @@ tr:
     Ne kadar çok mülkünüz varsa, o kadar çok ödersiniz
   TOOLTIP_CLOSED_SLOT: Kapalı slot (oyuncu yok)
   TOOLTIP_COMPUTER_SLOT: Kapalı slot (bilgisayar oyuncu)
+  TOOLTIP_DIFFICULTY_EASY: |
+    Kolay yapay zeka seviyesi
+  TOOLTIP_DIFFICULTY_HARD: |
+    Zor yapay zeka seviyesi
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    İki kat kira
   TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
     4 veya 5 yıldızlı otel inşa etmek için tam tur atmış olmanız gerekir
-  TOOLTIP_HELICOPTER_DESCRIPTION: >
-    %s tur sonra, helikopter sadece %s'den az parası
-    olan en fakir oyuncuyu eler.
-
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    %s tur sonra, helikopter sadece %s'den az parası olan en fakir oyuncuyu eler.
     Sayaç sadece bir eleme sonrasında sıfırlanır
   TOOLTIP_HUMAN_SLOT: Açık slot (insan oyuncu)
   TOOLTIP_INVALID_LOBBY: |
@@ -809,7 +834,8 @@ tr:
     oyunu başlatmak için tüm açık slotların
     insan oyuncular tarafından dolu olması gerekir.
   TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
-    Bilgisayar oyuncusu varken çevrimiçi rakip araması devre dışı
+    Bilgisayar oyuncusu varken çevrimiçi
+    rakip araması devre dışı
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     Oyun başlatmak için en az 2 oyuncu gerekli
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
@@ -824,16 +850,31 @@ tr:
     En çok tur tamamlayan oyuncu
   TOOLTIP_KIKIMETER_MOST_RENT: |
     En çok para harcayan oyuncu
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    İki kat kira
+  TOOLTIP_NETWORK_INITIALIZING: |
+    Bir oyuncunun oyuna katılmakta zorluk yaşadığı görülüyor.
+
+    [b]Fortune Avenue oyunu en kısa sürede başlatacak.[/b]
+
+    Bu, bilgisayarının gücüne bağlı olarak birkaç dakika sürebilir.
+
+    Sabrınız için teşekkür ederiz.
   TOOLTIP_NETWORK_OUT_OF_SYNC: |
     Özür dileriz, bir ağ senkronizasyon sorunu oluştu.
 
     [b]Fortune Avenue şimdi yeniden senkronize olmaya çalışıyor.[/b]
+
     Bu sadece bir iki dakika sürmeli.
+
     Bu sırada, internete bağlı olduğunuzdan emin olun.
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Satın alınamaz veya ceza uygulanamaz
   TOOLTIP_RENT_INCREASE_DESCRIPTION: |
     Mülklerinizin kirası tur başına +%s
   TOOLTIP_SEARCH_FOR_OPPONENT: |
     Oyuncu aramak bazen biraz zaman alabilir.
+
     Oyununuza hemen başlamak istiyorsanız,
     lobiyi doldurmak için bilgisayar kontrollü oyuncular eklemeyi düşünün.
 
@@ -841,79 +882,7 @@ tr:
   TOOLTIP_STEAM_VAC_BANNED: |
     Steam VAC tarafından yasaklandınız.
     Rastgele oyuncularla oynayamazsınız.
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    Kira %s katına çıkar
   TOOL_NEED_STEAM_OVERLAY: |
-    Bu özelliği kullanmak için Steam
-    overlay'in etkin olması gerekiyor
-
-  LABEL_LOADING_1: "Godot'yu beklerken... her zamanki gibi"
-  LABEL_LOADING_2: "Zarları lehinize ayarlıyoruz (şaka yapıyoruz)"
-  LABEL_LOADING_3: "Helikopterlere fakir oyuncuları kovalamayı öğretiyoruz"
-  LABEL_LOADING_4: "Buz kütleleri eritiliyor... küresel ısınma dahil değil"
-  LABEL_LOADING_5: "Çift zar atma olasılığını hesaplıyoruz"
-  LABEL_LOADING_6: "Otel fiyatlarını mantıksız seviyelere çıkarıyoruz"
-  LABEL_LOADING_7: "Anlık festivaller düzenliyoruz"
-  LABEL_LOADING_8: "Dünya Kupası komitesine rüşvet veriyoruz"
-  LABEL_LOADING_9: "Monopoly paralarını sayıyoruz (emin olmak için iki kere)"
-  LABEL_LOADING_10: "Penguenleri kurtarma görevleri için eğitiyoruz"
-  LABEL_LOADING_11: "Mahsur kalan oyuncular için lüks gemi turları planlıyoruz"
-  LABEL_LOADING_12: "Uçağa yer çekimi önleyici özellikler ekliyoruz"
-  LABEL_LOADING_13: "Talih Çarkına fiziği öğretiyoruz"
-  LABEL_LOADING_14: "Kurtarıcı İsa heykelini cilalıyoruz"
-  LABEL_LOADING_15: "Tac Mahal'in yeterince mahal-teşem olduğundan emin oluyoruz"
-  LABEL_LOADING_16: "Piramitlerin tozunu alıyoruz"
-  LABEL_LOADING_17: "Kolezyumu yeniliyoruz (yine)"
-  LABEL_LOADING_18: "Sanal bankacıları işe alıyoruz"
-  LABEL_LOADING_19: "Mali çöküşünüzü hazırlıyoruz"
-  LABEL_LOADING_20: "Kapitalist kabuslar yükleniyor"
-  LABEL_LOADING_21: "İflas için rastgele bahaneler üretiyoruz"
-  LABEL_LOADING_22: "Yapay zekaya acımasız olmayı öğretiyoruz"
-  LABEL_LOADING_23: "Optimal kira sömürü stratejilerini hesaplıyoruz"
-  LABEL_LOADING_24: "Şans kartlarını hazırlıyoruz (aslında hiçbiri şans değil)"
-  LABEL_LOADING_25: "Lüks otellere fırlatma koltuğu takıyoruz"
-  LABEL_LOADING_26: "Serveti yeniden dağıtıyoruz (şaka, bu Monopoly)"
-  LABEL_LOADING_27: "Paraların ağaçta yetişmediğinden emin oluyoruz"
-  LABEL_LOADING_28: "İflas yolculuğunuzu hazırlıyoruz"
-  LABEL_LOADING_29: "Alamayacağınız pahalı mülkler yükleniyor"
-  LABEL_LOADING_30: "Karavanlara 5 yıldızlı otele dönüşmeyi öğretiyoruz"
-  LABEL_LOADING_31: "Finansal felaketler hazırlanıyor"
-  LABEL_LOADING_32: "Sanal emlak balonu yükleniyor"
-  LABEL_LOADING_33: "Bankanın her zaman kazandığından emin oluyoruz"
-  LABEL_LOADING_34: "Bileşik faiz hesaplıyoruz (sizin lehinize değil)"
-  LABEL_LOADING_35: "Yapay zekaya şüpheli finansal kararlar almayı öğretiyoruz"
-  LABEL_LOADING_36: "Şüpheli bankerlerle el sıkışmayı hazırlıyoruz"
-  LABEL_LOADING_37: "Agresif mülk edinme stratejileri yükleniyor"
-  LABEL_LOADING_38: "Zarlara dramatik yuvarlanmayı öğretiyoruz"
-  LABEL_LOADING_39: "Otellerin tam bir piksel kayık olduğundan emin oluyoruz"
-  LABEL_LOADING_40: "İlginç para kaybetme yolları hazırlıyoruz"
-  LABEL_LOADING_41: "Gerçek hayatta işe yaramayan ekonomi teorileri yükleniyor"
-  LABEL_LOADING_42: "Esprili yükleme mesajları üretiyoruz"
-  LABEL_LOADING_43: "Rastgele sayıların gerçekten rastgele olduğunu kontrol ediyoruz (öyle mi?)"
-  LABEL_LOADING_44: "Sanal tapu senetleri hazırlıyoruz"
-  LABEL_LOADING_45: "Kapitalizm simülatörü v2.0 yükleniyor"
-  LABEL_LOADING_46: "Helikopterlere düzgün kovalamaca koreografisi öğretiyoruz"
-  LABEL_LOADING_47: "İflasa giden yolculuğunuzu hazırlıyoruz"
-  LABEL_LOADING_48: "Gemi turunun yeterince lüks olduğundan emin oluyoruz"
-  LABEL_LOADING_49: "Optimal arkadaşlık bitirme stratejilerini hesaplıyoruz"
-  LABEL_LOADING_50: "Yükleniyor... çünkü yapabiliyoruz"
-  LABEL_GIVE_UP_GAME_TITLE: |
-    Fortune Avenue'dan Vazgeç
-  LABEL_GIVE_UP_GAME_DESCRIPTION: >
-    Şimdi vazgeçmek mevcut ilerlemenizi kaybetmenize ve devam eden çok oyunculu deneyimden bağlantınızın kesilmesine neden olacak. Ayrılmanız diğer oyuncuları etkileyebilir.
-
-
-    [center][b]Vazgeçmek istediğinizden emin misiniz?[/b][/center]
-  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    Oyundan {ps}VAZGEÇMEYE{pe} karar verdiniz!
-  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: >
-    {name} oyundan {ps}VAZGEÇTİ{pe}!
-  BUTTON_GIVE_UP: Terk etmek
-  LABEL_CARD_RANDOM_13_TITLE: Güzel bir miras
-  LABEL_CARD_RANDOM_13_DESCRIPTION: >
-    Tebrikler, büyük amcanız size otellerinden birini miras bıraktı.
-  LABEL_CARD_RANDOM_14_TITLE: Suç oranı artıyor
-  LABEL_CARD_RANDOM_14_DESCRIPTION: >
-    Şehirlerinizden birinde suç oranı artıyor, vali koruma için bir polis alayı gönderiyor.
-  LABEL_CARD_RANDOM_15_TITLE: Vergi denetimi
-  LABEL_CARD_RANDOM_15_DESCRIPTION: |
-    Sürpriz bir vergi denetimine tabi tutuluyorsunuz.
-    Vergilere ilerleyin.
+    Bu özelliği kullanmak için Steam overlay'in etkin olması gerekiyor
