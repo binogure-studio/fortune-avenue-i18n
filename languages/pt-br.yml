@@ -143,6 +143,11 @@ pt-br:
 
     Por favor, selecione uma cidade.
   LABEL_CARD_ANARCHY_1_TITLE: Cartório
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Especialistas em renovação chegam à sua propriedade. Remove todas as penalidades e protege a propriedade.
+  
+    Por favor, selecione uma cidade.
+  LABEL_CARD_ANARCHY_20_TITLE: Reabilitação Expressa
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Esperto como você é, consegue passar despercebido onde quer que vá. Isso permite que você roube uma cidade de um jogador.
 
@@ -263,7 +268,10 @@ pt-br:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Streamers famosos organizam uma campanha sem fins lucrativos em seu nome, você recebe $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Passe a vez
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Propriedade renovada
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Propriedade construída
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ pt-br:
   LABEL_OPTION_AUTOFILL_LOBBY: Preencher com jogadores computador
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotação do centro do tabuleiro
   LABEL_OPTION_BRIGHTNESS: Brilho
-  LABEL_OPTION_CAMERA: Câmera
+  LABEL_OPTION_CAMERA: Controle de câmera
   LABEL_OPTION_CAMERA_FIXED: Não seguir jogadores
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Seguir jogadores (rotação)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Seguir jogadores (movimento)
   LABEL_OPTION_CAMERA_INVERTED: Câmera invertida
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Câmera semi-automática
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Centralizar câmera quando inativa
   LABEL_OPTION_DISABLE_SURROUNDING: Desativar arredores
   LABEL_OPTION_FX: Efeitos sonoros
   LABEL_OPTION_GAMEPAD_VIBRATION: Vibração do controle
@@ -539,6 +547,7 @@ pt-br:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Por favor, selecione uma casa com um festival para cancelá-lo.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Fim do Festival
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Proteção removida
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Por favor, selecione a casa que você quer desativar.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Desativar a casa
@@ -620,6 +629,9 @@ pt-br:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Agora é possível comprar as maravilhas de outros jogadores.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Isso muda tudo
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Uma nova lei de proteção imobiliária foi aprovada. Agora é impossível recomprar hotéis de outros jogadores.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Propriedades Invioláveis
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Morar em caravanas virou moda, consequentemente os aluguéis das caravanas custam tanto quanto um hotel 5 estrelas
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Vida cigana
@@ -798,6 +810,8 @@ pt-br:
     Não é possível recomprar um hotel 5 estrelas
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Dinheiro insuficiente para recomprar
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Uma regra foi votada que impede a recompra de hotéis.
   TOOLTIP_BUY_BACK_WONDER: |
     Não é possível recomprar uma maravilha
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ pt-br:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     Após %s turnos, o helicóptero elimina apenas o jogador mais pobre com menos de %s.
     O contador só reinicia após uma eliminação
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Após %s rodadas, o helicóptero elimina apenas o jogador mais rico com mais de %s.
+    O contador só é reiniciado após uma eliminação.
   TOOLTIP_HUMAN_SLOT: Slot disponível (jogador humano)
   TOOLTIP_INVALID_LOBBY: |
     É impossível iniciar um jogo com apenas um jogador.
@@ -882,6 +899,8 @@ pt-br:
   TOOLTIP_STEAM_VAC_BANNED: |
     Você foi banido pelo Steam VAC.
     Você não pode jogar com jogadores aleatórios. 
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Ocultar / Mostrar painel
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     %s vezes o aluguel
   TOOL_NEED_STEAM_OVERLAY: |

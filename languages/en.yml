@@ -46,21 +46,21 @@ en:
   GAME_RECONNECTING: Reconnecting to the game
   IN_GAME: In game
   JOINNING_LOBBY: Joining lobby
-  LABEL_1_HOSTEL: Grand hotel
-  LABEL_1_HOUSE: Hotel 1 star
+  LABEL_1_HOSTEL: 5-stars hotel
+  LABEL_1_HOUSE: 1-star hotel
   LABEL_1_WONDER: One wonder
-  LABEL_2_HOUSE: Hotel 2 stars
+  LABEL_2_HOUSE: 2-stars hotel
   LABEL_2_WONDER: Two wonders
-  LABEL_3_HOUSE: Hotel 3 stars
+  LABEL_3_HOUSE: 3-stars hotel
   LABEL_3_WONDER: Three wonders
-  LABEL_4_HOUSE: 4-star hotel
+  LABEL_4_HOUSE: 4-stars hotel
   LABEL_4_WONDER: Four wonders
   LABEL_AIRPORT_DESCRIPTION: |
     You have the option of flying to the vacant location of your choice.
   LABEL_ALMOST_MONOPOLE_SIDE: |
-    [center][b]%s[/b] has almost a linear monopoly[/center]
+    [center][b]%s[/b] almost has a linear monopoly[/center]
   LABEL_ALMOST_MONOPOLE_WONDER: |
-    [center][b]%s[/b] has almost a monopoly of wonders[/center]
+    [center][b]%s[/b] almost has a monopoly of wonders[/center]
   LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: Session canceled by user.
   LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: Invalid session.
   LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: Session already used.
@@ -143,6 +143,11 @@ en:
 
     Please select a city
   LABEL_CARD_ANARCHY_1_TITLE: Notary Office
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Renovation experts arrive at your property. Removes all penalties and protects the property.
+  
+    Please select a city.
+  LABEL_CARD_ANARCHY_20_TITLE: Express Renovation
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Cunning as you are, you manage to go unnoticed wherever you go. This allows you to steal a city from a player.
 
@@ -263,7 +268,10 @@ en:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Well-known streamers organize a non-profit campaign in your name, and you receive $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Skip your turn
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Property renovated
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Property built
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ en:
   LABEL_OPTION_AUTOFILL_LOBBY: Autofill lobby with computer
   LABEL_OPTION_BOARD_CENTER_ROTATE: Board middle rotation
   LABEL_OPTION_BRIGHTNESS: Brightness
-  LABEL_OPTION_CAMERA: Camera
+  LABEL_OPTION_CAMERA: Camera movement
   LABEL_OPTION_CAMERA_FIXED: Don't follow player
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Follow player (rotation)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Follow player (translation)
   LABEL_OPTION_CAMERA_INVERTED: Camera inverted
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Camera semi-auto
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Reset camera when idle
   LABEL_OPTION_DISABLE_SURROUNDING: Disable surroundings
   LABEL_OPTION_FX: FX
   LABEL_OPTION_GAMEPAD_VIBRATION: Joystick vibration
@@ -539,6 +547,7 @@ en:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Please select a square with a festival to cancel it.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: End of Festival
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Protection Removed
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Please select the square to disable.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Disable the square
@@ -620,6 +629,9 @@ en:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     It is now possible to buy other players' wonders.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: It changes everything
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    A new real estate protection law has been passed. It is now impossible to buy back hotels from other players.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Inviolable Properties
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     RV living has become a trend, meaning that caravan rents cost as much as rent in a 5-star hotel.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohemian life
@@ -663,7 +675,7 @@ en:
     Criminal activity increases, which lowers the standard of your hotels. All hotels lose one star (minimum caravan).
   LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Oops!
   LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: |
-    Government invests a lot in tourism, all hotels get a bonus star (maximum 5 stars)
+    Government invests a lot in tourism, all hotels get a bonus star (maximum 5-stars)
   LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Urban planning law
   LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: |
     Construction standards are changing, and hotels are no longer worth anything on resale. Only land retains its value.
@@ -795,9 +807,11 @@ en:
   ROOM_READY: Server ready
   ROOM_WAITING_FOR_CONFIGURATION: Waiting for server configuration
   TOOLTIP_BUY_BACK_GRAND_HOTEL: |
-    Cannot buy back a 5 stars hotel
+    Cannot buy back a 5-stars hotel
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Not enough money to buy back
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    A rule has been voted in that prevents buying back hotels.
   TOOLTIP_BUY_BACK_WONDER: |
     Cannot buy back a wonder
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -823,9 +837,12 @@ en:
   TOOLTIP_FESTIVAL_DESCRIPTION: |
     Double the rent
   TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
-    It takes a full lap to build a 4 or 5 star hotel
+    You can't build a 4 or 5-stars hotel on your first lap
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     After %s rounds, the helicopter eliminates only the poorest player under %s.
+    The counter resets only after an elimination.
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    After %s rounds, the helicopter eliminates only the richest player over %s.
     The counter resets only after an elimination.
   TOOLTIP_HUMAN_SLOT: Available slot (human player)
   TOOLTIP_INVALID_LOBBY: |
@@ -869,7 +886,7 @@ en:
 
     Meanwhile, please check that you are connected to the Internet.
   TOOLTIP_PROTECTED_DESCRIPTION: |
-    Cannot be bought out or subject to malus
+    Cannot be bought out or subject to malice
   TOOLTIP_RENT_INCREASE_DESCRIPTION: |
     Your properties' rent +%s per lap
   TOOLTIP_SEARCH_FOR_OPPONENT: |
@@ -882,6 +899,8 @@ en:
   TOOLTIP_STEAM_VAC_BANNED: |
     You've been Steam VAC banned.
     You cannot play with random players.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Hide / Show panel
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     %s times the rent
   TOOL_NEED_STEAM_OVERLAY: |

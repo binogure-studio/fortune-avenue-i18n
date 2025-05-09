@@ -143,6 +143,11 @@ pl:
 
     Proszę wybrać miasto.
   LABEL_CARD_ANARCHY_1_TITLE: Kancelaria Notarialna
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Na twoją posiadłość przybywają eksperci od renowacji. Usuwa wszystkie kary i chroni nieruchomość.
+  
+    Wybierz miasto.
+  LABEL_CARD_ANARCHY_20_TITLE: Ekspresowa Rewitalizacja
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Sprytny jak jesteś, udaje ci się pozostać niezauważonym gdziekolwiek się udasz. Pozwala ci to ukraść miasto jednemu z graczy.
 
@@ -263,7 +268,10 @@ pl:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Znani streamerzy organizują kampanię non-profit w twoim imieniu, otrzymujesz $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Tracisz kolejkę
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Nieruchomość odnowiona
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Wybudowano na nieruchomości
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ pl:
   LABEL_OPTION_AUTOFILL_LOBBY: Wypełnij komputerami
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotacja środka planszy
   LABEL_OPTION_BRIGHTNESS: Jasność
-  LABEL_OPTION_CAMERA: Kamera
+  LABEL_OPTION_CAMERA: Sterowanie kamerą
   LABEL_OPTION_CAMERA_FIXED: Nie śledź gracza
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Śledź gracza (obrót)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Śledź gracza (przesunięcie)
   LABEL_OPTION_CAMERA_INVERTED: Odwrócona kamera
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Półautomatyczna kamera
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Resetuj kamerę w trybie bezczynności
   LABEL_OPTION_DISABLE_SURROUNDING: Wyłącz otoczenie
   LABEL_OPTION_FX: Efekty
   LABEL_OPTION_GAMEPAD_VIBRATION: Wibracje pada
@@ -539,6 +547,7 @@ pl:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Wybierz pole z festiwalem, aby go anulować.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Koniec Festiwalu
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Ochrona usunięta
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Proszę wybrać pole do wyłączenia.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Wyłącz pole
@@ -620,6 +629,9 @@ pl:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Teraz możliwe jest odkupienie cudów od innych graczy.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: To wszystko zmienia
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Uchwalono nową ustawę o ochronie nieruchomości. Odkupienie hoteli od innych graczy jest teraz niemożliwe.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Nienaruszalne Posiadłości
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Życie w przyczepie stało się modne, w rezultacie czynsz za przyczepę kosztuje tyle samo co czynsz w hotelu 5-gwiazdkowym
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Życie bohemy
@@ -798,6 +810,8 @@ pl:
     Nie można odkupić hotelu 5-gwiazdkowego
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Za mało pieniędzy na odkupienie
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Przegłosowano zasadę, która uniemożliwia odkupienie hoteli.
   TOOLTIP_BUY_BACK_WONDER: |
     Nie można odkupić cudu
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ pl:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     Po %s rundach helikopter eliminuje tylko najbiedniejszego gracza poniżej %s.
     Licznik resetuje się tylko po eliminacji
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Nach %s Runden eliminiert der Hubschrauber nur den reichsten Spieler, wenn dieser mehr als %s hat.
+    Der Zähler wird erst nach einer Eliminierung zurückgesetzt.
   TOOLTIP_HUMAN_SLOT: Dostępne miejsce (gracz ludzki)
   TOOLTIP_INVALID_LOBBY: |
     Nie można rozpocząć gry z jednym graczem.
@@ -882,6 +899,8 @@ pl:
   TOOLTIP_STEAM_VAC_BANNED: |
     Zostałeś zbanowany przez Steam VAC.
     Nie możesz grać z losowymi graczami.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Ukryj / Pokaż panel
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     %s-krotność czynszu
   TOOL_NEED_STEAM_OVERLAY: |

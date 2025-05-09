@@ -143,6 +143,11 @@ ru:
 
     Пожалуйста, выберите город.
   LABEL_CARD_ANARCHY_1_TITLE: Нотариальная контора
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    На вашу собственность прибывают эксперты по реконструкции. Удаляет все штрафы и защищает собственность.
+  
+    Пожалуйста, выберите город.
+  LABEL_CARD_ANARCHY_20_TITLE: Экспресс-реконструкция
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Ловкий как вы есть, вам удается оставаться незамеченным где бы вы ни были. Это позволяет вам украсть город у игрока.
 
@@ -263,7 +268,10 @@ ru:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Известные стримеры организуют некоммерческую кампанию от вашего имени, и вы получаете $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Пропустить ход
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Собственность отремонтирована
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Недвижимость построена
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ ru:
   LABEL_OPTION_AUTOFILL_LOBBY: Автозаполнение вестибюля с помощью компьютера
   LABEL_OPTION_BOARD_CENTER_ROTATE: Вращение в середине сетки
   LABEL_OPTION_BRIGHTNESS: Яркость
-  LABEL_OPTION_CAMERA: Камера
+  LABEL_OPTION_CAMERA: Управление камерой
   LABEL_OPTION_CAMERA_FIXED: Не следовать за игроком
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Следовать за игроком (вращение)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Следовать за игроком (перемещение)
   LABEL_OPTION_CAMERA_INVERTED: Инвертировать камеру
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Полуавтоматическая камера
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Автосброс камеры при бездействии
   LABEL_OPTION_DISABLE_SURROUNDING: Отключить окружение
   LABEL_OPTION_FX: Эффекты
   LABEL_OPTION_GAMEPAD_VIBRATION: Вибрация геймпада
@@ -539,6 +547,7 @@ ru:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Пожалуйста, выберите клетку с фестивалем, чтобы отменить его.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Конец Фестиваля
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Защита снята
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Пожалуйста, выберите клетку для отключения.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Отключить клетку
@@ -620,6 +629,9 @@ ru:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Теперь возможно выкупать чудеса других игроков.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Всё меняется
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Принят новый закон о защите недвижимости. Теперь невозможно выкупить отели у других игроков.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Неприкосновенная Собственность
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Жизнь в автодомах стала трендом, и аренда автодомов теперь стоит столько же, сколько аренда в 5-звездочном отеле.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Богемная жизнь
@@ -798,6 +810,8 @@ ru:
     Невозможно выкупить 5-звездочный отель
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Недостаточно денег для выкупа
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Было принято правило, запрещающее выкуп отелей.
   TOOLTIP_BUY_BACK_WONDER: |
     Невозможно выкупить чудо
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ ru:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     После %s раундов вертолет уничтожает только самого бедного игрока, у которого меньше %s.
     Счетчик сбрасывается только после устранения.
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    После %s раундов вертолёт устраняет только самого богатого игрока, если у него больше %s.
+    Счётчик сбрасывается только после устранения игрока.
   TOOLTIP_HUMAN_SLOT: Доступный слот (игрок)
   TOOLTIP_INVALID_LOBBY: |
     Невозможно начать игру с одним игроком.
@@ -882,6 +899,8 @@ ru:
   TOOLTIP_STEAM_VAC_BANNED: |
     Вы забанены в Steam VAC.
     Вы не можете играть с случайными игроками.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Скрыть / Показать панель
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     Аренда в %s раз выше
   TOOL_NEED_STEAM_OVERLAY: |

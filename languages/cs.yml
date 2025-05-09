@@ -143,6 +143,11 @@ cs:
 
     Vyberte prosím město.
   LABEL_CARD_ANARCHY_1_TITLE: Notářská kancelář
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Na váš majetek dorazí renovační experti. Odstraní všechny postihy a nemovitost ochrání.
+  
+    Vyberte město.
+  LABEL_CARD_ANARCHY_20_TITLE: Expresní Renovace
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Jste tak lstiví, že se vám daří zůstat nepozorovaní, kamkoli jdete. To vám umožňuje ukrást město jinému hráči.
 
@@ -263,7 +268,10 @@ cs:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Známí streameři organizují neziskovou kampaň vaším jménem a vy dostáváte $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Vynechej tah
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Nemovitost renovována
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Stavba na nemovitosti
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ cs:
   LABEL_OPTION_AUTOFILL_LOBBY: Automaticky doplnit počítačové hráče
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotace středu desky
   LABEL_OPTION_BRIGHTNESS: Jas
-  LABEL_OPTION_CAMERA: Kamera
+  LABEL_OPTION_CAMERA: Ovládání kamery
   LABEL_OPTION_CAMERA_FIXED: Nesledovat hráče
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Sledovat hráče (rotace)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Sledovat hráče (posun)
   LABEL_OPTION_CAMERA_INVERTED: Invertovaná kamera
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Poloautomatická kamera
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Obnovit kameru při nečinnosti
   LABEL_OPTION_DISABLE_SURROUNDING: Vypnout okolí
   LABEL_OPTION_FX: Zvukové efekty
   LABEL_OPTION_GAMEPAD_VIBRATION: Vibración del mando
@@ -539,6 +547,7 @@ cs:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Vyberte pole s festivalem pro jeho zrušení.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Konec Festivalu
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Ochrana zrušena
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Vyberte pole, které chcete deaktivovat.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Deaktivovat pole
@@ -620,6 +629,9 @@ cs:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Nyní je možné odkoupit divy světa od ostatních hráčů.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: To mění vše
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Byl přijat nový zákon o ochraně nemovitostí. Nyní je nemožné odkoupit hotely jiných hráčů.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Nedotknutelné Nemovitosti
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Život v karavanu se stal trendem, což znamená, že  nájmy karavanů stojí stejně jako nájem v 5hvězdičkovém hotelu.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohémský život
@@ -798,6 +810,8 @@ cs:
     Nelze odkoupit 5hvězdičkový hotel
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Nedostatek peněz na odkoupení
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Bylo odhlasováno pravidlo, které zakazuje odkup hotelů.
   TOOLTIP_BUY_BACK_WONDER: |
     Nelze odkoupit div světa
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ cs:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     Po %s kolech helikoptéra eliminuje pouze nejchudšího hráče pod %s.
     Počítadlo se resetuje pouze po eliminaci.
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Po %s kolech vrtulník eliminuje pouze nejbohatšího hráče, pokud má více než %s.
+    Počítadlo se resetuje až po eliminaci.
   TOOLTIP_HUMAN_SLOT: Dostupné místo (lidský hráč)
   TOOLTIP_INVALID_LOBBY: |
     Není možné spustit hru s jediným hráčem.
@@ -882,6 +899,8 @@ cs:
   TOOLTIP_STEAM_VAC_BANNED: |
     Byli jste VAC zabanováni na Steamu.
     Nemůžete hrát s náhodnými hráči.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Skrýt / Zobrazit panel
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     %skrát vyšší nájem
   TOOL_NEED_STEAM_OVERLAY: |

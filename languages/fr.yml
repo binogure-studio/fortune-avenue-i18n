@@ -143,6 +143,11 @@ fr:
 
     Veuillez sélectionner une ville.
   LABEL_CARD_ANARCHY_1_TITLE: Office notarié
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Des experts en rénovation débarquent sur votre propriété. Supprime tous les malus et protège la propriété.
+    
+    Veuillez sélectionner une ville.
+  LABEL_CARD_ANARCHY_20_TITLE: Réhabilitation Express
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Fourbe comme vous êtes, vous parvenez à passer inaperçu où que vous alliez. Cela vous permet de voler une ville à un joueur.
 
@@ -263,7 +268,10 @@ fr:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Des streamers connus organisent une campagne à but non-lucratif en votre nom, vous percevez $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Passez votre tour
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Propriété rénovée
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Construit sur la propriété
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ fr:
   LABEL_OPTION_AUTOFILL_LOBBY: Remplir avec des joueurs ordinateurs
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotation du centre du plateau
   LABEL_OPTION_BRIGHTNESS: Luminosité
-  LABEL_OPTION_CAMERA: Caméra
+  LABEL_OPTION_CAMERA: Contrôle de la caméra
   LABEL_OPTION_CAMERA_FIXED: Ne pas suivre les joueurs
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Suivre les joueurs (rotation)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Suivre les joueurs (translation)
   LABEL_OPTION_CAMERA_INVERTED: Caméra inversée
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Caméra semi-automatique
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Recentrer la caméra automatiquement
   LABEL_OPTION_DISABLE_SURROUNDING: Désactiver l'environnement
   LABEL_OPTION_FX: Effets audio
   LABEL_OPTION_GAMEPAD_VIBRATION: Vibration de la manette
@@ -539,6 +547,7 @@ fr:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Veuillez sélectionner une case avec un festival pour l'annuler.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Fin du Festival
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Protection enlevée
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Veuillez sélectionner la case à désactiver.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Désactiver la case
@@ -620,8 +629,11 @@ fr:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Dorénavant il est possible de racheter les merveilles des autres joueurs.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Ça change tout
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Une nouvelle loi sur la protection des biens immobiliers a été adoptée. Il est désormais impossible de racheter les hôtels des autres joueurs.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Propriétés Inviolables
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
-    Vivre dans les caravanes est devenu tendance, en conséquence.  les loyers des caravanes coûtent autant qu'un loyer dans un hôtel 5 étoiles
+    Vivre dans les caravanes est devenu tendance, en conséquence. Les loyers des caravanes coûtent autant qu'un loyer dans un hôtel 5 étoiles
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: La vie de bohème
   LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
     Les enjeux ont doublé car les primes pour l'élimination des autres joueurs valent maintenant deux fois plus.
@@ -798,6 +810,8 @@ fr:
     Il n'est pas possible de racheter un hôtel 5 étoiles
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Pas suffisamment d'argent pour pouvoir racheter
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Une règle a été votée qui empêche le rachat des hôtels.
   TOOLTIP_BUY_BACK_WONDER: |
     Il n'est pas possible de racheter une merveille
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -826,6 +840,9 @@ fr:
     Il faut avoir fait un tour complet pour pouvoir construire un hôtel 4 ou 5 étoiles
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     Après %s tours, l'hélicoptère élimine uniquement le plus pauvre des joueurs s'il a moins de %s.
+    Le compteur se réinitialise uniquement après une élimination
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Après %s tours, l'hélicoptère élimine uniquement le plus riche des joueurs s'il a plus de %s.
     Le compteur se réinitialise uniquement après une élimination
   TOOLTIP_HUMAN_SLOT: Emplacement ouvert (joueur humain)
   TOOLTIP_INVALID_LOBBY: |
@@ -882,6 +899,8 @@ fr:
   TOOLTIP_STEAM_VAC_BANNED: |
     Vous avez été banni par Steam VAC.
     Vous ne pouvez pas jouer avec des inconnus.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Cacher / Montrer le panneau
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     Multiplie le loyer par %s
   TOOL_NEED_STEAM_OVERLAY: |

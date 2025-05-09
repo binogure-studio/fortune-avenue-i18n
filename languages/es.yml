@@ -143,6 +143,11 @@ es:
 
     Por favor, selecciona una ciudad.
   LABEL_CARD_ANARCHY_1_TITLE: Oficina del notario
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Un equipo de expertos en renovación llega a tu propiedad. Elimina todas las penalizaciones y protege la propiedad.
+  
+    Por favor, selecciona una ciudad.
+  LABEL_CARD_ANARCHY_20_TITLE: Rehabilitación Exprés
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Astuto como eres, logras pasar desapercibido dondequiera que vayas. Esto te permite robar una ciudad a un jugador.
 
@@ -263,7 +268,10 @@ es:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Streamers famosos organizan una campaña sin fines de lucro en tu nombre, recibes $%s.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Pierde tu turno
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Propiedad renovada
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Construye en la propiedad
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ es:
   LABEL_OPTION_AUTOFILL_LOBBY: Llenar con jugadores computadora
   LABEL_OPTION_BOARD_CENTER_ROTATE: Rotación del centro del tablero
   LABEL_OPTION_BRIGHTNESS: Brillo
-  LABEL_OPTION_CAMERA: Cámara
+  LABEL_OPTION_CAMERA: Control de cámara
   LABEL_OPTION_CAMERA_FIXED: No seguir al jugador
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Seguir al jugador (rotación)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Seguir al jugador (traslación)
   LABEL_OPTION_CAMERA_INVERTED: Cámara invertida
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Cámara semi-automática
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Restablecer cámara en reposo
   LABEL_OPTION_DISABLE_SURROUNDING: Desactivar entorno
   LABEL_OPTION_FX: Efectos de sonido
   LABEL_OPTION_GAMEPAD_VIBRATION: Vibración del mando
@@ -539,6 +547,7 @@ es:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     Por favor, selecciona una casilla con festival para cancelarlo.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Fin del Festival
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Protección eliminada
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Por favor, selecciona la casilla para desactivar.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Desactivar la casilla
@@ -620,6 +629,9 @@ es:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Ahora es posible comprar las maravillas de otros jugadores.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Todo cambia
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Se ha aprobado una nueva ley de protección inmobiliaria. Ahora es imposible recomprar hoteles de otros jugadores.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Propiedades Inviolables
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Vivir en caravanas se ha puesto de moda, en consecuencia, los alquileres de caravanas cuestan tanto como un alquiler en un hotel 5 estrellas.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: La vida bohemia
@@ -798,6 +810,8 @@ es:
     No es posible recomprar un hotel de 5 estrellas
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     No hay suficiente dinero para poder recomprar
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Se ha votado una regla que impide la recompra de hoteles.
   TOOLTIP_BUY_BACK_WONDER: |
     No es posible recomprar una maravilla
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ es:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     Después de %s turnos, el helicóptero elimina solo al jugador más pobre si tiene menos de %s.
     El contador se reinicia solo después de una eliminación
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Después de %s rondas, el helicóptero elimina solo al jugador más rico que tenga más de %s.
+    El contador se reinicia únicamente después de una eliminación.
   TOOLTIP_HUMAN_SLOT: Espacio disponible (jugador humano)
   TOOLTIP_INVALID_LOBBY: |
     Es imposible iniciar una partida con un solo jugador.
@@ -882,6 +899,8 @@ es:
   TOOLTIP_STEAM_VAC_BANNED: |
     Has sido baneado por Steam VAC.
     No puedes jugar con jugadores aleatorios.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Ocultar / Mostrar panel
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     %s veces la renta
   TOOL_NEED_STEAM_OVERLAY: |

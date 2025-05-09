@@ -143,6 +143,11 @@ tr:
 
     Lütfen bir şehir seçin.
   LABEL_CARD_ANARCHY_1_TITLE: Noter Ofisi
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Yenileme uzmanları mülkünüze geliyor. Tüm cezaları kaldırır ve mülkü korur.
+  
+    Lütfen bir şehir seçin.
+  LABEL_CARD_ANARCHY_20_TITLE: Ekspres Yenileme
   LABEL_CARD_ANARCHY_2_DESCRIPTION: |
     Kurnazlığınız sayesinde, gittiğiniz her yerde fark edilmeden dolaşabiliyorsunuz. Bu size bir oyuncudan şehir çalma imkanı veriyor.
 
@@ -263,7 +268,10 @@ tr:
   LABEL_CARD_RANDOM_9_DESCRIPTION: |
     Ünlü yayıncılar sizin adınıza kar amacı gütmeyen bir kampanya düzenliyor, $%s kazanıyorsunuz.
   LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Sıranı geç
   LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Mülk yenilendi
   LABEL_CASE_ACTION_BUILD_PROPERTY: |
     Mülkte inşaat yapıldı
   LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
@@ -503,12 +511,12 @@ tr:
   LABEL_OPTION_AUTOFILL_LOBBY: Bilgisayarla doldur
   LABEL_OPTION_BOARD_CENTER_ROTATE: Tahta merkezi dönüşü
   LABEL_OPTION_BRIGHTNESS: Parlaklık
-  LABEL_OPTION_CAMERA: Kamera
+  LABEL_OPTION_CAMERA: Kamera kontrolü
   LABEL_OPTION_CAMERA_FIXED: Oyuncuları takip etme
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Oyuncuları takip et (dönüş)
   LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Oyuncuları takip et (hareket)
   LABEL_OPTION_CAMERA_INVERTED: Kamera ters
-  LABEL_OPTION_CAMERA_SEMI_AUTO: Yarı otomatik kamera
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Hareketsizken kamerayı sıfırla
   LABEL_OPTION_DISABLE_SURROUNDING: Çevreyi devre dışı bırak
   LABEL_OPTION_FX: Efektler
   LABEL_OPTION_GAMEPAD_VIBRATION: Gamepad titreşimi
@@ -539,6 +547,7 @@ tr:
   LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
     İptal etmek için festival olan bir kare seçin.
   LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Festival Sonu
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Koruma kaldırıldı
   LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
     Lütfen devre dışı bırakmak istediğiniz kareyi seçin.
   LABEL_PLAYER_DISABLE_CASE_TITLE: Kareyi Devre Dışı Bırak
@@ -620,6 +629,9 @@ tr:
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     Artık diğer oyuncuların harikalarını satın almak mümkün.
   LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Her şey değişiyor
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    Yeni bir emlak koruma yasası çıkarıldı. Artık diğer oyunculardan otel satın almak imkansız.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Dokunulmaz Mülkler
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
     Karavan yaşamı trend oldu, sonuç olarak karavan kiraları 5 yıldızlı otel kirası kadar tutuyor
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohem Yaşam
@@ -798,6 +810,8 @@ tr:
     5 yıldızlı oteli geri satın almak mümkün değil
   TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
     Geri satın almak için yeterli para yok
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    Otellerin geri alınmasını engelleyen bir kural oylandı.
   TOOLTIP_BUY_BACK_WONDER: |
     Bir harikayı geri satın almak mümkün değil
   TOOLTIP_CARD_DOUBLE_RENT: |
@@ -827,6 +841,9 @@ tr:
   TOOLTIP_HELICOPTER_DESCRIPTION: |
     %s tur sonra, helikopter sadece %s'den az parası olan en fakir oyuncuyu eler.
     Sayaç sadece bir eleme sonrasında sıfırlanır
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    %s tur sonra, helikopter sadece %s'den fazla serveti olan en zengin oyuncuyu elemektedir.
+    Sayaç yalnızca bir eleme gerçekleştikten sonra sıfırlanır.
   TOOLTIP_HUMAN_SLOT: Açık slot (insan oyuncu)
   TOOLTIP_INVALID_LOBBY: |
     Tek oyuncuyla oyun başlatmak imkansız.
@@ -882,6 +899,8 @@ tr:
   TOOLTIP_STEAM_VAC_BANNED: |
     Steam VAC tarafından yasaklandınız.
     Rastgele oyuncularla oynayamazsınız.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Paneli Gizle / Göster
   TOOLTIP_WORLDCUP_DESCRIPTION: |
     Kira %s katına çıkar
   TOOL_NEED_STEAM_OVERLAY: |
