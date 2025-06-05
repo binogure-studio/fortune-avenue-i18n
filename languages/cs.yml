@@ -855,6 +855,8 @@ cs:
     pokud je přítomen počítačový hráč
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     Pro spuštění hry jsou potřeba alespoň 2 hráči
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    Týmy nejsou vyvážené!
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
     Hráč, který nejvíckrát letěl letadlem
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |

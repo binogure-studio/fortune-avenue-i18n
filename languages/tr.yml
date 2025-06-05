@@ -855,6 +855,8 @@ tr:
     rakip araması devre dışı
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     Oyun başlatmak için en az 2 oyuncu gerekli
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    Takımlar dengeli değil!
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
     En çok uçak yolculuğu yapan oyuncu
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |

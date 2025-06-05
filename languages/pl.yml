@@ -855,6 +855,8 @@ pl:
     wyłączone gdy obecny jest gracz komputerowy.
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     Do rozpoczęcia gry potrzeba co najmniej 2 graczy
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    Drużyny nie są zbalansowane!
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
     Gracz, który odbył najwięcej lotów
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |

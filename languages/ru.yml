@@ -855,6 +855,8 @@ ru:
     если присутствует компьютерный игрок.
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     Для начала игры требуется как минимум 2 игрока.
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    Команды не сбалансированы!
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
     Игрок, чаще всего летавший на самолёте
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |

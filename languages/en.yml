@@ -855,6 +855,8 @@ en:
     if a computer player is present.
   TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
     At least 2 players are required to start a game.
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    The teams are not balanced!
   TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
     The player who took the most flights
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |
