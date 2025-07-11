@@ -361,7 +361,7 @@ en:
 
     To escape you can try [b]to make a double[/b]. Or you can choose to pay [b]$%s[/b], and you get out right now.
 
-    If you have an [b]Escape from the ice pack[/b] card, now is the time to play it.
+    If you have an [b]Escape from the ice floe[/b] card, now is the time to play it.
   LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
     You've been here too long, you can't wait any longer.
     You decide to pay [b]$%s[/b] to get out of this icy hell.
@@ -426,7 +426,7 @@ en:
   LABEL_LOADING_28: Preparing your path to virtual bankruptcy
   LABEL_LOADING_29: Loading expensive properties you can't afford
   LABEL_LOADING_3: Teaching helicopters to chase poor people
-  LABEL_LOADING_30: Teaching caravans to transform into 5-star hotels
+  LABEL_LOADING_30: Teaching caravans to transform into 5-stars hotels
   LABEL_LOADING_31: Preparing financial disasters
   LABEL_LOADING_32: Loading virtual real estate bubble
   LABEL_LOADING_33: Making sure the bank always wins
@@ -562,7 +562,7 @@ en:
   LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
     Please select the wonder you want to put back on the market.
   LABEL_PLAYER_FREE_WONDER_TITLE: Release a wonder
-  LABEL_PLAYER_ICEPACKED: You're stuck on an ice pack
+  LABEL_PLAYER_ICEPACKED: You're stuck on an ice floe
   LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: A luxury cruise!
   LABEL_PLAYER_LOST: Lost
   LABEL_PLAYER_MONOPOLY: Monopoly
@@ -621,10 +621,10 @@ en:
     Free GPS for everyone! You can make as many doubles as you like!
   LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Place your bets
   LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: |
-    Thanks to an exemption, 5-star hotels can be built as early as the first lap.
+    Thanks to an exemption, 5-stars hotels can be built as early as the first lap.
   LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Fast going
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
-    It is now possible to buy out other players' 5-star hotels.
+    It is now possible to buy out other players' 5-stars hotels.
   LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: It changes everything
   LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
     It is now possible to buy other players' wonders.
@@ -633,7 +633,7 @@ en:
     A new real estate protection law has been passed. It is now impossible to buy back hotels from other players.
   LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Inviolable Properties
   LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
-    RV living has become a trend, meaning that caravan rents cost as much as rent in a 5-star hotel.
+    RV living has become a trend, meaning that caravan rents cost as much as rent in a 5-stars hotel.
   LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohemian life
   LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
     The stakes have doubled as bounty rewards for eliminating other players are now worth twice as much.
@@ -654,7 +654,7 @@ en:
     An eccentric billionaire is feeling unusually generous today, granting every player one free 3-star hotel.
   LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotel Lottery Bonanza
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
-    Labour unrest breaks out, and all 5-star hotels are put back on the line.
+    Labour unrest breaks out, and all 5-stars hotels are put back on the line.
   LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: Oh No!
   LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
     Government provides humanitarian aid without distinction. All players receive $100,000
@@ -681,7 +681,7 @@ en:
     Construction standards are changing, and hotels are no longer worth anything on resale. Only land retains its value.
   LABEL_RULESET_HOTEL_WORTHLESS_TITLE: A new standard
   LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
-    As the ice pack melted, investors saw enormous potential. A luxury cruise replaces the ice pack, and it's going to cost an arm and a leg.
+    As the ice floe melted, investors saw enormous potential. A luxury cruise replaces the ice floe, and it's going to cost an arm and a leg.
   LABEL_RULESET_ICEPACK_MELT_TITLE: 50 years of inaction
   LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
     Economic chaos has struck the market as the rent increase per lap is now doubled.
@@ -862,7 +862,7 @@ en:
   TOOLTIP_KIKIMETER_MOST_DOUBLE: |
     The player who rolled the most doubles
   TOOLTIP_KIKIMETER_MOST_ICEPACK: |
-    The player who spent the most time on the ice pack
+    The player who spent the most time on the ice floe
   TOOLTIP_KIKIMETER_MOST_KILLER: |
     The player who eliminated the most opponents
   TOOLTIP_KIKIMETER_MOST_LAP: |
