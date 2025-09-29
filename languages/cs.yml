@@ -1,4 +1,5 @@
 cs:
+  BUTTON_RESET_TO_DEFAULT: Obnovit výchozí
   BUTTON_APPLY: Použít
   BUTTON_AUTOMATIC_SELL: Automatický prodej
   BUTTON_BANKRUPT: Bankrot
@@ -907,3 +908,105 @@ cs:
     %skrát vyšší nájem
   TOOL_NEED_STEAM_OVERLAY: |
     Pro použití této funkce je vyžadován Steam overlay
+
+  LABEL_ACTION_HISTORY_BANK: Banka
+  LABEL_ACTION_HISTORY_CARAVAN: Karavan
+  LABEL_ACTION_HISTORY_WONDER: Zázrak
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] zaplatil [b]{amount}$[/b] hráči [b]{owner_name}[/b] za nájem z [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] zaplatil [b]{amount}$[/b] za postavení [b]{building}[/b] na [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] zaplatil [b]{amount}$[/b] za koupi [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] koupil [b]{case_name}[/b] od [b]{owner_name}[/b] za [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] zaplatil [b]{amount}$[/b] na daních.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] koupil letenku za [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] právě obdržel [b]{amount}$[/b] od banky.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] právě zaplatil [b]{amount}$[/b] bance.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] právě zahrál kartu [b]{card_name}[/b].
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] právě začal svůj tah.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] ukončil svůj tah.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] změnil své zdanění na [b]{tax_mod}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]Vrtulník[/b] začal pronásledovat [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]Vrtulník[/b] právě vyřadil [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] právě zbankrotoval.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    Začalo hlasování.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    Nové pravidlo bylo přijato: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] je ztracen na ledové kře.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] nasedá do letadla.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] pokračuje ve hře normálně.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] organizuje mistrovství světa v [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] ruší mistrovství světa.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] chrání [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] ničí [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] ruší nájem z [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] obnovuje nájem z [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] organizuje festival v [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] ruší festival v [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    Hra skončila.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] právě vylepšil hotel v [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] právě snížil kvalitu hotelu v [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] právě získal [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] právě prodal [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] právě postavil na [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] právě osvobodil [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] právě odstranil ochranu z [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] právě získal [b]{amount}$[/b] prodejem nemovitostí.
+  LABEL_SURROUNDING_CLASSIC: Klasické
+  LABEL_SURROUNDING_AUTOMN: Podzim
+  LABEL_SURROUNDING_SUMMER: Léto
+  LABEL_SURROUNDING_WINTER: Zima
+  LABEL_SURROUNDING_EASTER: Velikonoce
+  LABEL_BOARD_SURROUNDING: Téma desky
+  LABEL_CUSTOM_RULESET_TITLE: Vlastní pravidla
+  LABEL_CUSTOM_RULESET_ECONOMY: Ekonomika
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Počáteční peníze
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Plat za kolo
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Inflace za kolo
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Odměna za eliminaci
+  LABEL_CUSTOM_RULESET_GAME_RULES: Herní pravidla
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Dvojky před ledovou krou
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Max tahů na ledové kře
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: Stavět hotely první kolo
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Doprava
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Cena letenky
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Cena luxusní plavby
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Zpětný odkup nemovitostí
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Zpětný odkup hotelů
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Zpětný odkup divů světa
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Zpětný odkup 5* hotelů
+  LABEL_PAUSE_GAME: Pozastavit hru

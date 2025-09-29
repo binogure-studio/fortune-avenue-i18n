@@ -1,4 +1,5 @@
 zh:
+  BUTTON_RESET_TO_DEFAULT: 重置为默认
   BUTTON_APPLY: 应用
   BUTTON_AUTOMATIC_SELL: 自动出售
   BUTTON_BANKRUPT: 破产
@@ -907,3 +908,105 @@ zh:
     租金的%s倍
   TOOL_NEED_STEAM_OVERLAY: |
     此功能需要启用Steam覆盖层
+
+  LABEL_ACTION_HISTORY_BANK: 银行
+  LABEL_ACTION_HISTORY_CARAVAN: 房车
+  LABEL_ACTION_HISTORY_WONDER: 奇迹
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] 向 [b]{owner_name}[/b] 支付了 [b]{amount}$[/b] 作为 [b]{case_name}[/b] 的租金。
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] 支付了 [b]{amount}$[/b] 在 [b]{case_name}[/b] 上建造 [b]{building}[/b]。
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] 支付了 [b]{amount}$[/b] 购买 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] 从 [b]{owner_name}[/b] 手中以 [b]{amount}$[/b] 购买了 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] 支付了 [b]{amount}$[/b] 的税款。
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] 花费 [b]{amount}$[/b] 购买了机票。
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] 刚从银行获得了 [b]{amount}$[/b]。
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] 刚向银行支付了 [b]{amount}$[/b]。
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] 刚使用了卡牌 [b]{card_name}[/b]。
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] 刚开始了回合。
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] 结束了回合。
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] 将税收模式改为 [b]{tax_mod}[/b]。
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]直升机[/b] 开始追逐 [b]{player_name}[/b]。
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]直升机[/b] 刚淘汰了 [b]{player_name}[/b]。
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] 刚破产了。
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    投票开始了。
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    新规则已通过：[b]{rule_name}[/b]。
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] 在冰山上迷路了。
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] 乘坐飞机。
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] 正常继续游戏。
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] 在 [b]{case_name}[/b] 举办世界杯。
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] 取消了世界杯。
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] 保护了 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] 摧毁了 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] 取消了 [b]{case_name}[/b] 的租金。
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] 重新启用了 [b]{case_name}[/b] 的租金。
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] 在 [b]{case_name}[/b] 举办节日。
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] 取消了 [b]{case_name}[/b] 的节日。
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    游戏结束。
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] 刚升级了 [b]{case_name}[/b] 的酒店。
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] 刚降级了 [b]{case_name}[/b] 的酒店。
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] 刚获得了 [b]{case_name}[/b]。s
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] 刚出售了 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] 刚在 [b]{case_name}[/b] 建造了建筑。
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] 刚释放了 [b]{case_name}[/b]。
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] 刚取消了 [b]{case_name}[/b] 的保护。
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] 刚通过出售房产获得了 [b]{amount}$[/b]。
+  LABEL_SURROUNDING_CLASSIC: 经典
+  LABEL_SURROUNDING_AUTOMN: 秋季
+  LABEL_SURROUNDING_SUMMER: 夏季
+  LABEL_SURROUNDING_WINTER: 冬季
+  LABEL_SURROUNDING_EASTER: 复活节
+  LABEL_BOARD_SURROUNDING: 棋盘主题
+  LABEL_CUSTOM_RULESET_TITLE: 自定义规则
+  LABEL_CUSTOM_RULESET_ECONOMY: 经济
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: 起始资金
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: 每圈薪水
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: 每圈通胀
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: 淘汰奖励
+  LABEL_CUSTOM_RULESET_GAME_RULES: 游戏规则
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: 冰山前双数
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: 冰山最大回合
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: 首圈建造酒店
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: 交通
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: 机票价格
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: 豪华邮轮价格
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: 房产回购
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: 回购酒店
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: 回购奇迹
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: 回购五星酒店
+  LABEL_PAUSE_GAME: 暂停游戏

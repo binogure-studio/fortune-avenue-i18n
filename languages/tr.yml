@@ -1,4 +1,5 @@
 tr:
+  BUTTON_RESET_TO_DEFAULT: Varsayılana sıfırla
   BUTTON_APPLY: Uygula
   BUTTON_AUTOMATIC_SELL: Otomatik sat
   BUTTON_BANKRUPT: İflas
@@ -907,3 +908,105 @@ tr:
     Kira %s katına çıkar
   TOOL_NEED_STEAM_OVERLAY: |
     Bu özelliği kullanmak için Steam overlay'in etkin olması gerekiyor
+
+  LABEL_ACTION_HISTORY_BANK: Banka
+  LABEL_ACTION_HISTORY_CARAVAN: Karavan
+  LABEL_ACTION_HISTORY_WONDER: Mucize
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b], [b]{case_name}[/b] için [b]{owner_name}[/b]'e [b]{amount}$[/b] kira ödedi.
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b], [b]{case_name}[/b] üzerine [b]{building}[/b] inşa etmek için [b]{amount}$[/b] ödedi.
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i satın almak için [b]{amount}$[/b] ödedi.
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i [b]{owner_name}[/b]'den [b]{amount}$[/b] karşılığında satın aldı.
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b], [b]{amount}$[/b] vergi ödedi.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b], [b]{amount}$[/b] karşılığında uçak bileti aldı.
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] bankadan [b]{amount}$[/b] aldı.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] bankaya [b]{amount}$[/b] ödedi.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b], [b]{card_name}[/b] kartını oynadı.
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] sırasını başlattı.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] sırasını bitirdi.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] vergilendirmesini [b]{tax_mod}[/b] olarak değiştirdi.
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]Helikopter[/b], [b]{player_name}[/b]'i kovalamaya başladı.
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]Helikopter[/b], [b]{player_name}[/b]'i eledi.
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] iflas etti.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    Oylama başladı.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    Yeni kural kabul edildi: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] buz kütlesinde kayboldu.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] uçağa biniyor.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] oyuna normal şekilde devam ediyor.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'de Dünya Kupası düzenliyor.
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] Dünya Kupasını iptal ediyor.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i koruyor.
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i yok ediyor.
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'in kirasını iptal ediyor.
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'in kirasını yeniden etkinleştiriyor.
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'de festival düzenliyor.
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'deki festivali iptal ediyor.
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    Oyun bitti.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'deki oteli geliştirdi.
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'deki otelin kalitesini düşürdü.
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i elde etti.
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i sattı.
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b], [b]{case_name}[/b] üzerinde inşaat yaptı.
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'i serbest bıraktı.
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b], [b]{case_name}[/b]'in korumasını kaldırdı.
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] mülkleri satarak [b]{amount}$[/b] kazandı.
+  LABEL_SURROUNDING_CLASSIC: Klasik
+  LABEL_SURROUNDING_AUTOMN: Sonbahar
+  LABEL_SURROUNDING_SUMMER: Yaz
+  LABEL_SURROUNDING_WINTER: Kış
+  LABEL_SURROUNDING_EASTER: Paskalya
+  LABEL_BOARD_SURROUNDING: Tahta teması
+  LABEL_CUSTOM_RULESET_TITLE: Özel kurallar
+  LABEL_CUSTOM_RULESET_ECONOMY: Ekonomi
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Başlangıç parası
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Tur başına maaş
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Tur başına enflasyon
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Eleme ödülü
+  LABEL_CUSTOM_RULESET_GAME_RULES: Oyun kuralları
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Buz kütlesi öncesi çift
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Buz kütlesinde max tur
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: İlk turda otel inşa et
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Ulaşım
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Uçak bileti fiyatı
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Lüks gemi turu fiyatı
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Mülk geri alımı
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Otelleri geri al
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Harikaları geri al
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: 5 yıldızlı otelleri geri al
+  LABEL_PAUSE_GAME: Oyunu Duraklat

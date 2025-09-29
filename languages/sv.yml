@@ -1,0 +1,1012 @@
+sv:
+  BUTTON_RESET_TO_DEFAULT: Återställ till standard
+  BUTTON_APPLY: Tillämpa
+  BUTTON_AUTOMATIC_SELL: Automatisk försäljning
+  BUTTON_BANKRUPT: Konkurs
+  BUTTON_BUY: Köp
+  BUTTON_BUY_BACK: Köp tillbaka
+  BUTTON_CANCEL: Avbryt
+  BUTTON_CLASSIC: Klassiska regler
+  BUTTON_CLOSE: Stäng
+  BUTTON_CREATE_GAME: Skapa lobby
+  BUTTON_FEEDBACK: Feedback
+  BUTTON_GIVE_UP: Ge upp
+  BUTTON_INVITE: Bjud in
+  BUTTON_JOIN: Gå med
+  BUTTON_JOIN_GAME: Gå med i lobby
+  BUTTON_KEEP_WATCHING: Fortsätt titta
+  BUTTON_LANGUAGE: Språk
+  BUTTON_LAN_TYPE: Lokalt spel
+  BUTTON_LEAVE_GAME_CANCEL: Nej, jag vill stanna
+  BUTTON_LEAVE_GAME_CONFIRM: Ja, jag vill lämna
+  BUTTON_LOOK_FOR_PLAYER: Sök motståndare
+  BUTTON_MAIN_MENU: Huvudmeny
+  BUTTON_OK: Ok
+  BUTTON_ONLINE_TYPE: Onlinespel
+  BUTTON_OPTIONS: Alternativ
+  BUTTON_ORIGINAL: Originalregler
+  BUTTON_PAY: Betala
+  BUTTON_PAY_TICKET: Köp biljett
+  BUTTON_PLAY_AGAIN: Spela igen
+  BUTTON_PLAY_CARD: Spela kort
+  BUTTON_QUIT: Avsluta
+  BUTTON_READY: Redo!
+  BUTTON_REFRESH: Uppdatera
+  BUTTON_REFUSE_TICKET: Vägra
+  BUTTON_RESET_WORLDCUP: Avbryt VM
+  BUTTON_SELL: Sälj
+  BUTTON_SET_WORLD_CUP: Organisera VM
+  BUTTON_SPLIT_SCREEN_TYPE: Delad skärm
+  BUTTON_START_PLAYING: Spela!
+  BUTTON_THROW_DICES: Kasta tärningarna
+  BUTTON_USE_CARD: Använd kort
+  BUTTON_WISHLIST: Lägg till i önskelista
+  CREATING_LOBBY: Skapar lobby
+  GAME_COMPLETE: Spelet slutfört
+  GAME_RECONNECTED: Återansluten till spelet
+  GAME_RECONNECTING: Återansluter till spelet
+  IN_GAME: I spelet
+  JOINNING_LOBBY: Går med i lobby
+  LABEL_1_HOSTEL: 5-stjärnigt hotell
+  LABEL_1_HOUSE: 1-stjärnigt hotell
+  LABEL_1_WONDER: Ett underverk
+  LABEL_2_HOUSE: 2-stjärnigt hotell
+  LABEL_2_WONDER: Två underverk
+  LABEL_3_HOUSE: 3-stjärnigt hotell
+  LABEL_3_WONDER: Tre underverk
+  LABEL_4_HOUSE: 4-stjärnigt hotell
+  LABEL_4_WONDER: Fyra underverk
+  LABEL_AIRPORT_DESCRIPTION: |
+    Du har möjlighet att flyga till den lediga platsen du väljer.
+  LABEL_ALMOST_MONOPOLE_SIDE: |
+    [center][b]%s[/b] har nästan ett linjärt monopol[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: |
+    [center][b]%s[/b] har nästan ett monopol på underverk[/center]
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: Session avbruten av användare.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: Ogiltig session.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: Session redan använd.
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_NETWORK_IDENTITY_FAILURE: Nätverksproblem
+  LABEL_AUTH_SESSION_RESPONSE_LOGGED_IN_ELSEWHERE: Du är ansluten någon annanstans.
+  LABEL_AUTH_SESSION_RESPONSE_NO_LICENSE_OR_EXPIRED: Du äger inte spelet.
+  LABEL_AUTH_SESSION_RESPONSE_OK: Session OK.
+  LABEL_AUTH_SESSION_RESPONSE_PUBLISHER_ISSUED_BAN: Konto avstängt.
+  LABEL_AUTH_SESSION_RESPONSE_USER_NOT_CONNECTED_TO_STEAM: Inte ansluten till Steam.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: VAC-avstängd.
+  LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: VAC-kontroll tog för lång tid.
+  LABEL_BALANCED_SHADOW: Balanserad
+  LABEL_BEAR_NAME: Patapouf
+  LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: Dubblettförfrågan
+  LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: Biljett utgången
+  LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: Spelobalans
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: Ogiltig biljett
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: Ogiltig version
+  LABEL_BEGIN_AUTH_SESSION_RESULT_OK: Biljett giltig
+  LABEL_BOAT_NAME: Splashy
+  LABEL_BUY_BACK_VALUE: Kan lösas in för $%s
+  LABEL_BUY_BUILD: Köp en byggnad
+  LABEL_BUY_COSTS: Inköpskostnader
+  LABEL_BUY_FOR: Köp för $%s
+  LABEL_BUY_NOTHING: Köp inget
+  LABEL_BUY_WONDER: Köp ett underverk
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: |
+    Hukare är under din kontroll, du kan använda dem för att sänka ett hotells betyg.
+
+    Välj en stad.
+  LABEL_CARD_ANARCHY_0_TITLE: Nationell Polis
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+    En grupp individer tar dig för en profet och du kan peka ut en stad för dem att ockupera. Staden kommer inte generera hyra under %s varv.
+
+    Välj en stad.
+  LABEL_CARD_ANARCHY_10_TITLE: Sammanträffande Omständigheter
+  LABEL_CARD_ANARCHY_11_DESCRIPTION: |
+    Du kan spela detta kort för att återföra ett Underverk till spelet. Ägaren förlorar underverket omedelbart.
+
+    Välj ett underverk
+  LABEL_CARD_ANARCHY_11_TITLE: Orättvisans Beslut
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: |
+    Grattis! Kommunen erbjuder dig ett gratis 3-stjärnigt hotell.
+
+    Välj en stad
+  LABEL_CARD_ANARCHY_12_TITLE: Fastighetsregister
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: |
+    Du har tillgång till ett privatjet. Ta en flygning omedelbart.
+  LABEL_CARD_ANARCHY_13_TITLE: Privatjet
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: |
+    Dina tvivelaktiga kontakter ger resultat. En spelare du väljer skickas till isflaken.
+
+    Välj en spelare
+  LABEL_CARD_ANARCHY_14_TITLE: Korrupt Domare
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: |
+    Stadshuset avbryter en festival efter klagomål från boende.
+
+    Välj en stad
+  LABEL_CARD_ANARCHY_15_TITLE: Festivalens Slut
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: |
+    Du får rätten att välja vilken stad som kommer att vara värd för nästa VM.
+
+    Välj en stad
+  LABEL_CARD_ANARCHY_16_TITLE: Världsmästerskap
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: |
+    Du kan flytta en motståndare framåt ett steg. Välj klokt!
+
+    Välj en spelare
+  LABEL_CARD_ANARCHY_17_TITLE: Bortförande
+  LABEL_CARD_ANARCHY_18_DESCRIPTION: |
+    Du utlöser omedelbart en ny regelomröstning. Dags att skaka om!
+  LABEL_CARD_ANARCHY_18_TITLE: Demokrati i Aktion
+  LABEL_CARD_ANARCHY_19_DESCRIPTION: |
+    En spelare du väljer måste hoppa över sitt nästa drag.
+
+    Välj en spelare.
+  LABEL_CARD_ANARCHY_19_TITLE: Tvångssemester
+  LABEL_CARD_ANARCHY_1_DESCRIPTION: |
+    Notarien gillar dig. Han föreslår att du frigör en stad du väljer.
+
+    Välj en stad
+  LABEL_CARD_ANARCHY_1_TITLE: Notariekontor
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    Renoveringsexperter anländer till din fastighet. Tar bort alla straff och skyddar fastigheten.
+  
+    Välj en stad.
+  LABEL_CARD_ANARCHY_20_TITLE: Expressrenovering
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: |
+    Slug som du är lyckas du gå obemärkt förbi vart du än går. Detta gör att du kan stjäla en stad från en spelare.
+
+    Välj en stad.
+  LABEL_CARD_ANARCHY_2_TITLE: Kronofogde
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+    En reality-TV-show har slagit sig ner i en av dina städer. De startar stora byggprojekt för att uppgradera ett hotell åt dig.
+
+    Välj en stad.
+  LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: |
+    Du tvingar en av dina kamrater att spela på aktiemarknaden så att de förlorar en fjärdedel av sina likvida medel.
+
+    Välj en spelare
+  LABEL_CARD_ANARCHY_4_TITLE: Att Spela Innebär Risker
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: |
+    Du tvingar en av dina kamrater att byta till proportionellt skatteläge. När de landar på Skatter & Avgifter kommer de att betala en skatt proportionell till sina finansiella tillgångar.
+
+    Välj en spelare
+  LABEL_CARD_ANARCHY_5_TITLE: Offentliga Finanser
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: |
+    Prefekten i din region gillar dig, och han tillhandahåller ett komplett polisregemente för att skydda en av dina städer från potentiella katastrofer.
+
+    Välj en stad.
+  LABEL_CARD_ANARCHY_6_TITLE: Territoriell Säkerhet
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: |
+    Du tvingar en av dina kamrater att byta till fast skatteläge. När de landar på Skatter & Avgifter kommer de att behöva betala ett fast schablonbelopp på $%s.
+
+    Välj en spelare
+  LABEL_CARD_ANARCHY_7_TITLE: Offentliga Finanser
+  LABEL_CARD_ANARCHY_8_DESCRIPTION: |
+    Det är sopstrejk, ingen hyra detta varv.
+
+    Välj en stad
+  LABEL_CARD_ANARCHY_8_TITLE: Fackföreningar
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+    En spontan och självorganiserad festival invaderar en av dina städer.
+
+    Välj en av dina fastigheter
+  LABEL_CARD_ANARCHY_9_TITLE: Musikfestival
+  LABEL_CARD_RANDOM_0_DESCRIPTION: |
+    Fel till din fördel, banken betalar dig utdelningar på $%s.
+  LABEL_CARD_RANDOM_0_TITLE: Bank
+  LABEL_CARD_RANDOM_10_DESCRIPTION: |
+    Du lyckas avbryta nästa VM, det går tillbaka till sitt ursprungliga läge.
+  LABEL_CARD_RANDOM_10_TITLE: Världsrolighetsnämnden
+  LABEL_CARD_RANDOM_11_DESCRIPTION: |
+    En god samarit har bestämt sig för att ge dig en semester. Du behöver inte betala nästa hyra.
+  LABEL_CARD_RANDOM_11_TITLE: God Samarit
+  LABEL_CARD_RANDOM_12_DESCRIPTION: |
+    En av dina hyresgäster sviker dig, och banken samlar in nästa hyra istället.
+  LABEL_CARD_RANDOM_12_TITLE: Missnöjda Hyresgäster
+  LABEL_CARD_RANDOM_13_DESCRIPTION: |
+    Grattis, din gammelmorbror har precis testamenterat dig ett av sina hotell.
+  LABEL_CARD_RANDOM_13_TITLE: Arv
+  LABEL_CARD_RANDOM_14_DESCRIPTION: |
+    Brottsligheten ökar i en av dina städer, prefekten skickar ett polisregemente för att skydda den.
+  LABEL_CARD_RANDOM_14_TITLE: Ökande Brottslighet
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    Du genomgår en överraskande skattegranskning.
+
+    Flytta till skatter.
+  LABEL_CARD_RANDOM_15_TITLE: Skatterevision
+  LABEL_CARD_RANDOM_16_DESCRIPTION: |
+    Otur! Du förlorar slumpmässigt ett av dina hotell på grund av en incident.
+  LABEL_CARD_RANDOM_16_TITLE: Katastrof
+  LABEL_CARD_RANDOM_17_DESCRIPTION: |
+    Ditt lojalitetskort ger dig en gratis flygbiljett.
+
+    Använd den när du vill.
+  LABEL_CARD_RANDOM_17_TITLE: Flygmil
+  LABEL_CARD_RANDOM_18_DESCRIPTION: |
+    Flytta framåt ett steg omedelbart. Ibland gör små framsteg skillnad.
+  LABEL_CARD_RANDOM_18_TITLE: Litet Steg
+  LABEL_CARD_RANDOM_19_DESCRIPTION: |
+    Du reser business class. Priset för din nästa flygbiljett är fördubblas.
+  LABEL_CARD_RANDOM_19_TITLE: Business Class
+  LABEL_CARD_RANDOM_1_DESCRIPTION: |
+    Gå till %s.
+  LABEL_CARD_RANDOM_1_TITLE: Resebyrå
+  LABEL_CARD_RANDOM_20_DESCRIPTION: |
+    Lady Luck ler mot dig! Du får ta ett nytt drag omedelbart.
+  LABEL_CARD_RANDOM_20_TITLE: Andra Andetag
+  LABEL_CARD_RANDOM_21_DESCRIPTION: |
+    Skattemyndigheten har förlorat din akt. Nästa gång du landar på Skatter behöver du bara betala $30 000.
+  LABEL_CARD_RANDOM_21_TITLE: Skatteregistreringsfel
+  LABEL_CARD_RANDOM_2_DESCRIPTION: |
+    Flytta tillbaka %s steg.
+  LABEL_CARD_RANDOM_2_TITLE: Resebyrå
+  LABEL_CARD_RANDOM_3_DESCRIPTION: |
+    Du har gått vilse igen. Runt omkring dig är is så långt ögat når.
+    
+    Det råder ingen tvekan, du är på isflaken.
+  LABEL_CARD_RANDOM_3_TITLE: Isflaken
+  LABEL_CARD_RANDOM_4_DESCRIPTION: |
+    Du har det riktigt bra, bjuder in alla dina vänner, men nästa hyresbetalning kommer att fördubblas.
+  LABEL_CARD_RANDOM_4_TITLE: Semester
+  LABEL_CARD_RANDOM_5_DESCRIPTION: |
+    Du får en GPS och en satellittelefon. Med dessa kan du hitta vägen överallt, även på isflaken.
+
+    Använd detta kort för att fly från isflaken
+  LABEL_CARD_RANDOM_5_TITLE: Bra Tajming!
+  LABEL_CARD_RANDOM_6_DESCRIPTION: |
+    Du spelar på aktiemarknaden, och det går inte bra för dig.
+
+    Du förlorar omedelbart en fjärdedel av dina likvida tillgångar.
+  LABEL_CARD_RANDOM_6_TITLE: Att Spela Innebär Risker
+  LABEL_CARD_RANDOM_7_DESCRIPTION: |
+    Du byter till proportionellt skatteläge.
+
+    När du landar på Skatter & Avgifter kommer du att betala en skatt proportionell till dina finansiella tillgångar.
+  LABEL_CARD_RANDOM_7_TITLE: Offentliga Finanser
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
+    Du byter till fast skatteläge.
+
+    När du landar på Skatter & Avgifter kommer du att betala ett fast schablonbelopp på $%s.
+  LABEL_CARD_RANDOM_8_TITLE: Offentliga Finanser
+  LABEL_CARD_RANDOM_9_DESCRIPTION: |
+    Välkända streamers organiserar en ideell kampanj i ditt namn, och du får $%s.
+  LABEL_CARD_RANDOM_9_TITLE: Justine TV
+  LABEL_CARD_SKIP_TURN: Hoppa över ditt drag
+  LABEL_CAR_NAME: Van Diesel
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    Fastighet renoverad
+  LABEL_CASE_ACTION_BUILD_PROPERTY: |
+    Fastighet byggd
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
+    Avbryt VM
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: |
+    Fastighetens hyra inaktiverad
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: |
+    Hotell nedgraderat
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: |
+    Fastighetens hyra aktiverad
+  LABEL_CASE_ACTION_FREE_PROPERTY: |
+    Fastighet frigjord
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: |
+    Organisera en festival
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: |
+    Organisera VM
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: |
+    Fastighet skyddad
+  LABEL_CASE_ACTION_SELL_PROPERTY: |
+    Fastighet såld
+  LABEL_CASE_ACTION_STEAL_PROPERTY: |
+    Fastighetens ägare ändrad
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: |
+    Hotell uppgraderat
+  LABEL_CASE_AIRPORT: Flygplats
+  LABEL_CASE_ALGER: Algier
+  LABEL_CASE_BEGIN: Start
+  LABEL_CASE_BERLIN: Berlin
+  LABEL_CASE_BOMBAY: Bombay
+  LABEL_CASE_BUENOSAIRES: Buenos Aires
+  LABEL_CASE_CASABLANCA: Casablanca
+  LABEL_CASE_DAKAR: Dakar
+  LABEL_CASE_FESTIVAL: Festival
+  LABEL_CASE_HONGKONG: Hong Kong
+  LABEL_CASE_ICEPACK: Isflak
+  LABEL_CASE_JAKARTA: Jakarta
+  LABEL_CASE_KINSHASA: Kinshasa
+  LABEL_CASE_LECAIRE: Kairo
+  LABEL_CASE_LONDRES: London
+  LABEL_CASE_LOSANGELES: Los Angeles
+  LABEL_CASE_MADRID: Madrid
+  LABEL_CASE_MEXICO: Mexiko
+  LABEL_CASE_MONTREAL: Montreal
+  LABEL_CASE_MOSCOU: Moskva
+  LABEL_CASE_NEWYORK: New York
+  LABEL_CASE_NO_RENT: Ingen hyra
+  LABEL_CASE_PARIS: Paris
+  LABEL_CASE_PEKIN: Peking
+  LABEL_CASE_PRISON: Fängelse
+  LABEL_CASE_PROTECTED: Skyddad
+  LABEL_CASE_ROME: Rom
+  LABEL_CASE_SAOPOLO: São Paulo
+  LABEL_CASE_SEOUL: Seoul
+  LABEL_CASE_TAXES: Skatter
+  LABEL_CASE_TOKYO: Tokyo
+  LABEL_CASE_WHEEL: Hjul
+  LABEL_CASE_WONDER: Underverk
+  LABEL_CASE_WORLDCUP: Världsmästerskap
+  LABEL_CLICK_TO_VOTE: Tryck för att rösta
+  LABEL_COMPUTER_PLAYER: Datorspelare
+  LABEL_DEMO_EMBARGO: >
+    Vi ber dig vänligt att följa embargot för spelet. Inga videor eller streams är tillåtna förrän playtesting är slut. Vi uppskattar ditt samarbete!
+  LABEL_DEMO_VERSION: Fortune Avenue DEMO
+  LABEL_DETAILED_SHADOW: Detaljerad
+  LABEL_DICE_DOUBLE: Dubbel
+  LABEL_DISABLED: Inaktiverad
+  LABEL_DOG_NAME: Barky
+  LABEL_DOUBLE_RENT_MONOPOLY: |
+    Hyrorna fördubblas om du har ett monopol.
+  LABEL_ERROR_DIALOG_DESCRIPTION: |
+    Kan inte skapa eller gå med i spel.
+  LABEL_ERROR_DIALOG_TITLE: Fel
+  LABEL_GAME_START_MULTIPLAYER: Flerspelare
+  LABEL_GAME_START_OFFLINE: Spela offline
+  LABEL_GAME_START_ONLINE: Spela online
+  LABEL_GAME_START_SINGLEPLAYER: Ensam spelare
+  LABEL_GIVE_UP_GAME_DESCRIPTION: |
+    Att ge upp nu kommer att förlora ditt nuvarande framsteg och koppla bort dig från den pågående flerpelarupplevelsen. Dina medspelare kan påverkas av din avgång.
+
+    [center][b]Är du säker på att du vill ge upp?[/b][/center]
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Ge upp Fortune Avenue
+  LABEL_GOOSE_NAME: Flappy
+  LABEL_HUMAN_PLAYER: Mänsklig spelare
+  LABEL_ICEPACKED_ANNOUNCE: |
+    [b]Du är fångad på ett isflak[/b], det är verkligen otur.
+
+    För att fly kan du försöka [b]slå en dubbel[/b]. Eller så kan du välja att betala [b]$%s[/b], och du kommer ut direkt.
+
+    Om du har ett kort [b]Fly från isflaken[/b], nu är det dags att spela det.
+  LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
+    Du har varit här för länge, du kan inte vänta längre.
+    Du bestämmer dig för att betala [b]$%s[/b] för att komma ut ur detta isiga helvete.
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    Semester är så roligt.
+
+    [b]Lyxkryssningen[/b] närmar sig en hamn och låter dig fortsätta med ditt liv.
+    Du betalar [b]$%s[/b] och går i land omedelbart.
+
+    Om du har ett kort [b]Fly från isflaken[/b], nu är det dags att spela det.
+  LABEL_ICEPACKING_ANNOUNCE: |
+    På din resa vandrar du runt, omgiven av is, bara is.
+
+    [b]Du är vilse på isflaken![/b]
+    En sak är säker, du kommer inte att få din lön.
+
+    Om du inte ringer efter hjälp och betalar en räkning på [b]$%s[/b], annars är jag rädd att du är fast här.
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    Du har nått Nordpolen! Det finns ingen is kvar på horisonten!
+
+    En [b]lyxkryssning[/b] plockar snart upp dig och tar dig ombord.
+    Du passar på att ha det bra.
+
+    Naturligtvis är detta inte gratis och kommer att kosta [b]$%s[/b].
+  LABEL_IP_ADDRESS: IP-adress
+  LABEL_KIKIMETER_MOST_AIRPLANE: Himlakonung
+  LABEL_KIKIMETER_MOST_DOUBLE: Tärningsmaestro
+  LABEL_KIKIMETER_MOST_ICEPACK: Pingvin i Tjänst
+  LABEL_KIKIMETER_MOST_KILLER: Vänförintare
+  LABEL_KIKIMETER_MOST_LAP: Hjulhamster
+  LABEL_KIKIMETER_MOST_RENT: Storspenderare
+  LABEL_LAND_FREE: Tillgänglig
+  LABEL_LAND_ONLY: En husvagn
+  LABEL_LAPS: Varv
+  LABEL_LEADERBOARD: Resultattavla
+  LABEL_LEAVE_GAME_DESCRIPTION: |
+    Att lämna nu kommer att förlora ditt nuvarande framsteg och koppla bort dig från den pågående flerpelarupplevelsen. Dina medspelare kan påverkas av din avgång.
+
+    [center][b]Är du säker på att du vill lämna?[/b][/center]
+  LABEL_LEAVE_GAME_TITLE: |
+    Lämna Fortune Avenue
+  LABEL_LOADING_1: Väntar på Godot... som vanligt
+  LABEL_LOADING_10: Tränar pingviner för räddningsuppdrag på isflak
+  LABEL_LOADING_11: Schemalägger lyxkryssningar för strandade spelare
+  LABEL_LOADING_12: Installerar anti-gravitation i flygplanet
+  LABEL_LOADING_13: Lär lyckohjulet ordentlig fysik
+  LABEL_LOADING_14: Polerar Kristus Frälsaren-statyn
+  LABEL_LOADING_15: Ser till att Taj Mahal är taj-mahal-ös
+  LABEL_LOADING_16: Dammar av pyramiderna
+  LABEL_LOADING_17: Renoverar Colosseum (igen)
+  LABEL_LOADING_18: Anställer virtuella banktjänstemän
+  LABEL_LOADING_19: Förbereder din finansiella undergång
+  LABEL_LOADING_2: Riggar tärningar till din fördel (skojar bara)
+  LABEL_LOADING_20: Laddar kapitalistiska mardrömmar
+  LABEL_LOADING_21: Genererar slumpmässiga ursäkter för konkurs
+  LABEL_LOADING_22: Lär AI-spelare att vara obarmhärtiga
+  LABEL_LOADING_23: Beräknar optimala hyresutnyttjandestrategier
+  LABEL_LOADING_24: Förbereder 'Chans'-kort (inget är faktiskt slumpmässigt)
+  LABEL_LOADING_25: Installerar katapultstolar i lyxhotell
+  LABEL_LOADING_26: Omfördelar rikedom (skojar, det här är Monopol)
+  LABEL_LOADING_27: Ser till att pengar inte växer på träd
+  LABEL_LOADING_28: Förbereder din väg till virtuell konkurs
+  LABEL_LOADING_29: Laddar dyra fastigheter du inte har råd med
+  LABEL_LOADING_3: Lär helikoptrar att jaga fattiga människor
+  LABEL_LOADING_30: Lär husvagnar att förvandlas till 5-stjärniga hotell
+  LABEL_LOADING_31: Förbereder finansiella katastrofer
+  LABEL_LOADING_32: Laddar virtuell fastighetsbubbla
+  LABEL_LOADING_33: Ser till att banken alltid vinner
+  LABEL_LOADING_34: Beräknar ränta-på-ränta (det är inte till din fördel)
+  LABEL_LOADING_35: Programmerar AI för tvivelaktiga finansiella beslut
+  LABEL_LOADING_36: Förbereder handskakningar med misstänkta bankirer
+  LABEL_LOADING_37: Laddar aggressiva fastighetsköpsstrategier
+  LABEL_LOADING_38: Lär tärningar att rulla dramatiskt
+  LABEL_LOADING_39: Ser till att hotell är exakt en pixel feljusterade
+  LABEL_LOADING_4: Smälter isflak... global uppvärmning ingår ej
+  LABEL_LOADING_40: Förbereder intressanta sätt att förlora pengar på
+  LABEL_LOADING_41: Laddar ekonomiska teorier som inte fungerar i verkligheten
+  LABEL_LOADING_42: Genererar roliga laddningsmeddelanden
+  LABEL_LOADING_43: Ser till att RNG är ordentligt slumpmässigt (eller är det?)
+  LABEL_LOADING_44: Förbereder virtuella fastighetshandlingar
+  LABEL_LOADING_45: Laddar kapitalismsimulator v2.0
+  LABEL_LOADING_46: Lär helikoptrar korrekt jakt-koreografi
+  LABEL_LOADING_47: Förbereder din resa mot finansiell ruin
+  LABEL_LOADING_48: Ser till att lyxkryssningen är tillräckligt lyxig
+  LABEL_LOADING_49: Beräknar optimala vänförstöringsstrategier
+  LABEL_LOADING_5: Beräknar oddsen för att slå dubbletter
+  LABEL_LOADING_50: Laddar... bara för att vi kan
+  LABEL_LOADING_6: Blåser upp hotellpriser till orimliga nivåer
+  LABEL_LOADING_7: Organiserar improviserade festivaler
+  LABEL_LOADING_8: Mutar VM-kommittén
+  LABEL_LOADING_9: Räknar monopolpengar (två gånger, för säkerhets skull)
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    Rösta på regler •
+    Kasta tärningarna •
+    Bygg hotell •
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    Hur spelar man?
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    Ruinera dina motståndare ✔
+    Köp alla underverk ✔
+    Äg en hel sida av brädet ✔
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    Hur vinner man?
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    När tiden är ute, om lobbyn inte är full,
+    fylls tomma platser av datorer.
+  LABEL_LOBBY_FILLING_TIMED_OUT: >
+    [b]Tiden är ute![/b]
+
+    Vi kunde inte hitta några spelare att gå med i ditt spel.
+    Överväg att spela med datorkontrollerade spelare för att starta spelet direkt
+  LABEL_LOBBY_NAME: Lobbyns namn
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    När tiden är ute, om lobbyn inte är full,
+    starta inte spelet och lås upp lobbyn.
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    Du kunde inte betala {ps}banken{pe}, du är {ps}BANKRUTT{pe}!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    Du har bestämt dig för att {ps}GE UPP{pe} spelet!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Efter en otrolig jakt fångade {ps}helikoptern{pe} äntligen dig!
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    Du kunde inte betala {killer_name}, du är {ps}BANKRUTT{pe}!
+  LABEL_LOCAL_PLAYER_LOST_TITLE: Du har förlorat!
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    Tillbaka till huvudmenyn
+  LABEL_MINUTES: minuter
+  LABEL_NEW_RENT: "Ny hyra: $%s"
+  LABEL_NOT_AVAILABLE_DEMO: Inte tillgänglig i demon
+  LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
+    Du kan inte spela detta kort eftersom det inte finns någon tillgänglig ruta.
+  LABEL_NO_EFFECT_TO_PLAYER: |
+    Du kan inte spela detta kort eftersom det inte påverkar någon spelare.
+  LABEL_NO_HOTEL_AVAILABLE_DESCRIPTION: |
+    Du kan inte spela detta kort eftersom inget hotell är tillgängligt.
+  LABEL_NO_LOBBY: Ingen lobby tillgänglig
+  LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
+    Du kan inte spela detta kort eftersom ingen fastighet är tillgänglig.
+  LABEL_NO_SIGNAL: Ingen signal
+  LABEL_NO_TEAM: Inga lag
+  LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
+    Du kan inte spela detta kort eftersom inget underverk är tillgängligt.
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Antal varv utan hyra
+  LABEL_NUMBER_OF_PLAYERS: Antal spelare
+  LABEL_OPENGL_RENDERER: "Renderare: OpenGL (EXPERIMENTELL)"
+  LABEL_OPTION_AUDIO: Ljudinställningar
+  LABEL_OPTION_AUTOFILL_LOBBY: Fyll lobby automatiskt med dator
+  LABEL_OPTION_BOARD_CENTER_ROTATE: Brädets mittrotation
+  LABEL_OPTION_BRIGHTNESS: Ljusstyrka
+  LABEL_OPTION_CAMERA: Kamerarörelse
+  LABEL_OPTION_CAMERA_FIXED: Följ inte spelare
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: Följ spelare (rotation)
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: Följ spelare (förflyttning)
+  LABEL_OPTION_CAMERA_INVERTED: Kamera inverterad
+  LABEL_OPTION_CAMERA_SEMI_AUTO: Återställ kamera vid inaktivitet
+  LABEL_OPTION_DISABLE_SURROUNDING: Inaktivera omgivningar
+  LABEL_OPTION_FX: FX
+  LABEL_OPTION_GAMEPAD_VIBRATION: Handkontrollvibration
+  LABEL_OPTION_GAMEPLAY: Spelinställningar
+  LABEL_OPTION_GAME_SPEED: Spelhastighet
+  LABEL_OPTION_GAME_SPEED_FAST: Snabb
+  LABEL_OPTION_GAME_SPEED_FASTER: Snabbare
+  LABEL_OPTION_GAME_SPEED_NORMAL: Normal
+  LABEL_OPTION_LANGUAGE: Språk
+  LABEL_OPTION_LOBBY_WAIT_TIME: Lobbytimeout
+  LABEL_OPTION_MISC: Diverse inställningar
+  LABEL_OPTION_MUSIC: Musik
+  LABEL_OPTION_RENDERER: Renderare
+  LABEL_OPTION_RESOLUTION: Upplösning
+  LABEL_OPTION_TITLE: Alternativ
+  LABEL_OPTION_TUTORIEL: Handledning
+  LABEL_OPTION_VIDEO: Grafikinställningar
+  LABEL_OPTION_WINDOW: Fönsterläge
+  LABEL_PAWN_NAME: Tacticus
+  LABEL_PAY: Betala $%s
+  LABEL_PAY_RENT: Hyra
+  LABEL_PIG_NAME: Rosette
+  LABEL_PINGOUIN_NAME: Gunter
+  LABEL_PLAYER_BANKRUPT: Konkurs
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: |
+    Välj en stad att bygga ett hotell på.
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: Konstruktion
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
+    Välj en ruta med en festival för att avbryta den.
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: Festivalens Slut
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: Skydd Borttaget
+  LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
+    Välj rutan att inaktivera.
+  LABEL_PLAYER_DISABLE_CASE_TITLE: Inaktivera rutan
+  LABEL_PLAYER_DISCONNECTED: Spelare frånkopplad
+  LABEL_PLAYER_DOWNGRADE_HOTEL_DESCRIPTION: |
+    Välj hotellet du vill nedgradera.
+  LABEL_PLAYER_DOWNGRADE_HOTEL_TITLE: Nedgradera ett hotell
+  LABEL_PLAYER_END_OF_TURN: Slut på tur
+  LABEL_PLAYER_FREE_PROPERTY_DESCRIPTION: |
+    Välj fastigheten du vill sätta tillbaka på marknaden.
+  LABEL_PLAYER_FREE_PROPERTY_TITLE: Frigör en fastighet
+  LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
+    Välj underverket du vill sätta tillbaka på marknaden.
+  LABEL_PLAYER_FREE_WONDER_TITLE: Frigör ett underverk
+  LABEL_PLAYER_ICEPACKED: Du sitter fast på ett isflak
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: En lyxkryssning!
+  LABEL_PLAYER_LOST: Förlorad
+  LABEL_PLAYER_MONOPOLY: Monopol
+  LABEL_PLAYER_MOVE_TO_CASE_DESCRIPTION: |
+    Välj rutan du vill flytta till.
+  LABEL_PLAYER_MOVE_TO_CASE_TITLE: Flytta
+  LABEL_PLAYER_MOVING_TOKEN: Flytta pjäs
+  LABEL_PLAYER_NAME: Spelarens namn
+  LABEL_PLAYER_PLAYING_CARD: Spela ett kort
+  LABEL_PLAYER_PLAYING_CASE: Spela rutan
+  LABEL_PLAYER_PROTECT_CASE_DESCRIPTION: |
+    Välj fastigheten att skydda.
+  LABEL_PLAYER_PROTECT_CASE_TITLE: Skydd
+  LABEL_PLAYER_ROLL_WHEEL: Snurra hjulet
+  LABEL_PLAYER_SELL_PROPERTY: Sälj fastigheter
+  LABEL_PLAYER_SET_FESTIVAL_DESCRIPTION: |
+    Välj platsen för att vara värd för en festival.
+  LABEL_PLAYER_SET_FESTIVAL_TITLE: Festival
+  LABEL_PLAYER_SET_WORLD_CUP_DESCRIPTION: |
+    Välj platsen för nästa VM.
+  LABEL_PLAYER_SET_WORLD_CUP_TITLE: Världsmästerskap
+  LABEL_PLAYER_STEAL_PROPERTY_DESCRIPTION: |
+    Välj fastigheten du vill stjäla.
+  LABEL_PLAYER_STEAL_PROPERTY_TITLE: Fastighetsstöld
+  LABEL_PLAYER_THROWING_DICE: Kasta tärningarna
+  LABEL_PLAYER_TYPE: Typ
+  LABEL_PLAYER_UPGRADE_HOTEL_DESCRIPTION: |
+    Välj hotellet du vill uppgradera.
+  LABEL_PLAYER_UPGRADE_HOTEL_TITLE: Uppgradera ett hotell
+  LABEL_PLAYER_WAITING: Vänta
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name} är den {ps}sista spelaren stående{pe}!
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name} har precis gjort ett {ws}{rs}MONOPOL{re}{we}!
+  LABEL_PLAYER_WON_TITLE: "{name} vann spelet!"
+  LABEL_PRESS_ANY_BUTTON: Tryck för att fortsätta
+  LABEL_PROGRESS_NEXT_VOTE: Nästa omröstning
+  LABEL_PROPERTY_RENT: Hyra
+  LABEL_RANDOM: Slumpmässig
+  LABEL_REAL_ESTATE_ASSET_VALUE: Fastighetsvärde
+  LABEL_REMAINING_TURN: Återstående tur
+  LABEL_REMOTE_PLAYER: Fjärrspelare
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name} kunde inte betala {ps}banken{pe}, {name} är {ps}BANKRUTT{pe}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    {name} har precis {ps}GETT UPP{pe} spelet!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    Efter en otrolig jakt fångade {ps}helikoptern{pe} äntligen {name}!
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name} kunde inte betala {killer_name}, {name} är {ps}BANKRUTT{pe}!
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name} förlorade!"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    Miljöaktivister har tagit över flygplatserna, biljettkostnaderna multipliceras med 10.
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: Klimatkatastrof
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
+    Gratis GPS för alla! Du kan slå så många dubbletter du vill!
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: Placera dina insatser
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: |
+    Tack vare ett undantag kan 5-stjärniga hotell byggas redan första varvet.
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: Snabb gång
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
+    Det är nu möjligt att köpa tillbaka andra spelares 5-stjärniga hotell.
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: Det förändrar allt
+  LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
+    Det är nu möjligt att köpa andra spelares underverk.
+  LABEL_RULESET_BUY_BACK_WONDERS_TITLE: Det förändrar allt
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    En ny fastighetsskyddslag har antagits. Det är nu omöjligt att köpa tillbaka hotell från andra spelare.
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: Okränkbara Fastigheter
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
+    Husvagnslivet har blivit en trend, vilket betyder att husvagnshyror kostar lika mycket som hyran i ett 5-stjärnigt hotell.
+  LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: Bohemiskt liv
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    Insatserna har fördubblats eftersom belöningarna för att eliminera andra spelare nu är dubbelt så mycket värda.
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: Dubbel Knockout-bonus
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: |
+    Att bo är dyrare, och för att upprätthålla hyresvärdarnas oanständiga livsstilar har varje hotell fördubblat sin hyra.
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: Orättvis social behandling
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
+    Spelarnas löner fördubblas.
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_TITLE: Hårt arbete förtjänar god lön!
+  LABEL_RULESET_FESTIVAL_DOUBLED_DESCRIPTION: |
+    Festivalerna blir större, så festivalbonusarna fördubblas
+  LABEL_RULESET_FESTIVAL_DOUBLED_TITLE: Festtid
+  LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
+    En ny festival äger rum i en slumpmässig stad.
+  LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: Festtid!
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    En excentrisk miljardär känner sig ovanligt generös idag och beviljar varje spelare ett gratis 3-stjärnigt hotell.
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: Hotelllotteri Bonanza
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
+    Arbetsoroligheter bryter ut, och alla 5-stjärniga hotell sätts tillbaka på linjen.
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: Åh nej!
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
+    Regeringen ger humanitärt bistånd utan åtskillnad. Alla spelare får $100 000
+  LABEL_RULESET_FREE_MONEY_TITLE: Global pandemi
+  LABEL_RULESET_FREE_MONOPOLIES_DESCRIPTION: |
+    Antitrustlagar träder i kraft omedelbart. Alla monopol bryts upp och sätts tillbaka på marknaden.
+  LABEL_RULESET_FREE_MONOPOLIES_TITLE: Marknadskrasch
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
+    Helikoptern kan jaga flera spelare samtidigt
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: Ostoppbar
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: |
+    Ett nytt straffrättssystem utformat för att minska brottslighet har införts! Från och med nu kommer helikoptern alltid att jaga den fattigaste spelaren.
+  LABEL_RULESET_HELICOPTER_CHASING_TITLE: Rikaste mannens lag
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_DESCRIPTION: |
+    Helikoptern jagar nu alla spelare med mer än 1 miljon $. Dags att omfördela välståndet.
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_TITLE: Ät de Rika
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: |
+    Brottslig aktivitet ökar, vilket sänker standarden på dina hotell. Alla hotell förlorar en stjärna (minimum husvagn).
+  LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: Hoppsan!
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: |
+    Regeringen investerar mycket i turism, alla hotell får en bonusstjärna (max 5 stjärnor)
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: Stadsplaneringslag
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: |
+    Byggstandarder förändras, och hotell är inte längre värda någonting vid återförsäljning. Endast mark behåller sitt värde.
+  LABEL_RULESET_HOTEL_WORTHLESS_TITLE: En ny standard
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
+    När isflaken smälte såg investerare en enorm potential. En lyxkryssning ersätter isflaken, och det kommer att kosta en arm och ett ben.
+  LABEL_RULESET_ICEPACK_MELT_TITLE: 50 års passivitet
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    Ekonomiskt kaos har slagit till mot marknaden eftersom hyresökningen per varv nu är fördubblas.
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: Inflationsmardröm
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    Segerns regler har förändrats eftersom du inte längre kan vinna genom monopol, endast genom att vara den sista spelaren stående.
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: Battle Royale-läge
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    Monopol har blivit extraordinärt kraftfulla, vilket resulterar i att alla monopolhyror multipliceras med 2.
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: Hänsynslös Kapitalism
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
+    Nästa tur, istället för att kasta tärningarna, flyttar du tillbaka ett steg.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: Flytta bakåt
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_DESCRIPTION: |
+    Nästa tur, istället för att kasta tärningarna, flyttar du framåt ett steg.
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_TITLE: Flytta framåt
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
+    Polisen gör uppror, alla skyddade rutor kommer tillbaka i spel
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: Oj då!
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: |
+    En ny lag har precis antagits, eftersom regeringens löner var otillräckliga. För att finansiera dessa nya åtgärder är alla skatter nu fördubblas.
+  LABEL_RULESET_TAXES_DOUBLED_TITLE: Antagen enhälligt
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_DESCRIPTION: |
+    Ett konkursutrymme läggs till på Lyckohjulet. Landa på det och du elimineras omedelbart.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_TITLE: Olyckshjulet
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_DESCRIPTION: |
+    Ett segersymbol läggs till på Lyckohjulet. Landa på det för en omedelbar vinst.
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_TITLE: Snurra för att Vinna
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: |
+    Kampanjledare lyckas motverka lobbyisternas planer, och ett påbud antas, vilket återför alla brädets underverk till spelet.
+  LABEL_RULESET_WONDERS_FREED_TITLE: Inte länge
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
+    Hyrorna för alla underverk multipliceras med 10.
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: Inte billigt
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: |
+    Vi har hittat billiga slavar för att bygga VM-stadierna. Stadierna kommer att bli ännu större, vilket resulterar i att VM-bonusarna fördubblas.
+  LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: Oförgätligt!
+  LABEL_SCOOTER_NAME: Vroomie
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
+    Du har inte tillräckligt med pengar för att betala, du måste sälja en eller flera fastigheter
+  LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: Pengar som behövs
+  LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: Återstående pengar
+  LABEL_SELECT_CITY_TO_SELL_TITLE: Välj en fastighet att sälja
+  LABEL_SHOE_NAME: Patachon
+  LABEL_SIMPLE_SHADOW: Enkel
+  LABEL_STEAM_BUSY: Steam upptagen, försök igen senare
+  LABEL_STEAM_QUERYING: Frågar Steam
+  LABEL_STEAM_READY: Tryck på valfri tangent
+  LABEL_STEAM_WAITING: Ansluter till Steam...
+  LABEL_SUITCASE_NAME: Baggy
+  LABEL_TAXES_FORFAIT_DESCRIPTION: |
+    Du måste täcka [b]Schablonavgiften[/b].
+    [b]Avgiften ökar med +{raw_costs}[/b] vid varje betalning.
+  LABEL_TAXES_FORFAIT_TITLE: Fasta Skatter
+  LABEL_TAXES_PROPORTIONAL_TITLE: Proportionella Skatter
+  LABEL_TEAM: Lag
+  LABEL_TEAM_NUMBER: Lag
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team} är det {ps}sista laget stående{pe}!
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team} har precis gjort ett {ws}{rs}MONOPOL{re}{we}!
+  LABEL_TEAM_WON_TITLE: "{team} vann spelet!"
+  LABEL_TOO_EXPENSIVE: Du har inte tillräckligt med pengar för att köpa det.
+  LABEL_TOPHAT_NAME: Dandy
+  LABEL_TURN: Tur
+  LABEL_TURN_BEFORE_ELIMINATION: "%s tur(er) innan eliminering"
+  LABEL_TUTORIEL_DICE: >
+    Tryck och håll kvar samtidigt som du rör musen för att skaka tärningarna.
+    Släpp för att kasta dem.
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    [img width=64]%s[/img] och håll kvar samtidigt som du rör [img
+    width=64]%s[/img] för att skaka tärningarna. Släpp för att kasta dem.
+  LABEL_TUTORIEL_MAIN_MENU: >
+    Använd knapparna för att välja vilken typ av motståndare du vill möta. 
+    Välj mellan människa, dator eller stängd plats.
+  LABEL_TUTORIEL_RULESET: >
+    Rösta på en regel. När alla har röstat tillämpas regeln med 
+    flest röster. Om det är oavgjort väljs en regel slumpmässigt.
+  LABEL_TUTORIEL_WHEEL: >
+    Tryck och håll kvar för att flytta hjulet.
+    Släpp för att starta det.
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    [img width=64]%s[/img] och håll kvar
+    samtidigt som du rör [img width=64]%s[/img] för att kasta hjulet.
+    Släpp för att starta det.
+  LABEL_WANTED_DESCRIPTION: Död eller levande
+  LABEL_WANTED_TITLE: Efterlyst
+  LABEL_WINDOW_FULLSCREEN: Helskärm
+  LABEL_WINDOW_WINDOWED: Fönsterläge
+  LABEL_WONDER_BRANDBURG_GATE: Brandenburger Tor
+  LABEL_WONDER_CHRIST_THE_REDEEMER: Kristus Frälsaren
+  LABEL_WONDER_COLISEE: Colosseum
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: Empire State Building
+  LABEL_WONDER_FORBIDDEN_CITY: Förbjudna Staden
+  LABEL_WONDER_LIGHTHOUSE: Stora Fyrtornet
+  LABEL_WONDER_PYRAMIDS: Pyramiderna
+  LABEL_WONDER_TAJ_MAHAL: Taj Mahal
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: |
+    Grattis till att du vunnit rätten att välja platsen för VM!
+
+    Om VM skulle äga rum på en annan plats skulle det automatiskt flyttas till den plats du väljer.
+
+    VM kan endast placeras på din egen fastighet.
+
+    Utan en fastighet måste du avbryta VM.
+  LABEL_WORLDCUP_TITLE: Världsmästerskap
+  LOBBY_CREATED: Lobby skapad
+  LOBBY_JOINED: Anslöt till lobby
+  LOBBY_LOCKED: Lobby låst
+  LOBBY_LOOKING_FOR_LOBBY: Letar efter lobby
+  LOBBY_MERGING: Sammanfogar lobby
+  LOBBY_READY: Lobby redo
+  LOBBY_READY_CREATING_ROOM: Skapar server
+  LOBBY_READY_JOINING_ROOM: Går med i server
+  LOBBY_READY_ROOM_CREATED: Server skapad
+  LOBBY_READY_ROOM_JOINED: Anslöt till server
+  LOBBY_READY_WAITING_ROOM: Väntar på att server ska skapas
+  LOBBY_WAITING_FOR_PLAYER: Väntar på spelare
+  NO_LOBBY: Ingen lobby
+  ROOM_WAITING_FOR_CONFIGURATION: Väntar på serverkonfiguration
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    Kan inte köpa tillbaka ett 5-stjärnigt hotell
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    Inte tillräckligt med pengar för att köpa tillbaka
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    En regel har röstats fram som förhindrar återköp av hotell.
+  TOOLTIP_BUY_BACK_WONDER: |
+    Kan inte köpa tillbaka ett underverk
+  TOOLTIP_CARD_DOUBLE_RENT: |
+    Din nästa hyra är fördubblas
+  TOOLTIP_CARD_FREE_RENT: |
+    Din nästa hyra är gratis
+  TOOLTIP_CARD_ICEPACK: |
+    Ett kort och en GPS för att lämna isflaken utan att betala
+  TOOLTIP_CARD_NO_RENT: |
+    Banken samlar in nästa hyra åt dig.
+  TOOLTIP_CARD_TAX_FORFAIT_MODE: |
+    Schablonskatteläge.
+    Du betalar alltid samma belopp
+  TOOLTIP_CARD_TAX_PROPORTIONAL_MODE: |
+    Proportionellt skatteläge.
+    Ju fler fastigheter du har, desto mer betalar du
+  TOOLTIP_CLOSED_SLOT: Stängd plats (ingen spelare)
+  TOOLTIP_COMPUTER_SLOT: Stängd plats (datorspelare)
+  TOOLTIP_DIFFICULTY_EASY: |
+    Lätt AI-svårighetsgrad
+  TOOLTIP_DIFFICULTY_HARD: |
+    Svår AI-svårighetsgrad
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    Fördubbla hyran
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    Du kan inte bygga ett 4- eller 5-stjärnigt hotell på ditt första varv
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    Efter %s omgångar eliminerar helikoptern endast den fattigaste spelaren under %s.
+    Räknaren återställs endast efter en eliminering.
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    Efter %s omgångar eliminerar helikoptern endast den rikaste spelaren över %s.
+    Räknaren återställs endast efter en eliminering.
+  TOOLTIP_HUMAN_SLOT: Tillgänglig plats (mänsklig spelare)
+  TOOLTIP_INVALID_LOBBY: |
+    Det är omöjligt att starta ett spel med bara en spelare.
+    Om en datorspelare (icke-människa) också finns i spelet,
+    måste varje tillgänglig plats redan vara
+    upptagen av en mänsklig spelare för att starta spelet.
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
+    Sökning efter motståndare online är inaktiverad
+    om en datorspelare är närvarande.
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    Minst 2 spelare krävs för att starta ett spel.
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    Lagen är inte balanserade!
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
+    Spelaren som tog flest flygningar
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: |
+    Spelaren som slog flest dubbletter
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: |
+    Spelaren som tillbringade mest tid på isflaken
+  TOOLTIP_KIKIMETER_MOST_KILLER: |
+    Spelaren som eliminerade flest motståndare
+  TOOLTIP_KIKIMETER_MOST_LAP: |
+    Spelaren som genomförde flest varv
+  TOOLTIP_KIKIMETER_MOST_RENT: |
+    Spelaren som spenderade mest pengar
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    Fördubbla hyran
+  TOOLTIP_NETWORK_INITIALIZING: |
+    Det verkar som att en spelare har problem med att gå med i spelet.
+
+    [b]Fortune Avenue kommer att starta spelet så snart som möjligt.[/b]
+
+    Detta kan ta flera minuter, beroende på deras dators kraft.
+
+    Tack för ditt tålamod.
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    Vi ber om ursäkt för besväret, ett nätverkssynkroniseringsproblem har uppstått.
+
+    [b]Fortune Avenue försöker synkronisera om nu.[/b]
+
+    Det bör bara ta en stund eller två.
+
+    Under tiden, kontrollera att du är ansluten till internet.
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    Kan inte köpas tillbaka eller utsättas för skada
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    Dina fastigheters hyra +%s per varv
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    Sökning efter spelare kan ibland ta lite tid.
+
+    Om du vill starta ditt spel direkt,
+    överväg att lägga till datorkontrollerade spelare för att fylla lobbyn.
+
+    Det är ett utmärkt sätt att hoppa in i actionens direkt.
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Du har blivit Steam VAC-avstängd.
+    Du kan inte spela med slumpmässiga spelare.
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    Dölj / Visa panel
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    %s gånger hyran
+  TOOL_NEED_STEAM_OVERLAY: |
+    Steam-överlägg krävs för att använda denna funktion
+
+  LABEL_ACTION_HISTORY_BANK: Banken
+  LABEL_ACTION_HISTORY_CARAVAN: Husvagn
+  LABEL_ACTION_HISTORY_WONDER: Underverk
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] betalade [b]{amount}$[/b] till [b]{owner_name}[/b] för hyra på [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] betalade [b]{amount}$[/b] för att placera en [b]{building}[/b] på [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] betalade [b]{amount}$[/b] för att köpa [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] köpte [b]{case_name}[/b] från [b]{owner_name}[/b] för [b]{amount}$[/b].
+  LOCAL_OPTION_ANTI_ALIASING: Kantutjämning
+  LOCAL_OPTION_SHADOW: Skuggor
+  LOCKING_LOBBY: Låser lobby
+  ROOM_READY: Server redo
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] betalade [b]{amount}$[/b] i skatt.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] köpte en flygbiljett för [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] fick precis [b]{amount}$[/b] från banken.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] betalade precis [b]{amount}$[/b] till banken.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] spelade precis kortet [b]{card_name}[/b].
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] började precis sin tur.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] avslutade sin tur.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] ändrade sin beskattning till [b]{tax_mod}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]Helikoptern[/b] började jaga [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]Helikoptern[/b] eliminerade precis [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] gick precis i konkurs.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    En omröstning har startat.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    En ny regel har antagits: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] är vilse på isflaken.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] tar flygplanet.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] återupptar spelet normalt.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] organiserar VM i [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] avbryter VM.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] skyddar [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] förstör [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] avbryter hyran för [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] återaktiverar hyran för [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] organiserar en festival i [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] avbryter festivalen i [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    Spelet är över.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] uppgraderade precis hotellet i [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] nedgraderade precis hotellet i [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] förvärvade precis [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] sålde precis [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] byggde precis på [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] frigjorde precis [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] tog precis bort skyddet från [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] tjänade precis [b]{amount}$[/b] genom att sälja fastigheter.
+  LABEL_SURROUNDING_CLASSIC: Klassisk
+  LABEL_SURROUNDING_AUTOMN: Höst
+  LABEL_SURROUNDING_SUMMER: Sommar
+  LABEL_SURROUNDING_WINTER: Vinter
+  LABEL_SURROUNDING_EASTER: Påsk
+  LABEL_BOARD_SURROUNDING: Brädtema
+  LABEL_CUSTOM_RULESET_TITLE: Anpassade Regler
+  LABEL_CUSTOM_RULESET_ECONOMY: Ekonomi
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Startpengar
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Lön per varv
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Inflation per varv
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Elimineringsbelöning
+  LABEL_CUSTOM_RULESET_GAME_RULES: Spelregler
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Dubbletter före isflak
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Max turer på isflak
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: Bygg hotell första varvet
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Transport
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Flygbiljettspris
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Lyxkryssningspris
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Fastighetsåterköp
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Köp tillbaka hotell
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Köp tillbaka underverk
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Köp tillbaka 5-stjärniga hotell
+  LABEL_PAUSE_GAME: Pausa Spelet

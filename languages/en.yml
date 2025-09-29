@@ -1,4 +1,5 @@
 en:
+  BUTTON_RESET_TO_DEFAULT: Reset to default
   BUTTON_APPLY: Apply
   BUTTON_AUTOMATIC_SELL: Automatic sale
   BUTTON_BANKRUPT: Bankrupt
@@ -32,7 +33,7 @@ en:
   BUTTON_READY: Ready !
   BUTTON_REFRESH: Refresh
   BUTTON_REFUSE_TICKET: Refuse
-  BUTTON_RESET_WORLDCUP: Cancel the world cup
+  BUTTON_RESET_WORLDCUP: Cancel the World Cup
   BUTTON_SELL: Sell
   BUTTON_SET_WORLD_CUP: Organize the World Cup
   BUTTON_SPLIT_SCREEN_TYPE: Split screen
@@ -93,7 +94,7 @@ en:
     Please select a city.
   LABEL_CARD_ANARCHY_0_TITLE: National Police
   LABEL_CARD_ANARCHY_10_DESCRIPTION: |
-    A group of individuals takes you for a prophet, and you can indicate a city for them to occupy. The city will not generate rent for %s turns.
+    A group of individuals takes you for a prophet, and you can indicate a city for them to occupy. The city will not generate rent for %s laps.
 
     Please select a city.
   LABEL_CARD_ANARCHY_10_TITLE: Coincidence Contest
@@ -501,7 +502,7 @@ en:
   LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
     You cannot play this card as no property is available.
   LABEL_NO_SIGNAL: No signal
-  LABEL_NO_TEAM: No team
+  LABEL_NO_TEAM: No teams
   LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
     You cannot play this card as no wonder is available.
   LABEL_NUMBER_OF_LAP_WITHOUT_RENT: Number of lap without rent
@@ -519,7 +520,7 @@ en:
   LABEL_OPTION_CAMERA_SEMI_AUTO: Reset camera when idle
   LABEL_OPTION_DISABLE_SURROUNDING: Disable surroundings
   LABEL_OPTION_FX: FX
-  LABEL_OPTION_GAMEPAD_VIBRATION: Joystick vibration
+  LABEL_OPTION_GAMEPAD_VIBRATION: Controller vibration
   LABEL_OPTION_GAMEPLAY: Gameplay settings
   LABEL_OPTION_GAME_SPEED: Game speed
   LABEL_OPTION_GAME_SPEED_FAST: Fast
@@ -784,7 +785,7 @@ en:
 
     If the World Cup were to take place in another location, it would automatically be moved to the location of your choice.
 
-    The world cup can only be placed on your own property.
+    The World Cup can only be placed on your own property.
 
     Without a property, you must cancel the World Cup.
   LABEL_WORLDCUP_TITLE: World cup
@@ -907,3 +908,105 @@ en:
     %s times the rent
   TOOL_NEED_STEAM_OVERLAY: |
     Steam overlay is required to use this feature
+
+  LABEL_ACTION_HISTORY_BANK: The bank
+  LABEL_ACTION_HISTORY_CARAVAN: Caravan
+  LABEL_ACTION_HISTORY_WONDER: Wonder
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] paid [b]{amount}$[/b] to [b]{owner_name}[/b] for rent on [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] paid [b]{amount}$[/b] to place a [b]{building}[/b] on [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] paid [b]{amount}$[/b] to buy [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] bought [b]{case_name}[/b] from [b]{owner_name}[/b] for [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] paid [b]{amount}$[/b] in taxes.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] bought a plane ticket for [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] just received [b]{amount}$[/b] from the bank.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] just paid [b]{amount}$[/b] to the bank.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] just played the card [b]{card_name}[/b].
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] just started their turn.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] finished their turn.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] changed their taxation to [b]{tax_mod}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]The helicopter[/b] started chasing [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]The helicopter[/b] just eliminated [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] just went bankrupt.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    A vote has started.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    A new rule has been adopted: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] is lost on the ice floe.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] takes the plane.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] resumes the game normally.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] organizes the World Cup in [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] cancels the World Cup.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] protects [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] destroys [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] cancels the rent of [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] re-enables the rent of [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] organizes a festival in [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] cancels the festival in [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    The game is over.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] just upgraded the hotel in [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] just downgraded the hotel in [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] just acquired [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] just sold [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] just built on [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] just freed [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] just removed the protection from [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] just earned [b]{amount}$[/b] by selling properties.
+  LABEL_SURROUNDING_CLASSIC: Classic
+  LABEL_SURROUNDING_AUTOMN: Autumn
+  LABEL_SURROUNDING_SUMMER: Summer
+  LABEL_SURROUNDING_WINTER: Winter
+  LABEL_SURROUNDING_EASTER: Easter
+  LABEL_BOARD_SURROUNDING: Board theme
+  LABEL_CUSTOM_RULESET_TITLE: Custom Rules
+  LABEL_CUSTOM_RULESET_ECONOMY: Economy
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Starting money
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Salary per lap
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Inflation per lap
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Elimination bounty
+  LABEL_CUSTOM_RULESET_GAME_RULES: Game rules
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Doubles before ice floe
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Max turns on ice floe
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: Build hotels first lap
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Transportation
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Airplane ticket price
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Luxury cruise price
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Property buyback
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Buy back hotels
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Buy back wonders
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Buy back 5-star hotels
+  LABEL_PAUSE_GAME: Pause Game

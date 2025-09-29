@@ -11,6 +11,7 @@ const langMatch = {
   'pt-br': 'brazilian',
   fr: 'french',
   ru: 'russian',
+  sv: 'swedish',
   tr: 'turkish',
   zh: 'schinese'
 }

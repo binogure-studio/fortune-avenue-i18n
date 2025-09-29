@@ -1,4 +1,5 @@
 es:
+  BUTTON_RESET_TO_DEFAULT: Restablecer por defecto
   BUTTON_APPLY: Aplicar
   BUTTON_AUTOMATIC_SELL: Venta automática
   BUTTON_BANKRUPT: Bancarrota
@@ -907,3 +908,105 @@ es:
     %s veces la renta
   TOOL_NEED_STEAM_OVERLAY: |
     Se requiere la superposición de Steam para usar esta función
+
+  LABEL_ACTION_HISTORY_BANK: El banco
+  LABEL_ACTION_HISTORY_CARAVAN: Caravana
+  LABEL_ACTION_HISTORY_WONDER: Maravilla
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] pagó [b]{amount}$[/b] a [b]{owner_name}[/b] por el alquiler de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] pagó [b]{amount}$[/b] para colocar un [b]{building}[/b] en [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] pagó [b]{amount}$[/b] para comprar [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] compró [b]{case_name}[/b] a [b]{owner_name}[/b] por [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] pagó [b]{amount}$[/b] en impuestos.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] compró un billete de avión por [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] acaba de recibir [b]{amount}$[/b] del banco.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] acaba de pagar [b]{amount}$[/b] al banco.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] acaba de jugar la carta [b]{card_name}[/b].
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] acaba de comenzar su turno.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] terminó su turno.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] cambió su imposición a [b]{tax_mod}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]El helicóptero[/b] comenzó a perseguir a [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]El helicóptero[/b] acaba de eliminar a [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] acaba de declararse en bancarrota.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    Ha comenzado una votación.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    Se ha adoptado una nueva regla: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] está perdido en el témpano de hielo.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] toma el avión.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] reanuda el juego normalmente.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] organiza la Copa del Mundo en [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] cancela la Copa del Mundo.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] protege [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] destruye [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] cancela el alquiler de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] restablece el alquiler de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] organiza un festival en [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] cancela el festival en [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    El juego ha terminado.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] acaba de mejorar el hotel de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] acaba de degradar el hotel de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] acaba de adquirir [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] acaba de vender [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] acaba de construir en [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] acaba de liberar [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] acaba de quitar la protección de [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] acaba de conseguir [b]{amount}$[/b] vendiendo propiedades.
+  LABEL_SURROUNDING_CLASSIC: Clásico
+  LABEL_SURROUNDING_AUTOMN: Otoño
+  LABEL_SURROUNDING_SUMMER: Verano
+  LABEL_SURROUNDING_WINTER: Invierno
+  LABEL_SURROUNDING_EASTER: Pascua
+  LABEL_BOARD_SURROUNDING: Tema del tablero
+  LABEL_CUSTOM_RULESET_TITLE: Reglas personalizadas
+  LABEL_CUSTOM_RULESET_ECONOMY: Economía
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Dinero inicial
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Salario por vuelta
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Inflación por vuelta
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Recompensa por eliminación
+  LABEL_CUSTOM_RULESET_GAME_RULES: Reglas del juego
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Dobles antes del iceberg
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Max turnos en iceberg
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: Construir hoteles primer turno
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Transporte
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Precio billete de avión
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Precio crucero de lujo
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Recompra de propiedades
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Recomprar hoteles
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Recomprar maravillas
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Recomprar hoteles 5 estrellas
+  LABEL_PAUSE_GAME: Pausar Juego

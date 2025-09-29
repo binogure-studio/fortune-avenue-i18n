@@ -1,1 +1,1 @@
-Experience the excitement of Fortune Avenue, a 3D monopoly game reimagined. Travel via airport, avoid melting ice floes, and spin the Wheel of Fortune. Vote on new game-changing rules and eliminate opponents for bonuses. Fast-paced, and endlessly fun! 🎲 🏨
+A competitive board game where players vote to shape their destiny. Transform caravans into 5-star hotels, collect wonders, and earn bounties for bankrupting opponents. Use airports to outmaneuver rivals, organize World Cups to multiply your rent. Can you turn your empire into a global monopoly?

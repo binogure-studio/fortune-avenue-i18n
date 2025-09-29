@@ -1,4 +1,5 @@
 ru:
+  BUTTON_RESET_TO_DEFAULT: Сбросить по умолчанию
   BUTTON_APPLY: Применить
   BUTTON_AUTOMATIC_SELL: Автоматическая продажа
   BUTTON_BANKRUPT: Банкротство
@@ -907,3 +908,105 @@ ru:
     Аренда в %s раз выше
   TOOL_NEED_STEAM_OVERLAY: |
     Требуется Steam Overlay для использования этой функции
+
+  LABEL_ACTION_HISTORY_BANK: Банк
+  LABEL_ACTION_HISTORY_CARAVAN: Караван
+  LABEL_ACTION_HISTORY_WONDER: Чудо
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b] заплатил [b]{amount}$[/b] игроку [b]{owner_name}[/b] за аренду [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b] заплатил [b]{amount}$[/b] за размещение [b]{building}[/b] на [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b] заплатил [b]{amount}$[/b] за покупку [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b] купил [b]{case_name}[/b] у [b]{owner_name}[/b] за [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b] заплатил [b]{amount}$[/b] налогов.
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b] купил авиабилет за [b]{amount}$[/b].
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b] только что получил [b]{amount}$[/b] от банка.
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b] только что заплатил [b]{amount}$[/b] банку.
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b] только что сыграл карту [b]{card_name}[/b].
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b] только что начал свой ход.
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b] закончил свой ход.
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b] изменил свое налогообложение на [b]{tax_mod}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]Вертолёт[/b] начал преследовать [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]Вертолёт[/b] только что исключил [b]{player_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b] только что обанкротился.
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    Началось голосование.
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    Принято новое правило: [b]{rule_name}[/b].
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b] заблудился на льдине.
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b] садится в самолёт.
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b] продолжает игру нормально.
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b] организует Чемпионат мира в [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b] отменяет Чемпионат мира.
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b] защищает [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b] разрушает [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b] отменяет аренду [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b] восстанавливает аренду [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b] организует фестиваль в [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b] отменяет фестиваль в [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    Игра окончена.
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b] только что улучшил отель в [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b] только что понизил класс отеля в [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b] только что приобрёл [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b] только что продал [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b] только что построил на [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b] только что освободил [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b] только что снял защиту с [b]{case_name}[/b].
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b] только что заработал [b]{amount}$[/b], продавая недвижимость.
+  LABEL_SURROUNDING_CLASSIC: Классическое
+  LABEL_SURROUNDING_AUTOMN: Осень
+  LABEL_SURROUNDING_SUMMER: Лето
+  LABEL_SURROUNDING_WINTER: Зима
+  LABEL_SURROUNDING_EASTER: Пасха
+  LABEL_BOARD_SURROUNDING: Тема доски
+  LABEL_CUSTOM_RULESET_TITLE: Пользовательские правила
+  LABEL_CUSTOM_RULESET_ECONOMY: Экономика
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: Стартовые деньги
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: Зарплата за круг
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: Инфляция за круг
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: Награда за исключение
+  LABEL_CUSTOM_RULESET_GAME_RULES: Правила игры
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: Дубли до льдины
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: Макс ходов на льдине
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: Строить отели первый круг
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: Транспорт
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: Цена авиабилета
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: Цена роскошного круиза
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: Выкуп недвижимости
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: Выкупать отели
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Выкупать чудеса света
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Выкупать 5-звездочные отели
+  LABEL_PAUSE_GAME: Пауза
