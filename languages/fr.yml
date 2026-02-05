@@ -196,7 +196,7 @@ fr:
     Vous faites annuler la prochaine coupe du monde.
   LABEL_CARD_RANDOM_10_TITLE: Comité mondial du fun
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Un bon samaritain a décidé de vous offrir des vacances. Vous ne payez pas le prochain loyer.
+    Un bon samaritain a décidé de vous offrir des vacances. Vous pouvez utiliser cette carte pour ne pas payer un loyer de votre choix.
   LABEL_CARD_RANDOM_11_TITLE: Bon samaritain
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Un de vos locataires vous fait faux bond, la banque percevra le prochain loyer à votre place.
@@ -818,7 +818,7 @@ fr:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Votre prochain loyer est doublé
   TOOLTIP_CARD_FREE_RENT: |
-    Votre prochain loyer est offert
+    Un loyer de votre choix est gratuit
   TOOLTIP_CARD_ICEPACK: |
     Une carte et un GPS pour quitter la banquise sans payer
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ fr:
   LABEL_SURROUNDING_SUMMER: Été
   LABEL_SURROUNDING_WINTER: Hiver
   LABEL_SURROUNDING_EASTER: Pâques
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Saint-Valentin
   LABEL_BOARD_SURROUNDING: Décor du plateau
   LABEL_CUSTOM_RULESET_TITLE: Règles personnalisées
   LABEL_CUSTOM_RULESET_ECONOMY: Économie
@@ -1010,4 +1012,13 @@ fr:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Racheter les merveilles
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Racheter hôtels 5 étoiles
   LABEL_PAUSE_GAME: Mettre en pause
-
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karachi
+  LABEL_CASE_ISTANBUL: Istanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Vienne
+  LABEL_CASE_WARSAW: Varsovie
+  BUTTON_SMALL_BOARD: Petit plateau
+  BUTTON_BIG_BOARD: Grand plateau

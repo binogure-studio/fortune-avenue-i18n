@@ -196,7 +196,7 @@ de:
     Es gelingt Ihnen, die nächste Weltmeisterschaft abzusagen, sie kehrt zum Ausgangszustand zurück.
   LABEL_CARD_RANDOM_10_TITLE: Weltmeisterschaftskomitee
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Ein guter Samariter hat beschlossen, Ihnen einen Urlaub zu schenken. Sie müssen die nächste Miete nicht bezahlen.
+    Ein guter Samariter hat beschlossen, Ihnen einen Urlaub zu schenken. Sie können diese Karte verwenden, um eine Miete Ihrer Wahl nicht zu zahlen.
   LABEL_CARD_RANDOM_11_TITLE: Guter Samariter
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Einer Ihrer Mieter lässt Sie im Stich, und die Bank kassiert stattdessen die nächste Miete.
@@ -818,7 +818,7 @@ de:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Deine nächste Miete wird verdoppelt
   TOOLTIP_CARD_FREE_RENT: |
-    Deine nächste Miete ist kostenlos
+    Eine Miete Ihrer Wahl ist kostenlos
   TOOLTIP_CARD_ICEPACK: |
     Eine Karte und ein GPS, um das Eis ohne Bezahlung zu verlassen
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ de:
   LABEL_SURROUNDING_SUMMER: Sommer
   LABEL_SURROUNDING_WINTER: Winter
   LABEL_SURROUNDING_EASTER: Ostern
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Valentinstag
   LABEL_BOARD_SURROUNDING: Brett-Design
   LABEL_CUSTOM_RULESET_TITLE: Benutzerdefinierte Regeln
   LABEL_CUSTOM_RULESET_ECONOMY: Wirtschaft
@@ -1010,3 +1012,13 @@ de:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Weltwunder zurückkaufen
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: 5-Sterne-Hotels zurückkaufen
   LABEL_PAUSE_GAME: Spiel pausieren
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karatschi
+  LABEL_CASE_ISTANBUL: Istanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Wien
+  LABEL_CASE_WARSAW: Warschau
+  BUTTON_SMALL_BOARD: Kleines Brett
+  BUTTON_BIG_BOARD: Großes Brett

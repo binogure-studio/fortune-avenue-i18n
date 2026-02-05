@@ -196,7 +196,7 @@ tr:
     Bir sonraki Dünya Kupası'nı iptal ettirmeyi başardınız, temel karesine geri dönüyor.
   LABEL_CARD_RANDOM_10_TITLE: Dünya Eğlence Komitesi
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    İyi bir samaritan size tatil hediye etmeye karar verdi. Bir sonraki kirayı ödemiyorsunuz.
+    İyi bir Samariyeli size bir tatil vermeye karar verdi. Bu kartı seçtiğiniz bir kirayı ödemekten kaçınmak için kullanabilirsiniz.
   LABEL_CARD_RANDOM_11_TITLE: İyi Samaritan
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Kiracılarınızdan biri sizi ekiyor, bir sonraki kirayı banka sizin adınıza tahsil edecek.
@@ -818,7 +818,7 @@ tr:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Bir sonraki kiranız iki katına çıkar
   TOOLTIP_CARD_FREE_RENT: |
-    Bir sonraki kiranız bedava
+    Seçtiğiniz bir kira ücretsiz
   TOOLTIP_CARD_ICEPACK: |
     Buz kütlesinden ödemesiz çıkmak için kart ve GPS
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ tr:
   LABEL_SURROUNDING_SUMMER: Yaz
   LABEL_SURROUNDING_WINTER: Kış
   LABEL_SURROUNDING_EASTER: Paskalya
+  LABEL_SURROUNDING_HALLOWEEN: Cadılar Bayramı
+  LABEL_SURROUNDING_VALENTINE: Sevgililer Günü
   LABEL_BOARD_SURROUNDING: Tahta teması
   LABEL_CUSTOM_RULESET_TITLE: Özel kurallar
   LABEL_CUSTOM_RULESET_ECONOMY: Ekonomi
@@ -1010,3 +1012,13 @@ tr:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Harikaları geri al
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: 5 yıldızlı otelleri geri al
   LABEL_PAUSE_GAME: Oyunu Duraklat
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karaçi
+  LABEL_CASE_ISTANBUL: İstanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Viyana
+  LABEL_CASE_WARSAW: Varşova
+  BUTTON_SMALL_BOARD: Küçük tahta
+  BUTTON_BIG_BOARD: Büyük tahta

@@ -196,7 +196,7 @@ ru:
     Вам удается отменить следующий чемпионат мира, он возвращается к своему базовому случаю.
   LABEL_CARD_RANDOM_10_TITLE: Всемирный Комитет Развлечений
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Добрый самаритянин решил подарить вам отпуск. Вам не нужно платить следующий аренду.
+    Добрый самаритянин решил подарить вам отпуск. Вы можете использовать эту карту, чтобы не платить аренду по вашему выбору.
   LABEL_CARD_RANDOM_11_TITLE: Добрый Самаритянин
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Один из ваших арендаторов отказывается от вас, и банк забирает следующую арендную плату вместо него.
@@ -818,7 +818,7 @@ ru:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Следующая аренда удваивается
   TOOLTIP_CARD_FREE_RENT: |
-    Следующая аренда бесплатна
+    Аренда по вашему выбору бесплатна
   TOOLTIP_CARD_ICEPACK: |
     Карта и GPS для выхода со льда без оплаты
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ ru:
   LABEL_SURROUNDING_SUMMER: Лето
   LABEL_SURROUNDING_WINTER: Зима
   LABEL_SURROUNDING_EASTER: Пасха
+  LABEL_SURROUNDING_HALLOWEEN: Хэллоуин
+  LABEL_SURROUNDING_VALENTINE: День Валентина
   LABEL_BOARD_SURROUNDING: Тема доски
   LABEL_CUSTOM_RULESET_TITLE: Пользовательские правила
   LABEL_CUSTOM_RULESET_ECONOMY: Экономика
@@ -1010,3 +1012,13 @@ ru:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Выкупать чудеса света
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Выкупать 5-звездочные отели
   LABEL_PAUSE_GAME: Пауза
+  LABEL_CASE_ABIDJAN: Абиджан
+  LABEL_CASE_LAGOS: Лагос
+  LABEL_CASE_KARACHI: Карачи
+  LABEL_CASE_ISTANBUL: Стамбул
+  LABEL_CASE_LIMA: Лима
+  LABEL_CASE_CHICAGO: Чикаго
+  LABEL_CASE_VIENNE: Вена
+  LABEL_CASE_WARSAW: Варшава
+  BUTTON_SMALL_BOARD: Малая доска
+  BUTTON_BIG_BOARD: Большая доска

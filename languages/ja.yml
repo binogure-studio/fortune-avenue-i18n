@@ -1,0 +1,1022 @@
+ja:
+  BUTTON_RESET_TO_DEFAULT: デフォルトにリセット
+  BUTTON_APPLY: 適用
+  BUTTON_AUTOMATIC_SELL: 自動売却
+  BUTTON_BANKRUPT: 破産
+  BUTTON_BUY: 購入
+  BUTTON_BUY_BACK: 買い戻す
+  BUTTON_CANCEL: キャンセル
+  BUTTON_CLASSIC: クラシックルール
+  BUTTON_CLOSE: 閉じる
+  BUTTON_CREATE_GAME: ロビーを作成
+  BUTTON_FEEDBACK: フィードバック
+  BUTTON_GIVE_UP: 降参
+  BUTTON_INVITE: 招待
+  BUTTON_JOIN: 参加
+  BUTTON_JOIN_GAME: ロビーに参加
+  BUTTON_KEEP_WATCHING: 観戦を続ける
+  BUTTON_LANGUAGE: 言語
+  BUTTON_LAN_TYPE: ローカルゲーム
+  BUTTON_LEAVE_GAME_CANCEL: いいえ、残ります
+  BUTTON_LEAVE_GAME_CONFIRM: はい、退出します
+  BUTTON_LOOK_FOR_PLAYER: 対戦相手を探す
+  BUTTON_MAIN_MENU: メインメニュー
+  BUTTON_OK: OK
+  BUTTON_ONLINE_TYPE: オンラインゲーム
+  BUTTON_OPTIONS: オプション
+  BUTTON_ORIGINAL: オリジナルルール
+  BUTTON_PAY: 支払う
+  BUTTON_PAY_TICKET: チケットを購入
+  BUTTON_PLAY_AGAIN: もう一度プレイ
+  BUTTON_PLAY_CARD: カードをプレイ
+  BUTTON_QUIT: 終了
+  BUTTON_READY: 準備完了！
+  BUTTON_REFRESH: 更新
+  BUTTON_REFUSE_TICKET: 拒否
+  BUTTON_RESET_WORLDCUP: ワールドカップをキャンセル
+  BUTTON_SELL: 売却
+  BUTTON_SET_WORLD_CUP: ワールドカップを開催
+  BUTTON_SPLIT_SCREEN_TYPE: スプリットスクリーン
+  BUTTON_START_PLAYING: プレイ！
+  BUTTON_THROW_DICES: サイコロを振る
+  BUTTON_USE_CARD: カードを使用
+  BUTTON_WISHLIST: ウィッシュリストに追加
+  CREATING_LOBBY: ロビーを作成中
+  GAME_COMPLETE: ゲーム完了
+  GAME_RECONNECTED: ゲームに再接続
+  GAME_RECONNECTING: ゲームに再接続中
+  IN_GAME: ゲーム中
+  JOINNING_LOBBY: ロビーに参加中
+  LABEL_1_HOSTEL: 5つ星ホテル
+  LABEL_1_HOUSE: 1つ星ホテル
+  LABEL_1_WONDER: ワンダー1つ
+  LABEL_2_HOUSE: 2つ星ホテル
+  LABEL_2_WONDER: ワンダー2つ
+  LABEL_3_HOUSE: 3つ星ホテル
+  LABEL_3_WONDER: ワンダー3つ
+  LABEL_4_HOUSE: 4つ星ホテル
+  LABEL_4_WONDER: ワンダー4つ
+  LABEL_AIRPORT_DESCRIPTION: |
+    空いている場所に飛行機で移動できます。
+  LABEL_ALMOST_MONOPOLE_SIDE: |
+    [center][b]%s[/b]が直線モノポリーをほぼ達成[/center]
+  LABEL_ALMOST_MONOPOLE_WONDER: |
+    [center][b]%s[/b]がワンダーモノポリーをほぼ達成[/center]
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_CANCELED: ユーザーによってセッションがキャンセルされました。
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID: 無効なセッション。
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_INVALID_ALREADY_USED: セッションは既に使用されています。
+  LABEL_AUTH_SESSION_RESPONSE_AUTH_TICKET_NETWORK_IDENTITY_FAILURE: ネットワークの問題
+  LABEL_AUTH_SESSION_RESPONSE_LOGGED_IN_ELSEWHERE: 他の場所で接続されています。
+  LABEL_AUTH_SESSION_RESPONSE_NO_LICENSE_OR_EXPIRED: ゲームを所有していません。
+  LABEL_AUTH_SESSION_RESPONSE_OK: セッションOK。
+  LABEL_AUTH_SESSION_RESPONSE_PUBLISHER_ISSUED_BAN: アカウントが禁止されています。
+  LABEL_AUTH_SESSION_RESPONSE_USER_NOT_CONNECTED_TO_STEAM: Steamに接続されていません。
+  LABEL_AUTH_SESSION_RESPONSE_VAC_BANNED: VAC禁止。
+  LABEL_AUTH_SESSION_RESPONSE_VAC_CHECK_TIMED_OUT: VAC確認がタイムアウトしました。
+  LABEL_BALANCED_SHADOW: バランス
+  LABEL_BEAR_NAME: パタプフ
+  LABEL_BEGIN_AUTH_SESSION_RESULT_DUPLICATE_REQUEST: 重複リクエスト
+  LABEL_BEGIN_AUTH_SESSION_RESULT_EXPIRED_TICKET: チケットの有効期限切れ
+  LABEL_BEGIN_AUTH_SESSION_RESULT_GAME_MISMATCH: ゲームの不一致
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_TICKET: 無効なチケット
+  LABEL_BEGIN_AUTH_SESSION_RESULT_INVALID_VERSION: 無効なバージョン
+  LABEL_BEGIN_AUTH_SESSION_RESULT_OK: チケット有効
+  LABEL_BOAT_NAME: スプラッシー
+  LABEL_BUY_BACK_VALUE: $%sで買い戻し可能
+  LABEL_BUY_BUILD: 建物を購入
+  LABEL_BUY_COSTS: 購入費用
+  LABEL_BUY_FOR: $%sで購入
+  LABEL_BUY_NOTHING: 何も購入しない
+  LABEL_BUY_WONDER: ワンダーを購入
+  LABEL_CARD_ANARCHY_0_DESCRIPTION: |
+    不法占拠者があなたの支配下にあり、ホテルの評価を下げるために使用できます。
+
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_0_TITLE: 国家警察
+  LABEL_CARD_ANARCHY_10_DESCRIPTION: |
+    ある集団があなたを預言者と思い込んでいます。占拠させる都市を指定できます。その都市は%sラップの間賃料を生み出しません。
+
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_10_TITLE: 偶然のコンテスト
+  LABEL_CARD_ANARCHY_11_DESCRIPTION: |
+    このカードを使用してワンダーをゲームに復帰させることができます。所有者は即座にワンダーを失います。
+
+    ワンダーを選択してください
+  LABEL_CARD_ANARCHY_11_TITLE: 不正の決定
+  LABEL_CARD_ANARCHY_12_DESCRIPTION: |
+    おめでとうございます！市町村が無料の3つ星ホテルを提供します。
+
+    都市を選択してください
+  LABEL_CARD_ANARCHY_12_TITLE: 土地登記
+  LABEL_CARD_ANARCHY_13_DESCRIPTION: |
+    プライベートジェットにアクセスできます。今すぐフライトに乗りましょう。
+  LABEL_CARD_ANARCHY_13_TITLE: プライベートジェット
+  LABEL_CARD_ANARCHY_14_DESCRIPTION: |
+    怪しい人脈が役に立っています。選択したプレイヤーを氷山に送ります。
+
+    プレイヤーを選択してください
+  LABEL_CARD_ANARCHY_14_TITLE: 腐敗した裁判官
+  LABEL_CARD_ANARCHY_15_DESCRIPTION: |
+    市役所は住民からの苦情を受けて祭りをキャンセルします。
+
+    都市を選択してください
+  LABEL_CARD_ANARCHY_15_TITLE: 祭りの終わり
+  LABEL_CARD_ANARCHY_16_DESCRIPTION: |
+    次のワールドカップを開催する都市を選択する権利を獲得します。
+
+    都市を選択してください
+  LABEL_CARD_ANARCHY_16_TITLE: ワールドカップ
+  LABEL_CARD_ANARCHY_17_DESCRIPTION: |
+    対戦相手を1マス前進させることができます。賢く選んでください！
+
+    プレイヤーを選択してください
+  LABEL_CARD_ANARCHY_17_TITLE: 誘拐
+  LABEL_CARD_ANARCHY_18_DESCRIPTION: |
+    新しいルール投票を即座に開始します。物事を揺さぶる時間です！
+  LABEL_CARD_ANARCHY_18_TITLE: 民主主義の実践
+  LABEL_CARD_ANARCHY_19_DESCRIPTION: |
+    選択したプレイヤーは次のターンをスキップする必要があります。
+
+    プレイヤーを選択してください。
+  LABEL_CARD_ANARCHY_19_TITLE: 強制休暇
+  LABEL_CARD_ANARCHY_1_DESCRIPTION: |
+    公証人があなたを気に入っています。選択した都市を解放することを提案します。
+
+    都市を選択してください
+  LABEL_CARD_ANARCHY_1_TITLE: 公証人事務所
+  LABEL_CARD_ANARCHY_20_DESCRIPTION: |
+    改装専門家があなたの物件に到着します。すべてのペナルティを削除し、物件を保護します。
+  
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_20_TITLE: 特急リノベーション
+  LABEL_CARD_ANARCHY_2_DESCRIPTION: |
+    狡猾なあなたは、どこへ行っても気づかれずにいることができます。これによりプレイヤーから都市を盗むことができます。
+
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_2_TITLE: 執行官
+  LABEL_CARD_ANARCHY_3_DESCRIPTION: |
+    リアリティTV番組があなたの都市の1つに定着しました。ホテルをアップグレードするための大規模な建設プロジェクトを開始します。
+
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_3_TITLE: MOVE DA BUS
+  LABEL_CARD_ANARCHY_4_DESCRIPTION: |
+    仲間の1人に株式市場でプレイさせ、流動資金の4分の1を失わせます。
+
+    プレイヤーを選択してください
+  LABEL_CARD_ANARCHY_4_TITLE: プレイにはリスクが伴う
+  LABEL_CARD_ANARCHY_5_DESCRIPTION: |
+    仲間の1人を比例課税モードに切り替えさせます。税金と関税のマスに着地すると、財務資産に比例した税金を支払います。
+
+    プレイヤーを選択してください
+  LABEL_CARD_ANARCHY_5_TITLE: 公共財政
+  LABEL_CARD_ANARCHY_6_DESCRIPTION: |
+    地域の知事があなたを気に入っており、潜在的な災害からあなたの都市の1つを保護するために完全な警察連隊を提供します。
+
+    都市を選択してください。
+  LABEL_CARD_ANARCHY_6_TITLE: 領土の安全
+  LABEL_CARD_ANARCHY_7_DESCRIPTION: |
+    仲間の1人を固定課税モードに切り替えさせます。税金と関税のマスに着地すると、$%sの固定額を支払う必要があります。
+
+    プレイヤーを選択してください
+  LABEL_CARD_ANARCHY_7_TITLE: 公共財政
+  LABEL_CARD_ANARCHY_8_DESCRIPTION: |
+    ゴミ収集のストライキがあり、このラップの間賃料はありません。
+
+    都市を選択してください
+  LABEL_CARD_ANARCHY_8_TITLE: 労働組合
+  LABEL_CARD_ANARCHY_9_DESCRIPTION: |
+    自発的で自己組織化された祭りがあなたの都市の1つに侵入します。
+
+    あなたの物件の1つを選択してください
+  LABEL_CARD_ANARCHY_9_TITLE: 音楽祭
+  LABEL_CARD_RANDOM_0_DESCRIPTION: |
+    あなたに有利な誤り、銀行が$%sの配当金を支払います。
+  LABEL_CARD_RANDOM_0_TITLE: 銀行
+  LABEL_CARD_RANDOM_10_DESCRIPTION: |
+    次のワールドカップをキャンセルすることができます。元の状態に戻ります。
+  LABEL_CARD_RANDOM_10_TITLE: 世界楽しみ委員会
+  LABEL_CARD_RANDOM_11_DESCRIPTION: |
+    善良なサマリア人があなたに休暇を与えることにしました。このカードを使用して、選択した家賃の支払いをスキップできます。
+  LABEL_CARD_RANDOM_11_TITLE: 善良なサマリア人
+  LABEL_CARD_RANDOM_12_DESCRIPTION: |
+    あなたのテナントの1人があなたを見捨て、銀行が代わりに次の賃料を回収します。
+  LABEL_CARD_RANDOM_12_TITLE: 不満なテナント
+  LABEL_CARD_RANDOM_13_DESCRIPTION: |
+    おめでとうございます、あなたの大叔父があなたに彼のホテルの1つを遺贈しました。
+  LABEL_CARD_RANDOM_13_TITLE: 遺産
+  LABEL_CARD_RANDOM_14_DESCRIPTION: |
+    あなたの都市の1つで犯罪が増加しており、知事はそれを保護するために警察連隊を派遣します。
+  LABEL_CARD_RANDOM_14_TITLE: 犯罪の増加
+  LABEL_CARD_RANDOM_15_DESCRIPTION: |
+    抜き打ち税務監査を受けています。
+
+    税金に移動します。
+  LABEL_CARD_RANDOM_15_TITLE: 税務監査
+  LABEL_CARD_RANDOM_16_DESCRIPTION: |
+    不運！事故のためにランダムにホテルの1つを失います。
+  LABEL_CARD_RANDOM_16_TITLE: 大災害
+  LABEL_CARD_RANDOM_17_DESCRIPTION: |
+    ロイヤリティカードで無料の飛行機チケットを獲得します。
+
+    好きなときに使用してください。
+  LABEL_CARD_RANDOM_17_TITLE: プレーンマイル
+  LABEL_CARD_RANDOM_18_DESCRIPTION: |
+    すぐに1マス前進します。時には小さな進歩が違いを生みます。
+  LABEL_CARD_RANDOM_18_TITLE: 小さな一歩
+  LABEL_CARD_RANDOM_19_DESCRIPTION: |
+    ビジネスクラスで旅行しています。次の飛行機チケットの価格が2倍になります。
+  LABEL_CARD_RANDOM_19_TITLE: ビジネスクラス
+  LABEL_CARD_RANDOM_1_DESCRIPTION: |
+    %sに移動します。
+  LABEL_CARD_RANDOM_1_TITLE: 旅行代理店
+  LABEL_CARD_RANDOM_20_DESCRIPTION: |
+    幸運の女神があなたに微笑んでいます！すぐにもう一度ターンを取ることができます。
+  LABEL_CARD_RANDOM_20_TITLE: 第二の風
+  LABEL_CARD_RANDOM_21_DESCRIPTION: |
+    税務署があなたのファイルを紛失しました。次に税金に着地するときは、3万ドルしか支払う必要はありません。
+  LABEL_CARD_RANDOM_21_TITLE: 税務申告エラー
+  LABEL_CARD_RANDOM_2_DESCRIPTION: |
+    %sマス後退してください。
+  LABEL_CARD_RANDOM_2_TITLE: 旅行代理店
+  LABEL_CARD_RANDOM_3_DESCRIPTION: |
+    またしても道に迷いました。周りは見渡す限り氷だらけです。
+    
+    間違いありません、あなたは氷山にいます。
+  LABEL_CARD_RANDOM_3_TITLE: 氷山
+  LABEL_CARD_RANDOM_4_DESCRIPTION: |
+    楽しい時間を過ごし、すべての友人を招待していますが、次の賃料の支払いが2倍になります。
+  LABEL_CARD_RANDOM_4_TITLE: 休暇
+  LABEL_CARD_RANDOM_5_DESCRIPTION: |
+    GPSと衛星電話を受け取ります。これらがあれば、氷山でもどこでも道を見つけることができます。
+
+    このカードを使用して氷山から脱出します
+  LABEL_CARD_RANDOM_5_TITLE: グッドタイミング！
+  LABEL_CARD_RANDOM_6_DESCRIPTION: |
+    株式市場でプレイしていますが、うまくいっていません。
+
+    流動資産の4分の1を即座に失います。
+  LABEL_CARD_RANDOM_6_TITLE: プレイにはリスクが伴う
+  LABEL_CARD_RANDOM_7_DESCRIPTION: |
+    比例課税モードに切り替えます。
+
+    税金と関税のマスに着地すると、財務資産に比例した税金を支払います。
+  LABEL_CARD_RANDOM_7_TITLE: 公共財政
+  LABEL_CARD_RANDOM_8_DESCRIPTION: |
+    固定課税モードに切り替えます。
+
+    税金と関税のマスに着地すると、$%sの固定額を支払います。
+  LABEL_CARD_RANDOM_8_TITLE: 公共財政
+  LABEL_CARD_RANDOM_9_DESCRIPTION: |
+    有名なストリーマーがあなたの名前で非営利キャンペーンを組織し、$%sを受け取ります。
+  LABEL_CARD_RANDOM_9_TITLE: ジャスティンTV
+  LABEL_CARD_SKIP_TURN: ターンをスキップ
+  LABEL_CAR_NAME: ヴァン・ディーゼル
+  LABEL_CASE_ACTION_BLESS_PROPERTY: |
+    物件が改装されました
+  LABEL_CASE_ACTION_BUILD_PROPERTY: |
+    物件が建設されました
+  LABEL_CASE_ACTION_CANCEL_WORLDCUP: |
+    ワールドカップをキャンセル
+  LABEL_CASE_ACTION_DISABLE_PROPERTY: |
+    物件の賃料を無効化
+  LABEL_CASE_ACTION_DOWNGRADE_HOTEL: |
+    ホテルをダウングレード
+  LABEL_CASE_ACTION_ENABLE_PROPERTY: |
+    物件の賃料を有効化
+  LABEL_CASE_ACTION_FREE_PROPERTY: |
+    物件を解放
+  LABEL_CASE_ACTION_ORGANIZE_FESTIVAL: |
+    祭りを開催
+  LABEL_CASE_ACTION_ORGANIZE_WORLDCUP: |
+    ワールドカップを開催
+  LABEL_CASE_ACTION_PROTECT_PROPERTY: |
+    物件を保護
+  LABEL_CASE_ACTION_SELL_PROPERTY: |
+    物件を売却
+  LABEL_CASE_ACTION_STEAL_PROPERTY: |
+    物件の所有者を変更
+  LABEL_CASE_ACTION_UPGRADE_HOTEL: |
+    ホテルをアップグレード
+  LABEL_CASE_AIRPORT: 空港
+  LABEL_CASE_ALGER: アルジェ
+  LABEL_CASE_BEGIN: スタート
+  LABEL_CASE_BERLIN: ベルリン
+  LABEL_CASE_BOMBAY: ボンベイ
+  LABEL_CASE_BUENOSAIRES: ブエノスアイレス
+  LABEL_CASE_CASABLANCA: カサブランカ
+  LABEL_CASE_DAKAR: ダカール
+  LABEL_CASE_FESTIVAL: 祭り
+  LABEL_CASE_HONGKONG: 香港
+  LABEL_CASE_ICEPACK: 氷山
+  LABEL_CASE_JAKARTA: ジャカルタ
+  LABEL_CASE_KINSHASA: キンシャサ
+  LABEL_CASE_LECAIRE: カイロ
+  LABEL_CASE_LONDRES: ロンドン
+  LABEL_CASE_LOSANGELES: ロサンゼルス
+  LABEL_CASE_MADRID: マドリード
+  LABEL_CASE_MEXICO: メキシコ
+  LABEL_CASE_MONTREAL: モントリオール
+  LABEL_CASE_MOSCOU: モスクワ
+  LABEL_CASE_NEWYORK: ニューヨーク
+  LABEL_CASE_NO_RENT: 賃料なし
+  LABEL_CASE_PARIS: パリ
+  LABEL_CASE_PEKIN: 北京
+  LABEL_CASE_PRISON: 刑務所
+  LABEL_CASE_PROTECTED: 保護済み
+  LABEL_CASE_ROME: ローマ
+  LABEL_CASE_SAOPOLO: サンパウロ
+  LABEL_CASE_SEOUL: ソウル
+  LABEL_CASE_TAXES: 税金
+  LABEL_CASE_TOKYO: 東京
+  LABEL_CASE_WHEEL: ルーレット
+  LABEL_CASE_WONDER: ワンダー
+  LABEL_CASE_WORLDCUP: ワールドカップ
+  LABEL_CLICK_TO_VOTE: 押して投票
+  LABEL_COMPUTER_PLAYER: コンピュータープレイヤー
+  LABEL_DEMO_EMBARGO: >
+    ゲームの禁輸措置を遵守してください。プレイテストが終了するまで、動画やストリームは許可されません。ご協力ありがとうございます！
+  LABEL_DEMO_VERSION: Fortune Avenue デモ版
+  LABEL_DETAILED_SHADOW: 詳細
+  LABEL_DICE_DOUBLE: ゾロ目
+  LABEL_DISABLED: 無効
+  LABEL_DOG_NAME: バーキー
+  LABEL_DOUBLE_RENT_MONOPOLY: |
+    モノポリーを持っている場合、賃料が2倍になります。
+  LABEL_ERROR_DIALOG_DESCRIPTION: |
+    ゲームを作成または参加できません。
+  LABEL_ERROR_DIALOG_TITLE: エラー
+  LABEL_GAME_START_MULTIPLAYER: マルチプレイヤー
+  LABEL_GAME_START_OFFLINE: オフラインでプレイ
+  LABEL_GAME_START_ONLINE: オンラインでプレイ
+  LABEL_GAME_START_SINGLEPLAYER: シングルプレイヤー
+  LABEL_GIVE_UP_GAME_DESCRIPTION: |
+    今降参すると、現在の進行状況が失われ、進行中のマルチプレイヤー体験から切断されます。あなたの退出は他のプレイヤーに影響を与える可能性があります。
+
+    [center][b]本当に降参しますか？[/b][/center]
+  LABEL_GIVE_UP_GAME_TITLE: |
+    Fortune Avenueを降参
+  LABEL_GOOSE_NAME: フラッピー
+  LABEL_HUMAN_PLAYER: 人間プレイヤー
+  LABEL_ICEPACKED_ANNOUNCE: |
+    [b]氷山に閉じ込められています[/b]、本当に運が悪いですね。
+
+    脱出するには[b]ゾロ目を出す[/b]ことができます。または[b]$%s[/b]を支払うことを選択でき、すぐに脱出できます。
+
+    [b]氷山から脱出[/b]カードがある場合は、今がそれをプレイする時です。
+  LABEL_ICEPACKED_LAST_TURN_ANNOUNCE: |
+    あなたはここに長くいすぎました、もう待てません。
+    この氷の地獄から抜け出すために[b]$%s[/b]を支払うことにします。
+  LABEL_ICEPACKED_LUXURY_CRUISE_ANNOUNCE: |
+    休暇はとても楽しいです。
+
+    [b]豪華クルーズ[/b]が港に近づき、あなたを降ろしてくれます。
+    [b]$%s[/b]を支払い、すぐに下船します。
+
+    [b]氷山から脱出[/b]カードがある場合は、今がそれをプレイする時です。
+  LABEL_ICEPACKING_ANNOUNCE: |
+    旅の途中で、氷に囲まれてさまよっています。氷だけです。
+
+    [b]氷山で迷子になりました！[/b]
+    確実なことは、給料がもらえないということです。
+
+    助けを呼んで[b]$%s[/b]の請求書を支払わない限り、ここに閉じ込められてしまいます。
+  LABEL_ICEPACKING_LUXURY_CRUISE_ANNOUNCE: |
+    北極に到着しました！もう氷は見えません！
+
+    [b]豪華クルーズ[/b]があなたを拾い上げ、船に乗せてくれます。
+    楽しい時間を過ごす機会があります。
+
+    もちろん、これは無料ではなく、[b]$%s[/b]の費用がかかります。
+  LABEL_IP_ADDRESS: IPアドレス
+  LABEL_KIKIMETER_MOST_AIRPLANE: 空の王
+  LABEL_KIKIMETER_MOST_DOUBLE: サイコロの巨匠
+  LABEL_KIKIMETER_MOST_ICEPACK: 現役ペンギン
+  LABEL_KIKIMETER_MOST_KILLER: 友人殺戮者
+  LABEL_KIKIMETER_MOST_LAP: 車輪のハムスター
+  LABEL_KIKIMETER_MOST_RENT: 大散財家
+  LABEL_LAND_FREE: 利用可能
+  LABEL_LAND_ONLY: キャラバン
+  LABEL_LAPS: ラップ
+  LABEL_LEADERBOARD: リーダーボード
+  LABEL_LEAVE_GAME_DESCRIPTION: |
+    今退出すると、現在の進行状況が失われ、進行中のマルチプレイヤー体験から切断されます。あなたの退出は他のプレイヤーに影響を与える可能性があります。
+
+    [center][b]本当に退出しますか？[/b][/center]
+  LABEL_LEAVE_GAME_TITLE: |
+    Fortune Avenueを退出
+  LABEL_LOADING_1: ゴドーを待っている...いつものように
+  LABEL_LOADING_10: 氷山救助任務のためにペンギンを訓練中
+  LABEL_LOADING_11: 漂流プレイヤーのために豪華クルーズをスケジュール中
+  LABEL_LOADING_12: 飛行機に反重力機能を搭載中
+  LABEL_LOADING_13: 運命の輪に適切な物理学を教えています
+  LABEL_LOADING_14: キリスト像を磨き中
+  LABEL_LOADING_15: タージマハルがタージマハルらしいことを確認中
+  LABEL_LOADING_16: ピラミッドの埃を払い中
+  LABEL_LOADING_17: コロッセオを改装中（また）
+  LABEL_LOADING_18: 仮想銀行員を雇用中
+  LABEL_LOADING_19: あなたの財政破綻を準備中
+  LABEL_LOADING_2: サイコロを有利に操作中（冗談です）
+  LABEL_LOADING_20: 資本主義の悪夢をロード中
+  LABEL_LOADING_21: 破産のランダムな言い訳を生成中
+  LABEL_LOADING_22: AIプレイヤーに無慈悲であることを教えています
+  LABEL_LOADING_23: 最適な賃料搾取戦略を計算中
+  LABEL_LOADING_24: 「チャンス」カードを準備中（実際には何も偶然ではありません）
+  LABEL_LOADING_25: 高級ホテルに射出座席を設置中
+  LABEL_LOADING_26: 富の再分配中（冗談です、これはモノポリーです）
+  LABEL_LOADING_27: お金が木に生えないことを確認中
+  LABEL_LOADING_28: 仮想破産への道を準備中
+  LABEL_LOADING_29: 買えない高価な物件をロード中
+  LABEL_LOADING_3: ヘリコプターに貧しい人々を追いかけることを教えています
+  LABEL_LOADING_30: キャラバンが5つ星ホテルに変身することを教えています
+  LABEL_LOADING_31: 財政災害を準備中
+  LABEL_LOADING_32: 仮想不動産バブルをロード中
+  LABEL_LOADING_33: 銀行が常に勝つことを確認中
+  LABEL_LOADING_34: 複利を計算中（あなたに有利ではありません）
+  LABEL_LOADING_35: AIに疑わしい財務決定をさせるようプログラミング中
+  LABEL_LOADING_36: 怪しい銀行家との握手を準備中
+  LABEL_LOADING_37: 積極的な物件取得戦略をロード中
+  LABEL_LOADING_38: サイコロに劇的に転がることを教えています
+  LABEL_LOADING_39: ホテルを正確に1ピクセルずらしています
+  LABEL_LOADING_4: 氷山を溶かし中...地球温暖化は含まれていません
+  LABEL_LOADING_40: お金を失う面白い方法を準備中
+  LABEL_LOADING_41: 実生活では機能しない経済理論をロード中
+  LABEL_LOADING_42: 機知に富んだロード画面メッセージを生成中
+  LABEL_LOADING_43: RNGが適切にランダムであることを確認中（本当に？）
+  LABEL_LOADING_44: 仮想財産証書を準備中
+  LABEL_LOADING_45: 資本主義シミュレーターv2.0をロード中
+  LABEL_LOADING_46: ヘリコプターに適切な追跡振り付けを教えています
+  LABEL_LOADING_47: 財政破綻への旅を準備中
+  LABEL_LOADING_48: 豪華クルーズが十分に豪華であることを確認中
+  LABEL_LOADING_49: 最適な友情破壊戦略を計算中
+  LABEL_LOADING_5: ゾロ目が出る確率を計算中
+  LABEL_LOADING_50: ロード中...できるので
+  LABEL_LOADING_6: ホテルの価格を不合理なレベルまでインフレ中
+  LABEL_LOADING_7: 即興祭りを開催中
+  LABEL_LOADING_8: ワールドカップ委員会に賄賂を贈り中
+  LABEL_LOADING_9: モノポリーマネーを数え中（念のため2回）
+  LABEL_LOADING_HOW_TO_PLAY_DESCRIPTION: |
+    ルールに投票 •
+    サイコロを振る •
+    ホテルを建設 •
+  LABEL_LOADING_HOW_TO_PLAY_TITLE: |
+    プレイ方法は？
+  LABEL_LOADING_HOW_TO_WIN_DESCRIPTION: |
+    対戦相手を破産させる ✔
+    すべてのワンダーを購入 ✔
+    ボードの一辺全体を所有 ✔
+  LABEL_LOADING_HOW_TO_WIN_TITLE: |
+    勝利方法は？
+  LABEL_LOBBY_AUTO_FILL_WITH_COMPUTER: |
+    時間切れになった場合、ロビーが満員でなければ、
+    空きスロットはコンピューターで埋められます。
+  LABEL_LOBBY_FILLING_TIMED_OUT: >
+    [b]時間切れです！[/b]
+
+    ゲームに参加するプレイヤーが見つかりませんでした。
+    すぐにゲームを開始するには、コンピューター制御のプレイヤーを追加することを検討してください
+  LABEL_LOBBY_NAME: ロビー名
+  LABEL_LOBBY_NO_AUTO_FILL: |
+    時間切れになった場合、ロビーが満員でなければ、
+    ゲームを開始せず、ロビーのロックを解除します。
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_BANK: |
+    {ps}銀行{pe}に支払えず、{ps}破産{pe}しました！
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    ゲームを{ps}降参{pe}することにしました！
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    信じられない追跡の後、{ps}ヘリコプター{pe}がついにあなたを捕まえました！
+  LABEL_LOCAL_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {killer_name}に支払えず、{ps}破産{pe}しました！
+  LABEL_LOCAL_PLAYER_LOST_TITLE: 敗北しました！
+  LABEL_MAIN_MENU_GAME_TITLE: |
+    メインメニューに戻る
+  LABEL_MINUTES: 分
+  LABEL_NEW_RENT: "新しい賃料: $%s"
+  LABEL_NOT_AVAILABLE_DEMO: デモ版では利用できません
+  LABEL_NO_CASE_AVAILABLE_DESCRIPTION: |
+    利用可能なマスがないため、このカードをプレイできません。
+  LABEL_NO_EFFECT_TO_PLAYER: |
+    どのプレイヤーにも影響しないため、このカードをプレイできません。
+  LABEL_NO_HOTEL_AVAILABLE_DESCRIPTION: |
+    利用可能なホテルがないため、このカードをプレイできません。
+  LABEL_NO_LOBBY: 利用可能なロビーがありません
+  LABEL_NO_PROPERTY_AVAILABLE_DESCRIPTION: |
+    利用可能な物件がないため、このカードをプレイできません。
+  LABEL_NO_SIGNAL: 信号なし
+  LABEL_NO_TEAM: チームなし
+  LABEL_NO_WONDER_AVAILABLE_DESCRIPTION: |
+    利用可能なワンダーがないため、このカードをプレイできません。
+  LABEL_NUMBER_OF_LAP_WITHOUT_RENT: 賃料なしのラップ数
+  LABEL_NUMBER_OF_PLAYERS: プレイヤー数
+  LABEL_OPENGL_RENDERER: "レンダラー: OpenGL (実験的)"
+  LABEL_OPTION_AUDIO: オーディオ設定
+  LABEL_OPTION_AUTOFILL_LOBBY: コンピューターでロビーを自動入力
+  LABEL_OPTION_BOARD_CENTER_ROTATE: ボード中央の回転
+  LABEL_OPTION_BRIGHTNESS: 明るさ
+  LABEL_OPTION_CAMERA: カメラの動き
+  LABEL_OPTION_CAMERA_FIXED: プレイヤーを追跡しない
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_ROTATION: プレイヤーを追跡（回転）
+  LABEL_OPTION_CAMERA_FOLLOW_PLAYER_TRANSLATION: プレイヤーを追跡（移動）
+  LABEL_OPTION_CAMERA_INVERTED: カメラ反転
+  LABEL_OPTION_CAMERA_SEMI_AUTO: アイドル時にカメラをリセット
+  LABEL_OPTION_DISABLE_SURROUNDING: 環境を無効化
+  LABEL_OPTION_FX: 効果音
+  LABEL_OPTION_GAMEPAD_VIBRATION: コントローラーの振動
+  LABEL_OPTION_GAMEPLAY: ゲームプレイ設定
+  LABEL_OPTION_GAME_SPEED: ゲーム速度
+  LABEL_OPTION_GAME_SPEED_FAST: 速い
+  LABEL_OPTION_GAME_SPEED_FASTER: より速い
+  LABEL_OPTION_GAME_SPEED_NORMAL: 通常
+  LABEL_OPTION_LANGUAGE: 言語
+  LABEL_OPTION_LOBBY_WAIT_TIME: ロビータイムアウト
+  LABEL_OPTION_MISC: その他の設定
+  LABEL_OPTION_MUSIC: 音楽
+  LABEL_OPTION_RENDERER: レンダラー
+  LABEL_OPTION_RESOLUTION: 解像度
+  LABEL_OPTION_TITLE: オプション
+  LABEL_OPTION_TUTORIEL: チュートリアル
+  LABEL_OPTION_VIDEO: グラフィック設定
+  LABEL_OPTION_WINDOW: ウィンドウ表示
+  LABEL_PAWN_NAME: タクティクス
+  LABEL_PAY: $%s支払う
+  LABEL_PAY_RENT: 賃料
+  LABEL_PIG_NAME: ロゼット
+  LABEL_PINGOUIN_NAME: ガンター
+  LABEL_PLAYER_BANKRUPT: 破産
+  LABEL_PLAYER_BUILD_HOTEL_DESCRIPTION: |
+    ホテルを建設する都市を選択してください。
+  LABEL_PLAYER_BUILD_HOTEL_TITLE: 建設
+  LABEL_PLAYER_CANCEL_FESTIVAL_DESCRIPTION: |
+    キャンセルする祭りがあるマスを選択してください。
+  LABEL_PLAYER_CANCEL_FESTIVAL_TITLE: 祭りの終了
+  LABEL_PLAYER_CANCEL_PROTECTION_TITLE: 保護が削除されました
+  LABEL_PLAYER_DISABLE_CASE_DESCRIPTION: |
+    無効化するマスを選択してください。
+  LABEL_PLAYER_DISABLE_CASE_TITLE: マスを無効化
+  LABEL_PLAYER_DISCONNECTED: プレイヤーが切断されました
+  LABEL_PLAYER_DOWNGRADE_HOTEL_DESCRIPTION: |
+    ダウングレードするホテルを選択してください。
+  LABEL_PLAYER_DOWNGRADE_HOTEL_TITLE: ホテルをダウングレード
+  LABEL_PLAYER_END_OF_TURN: ターン終了
+  LABEL_PLAYER_FREE_PROPERTY_DESCRIPTION: |
+    市場に戻したい物件を選択してください。
+  LABEL_PLAYER_FREE_PROPERTY_TITLE: 物件を解放
+  LABEL_PLAYER_FREE_WONDER_DESCRIPTION: |
+    市場に戻したいワンダーを選択してください。
+  LABEL_PLAYER_FREE_WONDER_TITLE: ワンダーを解放
+  LABEL_PLAYER_ICEPACKED: 氷山に閉じ込められています
+  LABEL_PLAYER_ICEPACKED_LUXURY_CRUISE: 豪華クルーズ！
+  LABEL_PLAYER_LOST: 敗北
+  LABEL_PLAYER_MONOPOLY: モノポリー
+  LABEL_PLAYER_MOVE_TO_CASE_DESCRIPTION: |
+    移動したいマスを選択してください。
+  LABEL_PLAYER_MOVE_TO_CASE_TITLE: 移動
+  LABEL_PLAYER_MOVING_TOKEN: 駒を動かす
+  LABEL_PLAYER_NAME: プレイヤー名
+  LABEL_PLAYER_PLAYING_CARD: カードをプレイ
+  LABEL_PLAYER_PLAYING_CASE: マスをプレイ
+  LABEL_PLAYER_PROTECT_CASE_DESCRIPTION: |
+    保護する物件を選択してください。
+  LABEL_PLAYER_PROTECT_CASE_TITLE: 保護
+  LABEL_PLAYER_ROLL_WHEEL: ルーレットを回す
+  LABEL_PLAYER_SELL_PROPERTY: 物件を売却
+  LABEL_PLAYER_SET_FESTIVAL_DESCRIPTION: |
+    祭りを開催する場所を選択してください。
+  LABEL_PLAYER_SET_FESTIVAL_TITLE: 祭り
+  LABEL_PLAYER_SET_WORLD_CUP_DESCRIPTION: |
+    次のワールドカップの場所を選択してください。
+  LABEL_PLAYER_SET_WORLD_CUP_TITLE: ワールドカップ
+  LABEL_PLAYER_STEAL_PROPERTY_DESCRIPTION: |
+    盗みたい物件を選択してください。
+  LABEL_PLAYER_STEAL_PROPERTY_TITLE: 物件の盗難
+  LABEL_PLAYER_THROWING_DICE: サイコロを振る
+  LABEL_PLAYER_TYPE: タイプ
+  LABEL_PLAYER_UPGRADE_HOTEL_DESCRIPTION: |
+    アップグレードしたいホテルを選択してください。
+  LABEL_PLAYER_UPGRADE_HOTEL_TITLE: ホテルをアップグレード
+  LABEL_PLAYER_WAITING: 待機中
+  LABEL_PLAYER_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {name}が{ps}最後の生き残りプレイヤー{pe}です！
+  LABEL_PLAYER_WON_DESCRIPTION_MONOPOLY: |
+    {name}が{ws}{rs}モノポリー{re}{we}を達成しました！
+  LABEL_PLAYER_WON_TITLE: "{name}がゲームに勝ちました！"
+  LABEL_PRESS_ANY_BUTTON: 押して続ける
+  LABEL_PROGRESS_NEXT_VOTE: 次の投票
+  LABEL_PROPERTY_RENT: 賃料
+  LABEL_RANDOM: ランダム
+  LABEL_REAL_ESTATE_ASSET_VALUE: 不動産価値
+  LABEL_REMAINING_TURN: 残りターン
+  LABEL_REMOTE_PLAYER: リモートプレイヤー
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_BANK: |
+    {name}は{ps}銀行{pe}に支払えず、{name}は{ps}破産{pe}しました！
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_GIVE_UP: |
+    {name}がゲームを{ps}降参{pe}しました！
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_HELICOPTER: |
+    信じられない追跡の後、{ps}ヘリコプター{pe}がついに{name}を捕まえました！
+  LABEL_REMOTE_PLAYER_LOST_DESCRIPTION_KILLED: |
+    {name}は{killer_name}に支払えず、{name}は{ps}破産{pe}しました！
+  LABEL_REMOTE_PLAYER_LOST_TITLE: "{name}が敗北しました！"
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_DESCRIPTION: |
+    環境活動家が空港を占拠し、チケット費用が10倍になりました。
+  LABEL_RULESET_AIRPORT_CARBON_TAXES_TITLE: 気候大災害
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_DESCRIPTION: |
+    全員に無料GPS！ゾロ目を好きなだけ出せます！
+  LABEL_RULESET_AS_MANY_DOUBLE_DICES_TITLE: 賭けを置く
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_DESCRIPTION: |
+    免除により、最初のラップから5つ星ホテルを建設できます。
+  LABEL_RULESET_BUILD_HOTEL_FIRST_LAP_TITLE: 速い進行
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_DESCRIPTION: |
+    他のプレイヤーの5つ星ホテルを買い戻すことが可能になりました。
+  LABEL_RULESET_BUY_BACK_FIVE_STAR_HOTEL_TITLE: すべてを変える
+  LABEL_RULESET_BUY_BACK_WONDERS_DESCRIPTION: |
+    他のプレイヤーのワンダーを買い戻すことが可能になりました。
+  LABEL_RULESET_BUY_BACK_WONDERS_TITLE: すべてを変える
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_DESCRIPTION: |
+    新しい不動産保護法が可決されました。他のプレイヤーからホテルを買い戻すことは不可能になりました。
+  LABEL_RULESET_CANNOT_BUY_BACK_HOTEL_TITLE: 不可侵の物件
+  LABEL_RULESET_CARAVAN_AS_HOTEL_DESCRIPTION: |
+    RV生活がトレンドになり、キャラバンの賃料が5つ星ホテルの賃料と同じくらいになりました。
+  LABEL_RULESET_CARAVAN_AS_HOTEL_TITLE: ボヘミアンライフ
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_DESCRIPTION: |
+    賭け金が倍増し、他のプレイヤーを排除するための報奨金が2倍の価値になりました。
+  LABEL_RULESET_DOUBLE_BOUNTY_REWARD_TITLE: ダブルノックアウトボーナス
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_DESCRIPTION: |
+    生活費が高くなり、地主の法外なライフスタイルを維持するために、すべてのホテルが賃料を2倍にしました。
+  LABEL_RULESET_DOUBLE_HOTEL_RENT_TITLE: 不公平な社会的扱い
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_DESCRIPTION: |
+    プレイヤーの給料が2倍になります。
+  LABEL_RULESET_DOUBLE_PLAYER_SALARY_TITLE: 勤勉には良い報酬を！
+  LABEL_RULESET_FESTIVAL_DOUBLED_DESCRIPTION: |
+    祭りが大きくなり、祭りのボーナスが2倍になります
+  LABEL_RULESET_FESTIVAL_DOUBLED_TITLE: パーティータイム
+  LABEL_RULESET_FESTIVAL_ORGANIZED_DESCRIPTION: |
+    ランダムな都市で新しい祭りが開催されます。
+  LABEL_RULESET_FESTIVAL_ORGANIZED_TITLE: パーティータイム！
+  LABEL_RULESET_FREE_3_STARS_HOTEL_DESCRIPTION: |
+    風変わりな億万長者が今日は特に寛大で、各プレイヤーに無料の3つ星ホテルを1つ贈与します。
+  LABEL_RULESET_FREE_3_STARS_HOTEL_TITLE: ホテル宝くじボナンザ
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_DESCRIPTION: |
+    労働不安が発生し、すべての5つ星ホテルが市場に戻されます。
+  LABEL_RULESET_FREE_ALL_FIVE_STAR_HOTEL_TITLE: ああ、いや！
+  LABEL_RULESET_FREE_MONEY_DESCRIPTION: |
+    政府が区別なく人道支援を提供します。すべてのプレイヤーが10万ドルを受け取ります
+  LABEL_RULESET_FREE_MONEY_TITLE: 世界的パンデミック
+  LABEL_RULESET_FREE_MONOPOLIES_DESCRIPTION: |
+    独占禁止法が直ちに発効します。すべてのモノポリーが解体され、市場に戻されます。
+  LABEL_RULESET_FREE_MONOPOLIES_TITLE: 市場暴落
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_DESCRIPTION: |
+    ヘリコプターは同時に複数のプレイヤーを追跡できます
+  LABEL_RULESET_HELICOPTER_CHASE_UNLIMITED_TITLE: 止められない
+  LABEL_RULESET_HELICOPTER_CHASING_DESCRIPTION: |
+    犯罪を削減するために設計された新しい刑事司法システムが導入されました！これからヘリコプターは常に最も貧しいプレイヤーを追跡します。
+  LABEL_RULESET_HELICOPTER_CHASING_TITLE: 富裕者の法律
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_DESCRIPTION: |
+    ヘリコプターは100万ドル以上を持つプレイヤーを追跡するようになりました。富の再分配の時間です。
+  LABEL_RULESET_HELICOPTER_HUNT_RICHEST_TITLE: 富裕層を食べる
+  LABEL_RULESET_HOTEL_DOWNGRADE_DESCRIPTION: |
+    犯罪活動が増加し、ホテルの水準が低下します。すべてのホテルが1つ星を失います（最低キャラバン）。
+  LABEL_RULESET_HOTEL_DOWNGRADE_TITLE: おっと！
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_DESCRIPTION: |
+    政府が観光に多額の投資を行い、すべてのホテルがボーナスの星を獲得します（最大5つ星）
+  LABEL_RULESET_HOTEL_FREE_UPGRADE_TITLE: 都市計画法
+  LABEL_RULESET_HOTEL_WORTHLESS_DESCRIPTION: |
+    建設基準が変わり、ホテルは転売時に価値がありません。土地のみが価値を保持します。
+  LABEL_RULESET_HOTEL_WORTHLESS_TITLE: 新しい基準
+  LABEL_RULESET_ICEPACK_MELT_DESCRIPTION: |
+    氷山が溶け、投資家は莫大な可能性を見出しました。豪華クルーズが氷山に取って代わり、それは腕と脚を犠牲にします。
+  LABEL_RULESET_ICEPACK_MELT_TITLE: 50年の無策
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_DESCRIPTION: |
+    経済的混乱が市場を襲い、ラップごとの賃料上昇が2倍になりました。
+  LABEL_RULESET_LAP_RENT_INCREASE_DOUBLED_TITLE: インフレの悪夢
+  LABEL_RULESET_LAST_MAN_STANDING_DESCRIPTION: |
+    勝利のルールが変更され、モノポリーで勝つことはできなくなり、最後に立っているプレイヤーのみが勝てます。
+  LABEL_RULESET_LAST_MAN_STANDING_TITLE: バトルロワイヤルモード
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_DESCRIPTION: |
+    モノポリーが非常に強力になり、すべてのモノポリー賃料が2倍になりました。
+  LABEL_RULESET_MONOPOLE_INCREASE_RENT_TITLE: 冷酷な資本主義
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_DESCRIPTION: |
+    次のターン、サイコロを振る代わりに1マス後退します。
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_BACKWARD_TITLE: 後退
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_DESCRIPTION: |
+    次のターン、サイコロを振る代わりに1マス前進します。
+  LABEL_RULESET_PLAYER_MOVE_BY_ONE_FORWARD_TITLE: 前進
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_DESCRIPTION: |
+    警察が反乱し、すべての保護されたマスがゲームに戻ります
+  LABEL_RULESET_PROTECTED_PROPERTIES_FREED_TITLE: やれやれ！
+  LABEL_RULESET_TAXES_DOUBLED_DESCRIPTION: |
+    新しい法案が可決され、政府の給与が不十分でした。これらの新しい措置に資金を提供するために、すべての税金が2倍になりました。
+  LABEL_RULESET_TAXES_DOUBLED_TITLE: 全会一致で可決
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_DESCRIPTION: |
+    運命の輪に破産スペースが追加されます。着地すると即座に排除されます。
+  LABEL_RULESET_WHEEL_OF_FORTUNE_BANKRUPT_TITLE: 不運の輪
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_DESCRIPTION: |
+    運命の輪に勝利スペースが追加されます。着地すると即座に勝利します。
+  LABEL_RULESET_WHEEL_OF_FORTUNE_VICTORY_TITLE: 回して勝つ
+  LABEL_RULESET_WONDERS_FREED_DESCRIPTION: |
+    活動家がロビイストの計画を阻止することに成功し、布告が投票され、ボード上のすべてのワンダーがゲームに戻ります。
+  LABEL_RULESET_WONDERS_FREED_TITLE: 長続きしない
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_DESCRIPTION: |
+    すべてのワンダーの賃料が10倍になります。
+  LABEL_RULESET_WONDERS_GAIN_TEN_TIMES_TITLE: 安くはない
+  LABEL_RULESET_WORLDCUP_DOUBLE_DESCRIPTION: |
+    ワールドカップスタジアムを建設するために安価な奴隷を見つけました。スタジアムはさらに大きくなり、ワールドカップボーナスが2倍になります。
+  LABEL_RULESET_WORLDCUP_DOUBLE_TITLE: 忘れられない！
+  LABEL_SCOOTER_NAME: ブルーミー
+  LABEL_SELECT_CITY_TO_SELL_MONEY_DESCRIPTION: |
+    支払うのに十分なお金がありません、1つ以上の物件を売却する必要があります
+  LABEL_SELECT_CITY_TO_SELL_MONEY_NEEDED: 必要な金額
+  LABEL_SELECT_CITY_TO_SELL_MONEY_REMAINING: 残金
+  LABEL_SELECT_CITY_TO_SELL_TITLE: 売却する物件を選択
+  LABEL_SHOE_NAME: パタション
+  LABEL_SIMPLE_SHADOW: シンプル
+  LABEL_STEAM_BUSY: Steamがビジーです、後でもう一度お試しください
+  LABEL_STEAM_QUERYING: Steamにクエリ中
+  LABEL_STEAM_READY: キーを押してください
+  LABEL_STEAM_WAITING: Steamに接続中...
+  LABEL_SUITCASE_NAME: バギー
+  LABEL_TAXES_FORFAIT_DESCRIPTION: |
+    [b]定額料金[/b]をカバーする必要があります。
+    [b]料金は支払いごとに+{raw_costs}上昇します[/b]。
+  LABEL_TAXES_FORFAIT_TITLE: 固定税
+  LABEL_TAXES_PROPORTIONAL_TITLE: 比例税
+  LABEL_TEAM: チーム
+  LABEL_TEAM_NUMBER: チーム
+  LABEL_TEAM_WON_DESCRIPTION_LAST_MAN_STANDING: |
+    {team}が{ps}最後に立っているチーム{pe}です！
+  LABEL_TEAM_WON_DESCRIPTION_MONOPOLY: |
+    {team}が{ws}{rs}モノポリー{re}{we}を達成しました！
+  LABEL_TEAM_WON_TITLE: "{team}がゲームに勝ちました！"
+  LABEL_TOO_EXPENSIVE: それを購入するのに十分なお金がありません。
+  LABEL_TOPHAT_NAME: ダンディ
+  LABEL_TURN: ターン
+  LABEL_TURN_BEFORE_ELIMINATION: "排除まで%sターン"
+  LABEL_TUTORIEL_DICE: >
+    マウスを動かしながらクリックしてホールドしてサイコロを振ります。
+    離して投げます。
+  LABEL_TUTORIEL_DICE_GAMEPAD: >
+    [img width=64]%s[/img]を押してホールドし、[img
+    width=64]%s[/img]を動かしてサイコロを振ります。離して投げます。
+  LABEL_TUTORIEL_MAIN_MENU: >
+    ボタンを使用して、対戦したい対戦相手のタイプを選択します。人間、コンピューター、またはクローズドスロットから選択します。
+  LABEL_TUTORIEL_RULESET: >
+    ルールに投票します。全員が投票すると、最も多くの票を獲得したルールが適用されます。同点の場合、ルールがランダムに選択されます。
+  LABEL_TUTORIEL_WHEEL: >
+    クリックしてホールドして輪を動かします。
+    離して起動します。
+  LABEL_TUTORIEL_WHEEL_GAMEPAD: >
+    [img width=64]%s[/img]を押してホールドし、
+    [imgwidth=64]%s[/img]を動かして輪を投げます。
+    離して起動します。
+  LABEL_WANTED_DESCRIPTION: 生死を問わず
+  LABEL_WANTED_TITLE: 指名手配
+  LABEL_WINDOW_FULLSCREEN: フルスクリーン
+  LABEL_WINDOW_WINDOWED: ウィンドウ表示
+  LABEL_WONDER_BRANDBURG_GATE: ブランデンブルク門
+  LABEL_WONDER_CHRIST_THE_REDEEMER: コルコバードのキリスト像
+  LABEL_WONDER_COLISEE: コロッセオ
+  LABEL_WONDER_EMPIRE_STATE_BUILDING: エンパイアステートビル
+  LABEL_WONDER_FORBIDDEN_CITY: 紫禁城
+  LABEL_WONDER_LIGHTHOUSE: ファロス灯台
+  LABEL_WONDER_PYRAMIDS: ピラミッド
+  LABEL_WONDER_TAJ_MAHAL: タージマハル
+  LABEL_WORLDCUP_POSITION_DESCRIPTION: |
+    ワールドカップの場所を選択する権利を獲得しました！
+
+    ワールドカップが別の場所で開催される場合、選択した場所に自動的に移動されます。
+
+    ワールドカップは自分の物件にのみ配置できます。
+
+    物件がない場合は、ワールドカップをキャンセルする必要があります。
+  LABEL_WORLDCUP_TITLE: ワールドカップ
+  LOBBY_CREATED: ロビー作成済み
+  LOBBY_JOINED: ロビー参加済み
+  LOBBY_LOCKED: ロビーロック済み
+  LOBBY_LOOKING_FOR_LOBBY: ロビーを探し中
+  LOBBY_MERGING: ロビー統合中
+  LOBBY_READY: ロビー準備完了
+  LOBBY_READY_CREATING_ROOM: サーバー作成中
+  LOBBY_READY_JOINING_ROOM: サーバー参加中
+  LOBBY_READY_ROOM_CREATED: サーバー作成済み
+  LOBBY_READY_ROOM_JOINED: サーバー参加済み
+  LOBBY_READY_WAITING_ROOM: サーバー作成待ち
+  LOBBY_WAITING_FOR_PLAYER: プレイヤー待ち
+  LOCAL_OPTION_ANTI_ALIASING: アンチエイリアシング
+  LOCAL_OPTION_SHADOW: 影
+  LOCKING_LOBBY: ロビーをロック中
+  NO_LOBBY: ロビーなし
+  ROOM_READY: サーバー準備完了
+  ROOM_WAITING_FOR_CONFIGURATION: サーバー設定待ち
+  TOOLTIP_BUY_BACK_GRAND_HOTEL: |
+    5つ星ホテルを買い戻すことはできません
+  TOOLTIP_BUY_BACK_NOT_ENOUGH_CURRENCY: |
+    買い戻すのに十分なお金がありません
+  TOOLTIP_BUY_BACK_SMALL_HOTEL: |
+    ホテルの買い戻しを防ぐルールが投票されました。
+  TOOLTIP_BUY_BACK_WONDER: |
+    ワンダーを買い戻すことはできません
+  TOOLTIP_CARD_DOUBLE_RENT: |
+    次の賃料が2倍になります
+  TOOLTIP_CARD_FREE_RENT: |
+    選択した家賃が無料
+  TOOLTIP_CARD_ICEPACK: |
+    支払わずに氷を離れるためのカードとGPS
+  TOOLTIP_CARD_NO_RENT: |
+    銀行があなたの代わりに次の賃料を回収します。
+  TOOLTIP_CARD_TAX_FORFAIT_MODE: |
+    定額税モード。
+    常に同じ金額を支払います
+  TOOLTIP_CARD_TAX_PROPORTIONAL_MODE: |
+    比例税モード。
+    物件が多いほど、支払う金額が多くなります
+  TOOLTIP_CLOSED_SLOT: クローズドスロット（プレイヤーなし）
+  TOOLTIP_COMPUTER_SLOT: クローズドスロット（コンピュータープレイヤー）
+  TOOLTIP_DIFFICULTY_EASY: |
+    簡単なAI難易度
+  TOOLTIP_DIFFICULTY_HARD: |
+    難しいAI難易度
+  TOOLTIP_FESTIVAL_DESCRIPTION: |
+    賃料を2倍にする
+  TOOLTIP_FIRST_LAP_CANT_BUILD_HOTEL: |
+    最初のラップでは4つ星または5つ星ホテルを建設できません
+  TOOLTIP_HELICOPTER_DESCRIPTION: |
+    %sラウンド後、ヘリコプターは%s未満の最も貧しいプレイヤーのみを排除します。
+    カウンターは排除後のみリセットされます。
+  TOOLTIP_HELICOPTER_EAT_THE_RICH_DESCRIPTION: |
+    %sラウンド後、ヘリコプターは%s以上の最も裕福なプレイヤーのみを排除します。
+    カウンターは排除後のみリセットされます。
+  TOOLTIP_HUMAN_SLOT: 利用可能なスロット（人間プレイヤー）
+  TOOLTIP_INVALID_LOBBY: |
+    1人のプレイヤーだけでゲームを開始することは不可能です。
+    また、コンピューター（非人間）プレイヤーがゲームにいる場合、
+    ゲームを開始するには、利用可能な各スロットが
+    既に人間プレイヤーによって占有されている必要があります。
+  TOOLTIP_INVALID_LOBBY_COMPUTER_PLAYER: |
+    コンピュータープレイヤーが存在する場合、
+    オンライン対戦相手検索は無効になります。
+  TOOLTIP_INVALID_LOBBY_NOT_ENOUGH_PLAYER: |
+    ゲームを開始するには少なくとも2人のプレイヤーが必要です。
+  TOOLTIP_INVALID_LOBBY_UNBALANCED_TEAM: |
+    チームがバランスしていません！
+  TOOLTIP_KIKIMETER_MOST_AIRPLANE: |
+    最も多くのフライトを利用したプレイヤー
+  TOOLTIP_KIKIMETER_MOST_DOUBLE: |
+    最も多くのゾロ目を出したプレイヤー
+  TOOLTIP_KIKIMETER_MOST_ICEPACK: |
+    氷山で最も長い時間を過ごしたプレイヤー
+  TOOLTIP_KIKIMETER_MOST_KILLER: |
+    最も多くの対戦相手を排除したプレイヤー
+  TOOLTIP_KIKIMETER_MOST_LAP: |
+    最も多くのラップを完了したプレイヤー
+  TOOLTIP_KIKIMETER_MOST_RENT: |
+    最も多くのお金を使ったプレイヤー
+  TOOLTIP_MONOPOLE_DESCRIPTION: |
+    賃料を2倍にする
+  TOOLTIP_NETWORK_INITIALIZING: |
+    プレイヤーがゲームに参加するのに問題があるようです。
+
+    [b]Fortune Avenueはできるだけ早くゲームを開始します。[/b]
+
+    コンピューターの性能によっては、数分かかる場合があります。
+
+    お待ちください。
+  TOOLTIP_NETWORK_OUT_OF_SYNC: |
+    ご不便をおかけして申し訳ございません。ネットワーク同期の問題が発生しました。
+
+    [b]Fortune Avenueは今再同期を試みています。[/b]
+
+    1〜2分かかるはずです。
+
+    その間、インターネットに接続されていることを確認してください。
+  TOOLTIP_PROTECTED_DESCRIPTION: |
+    買い戻しや悪意の対象にはなりません
+  TOOLTIP_RENT_INCREASE_DESCRIPTION: |
+    あなたの物件の賃料がラップごとに+%s
+  TOOLTIP_SEARCH_FOR_OPPONENT: |
+    プレイヤーの検索には時間がかかることがあります。
+
+    すぐにゲームを開始したい場合は、
+    コンピューター制御のプレイヤーを追加してロビーを埋めることを検討してください。
+
+    すぐにアクションに飛び込む素晴らしい方法です。
+  TOOLTIP_STEAM_VAC_BANNED: |
+    Steam VACで禁止されています。
+    ランダムプレイヤーとプレイすることはできません。
+  TOOLTIP_TOGGLE_VISIBILITY: |
+    パネルを非表示/表示
+  TOOLTIP_WORLDCUP_DESCRIPTION: |
+    賃料を%s倍にする
+  TOOL_NEED_STEAM_OVERLAY: |
+    この機能を使用するにはSteamオーバーレイが必要です
+
+  LABEL_ACTION_HISTORY_BANK: 銀行
+  LABEL_ACTION_HISTORY_CARAVAN: キャラバン
+  LABEL_ACTION_HISTORY_WONDER: ワンダー
+  LABEL_ACTION_HISTORY_PAY_RENT: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]の賃料として[b]{owner_name}[/b]に[b]{amount}$[/b]を支払いました。
+  LABEL_ACTION_HISTORY_BUY_BUILDING_FROM_THE_BANK: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]に[b]{building}[/b]を配置するために[b]{amount}$[/b]を支払いました。
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_THE_BANK: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を購入するために[b]{amount}$[/b]を支払いました。
+  LABEL_ACTION_HISTORY_BUY_PROPERTY_FROM_PLAYER: >
+    [b]{player_name}[/b]が[b]{owner_name}[/b]から[b]{case_name}[/b]を[b]{amount}$[/b]で購入しました。
+  LABEL_ACTION_HISTORY_TAXE: >
+    [b]{player_name}[/b]が[b]{amount}$[/b]の税金を支払いました。
+  LABEL_ACTION_HISTORY_AIRPORT: >
+    [b]{player_name}[/b]が[b]{amount}$[/b]で飛行機チケットを購入しました。
+  LABEL_ACTION_HISTORY_SPECIAL_RECEIVE: >
+    [b]{player_name}[/b]が銀行から[b]{amount}$[/b]を受け取りました。
+  LABEL_ACTION_HISTORY_SPECIAL_PAY: >
+    [b]{player_name}[/b]が銀行に[b]{amount}$[/b]を支払いました。
+  LABEL_ACTION_PLAYER_PLAY_CARD: >
+    [b]{player_name}[/b]がカード[b]{card_name}[/b]をプレイしました。
+  LABEL_ACTION_HISTORY_TURN_STARTED: >
+    [b]{player_name}[/b]がターンを開始しました。
+  LABEL_ACTION_HISTORY_TURN_ENDED: >
+    [b]{player_name}[/b]がターンを終了しました。
+  LABEL_ACTION_HISTORY_TAX_MOD_CHANGED: >
+    [b]{player_name}[/b]が課税を[b]{tax_mod}[/b]に変更しました。
+  LABEL_ACTION_HISTORY_HELICOPTER_CHASE: >
+    [b]ヘリコプター[/b]が[b]{player_name}[/b]を追跡し始めました。
+  LABEL_ACTION_HISTORY_HELICOPTER_KILL: >
+    [b]ヘリコプター[/b]が[b]{player_name}[/b]を排除しました。
+  LABEL_ACTION_HISTORY_PLAYER_BANKRUPT: >
+    [b]{player_name}[/b]が破産しました。
+  LABEL_ACTION_HISTORY_VOTE_STARTED: >
+    投票が開始されました。
+  LABEL_ACTION_HISTORY_VOTE_ENDED: >
+    新しいルールが採択されました: [b]{rule_name}[/b]。
+  LABEL_ACTION_HISTORY_PLAYER_ICEPACKED: >
+    [b]{player_name}[/b]が氷山で迷子になっています。
+  LABEL_ACTION_HISTORY_PLAYER_AIRPLANE: >
+    [b]{player_name}[/b]が飛行機に乗ります。
+  LABEL_ACTION_HISTORY_PLAYER_NORMAL: >
+    [b]{player_name}[/b]が通常のゲームを再開します。
+  LABEL_ACTION_HISTORY_WORLDCUP_ORGANIZE: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]でワールドカップを開催します。
+  LABEL_ACTION_HISTORY_WORLDCUP_CANCEL: >
+    [b]{player_name}[/b]がワールドカップをキャンセルします。
+  LABEL_ACTION_HISTORY_PROTECT_CASE: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を保護します。
+  LABEL_ACTION_HISTORY_DESTROY_CASE: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を破壊します。
+  LABEL_ACTION_HISTORY_CANCEL_CASE: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]の賃料をキャンセルします。
+  LABEL_ACTION_HISTORY_REENABLE_CASE: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]の賃料を再度有効にします。
+  LABEL_ACTION_HISTORY_ORGANIZE_FESTIVAL: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]で祭りを開催します。
+  LABEL_ACTION_HISTORY_CANCEL_FESTIVAL: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]の祭りをキャンセルします。
+  LABEL_ACTION_HISTORY_GAME_OVER: >
+    ゲームが終了しました。
+  LABEL_ACTION_HISTORY_UPGRADE_HOTEL: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]のホテルをアップグレードしました。
+  LABEL_ACTION_HISTORY_DOWNGRADE_HOTEL: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]のホテルをダウングレードしました。
+  LABEL_ACTION_HISTORY_STEAL_PROPERTY: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を取得しました。
+  LABEL_ACTION_HISTORY_SELL_PROPERTY: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を売却しました。
+  LABEL_ACTION_HISTORY_BUILD_PROPERTY: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]に建設しました。
+  LABEL_ACTION_HISTORY_FREE_PROPERTY: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]を解放しました。
+  LABEL_ACTION_HISTORY_CANCEL_PROTECTION: >
+    [b]{player_name}[/b]が[b]{case_name}[/b]の保護を解除しました。
+  LABEL_ACTION_HISTORY_SELL_PROPERTIES_AMOUNT: >
+    [b]{player_name}[/b]が物件を売却して[b]{amount}$[/b]を獲得しました。
+  LABEL_SURROUNDING_CLASSIC: クラシック
+  LABEL_SURROUNDING_AUTOMN: 秋
+  LABEL_SURROUNDING_SUMMER: 夏
+  LABEL_SURROUNDING_WINTER: 冬
+  LABEL_SURROUNDING_EASTER: イースター
+  LABEL_SURROUNDING_HALLOWEEN: ハロウィン
+  LABEL_SURROUNDING_VALENTINE: バレンタイン
+  LABEL_BOARD_SURROUNDING: ボードテーマ
+  LABEL_CUSTOM_RULESET_TITLE: カスタムルール
+  LABEL_CUSTOM_RULESET_ECONOMY: 経済
+  LABEL_CUSTOM_RULESET_STARTING_CURRENCY: 開始資金
+  LABEL_CUSTOM_RULESET_SALARY_PER_LAP: ラップごとの給料
+  LABEL_CUSTOM_RULESET_INFLATION_PER_LAP: ラップごとのインフレ
+  LABEL_CUSTOM_RULESET_BOUNTY_KILLER: 排除報奨金
+  LABEL_CUSTOM_RULESET_GAME_RULES: ゲームルール
+  LABEL_CUSTOM_RULESET_DOUBLE_BEFORE_ICEFLOE: 氷山前のゾロ目
+  LABEL_CUSTOM_RULESET_MAX_TURN_IN_ICEFLOE: 氷山での最大ターン
+  LABEL_CUSTOM_RULESET_FIRST_LAP_HOTEL: 最初のラップでホテルを建設
+  LABEL_CUSTOM_RULESET_TRANSPORTATION: 交通
+  LABEL_CUSTOM_RULESET_AIRPLANE_TICKET: 飛行機チケット価格
+  LABEL_CUSTOM_RULESET_LUXURY_CRUISE_COST: 豪華クルーズ価格
+  LABEL_CUSTOM_RULESET_PROPERTY_BUYBACK: 物件の買い戻し
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_HOTEL: ホテルを買い戻す
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: ワンダーを買い戻す
+  LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: 5つ星ホテルを買い戻す
+  LABEL_PAUSE_GAME: ゲームを一時停止
+  LABEL_CASE_ABIDJAN: アビジャン
+  LABEL_CASE_LAGOS: ラゴス
+  LABEL_CASE_KARACHI: カラチ
+  LABEL_CASE_ISTANBUL: イスタンブール
+  LABEL_CASE_LIMA: リマ
+  LABEL_CASE_CHICAGO: シカゴ
+  LABEL_CASE_VIENNE: ウィーン
+  LABEL_CASE_WARSAW: ワルシャワ
+  BUTTON_SMALL_BOARD: 小さいボード
+  BUTTON_BIG_BOARD: 大きいボード

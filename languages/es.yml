@@ -196,7 +196,7 @@ es:
     Logras cancelar el próximo Mundial.
   LABEL_CARD_RANDOM_10_TITLE: Comité Mundial de la Diversión
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Un buen samaritano ha decidido regalarte unas vacaciones. No pagas el próximo alquiler.
+    Un buen samaritano ha decidido ofrecerte unas vacaciones. Puedes usar esta carta para no pagar un alquiler de tu elección.
   LABEL_CARD_RANDOM_11_TITLE: Buen samaritano
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Uno de tus inquilinos te abandona, el banco cobrará el próximo alquiler en tu lugar.
@@ -818,7 +818,7 @@ es:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Tu próximo alquiler se duplica
   TOOLTIP_CARD_FREE_RENT: |
-    Tu próximo alquiler es gratis
+    Un alquiler de tu elección es gratis
   TOOLTIP_CARD_ICEPACK: |
     Una carta y un GPS para salir del hielo sin pagar
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ es:
   LABEL_SURROUNDING_SUMMER: Verano
   LABEL_SURROUNDING_WINTER: Invierno
   LABEL_SURROUNDING_EASTER: Pascua
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: San Valentín
   LABEL_BOARD_SURROUNDING: Tema del tablero
   LABEL_CUSTOM_RULESET_TITLE: Reglas personalizadas
   LABEL_CUSTOM_RULESET_ECONOMY: Economía
@@ -1010,3 +1012,13 @@ es:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Recomprar maravillas
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Recomprar hoteles 5 estrellas
   LABEL_PAUSE_GAME: Pausar Juego
+  LABEL_CASE_ABIDJAN: Abiyán
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karachi
+  LABEL_CASE_ISTANBUL: Estambul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Viena
+  LABEL_CASE_WARSAW: Varsovia
+  BUTTON_SMALL_BOARD: Tablero pequeño
+  BUTTON_BIG_BOARD: Tablero grande

@@ -196,7 +196,7 @@ sv:
     Du lyckas avbryta nästa VM, det går tillbaka till sitt ursprungliga läge.
   LABEL_CARD_RANDOM_10_TITLE: Världsrolighetsnämnden
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    En god samarit har bestämt sig för att ge dig en semester. Du behöver inte betala nästa hyra.
+    En god samarit har bestämt sig för att ge dig semester. Du kan använda detta kort för att slippa betala en hyra som du väljer.
   LABEL_CARD_RANDOM_11_TITLE: God Samarit
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     En av dina hyresgäster sviker dig, och banken samlar in nästa hyra istället.
@@ -814,7 +814,7 @@ sv:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Din nästa hyra är fördubblas
   TOOLTIP_CARD_FREE_RENT: |
-    Din nästa hyra är gratis
+    En hyra som du väljer är gratis
   TOOLTIP_CARD_ICEPACK: |
     Ett kort och en GPS för att lämna isflaken utan att betala
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ sv:
   LABEL_SURROUNDING_SUMMER: Sommar
   LABEL_SURROUNDING_WINTER: Vinter
   LABEL_SURROUNDING_EASTER: Påsk
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Alla hjärtans dag
   LABEL_BOARD_SURROUNDING: Brädtema
   LABEL_CUSTOM_RULESET_TITLE: Anpassade Regler
   LABEL_CUSTOM_RULESET_ECONOMY: Ekonomi
@@ -1010,3 +1012,13 @@ sv:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Köp tillbaka underverk
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Köp tillbaka 5-stjärniga hotell
   LABEL_PAUSE_GAME: Pausa Spelet
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karachi
+  LABEL_CASE_ISTANBUL: Istanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Wien
+  LABEL_CASE_WARSAW: Warszawa
+  BUTTON_SMALL_BOARD: Liten spelplan
+  BUTTON_BIG_BOARD: Stor spelplan

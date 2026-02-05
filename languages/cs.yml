@@ -196,7 +196,7 @@ cs:
     Podaří se vám zrušit příští mistrovství světa, vrací se na základní pole.
   LABEL_CARD_RANDOM_10_TITLE: Světový výbor pro zábavu
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Dobrý samaritán se rozhodl darovat vám dovolenou. Nemusíte platit příští nájem.
+    Dobrý samaritán se rozhodl vám darovat dovolenou. Tuto kartu můžete použít k přeskočení platby nájemného dle vašeho výběru.
   LABEL_CARD_RANDOM_11_TITLE: Dobrý samaritán
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Jeden z vašich nájemníků vás podvedl a banka vybere příští nájem místo vás.
@@ -818,7 +818,7 @@ cs:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Vaše příští nájemné je zdvojnásobeno
   TOOLTIP_CARD_FREE_RENT: |
-    Vaše příští nájemné je zdarma
+    Nájemné dle vašeho výběru je zdarma
   TOOLTIP_CARD_ICEPACK: |
     Karta a GPS pro opuštění ledové kry bez placení
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ cs:
   LABEL_SURROUNDING_SUMMER: Léto
   LABEL_SURROUNDING_WINTER: Zima
   LABEL_SURROUNDING_EASTER: Velikonoce
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Valentýn
   LABEL_BOARD_SURROUNDING: Téma desky
   LABEL_CUSTOM_RULESET_TITLE: Vlastní pravidla
   LABEL_CUSTOM_RULESET_ECONOMY: Ekonomika
@@ -1010,3 +1012,13 @@ cs:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Zpětný odkup divů světa
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Zpětný odkup 5* hotelů
   LABEL_PAUSE_GAME: Pozastavit hru
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karáčí
+  LABEL_CASE_ISTANBUL: Istanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Vídeň
+  LABEL_CASE_WARSAW: Varšava
+  BUTTON_SMALL_BOARD: Malá deska
+  BUTTON_BIG_BOARD: Velká deska

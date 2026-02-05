@@ -8,6 +8,7 @@ const langMatch = {
   en: 'english',
   es: 'spanish',
   pl: 'polish',
+  ja: 'japanese',
   'pt-br': 'brazilian',
   fr: 'french',
   ru: 'russian',

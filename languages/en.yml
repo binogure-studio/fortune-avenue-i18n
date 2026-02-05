@@ -196,7 +196,7 @@ en:
     You manage to cancel the next World Cup, it goes back to its base case.
   LABEL_CARD_RANDOM_10_TITLE: World Fun Committee
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    A good samaritan has decided to give you a vacation. You don't have to pay the next rent.
+    A good samaritan has decided to give you a vacation. You can use this card to skip paying a rent of your choice.
   LABEL_CARD_RANDOM_11_TITLE: Good Samaritan
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     One of your tenants bails on you, and the bank collects the next rent instead.
@@ -818,7 +818,7 @@ en:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Your next rent is doubled
   TOOLTIP_CARD_FREE_RENT: |
-    Your next rent is free
+    A rent of your choice is free
   TOOLTIP_CARD_ICEPACK: |
     A card and a GPS to leave the ice without paying
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ en:
   LABEL_SURROUNDING_SUMMER: Summer
   LABEL_SURROUNDING_WINTER: Winter
   LABEL_SURROUNDING_EASTER: Easter
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Valentine's Day
   LABEL_BOARD_SURROUNDING: Board theme
   LABEL_CUSTOM_RULESET_TITLE: Custom Rules
   LABEL_CUSTOM_RULESET_ECONOMY: Economy
@@ -1010,3 +1012,13 @@ en:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Buy back wonders
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Buy back 5-star hotels
   LABEL_PAUSE_GAME: Pause Game
+  LABEL_CASE_ABIDJAN: Abidjan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karachi
+  LABEL_CASE_ISTANBUL: Istanbul
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Vienna
+  LABEL_CASE_WARSAW: Warsaw
+  BUTTON_SMALL_BOARD: Small board
+  BUTTON_BIG_BOARD: Big board

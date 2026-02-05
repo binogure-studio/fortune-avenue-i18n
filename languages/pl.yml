@@ -196,7 +196,7 @@ pl:
     Udaje ci się anulować następne Mistrzostwa Świata, wracają na pole bazowe.
   LABEL_CARD_RANDOM_10_TITLE: Światowy Komitet Zabawy
   LABEL_CARD_RANDOM_11_DESCRIPTION: |
-    Dobry samarytanin postanowił zafundować ci wakacje. Nie płacisz następnego czynszu.
+    Dobry samarytanin postanowił ofiarować ci wakacje. Możesz użyć tej karty, aby nie płacić czynszu według własnego wyboru.
   LABEL_CARD_RANDOM_11_TITLE: Dobry Samarytanin
   LABEL_CARD_RANDOM_12_DESCRIPTION: |
     Jeden z twoich najemców cię zawiódł, bank pobierze następny czynsz w twoim imieniu.
@@ -818,7 +818,7 @@ pl:
   TOOLTIP_CARD_DOUBLE_RENT: |
     Twój następny czynsz jest podwojony
   TOOLTIP_CARD_FREE_RENT: |
-    Twój następny czynsz jest darmowy
+    Czynsz według twojego wyboru jest darmowy
   TOOLTIP_CARD_ICEPACK: |
     Karta i GPS do opuszczenia kry bez płacenia
   TOOLTIP_CARD_NO_RENT: |
@@ -991,6 +991,8 @@ pl:
   LABEL_SURROUNDING_SUMMER: Lato
   LABEL_SURROUNDING_WINTER: Zima
   LABEL_SURROUNDING_EASTER: Wielkanoc
+  LABEL_SURROUNDING_HALLOWEEN: Halloween
+  LABEL_SURROUNDING_VALENTINE: Walentynki
   LABEL_BOARD_SURROUNDING: Motyw planszy
   LABEL_CUSTOM_RULESET_TITLE: Niestandardowe zasady
   LABEL_CUSTOM_RULESET_ECONOMY: Ekonomia
@@ -1010,3 +1012,13 @@ pl:
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_WONDER: Odkupować cuda świata
   LABEL_CUSTOM_RULESET_CAN_BUY_BACK_5_STARS_HOTEL: Odkupować hotele 5-gwiazdkowe
   LABEL_PAUSE_GAME: Pausar Juego
+  LABEL_CASE_ABIDJAN: Abidżan
+  LABEL_CASE_LAGOS: Lagos
+  LABEL_CASE_KARACHI: Karaczi
+  LABEL_CASE_ISTANBUL: Stambuł
+  LABEL_CASE_LIMA: Lima
+  LABEL_CASE_CHICAGO: Chicago
+  LABEL_CASE_VIENNE: Wiedeń
+  LABEL_CASE_WARSAW: Warszawa
+  BUTTON_SMALL_BOARD: Mała plansza
+  BUTTON_BIG_BOARD: Duża plansza
